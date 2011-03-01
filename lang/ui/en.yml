@@ -87,7 +87,7 @@ EMAIL_View_this_notification_on_your_dashboard: "View this notification on your 
 Add_language_ellipsis: Click here to add a CV in another language (the first will be duplicated)...
 a_href_http_www_belighted_com: <a href="http://www.belighted.com/">Belighted</a>, the development company behind iStockCV, is looking for Ruby on Rails developers to join its team.
 Why_my_account_doesn_t_get: "Why my account doesn\xE2\x80\x99t get all the features shown in \xE2\x80\x9CTake the tour\xE2\x80\x9D ?"
-Someone_requested_a_new_password_for: "Someone requested a new password for your account on iStockCV. Please visit this url if you want to change your password:"
+Someone_requested_a_new_password_for: "Someone requested a new password for your account on Fellownation. Please visit this url if you want to change your password:"
 tab_inbox_link: Inbox
 Keep_it_brief_objectives: Keep it brief at three of four lines maximum. Use it to demonstrate your career focus and/or current aims.
 Edit_this_offer_internship: Edit this internship
@@ -1578,6 +1578,7 @@ Signup_check_lastname_blank: "Last name cannot blank (minimum is 2 characters)."
 Signup_check_lastname: "Last name is too short (minimum is 2 characters)."
 Signup_check_network_blank: "Network name cannot blank."
 Signup_check_network_characters: "Network is too short (minimum is 2 characters)."
+Signup_check_city_characters: "City is too short (minimum is 2 characters)."
 Signup_check_network: "Wrong network. Please choose from the list or you could create your network."
 Signup_check_password_blank: "Password cannot blank."
 Signup_check_password_characters: "Password is too short (minimum is 4 characters)."
