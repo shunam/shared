@@ -475,7 +475,7 @@ This_candidate_has_cancelled_your_relationship: This candidate has cancelled you
 Current_status: Current status
 Thank_you_We_have_just_sent: |-
   Thank you. We have just sent you an email with a link. Please click the link to choose a new password for your account.<br/>
-  <strong><font color="#FF0000">If you can't find this e-mail, check your spam and junk mail folders!</font></strong><br/>{link}.
+  <strong><font color="#FF0000">If you can't find this e-mail, check your spam and junk mail folders!</font></strong>.
 Degree: "Title degree:"
 Yes_I_want_to_buy_credits_: Yes, I want to buy {credits} new credits *
 Bad_user_name_or_password: Bad user name or password
