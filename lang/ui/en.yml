@@ -378,7 +378,7 @@ Email_template_candidate_company_relationship_initiated_company: |-
 Invitation_title: |
   <p align="center">Sponsorship</p>
 
-close_this_using_the_discard_button: "Close this using the \xE2\x80\x9CDiscard\xE2\x80\x9D button."
+close_this_using_the_discard_button: "Close this using the \xE2\x80\x9CX\xE2\x80\x9D button."
 b_Questions_b_Any_questions_about: "<b>Questions.</b> Any questions about this Privacy Policy should be addressed to support at istockcv.com or by mail at: iStockCV, Rue du bosquet #7, Louvain-la-Neuve, B-1495 BELGIUM"
 You_rejected_the_invitation_from_company: You rejected the invitation from company {company_link}
 Modifications_to_the_Service_and_Prices: Modifications to the Service and Prices
