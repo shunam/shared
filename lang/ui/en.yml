@@ -67,7 +67,7 @@ Action_Relationship_Remove_Company_Short: Remove
 CANDIDATE_S_DASHBOARD: "CANDIDATE\xE2\x80\x99S DASHBOARD"
 Thanks_for_signing_up_Please_check: |-
   Congratulation! We have just sent you an email with a link. Click on the link in this e-mail to confirm your e-mail address and activate your account.<br/>
-  <strong><font color="#FF0000">If you can't find this e-mail, check your spam and junk mail folders!</font></strong><a href="http://www.istockcv.com/faq?locale=en#activation_mail"><br/>Didn't receive the e-mail?</a>.
+  <strong><font color="#FF0000">If you can't find this e-mail, check your spam and junk mail folders!</font></strong>
 You_accepted_the_request_for_event: You accepted the request for event {offer_link} by {candidate_link}
 It_is_probable_that_the_company: It is probable that the company has not subscribed to iStockCV yet. However, you can add the name of the company to your company list. You will then be notified when the company subscribes.
 Locality_postal_code: "Locality, postal code:"
