@@ -254,7 +254,7 @@ You_must_agree_to_the_Terms: You must agree to the Terms of Service
 img_alt_you_are_a_company!: You are a company!
 EMAIL_Find_offers_now: "Find offers now : "
 Companies_to_exclude: Companies to exclude
-Signup_check_network_blank: Choose a network from the list or click 'Add yours' to create a new network.
+Signup_check_network_blank: Choose a network from the list or click "Add yours" to create a new network.
 language_french: French
 _4000000_new_graduates_today: 4,000,000 new graduates today.
 need_some_help?: Need some help?
@@ -1466,7 +1466,7 @@ There_is_a_god_sake_obvious: "There is a god sake obvious explanation for that: 
 DASHBOARD_OFFER_THESIS_INITIATED_BY_COMPANY_company: You proposed thesis offer {offer_link} to {candidate_link}
 DASHBOARD_OFFER_INTERNSHIP_INITIATED_BY_CANDIDATE_candidate: You requested internship offer {offer_link} from {company_link}
 We_may_but_have_no_obligation: "We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party\xE2\x80\x99s intellectual property or these Terms of Service."
-Signup_check_network: Choose a network from the list or click 'Add yours' to create a new network.
+Signup_check_network: Choose a network from the list or click "Add yours" to create a new network.
 Refuse: Refuse
 OfferStudentJobDetails: Student job details
 Currently_we_accept_Visa_Mastercard_and: We accept <strong>Visa</strong>, <strong>Mastercard</strong>, and <strong>American Express</strong>. For POs, checks, or invoices to be paid at a later date, contact us by phone (+32.479.21.72.25), fax (+32.2.791.57.00) or email at (<a href="mailto:sales@istockcv.com">sales@istockcv.com</a>).
@@ -1604,3 +1604,20 @@ Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
 Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Send_the_following_offer_job: "Send the following job offer:"
 Call_form_at: At
+
+Step11_title: "Are you fellows already in Fellownation?"
+Step11_subtitle: "Searching your email account is the fastest way find which of your fellows are already using<br/> Fellownation. Follow any of the fellows you fnd to add their public messages to your timeline."
+Step13_title: "Invites contacts to Fellownation"
+Step2_title: "Fill out your profile information"
+Step2_subtitle: "This information will help ......................................"
+Step3_title: "Upload your picture profile"
+Step4_title: "Upload some files"
+About: "About"
+Terms: "Terms"
+Privacy: "Privacy"
+Contact_us: "Contact Us"
+Jobs: "Jobs"
+SideBar_account: "Account"
+SideBar_account_desc: "lorem ipsum lalablaba lbalbalablaba lbalablabalb"
+SideBar_tips: "Tips"
+SideBar_tips_desc: "lorem ipsum lalablabal balbalablab albalablabalb"
