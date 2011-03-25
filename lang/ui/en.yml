@@ -1628,3 +1628,15 @@ Send_the_following_offer_job: "Send the following job offer:"
 Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
 Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
+SideBar_password: "Account"
+SideBar_password_desc: "lorem ipsum lalablaba lbalbalablaba lbalablabalb"
+SideBar_password_tips: "Tips"
+SideBar_password_tips_desc: "lorem ipsum lalablabal balbalablab albalablabalb"
+SideBar_notice: "Account"
+SideBar_notice_desc: "lorem ipsum lalablaba lbalbalablaba lbalablabalb"
+SideBar_notice_tips: "Tips"
+SideBar_notice_tips_desc: "lorem ipsum lalablabal balbalablab albalablabalb"
+SideBar_profile: "Account"
+SideBar_profile_desc: "lorem ipsum lalablaba lbalbalablaba lbalablabalb"
+SideBar_profile_tips: "Tips"
+SideBar_profile_tips_desc: "lorem ipsum lalablabal balbalablab albalablabalb"
