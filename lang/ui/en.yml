@@ -1624,3 +1624,7 @@ Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
 Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Send_the_following_offer_job: "Send the following job offer:"
 Call_form_at: At
+Step3_subtitle: "This information will help ......................................"
+Step4_subtitle: "This information will help ......................................"
+Step14_title: pluralize{{count_invite}, contact, contacts} invited you to join Fellownation that you can follow.
+Step14_subtitle: "Select which contact to add as a fellow from the list bellow."
