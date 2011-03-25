@@ -606,6 +606,7 @@ DASHBOARD_OFFER_JOB_ACCEPTED_BY_CANDIDATE_candidate: You accepted job offer {off
 All_plans_are_free_for_this_beta_release: <strong><a href=http://www.istockcv.com/tour?locale=en#network>video conversation</a></strong>
 plan_basic_title: Basic
 Next_charge_colon: "Next charge:"
+Step14_title: pluralize{{count_invite}, contact, contacts} invited you to join Fellownation that you can follow.
 EMAIL_Congratulations_You_and_other_user_profile: Congratulations! You and {name} are now connected.
 New_offer_job: New job offer
 DASHBOARD_RELATIONSHIP_REJECTED_BY_COMPANY_company: You rejected the invitation from candidate {company_link}
@@ -620,6 +621,7 @@ Edit_offer_internship: Edit internship
 Plan_name: "Plan name:"
 Contact: "Contact:"
 DASHBOARD_RELATIONSHIP_REJECTED_BY_CANDIDATE_company: Candidate {candidate_link} rejected your invitation
+Step3_subtitle: This information will help You......................................
 Reply_to_: Reply to {message}
 Tag_my_CV: Tag my CV
 static_site_map_link: Site Map
@@ -785,6 +787,7 @@ Send_a_new_message: Send a new message
 Target_company: Target company
 search_for_the_best_graduates_from: search for the best graduates from any college. (I.e. universities, institution for higher education.) Perform a classic search and read candidates' profiles. Or you can look at the existing groups (e.g. Corporate Social Responsibility group, Alumni Louvain School of Management group or JAVA developer group) and track their members.
 small_medium_sized_businesses_saying_that: small/medium sized businesses saying that "big companies keep sucking up to all the best young graduates."
+Step14_subtitle: Select which contact to add as a fellow from the list bellow.
 User_doesn_t_have_enough_credits: User doesn't have enough credits
 Invitation_sentence_3: ""
 Your_offer_internships: Your internships
@@ -828,12 +831,12 @@ Send_the_following_offer_internship: "Send the following internship offer:"
 b_Data_storage_b_iStockCV_uses: <b>Data storage.</b> iStockCV uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run iStockCV. Although iStockCV owns the code, databases, and all rights to the iStockCV application, you retain all rights to your data.
 candidate_profile_status_1: Working and looking for a job
 Event_colon: "Event:"
+Total_price: "Total price:"
 tab_my_job_preferences_link: Preferences
 Buy_more_credits: Buy more credits
 You_have_been_logged_out: You have been logged out.
 Leisure_interests_and_achievements: Leisure, interests and achievements
 candidate_profile_status_2: Working and not looking for a job
-Total_price: "Total price:"
 A_team_member_will_validate_and_send_you_a_link: A member of our team will now review your application as an academic association in the following 24 hours. We will then send you a link to complete your application.
 Offer_positive_answers_count: Positive answers ({count}/{total} offers)
 Invite_your_fellow_desc: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -1496,6 +1499,7 @@ Is_there_an_iStockCV_API: Is there an iStockCV API?
 You_can_choose_only_one_language: You can choose only one language.
 candidate_profile_relationship_status_0: Unspecified
 a_href_http_istockcv_wordpress_com: <a href="http://istockcv.wordpress.com/2008/06/13/our-presentation-at-the-conference-thinktomorroweu">Our presentation at the conference Think Tomorrow</a>
+Step4_subtitle: This information will help ......................................
 Mobile: "Mobile:"
 Copyright_2008_All_rights_reserved: Copyright 2009 All rights reserved.
 pagination_previous: "&laquo; Previous"
@@ -1624,7 +1628,3 @@ Send_the_following_offer_job: "Send the following job offer:"
 Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
 Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
-Step3_subtitle: "This information will help ......................................"
-Step4_subtitle: "This information will help ......................................"
-Step14_title: pluralize{{count_invite}, contact, contacts} invited you to join Fellownation that you can follow.
-Step14_subtitle: "Select which contact to add as a fellow from the list bellow."
