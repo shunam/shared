@@ -1623,3 +1623,7 @@ SideBar_tips: "Tips"
 SideBar_tips_desc: "lorem ipsum lalablabal balbalablab albalablabalb"
 Step12_count_contact: You have pluralize{{count_contact}, contact, contacts} on fellownation that you can follow.
 Step12_subtitle: Select which contact to add as a fellow from the list bellow. You can also {another_email} to find more fellows.
+Sidebar_public_who_are_we: "Who are we"
+Sidebar_public_who_are_we_desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit:"
+Sidebar_public_tips: "Tips"
+Sidebar_public_tips_desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
