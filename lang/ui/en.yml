@@ -98,6 +98,7 @@ Job_description: "Job description:"
 What_is_iStockCV_for: What is iStockCV for?
 EMAIL_Company_name: "Company name:   "
 You_must_not_upload_post_host: "You must not upload, post, host, or transmit unsolicited email, SMSs, or \xE2\x80\x9Cspam\xE2\x80\x9D messages."
+SideBar_tips_desc: lorem ipsum lalablabal balbalablab albalablabalb
 Email_footer: |-
   iStockCV | A recruiting network for graduates and young professionals
   Copyright 2009 All rights reserved.
@@ -136,7 +137,7 @@ Give_an_overview_of_your_degree: Give an overview of your degree course. It incl
 candidate_link_rejected_your_invitation_to: "{candidate_link} rejected your invitation to {offer_link}"
 Emphasize_key_words_that_demonstrate_evidence: "Emphasize key words that demonstrate evidence of your skills (e.g. captain of the university\xE2\x80\x99s soccer team demonstrates leadership). Focus demonstrating appropriate behaviors rather than seeking to impress an employer with an amazing achievement."
 Skills: Skills
-Privacy: "Privacy:"
+Privacy: Privacy
 Candidate_candidate_link_rejected_your_invitation: Candidate {candidate_link} rejected your invitation
 Signup_public_url_special_character: Only letters and numbers. No spaces and no symbols.
 accept: (accept)
@@ -200,6 +201,7 @@ This_validation_code_is_invalid_Try: This validation code is invalid. Try asking
 message_has_sent: Message sent !
 character_left_: pluralize{{count}, character left, characters left}
 New_email_address: "New email address:"
+Step11_subtitle: Searching your email account is the fastest way find which of your fellows are already using<br/> Fellownation. Follow any of the fellows you fnd to add their public messages to your timeline.
 Overview: "Overview:"
 find_the_perfect_candidate: Find the perfect candidate by degree, location, skills, &hellip;
 Count_credits_per_candidate: pluralize{{count}, credit, credits} per candidate
@@ -332,12 +334,14 @@ All_fields_marked_with_span_class: "All fields marked with \xE2\x80\x9C<span cla
 Find: Find
 DASHBOARD_OFFER_STUDENT_JOB_UPDATED: You updated student job offer {offer_link}
 Enter_a_keyword_location_or_company: Enter a keyword, location... (e.g. Brussels internship)
+Terms: Terms of Services
 Sorry_this_activation_code_is_not: Sorry, this activation code is not valid.
 Internships: Internships
 We_are_in_open_beta_candidate: ""
 setting_password_confirmation: Password Confirmation
 No_thanks_Bring_me_to_my: No, thanks. Bring me to my profile...
 Strong_interest_in_agile_development: Strong interest in agile development
+Contact_us: Contact
 DASHBOARD_OFFER_STUDENT_JOB_ACCEPTED_BY_CANDIDATE_candidate: You accepted student job offer {offer_link} from {company_link}
 No_candidates_reached_Maybe_you_already: No candidates reached. Maybe you already sent them this offer.
 Candidate_candidate_link_accepted_your_invitation: Candidate {candidate_link} accepted your invitation
@@ -396,6 +400,7 @@ Invitation_title: |
 
 close_this_using_the_discard_button: "Close this using the \xE2\x80\x9CX\xE2\x80\x9D button."
 b_Questions_b_Any_questions_about: "<b>Questions.</b> Any questions about this Privacy Policy should be addressed to support at istockcv.com or by mail at: iStockCV, Rue du bosquet #7, Louvain-la-Neuve, B-1495 BELGIUM"
+Sidebar_public_who_are_we_desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit:"
 Signup_public_url_max_15: Maximum 15 characters.
 You_rejected_the_invitation_from_company: You rejected the invitation from company {company_link}
 Modifications_to_the_Service_and_Prices: Modifications to the Service and Prices
@@ -579,6 +584,8 @@ DASHBOARD_OFFER_THESIS_CREATED: You created thesis offer {offer_link}
 Street_and_number: "Street and number:"
 label_association: Association
 Yes_thanks: Yes, thanks!
+SideBar_account: Account
+Step3_title: Upload your picture profile
 We_could_not_find_any_user: We could not find any user with this email address. Please try again.
 Compose_a_thesis: Thesis
 EMAIL_Call_mail_body_callee: "{caller} has scheduled an online interview with you on {scheduled_for}."
@@ -605,6 +612,7 @@ DASHBOARD_RELATIONSHIP_REJECTED_BY_COMPANY_company: You rejected the invitation 
 Even_more_once_you_have_got: Even more, once you have got a candidate in your network, it will not cost you any additional credit to send him/her a job offers or event invitations.
 DASHBOARD_OFFER_INTERNSHIP_DESTROYED: You deleted internship offer {offer_link}
 Add_candidates_to_your_network: Add candidates to your network
+SideBar_account_desc: lorem ipsum lalablaba lbalbalablaba lbalablabalb
 With_search_agent_results: "With search agent results:"
 Of_course_we_ve_got_some: "Of course, we\xE2\x80\x99ve got some rules to respect. Here there are:"
 Enter_a_company_to_exclude: Enter a company to exclude...
@@ -706,6 +714,7 @@ Change?: Change?
 Open_hours: "Open hours:"
 tab_my_setting_link: settings
 EMAIL_Finding_and_adding_candidates_and_send: "* Finding and adding candidates and send offers"
+SideBar_tips: Tips
 Save_as_a_search_agent: Save as a search agent?
 What_the_graduates_get: What the graduates get
 Edit_this_event: Edit this event
@@ -764,6 +773,7 @@ Invitation_sentence_1: |
 
 Give_the_complete_title_of_your: Give the complete title of your degree (e.g. BSc Economics, BA International Business Studies).
 Post_job_offers: Post job offers
+Step12_count_contact: You have pluralize{{count_contact}, contact, contacts} on fellownation that you can follow.
 Pro: Pro!
 Error_CandidateSearch_CreationNotAllowed: Sorry, your plan doesn't allow you to create search agents.
 Archives: Archives
@@ -824,18 +834,18 @@ You_have_been_logged_out: You have been logged out.
 Leisure_interests_and_achievements: Leisure, interests and achievements
 candidate_profile_status_2: Working and not looking for a job
 Total_price: "Total price:"
+Your_companies: "Your companies:"
+It_is_usual_to_supply_the: It is usual to supply the names, (and addresses) of two referees at the end of your CV - and, subject to their agreement, other contact details if appropriate. Ideally, one will be associated with your academic background and the other with any work or outside activities you have been involved in (e.g. previous employer).
+Send_event_invitations: Send event invitations
+Invite_your_fellow_desc: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 Offer_positive_answers_count: Positive answers ({count}/{total} offers)
 A_team_member_will_validate_and_send_you_a_link: A member of our team will now review your application as an academic association in the following 24 hours. We will then send you a link to complete your application.
-Invite_your_fellow_desc: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-Send_event_invitations: Send event invitations
-It_is_usual_to_supply_the: It is usual to supply the names, (and addresses) of two referees at the end of your CV - and, subject to their agreement, other contact details if appropriate. Ideally, one will be associated with your academic background and the other with any work or outside activities you have been involved in (e.g. previous employer).
-Your_companies: "Your companies:"
 delete: (delete)
 A_beta_version_of_the_website: "A beta version of the website means that it works and we are still working on it. Here, the beta is public (not private) because <b>we invite everyone to sign up for free and collaborate to improve the product</b>. We will love to hear from you: send all your comments to <a href=\"mailto:feedback@istockcv.com\">feedback@istockcv.com</a>. If you want to discover the cool new upcoming features: check out our <a href=\"http://istockcv.wordpress.com/2008/05/23/543210-istockcv-is-alive-its-alive/\">blog post</a>."
 Lost_password: Lost password
-Unavailable: Unavailable
-Warning_CandidateSearch_LimitedResults: Your plan allows you to see a limited number of results per search. Tune your search or upgrade your account in order to see more results. Click <a href='/company/account'>here</a> to pick a new plan.
 label_password_confirmation: Password confirmation
+Warning_CandidateSearch_LimitedResults: Your plan allows you to see a limited number of results per search. Tune your search or upgrade your account in order to see more results. Click <a href='/company/account'>here</a> to pick a new plan.
+Unavailable: Unavailable
 DASHBOARD_OFFER_STUDENT_JOB_INITIATED_BY_CANDIDATE_candidate: You requested student job offer {offer_link} from {company_link}
 Email_template_notifier_my_follower: "{first_name} {last_name} ({user_name}) is now following your public messages on Fellownation.\n\n\
   Some info on {first_name} {last_name} ({user_name}):\n\
@@ -891,10 +901,12 @@ EMAIL_Create_and_manage_offers: "* Create and manage offers"
 company_link_withdrew_their_invitation_to: "{company_link} withdrew their invitation to {offer_link} from you"
 monitor_job_offers_and_event_invitations: (monitor your job offers and event invitations)
 candidate_link_cancelled_their_acceptation_of_offer: "{candidate_link} cancelled their acceptation of your job offer {offer_link}"
+Step2_title: Fill out your profile information
 Add_a_location: Add a location
 Error_CandidateCompanyRelationship_ReachedMaxNetworkSize: You cannot add additional candidates to your network because you have reached the maximum size of your network. Remove candidates from your network or upgrade your account in order to increase the size. Click <a href='/company/account'>here</a> to pick a new plan.
 Subject_: "Subject:"
 EMAIL_Your_recommended_friend_has_accepted_your_invitation: Your recommended friend {name} has accepted your invitation.
+About: About Fellownation
 Search_results_for_agent_: Search results for agent "{agent}"
 Call: online interview
 Create_search_agents: Create search agents
@@ -918,6 +930,7 @@ static_check_the_faq_link: Check the FAQ
 It_can_sometimes_be_more_difficult: It can sometimes be more difficult than people expect to find an ideal job upon graduation. Graduates have the education but often lack any practical experience, making it a challenge at times to find that first job. At iStockCV we want to make this transition as smooth as possible (like a career advisor). This explains why iStockCV is focused entirely on the recent graduate segment.
 Company_to_exclude: "Company to exclude:"
 Email_template_activation_account_subject: Confirm your Fellownation account, {first_name} {last_name} ({user_name})!
+Step13_title: Invites contacts to Fellownation
 breadcrumb_homepage_link: Homepage
 Edit_your_offer_student_job: Edit your student job
 Homepage_join_the_nation_desc: <p>Fellownation is your tool to connect, socialize and get noticed by professionals as a complement to Facebook.</p>
@@ -970,6 +983,7 @@ Skills_required: "Skills required:"
 Company_logo: Company logo
 DASHBOARD_OFFER_EVENT_REJECTED_BY_CANDIDATE_candidate: You rejected the invitation to {offer_link} from {company_link}
 Published: Published
+Step11_title: Are you fellows already in Fellownation?
 An_attractive_salary_package: An attractive salary package
 Future_events: Future events
 DASHBOARD_OFFER_EVENT_CANCELLED_BY_CANDIDATE_candidate: You cancelled your acceptation of the invitation to {offer_link} from {company_link}
@@ -1034,6 +1048,7 @@ Passion_for_everything_web_2_0: Passion for everything "web 2.0"
 You_cancelled_your_acceptation_of_the: You cancelled your acceptation of the invitation to {offer_link} from {company_link}
 Add_strong_company_to_my_network: Add <strong>{company}</strong> to my network
 A_tool_designed_for_you: A tool designed for you
+Step4_title: Upload some files
 We_are_in_open_beta_company: ""
 build_your_network_and_track_candidates: (build your network and track candidates)
 plan_super_pro_title: Super Pro
@@ -1063,6 +1078,7 @@ Free: Free<br/><em><small>(no credit card)</small></em>
 What_we_offer: "What we offer:"
 company_link_accepted_your_request_for_event: "{company_link} accepted your request for event {offer_link}"
 Remove_company_from_my_network: Remove from my network
+Step12_subtitle: Select which contact to add as a fellow from the list bellow. You can also {another_email} to find more fellows.
 Send_: Send!
 Build_your_network: Build your network
 EMAIL_Find_candidates_now: "Find candidates now : "
@@ -1182,6 +1198,7 @@ Yes_Facebook_Social_networks_like_Facebook: "Yes, Facebook. Social networks like
 Place_colon: "Place:"
 Companies_in_your_network: Companies in your network
 Send_the_following_offer_thesis: "Send the following thesis offer:"
+Step2_subtitle: This information will help ......................................
 New_job_offer_received: "New job offer received: "
 Showing_candidates_in_your_network_: Showing candidates {from}-{to} of {total} in your network
 Your_job_offers: Your job offers
@@ -1198,6 +1215,7 @@ How_does_the_free_plan_work: How does the free plan work?
 EMAIL_other_user_name_requested_to_add: "{name} requested to add you as a connection on iStockCV. Please log in to iStockCV to view this notification on your Dashboard, or just click the link below (you will have to log in first)."
 Edit_this_offer_student_job: Edit this student job
 Just_click_the_button_below_and: Just click the button below and you will get your new credits.
+Sidebar_public_who_are_we: Who are we
 Graduate_school: "Graduate school:"
 Job_title_and_location: "Job title and location:"
 company_link_resent_their_invitation_to: "{company_link} resent their invitation to {offer_link} to you"
@@ -1297,6 +1315,7 @@ Action_Relationship_Withdraw_Invitation_To_Candidate_Short: Withdraw
 Event_description: "Event description:"
 EMAIL_Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
 Express_yourself: Express yourself
+Sidebar_public_tips: Tips
 Don_t_panic_it_is_normal: "Don\xE2\x80\x99t panic - it is normal. Since iStockCV is a beta version we haven\xE2\x80\x99t deployed all the features. We keep implementing the product: be patient. Meanwhile, if we can make you happy by any means: contact us at <a href=\"mailto:feedback@istockcv.com\">feedback@istockcv.com</a>. If you want to discover the cool new upcoming features: check out our <a href=\"http://istockcv.wordpress.com/2008/05/23/543210-istockcv-is-alive-its-alive/\">blog post</a>."
 Compose_an_offer: Job
 You_have_no_messages_for_the: You have no messages for the moment.
@@ -1308,6 +1327,7 @@ DASHBOARD_OFFER_THESIS_RESENT_BY_COMPANY_company: You resent your thesis offer {
 User_details: User details
 setting_make_my_walls_private: Make my walls private
 Homepage_join_the_nation: Join the nation. Meet your fellows.
+Sidebar_public_tips_desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 EMAIL_Complete_your_profile: "* Complete your profile"
 user_friendly_we_know_you_cannot: "user-friendly: we know you cannot spend hours or even minutes to search a job or a talent. We believe most website is too complex. Too many features, too many buttons, too much confusion. We have built an easy to use website with elegant interfaces and thoughtful features."
 DASHBOARD_RELATIONSHIP_REJECTED_BY_COMPANY_candidate: Company {company_link} rejected your invitation
@@ -1604,26 +1624,3 @@ Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
 Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Send_the_following_offer_job: "Send the following job offer:"
 Call_form_at: At
-
-Step11_title: "Are you fellows already in Fellownation?"
-Step11_subtitle: "Searching your email account is the fastest way find which of your fellows are already using<br/> Fellownation. Follow any of the fellows you fnd to add their public messages to your timeline."
-Step13_title: "Invites contacts to Fellownation"
-Step2_title: "Fill out your profile information"
-Step2_subtitle: "This information will help ......................................"
-Step3_title: "Upload your picture profile"
-Step4_title: "Upload some files"
-About: "About"
-Terms: "Terms"
-Privacy: "Privacy"
-Contact_us: "Contact Us"
-Jobs: "Jobs"
-SideBar_account: "Account"
-SideBar_account_desc: "lorem ipsum lalablaba lbalbalablaba lbalablabalb"
-SideBar_tips: "Tips"
-SideBar_tips_desc: "lorem ipsum lalablabal balbalablab albalablabalb"
-Step12_count_contact: You have pluralize{{count_contact}, contact, contacts} on fellownation that you can follow.
-Step12_subtitle: Select which contact to add as a fellow from the list bellow. You can also {another_email} to find more fellows.
-Sidebar_public_who_are_we: "Who are we"
-Sidebar_public_who_are_we_desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit:"
-Sidebar_public_tips: "Tips"
-Sidebar_public_tips_desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
