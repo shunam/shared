@@ -139,7 +139,7 @@ Emphasize_key_words_that_demonstrate_evidence: "Emphasize key words that demonst
 Skills: Skills
 Privacy: Privacy
 Candidate_candidate_link_rejected_your_invitation: Candidate {candidate_link} rejected your invitation
-Signup_public_url_special_character: Only letters and numbers. No spaces and no symbols.
+Signup_public_url_special_character: Only letters and numbers. No spaces, no symbols.
 accept: (accept)
 Visit_us: Visit us
 DASHBOARD_CALL_SCHEDULED_BY_COMPANY_company: You have scheduled an {interview_link} with {candidate_link} on {scheduled_for}
@@ -173,6 +173,7 @@ Action_Relationship_Withdraw_Invitation_To_Candidate: Withdraw invitation from <
 Downgrading_your_Service_may_cause_the: Downgrading your Service may cause the loss of Content, features, or capacity of your Account. iStockCV does not accept any liability for such loss.
 Sorry_no_results: Sorry, there are no results matching your query in IStockCV.
 Credits_left_colon: "Credits left:"
+SideBar_password_tips_desc: lorem ipsum lalablabal balbalablab albalablabalb
 You_rejected_the_invitation_to_offer: You rejected the invitation to {offer_link} from {company_link}
 Count_per_search: "{count} per search"
 Please_enter_your_email_address_here: "Please enter your email address here and we will send you an email with a link to reactivate your account:"
@@ -219,6 +220,7 @@ New_offer: New offer
 DASHBOARD_RELATIONSHIP_ACCEPTED_BY_COMPANY_candidate: Company {company_link} accepted your invitation
 EMAIL_View_this_offer: "View this offer:"
 iStockCV_lets_you: Fast and easy
+SideBar_password_desc: lorem ipsum dolor sit amet
 Call_form_with: With
 b_Disclosure_b_iStockCV_may_disclose: <b>Disclosure.</b> iStockCV may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
 Action_Relationship_Accept_Invitation_From_Candidate: Accept invitation from <strong>{candidate}</strong>
@@ -434,6 +436,7 @@ iStockCV_shall_not_be_liable_to: iStockCV shall not be liable to you or to any t
 Homepage_academic: Academics
 Edit_offer: Edit offer
 iStockCV_Latest_activity_for_: "iStockCV: Latest activity for {name}"
+SideBar_notice_tips: Tips
 Email_template_activation_account: |-
   Hi, {first_name} {last_name} ({user_name}).
   
@@ -694,6 +697,7 @@ motto_with_dot: A recruiting network for students<br/>and young professionals.
 candidate_link_accepted_your_invitation_to: "{candidate_link} accepted your invitation to {offer_link}"
 Verbal_physical_written_or_other_abuse: Verbal, physical, written or other abuse (including threats of abuse or retribution) of any iStockCV customer, employee, member, or officer will result in immediate account termination.
 Cancel: Cancel
+SideBar_notice: Account
 is_not_a_valid_discount_code: is not a valid discount code
 h2_Please_verify_your_information_h2: <h2>Please verify your information:</h2>
 Weekly_offer_summary: "Weekly offer summary:"
@@ -832,11 +836,12 @@ b_Data_storage_b_iStockCV_uses: <b>Data storage.</b> iStockCV uses third party v
 candidate_profile_status_1: Working and looking for a job
 Event_colon: "Event:"
 Total_price: "Total price:"
-tab_my_job_preferences_link: Preferences
-Buy_more_credits: Buy more credits
-You_have_been_logged_out: You have been logged out.
 Leisure_interests_and_achievements: Leisure, interests and achievements
+You_have_been_logged_out: You have been logged out.
+Buy_more_credits: Buy more credits
+tab_my_job_preferences_link: Preferences
 candidate_profile_status_2: Working and not looking for a job
+SideBar_notice_desc: lorem ipsum lalablaba lbalbalablaba lbalablabalb
 A_team_member_will_validate_and_send_you_a_link: A member of our team will now review your application as an academic association in the following 24 hours. We will then send you a link to complete your application.
 Offer_positive_answers_count: Positive answers ({count}/{total} offers)
 Invite_your_fellow_desc: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -1135,6 +1140,7 @@ EMAIL_The_more_information_you_put_into_offers: The more information you put int
 img_alt_you_are_a_candidate!: You are a candidate!
 Start_an_association_profile: Start an association profile
 Create_a_Profile: Create a Profile
+SideBar_profile_tips: Tips
 As_a_candidate_should_I_worry: As a candidate, should I worry about my contact details?
 Custom: Academic association
 COMPANY_S_JOBS: "COMPANY\xE2\x80\x99S JOBS"
@@ -1176,6 +1182,7 @@ setting_contact_information: Contact Information
 language_german: German
 DASHBOARD_OFFER_STUDENT_JOB_DESTROYED: You deleted student job offer {offer_link}
 DASHBOARD_OFFER_STUDENT_JOB_CANCELLED_BY_CANDIDATE_candidate: You cancelled your acceptation of student job offer {offer_link} from {company_link}
+SideBar_password: Account Fellownation
 setting_password: Password
 The_plan_you_chose_does_not: The plan you chose does not exist
 OfferJob_: "Offer: {offer}"
@@ -1319,7 +1326,8 @@ Event_description: "Event description:"
 Action_Relationship_Withdraw_Invitation_To_Candidate_Short: Withdraw
 Withdraw_invitation: Withdraw invitation
 DASHBOARD_OFFER_JOB_INITIATED_BY_CANDIDATE_company: "{candidate_link} requested job offer {offer_link}"
-Sidebar_public_tips_desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+SideBar_profile_tips_desc: lorem ipsum lalablabal balbalablab albalablabalb
+Sidebar_public_tips_desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, "
 Homepage_join_the_nation: Join the nation. Meet your fellows.
 setting_make_my_walls_private: Make my walls private
 User_details: User details
@@ -1340,6 +1348,7 @@ Absolutely_You_can_browse_the_database: "Absolutely. You can browse the database
 DASHBOARD_RELATIONSHIP_REJECTED_BY_COMPANY_candidate: Company {company_link} rejected your invitation
 user_friendly_we_know_you_cannot: "user-friendly: we know you cannot spend hours or even minutes to search a job or a talent. We believe most website is too complex. Too many features, too many buttons, too much confusion. We have built an easy to use website with elegant interfaces and thoughtful features."
 EMAIL_Complete_your_profile: "* Complete your profile"
+SideBar_notice_tips_desc: lorem ipsum lalablabal balbalablab albalablabalb
 tab_application_link: Application
 Keep_it_brief_description: "Keep it brief at three of four lines maximum. It will appear at the top of your profile, thus it should immediately capture the reader\xE2\x80\x99s interest and entice them to read on! Use is to emphasize two or three main strengths."
 Reconfirm_presence_at_this_event: Reconfirm presence at this event
@@ -1493,13 +1502,14 @@ Search_results: Search results
 Currently_we_accept_Visa_Mastercard_and: We accept <strong>Visa</strong>, <strong>Mastercard</strong>, and <strong>American Express</strong>. For POs, checks, or invoices to be paid at a later date, contact us by phone (+32.479.21.72.25), fax (+32.2.791.57.00) or email at (<a href="mailto:sales@istockcv.com">sales@istockcv.com</a>).
 OfferStudentJobDetails: Student job details
 Refuse: Refuse
+SideBar_password_tips: Tips
 Information_architecture_software_engineering: Information architecture, software engineering
 DASHBOARD_OFFER_EVENT_RESENT_BY_COMPANY_candidate: "{company_link} resent their invitation to {offer_link} to you"
 Is_there_an_iStockCV_API: Is there an iStockCV API?
 You_can_choose_only_one_language: You can choose only one language.
 candidate_profile_relationship_status_0: Unspecified
 a_href_http_istockcv_wordpress_com: <a href="http://istockcv.wordpress.com/2008/06/13/our-presentation-at-the-conference-thinktomorroweu">Our presentation at the conference Think Tomorrow</a>
-Step4_subtitle: This information will help ......................................
+Step4_subtitle: This information will help you......................................
 Mobile: "Mobile:"
 Copyright_2008_All_rights_reserved: Copyright 2009 All rights reserved.
 pagination_previous: "&laquo; Previous"
@@ -1527,6 +1537,7 @@ EMAIL_Click_here_to_view_profile_here: "Click here to view her/his profile (you 
 Refund_Policy: Refund Policy
 Buy_more: Buy more?
 Interested: Interested?
+SideBar_profile_desc: lorem ipsum lalablaba lbalbalablaba lbalablabalb
 experience: work experience
 Association: Association
 Send_requests_to_join_my_network: Send requests to join my network
@@ -1579,7 +1590,7 @@ Driver_s_license: "Driver's license:"
 Action_Relationship_Add_Company: Invite <strong>{company}</strong> to my network
 Summary: Summary
 message: message
-Save_Photo: Clicks and expand the square. To make adjustments, you can drag around and resize the square bellow. When you are happy with your photo click the "Save Photo" button.
+Save_Photo: <font size="3"><strong>1. Click on your photo and expand the square.<br/>2. To make adjustments, you can drag around and resize the square bellow.<br/>3. When you are happy with your photo click the "Save Photo" button.</strong></font>
 Homepage_business: Fellownation for business.
 fluent: fluent
 Your_offer_student_jobs: Your student jobs
@@ -1618,6 +1629,7 @@ Country: Country
 DASHBOARD_OFFER_STUDENT_JOB_ACCEPTED_BY_COMPANY_candidate: "{company_link} accepted your request for offer {offer_link}"
 OfferThesi_: "Thesis: {offer}"
 Who_can_sign_up_for_iStockCV: Who can sign up for iStockCV?
+SideBar_profile: Account
 Signup_process_is_complete_company: Signup process is complete! Welcome on iStockCV!<br /> You can start by filling <a href="/company/profile">your company profile</a> to let candidates find you.
 New_internship_offer_received: New internship offer received
 Upgrade: Upgrade
@@ -1628,15 +1640,3 @@ Send_the_following_offer_job: "Send the following job offer:"
 Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
 Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
-SideBar_password: "Account"
-SideBar_password_desc: "lorem ipsum lalablaba lbalbalablaba lbalablabalb"
-SideBar_password_tips: "Tips"
-SideBar_password_tips_desc: "lorem ipsum lalablabal balbalablab albalablabalb"
-SideBar_notice: "Account"
-SideBar_notice_desc: "lorem ipsum lalablaba lbalbalablaba lbalablabalb"
-SideBar_notice_tips: "Tips"
-SideBar_notice_tips_desc: "lorem ipsum lalablabal balbalablab albalablabalb"
-SideBar_profile: "Account"
-SideBar_profile_desc: "lorem ipsum lalablaba lbalbalablaba lbalablabalb"
-SideBar_profile_tips: "Tips"
-SideBar_profile_tips_desc: "lorem ipsum lalablabal balbalablab albalablabalb"
