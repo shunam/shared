@@ -1640,3 +1640,7 @@ Send_the_following_offer_job: "Send the following job offer:"
 Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
 Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
+Private_message_signup_default: "lorem ipsum dolor amet sit amet"
+Success_notice_setting: "Setting successfully save  !"
+Public_message_signup_default: "lorem ipsum dolor amet sit amet"
+Link_invitation: You could visit {invitation_code} to signup.
