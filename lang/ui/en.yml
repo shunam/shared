@@ -137,7 +137,7 @@ Give_an_overview_of_your_degree: Give an overview of your degree course. It incl
 candidate_link_rejected_your_invitation_to: "{candidate_link} rejected your invitation to {offer_link}"
 Emphasize_key_words_that_demonstrate_evidence: "Emphasize key words that demonstrate evidence of your skills (e.g. captain of the university\xE2\x80\x99s soccer team demonstrates leadership). Focus demonstrating appropriate behaviors rather than seeking to impress an employer with an amazing achievement."
 Skills: Skills
-Privacy: Privacy
+Privacy: "My Privacy "
 Candidate_candidate_link_rejected_your_invitation: Candidate {candidate_link} rejected your invitation
 Signup_public_url_special_character: Only letters and numbers. No spaces, no symbols.
 accept: (accept)
@@ -170,6 +170,7 @@ The_look_and_feel_of_the: The look and feel of the Service is copyright &copy; 2
 Your_events: Your events
 Level: "Level:"
 Action_Relationship_Withdraw_Invitation_To_Candidate: Withdraw invitation from <strong>{candidate}</strong>
+Success_notice_setting: Setting successfully saved  !
 Downgrading_your_Service_may_cause_the: Downgrading your Service may cause the loss of Content, features, or capacity of your Account. iStockCV does not accept any liability for such loss.
 Sorry_no_results: Sorry, there are no results matching your query in IStockCV.
 Credits_left_colon: "Credits left:"
@@ -336,14 +337,14 @@ All_fields_marked_with_span_class: "All fields marked with \xE2\x80\x9C<span cla
 Find: Find
 DASHBOARD_OFFER_STUDENT_JOB_UPDATED: You updated student job offer {offer_link}
 Enter_a_keyword_location_or_company: Enter a keyword, location... (e.g. Brussels internship)
-Terms: Terms of Services
+Terms: Terms of Service
 Sorry_this_activation_code_is_not: Sorry, this activation code is not valid.
 Internships: Internships
 We_are_in_open_beta_candidate: ""
 setting_password_confirmation: Password Confirmation
 No_thanks_Bring_me_to_my: No, thanks. Bring me to my profile...
 Strong_interest_in_agile_development: Strong interest in agile development
-Contact_us: Contact
+Contact_us: Contact Us
 DASHBOARD_OFFER_STUDENT_JOB_ACCEPTED_BY_CANDIDATE_candidate: You accepted student job offer {offer_link} from {company_link}
 No_candidates_reached_Maybe_you_already: No candidates reached. Maybe you already sent them this offer.
 Candidate_candidate_link_accepted_your_invitation: Candidate {candidate_link} accepted your invitation
@@ -402,7 +403,7 @@ Invitation_title: |
 
 close_this_using_the_discard_button: "Close this using the \xE2\x80\x9CX\xE2\x80\x9D button."
 b_Questions_b_Any_questions_about: "<b>Questions.</b> Any questions about this Privacy Policy should be addressed to support at istockcv.com or by mail at: iStockCV, Rue du bosquet #7, Louvain-la-Neuve, B-1495 BELGIUM"
-Sidebar_public_who_are_we_desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit:"
+Sidebar_public_who_are_we_desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
 Signup_public_url_max_15: Maximum 15 characters.
 You_rejected_the_invitation_from_company: You rejected the invitation from company {company_link}
 Modifications_to_the_Service_and_Prices: Modifications to the Service and Prices
@@ -436,6 +437,7 @@ iStockCV_shall_not_be_liable_to: iStockCV shall not be liable to you or to any t
 Homepage_academic: Academics
 Edit_offer: Edit offer
 iStockCV_Latest_activity_for_: "iStockCV: Latest activity for {name}"
+Public_message_signup_default: Welcome Fellow, Enjoy Yourself :)
 SideBar_notice_tips: Tips
 Email_template_activation_account: |-
   Hi, {first_name} {last_name} ({user_name}).
@@ -516,6 +518,7 @@ Degree: "Title degree:"
 Yes_I_want_to_buy_credits_: Yes, I want to buy {credits} new credits *
 Bad_user_name_or_password: Bad user name or password
 Team_spirit: Team spirit
+Link_invitation: You could visiting this link {invitation_code} to signup.
 Email_template_notifier_download_file: |-
   Hi {user_first_name} {user_last_name},
   
@@ -616,6 +619,7 @@ DASHBOARD_RELATIONSHIP_REJECTED_BY_COMPANY_company: You rejected the invitation 
 Even_more_once_you_have_got: Even more, once you have got a candidate in your network, it will not cost you any additional credit to send him/her a job offers or event invitations.
 DASHBOARD_OFFER_INTERNSHIP_DESTROYED: You deleted internship offer {offer_link}
 Add_candidates_to_your_network: Add candidates to your network
+Private_message_signup_default: Hello Fellow, Nice to Know join with Us...Enjoy your Self :)
 SideBar_account_desc: lorem ipsum lalablaba lbalbalablaba lbalablabalb
 With_search_agent_results: "With search agent results:"
 Of_course_we_ve_got_some: "Of course, we\xE2\x80\x99ve got some rules to respect. Here there are:"
@@ -826,15 +830,15 @@ Or_enter_your_friends_email_addresses: "Or, enter your friends' email addresses 
 _pending_: "(pending: {email})"
 candidate_profile_status_0: Unemployed and looking for a job
 You_will_be_charged_plan_credit: "* You will be charged {amount} &euro;."
+Event_colon: "Event:"
+candidate_profile_status_1: Working and looking for a job
+b_Data_storage_b_iStockCV_uses: <b>Data storage.</b> iStockCV uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run iStockCV. Although iStockCV owns the code, databases, and all rights to the iStockCV application, you retain all rights to your data.
 New_event_invitation: "New event invitation: "
 Minimum_years_of_study: "Minimum years of study:"
 iStockCV_is_a_pay_as_you: iStockCV is a pay-as-you-go service. There are no long term contracts of commitments on your part. If you cancel, you'll be billed for the current month, but you won't be billed again.
 COMPANY_S_DASHBOARD_2: "COMPANY\xE2\x80\x99S DASHBOARD #2"
 Not_yet_We_have_designed_a: "Not yet. We have designed a Facebook application but we haven\xE2\x80\x99t deployed it yet. As a candidate, you will be able to get your Dashboard data (e.g. statistics, notifications) on your Facebook account."
 Send_the_following_offer_internship: "Send the following internship offer:"
-b_Data_storage_b_iStockCV_uses: <b>Data storage.</b> iStockCV uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run iStockCV. Although iStockCV owns the code, databases, and all rights to the iStockCV application, you retain all rights to your data.
-candidate_profile_status_1: Working and looking for a job
-Event_colon: "Event:"
 Total_price: "Total price:"
 Leisure_interests_and_achievements: Leisure, interests and achievements
 You_have_been_logged_out: You have been logged out.
@@ -910,7 +914,7 @@ EMAIL_Create_and_manage_offers: "* Create and manage offers"
 Compose_your_offer_thesis: Compose your thesis offer
 explore_the_company_s_profile: "(explore the company\xE2\x80\x99s profile)"
 static_contact_details_link: Contact details
-About: About Fellownation
+About: About Us
 EMAIL_Your_recommended_friend_has_accepted_your_invitation: Your recommended friend {name} has accepted your invitation.
 Subject_: "Subject:"
 Error_CandidateCompanyRelationship_ReachedMaxNetworkSize: You cannot add additional candidates to your network because you have reached the maximum size of your network. Remove candidates from your network or upgrade your account in order to increase the size. Click <a href='/company/account'>here</a> to pick a new plan.
@@ -1220,7 +1224,7 @@ EMAIL_Complete_my_profile_now: "Complete my profile now : "
 Action_RelationShip_Confirm_Refuse_Invitation_From_Company: Are you sure you want to refuse this company invitation?
 We_are_talking_today_about_deep: "We are talking today about deep changes... Changes in the structure and modus operandi of corporation based on new competitive principles such as openness, peering and sharing. Companies must build relationships beyond its walls, and be more transparent with what is happening inside the organization. And this is also true for recruitment purposes. iStockCV wants to provide \xE2\x80\x9Csocial\xE2\x80\x9D tools that enable companies to express their working environment, human dimension beyond its walls."
 Your_offer_theses: Your theses
-Sidebar_public_who_are_we: Who are we
+Sidebar_public_who_are_we: Who we are
 Just_click_the_button_below_and: Just click the button below and you will get your new credits.
 Edit_this_offer_student_job: Edit this student job
 EMAIL_other_user_name_requested_to_add: "{name} requested to add you as a connection on iStockCV. Please log in to iStockCV to view this notification on your Dashboard, or just click the link below (you will have to log in first)."
@@ -1319,7 +1323,7 @@ Unlimited: Unlimited
 Price_per_credit: Price per credit
 Anywhere: Anywhere
 Years_of_study: "Years of study:"
-Sidebar_public_tips: Tips
+Sidebar_public_tips: Our Tips
 Express_yourself: Express yourself
 EMAIL_Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
 Event_description: "Event description:"
@@ -1327,7 +1331,7 @@ Action_Relationship_Withdraw_Invitation_To_Candidate_Short: Withdraw
 Withdraw_invitation: Withdraw invitation
 DASHBOARD_OFFER_JOB_INITIATED_BY_CANDIDATE_company: "{candidate_link} requested job offer {offer_link}"
 SideBar_profile_tips_desc: lorem ipsum lalablabal balbalablab albalablabalb
-Sidebar_public_tips_desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, "
+Sidebar_public_tips_desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
 Homepage_join_the_nation: Join the nation. Meet your fellows.
 setting_make_my_walls_private: Make my walls private
 User_details: User details
@@ -1633,14 +1637,10 @@ SideBar_profile: Account
 Signup_process_is_complete_company: Signup process is complete! Welcome on iStockCV!<br /> You can start by filling <a href="/company/profile">your company profile</a> to let candidates find you.
 New_internship_offer_received: New internship offer received
 Upgrade: Upgrade
-Jobs: Jobs
+Jobs: List of Jobs
 Not_sure_about_the_best_plan: "Not sure about the best plan for you? Feel free to contact us, we\xE2\x80\x99ll be glad to help you finding your way and start recruiting."
 Call_form_at: At
 Send_the_following_offer_job: "Send the following job offer:"
 Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
 Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
-Private_message_signup_default: "lorem ipsum dolor amet sit amet"
-Success_notice_setting: "Setting successfully save  !"
-Public_message_signup_default: "lorem ipsum dolor amet sit amet"
-Link_invitation: You could visit {invitation_code} to signup.
