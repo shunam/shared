@@ -518,7 +518,7 @@ Degree: "Title degree:"
 Yes_I_want_to_buy_credits_: Yes, I want to buy {credits} new credits *
 Bad_user_name_or_password: Bad user name or password
 Team_spirit: Team spirit
-Link_invitation: You could visiting this link {invitation_code} to signup.
+Link_invitation: You could visit this link {invitation_code} to signup.
 Email_template_notifier_download_file: |-
   Hi {user_first_name} {user_last_name},
   
@@ -1628,6 +1628,7 @@ Signup_sidebar_header: Connect and share with students and emloyees. Free, easy 
 Target_locations: Target locations
 Initiative_x_x_Adaptability_Successful_study: "Initiative x%x Adaptability: Successful study and work in Spain and Mexico demonstrate my ability to adapt and thrive in new and different environments."
 Up_to_count_slots: Up to pluralize{{count}, slot, slots}
+Notification_invite_friends: Invitations Sent
 expert: expert
 Country: Country
 DASHBOARD_OFFER_STUDENT_JOB_ACCEPTED_BY_COMPANY_candidate: "{company_link} accepted your request for offer {offer_link}"
@@ -1644,5 +1645,3 @@ Send_the_following_offer_job: "Send the following job offer:"
 Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
 Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
-Notification_invite_friends: "Notification Sent"
-For_business: "For Business"
