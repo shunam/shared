@@ -98,7 +98,7 @@ Job_description: "Job description:"
 What_is_iStockCV_for: What is iStockCV for?
 EMAIL_Company_name: "Company name:   "
 You_must_not_upload_post_host: "You must not upload, post, host, or transmit unsolicited email, SMSs, or \xE2\x80\x9Cspam\xE2\x80\x9D messages."
-SideBar_tips_desc: lorem ipsum lalablabal balbalablab albalablabalb
+SideBar_tips_desc: SideBar_tips_desc
 Email_footer: |-
   iStockCV | A recruiting network for graduates and young professionals
   Copyright 2009 All rights reserved.
@@ -415,10 +415,7 @@ DASHBOARD_OFFER_STUDENT_JOB_REJECTED_BY_CANDIDATE_company: "{candidate_link} rej
 Edit_this_offer_thesis: Edit this thesis
 We_provide_an_easy_to_use: We provide an easy to use and elegant job posting and alumni networking tool to academic departments and academic associations.
 img_alt_you_are_a_company?: You are a company?
-Homepage_professional_desc: |-
-  <p><strong>Get connected</strong> with potential employers and keep in touch with friends and classmates.</p>
-  <p>Build your network, organize events with your fellows,<strong> create groups to exchange documents and information together.</strong></p>
-  <p><strong>Gain valuable information</strong> about previous years' exams, get tips from former students and active professionals.</p>
+Homepage_professional_desc: <p>Homepage_professional_desc</p>
 setting_comment_emails_label: Email when someone has commented my message.
 DASHBOARD_CANDIDATE_PROFILE_UPDATED: You updated your candidate profile
 EMAIL_View_the_full_profile_of_other: "View the full profile of {name} here (you will have to log in first):"
@@ -440,17 +437,16 @@ iStockCV_Latest_activity_for_: "iStockCV: Latest activity for {name}"
 Public_message_signup_default: Welcome Fellow, Enjoy Yourself :)
 SideBar_notice_tips: Tips
 Email_template_activation_account: |-
-  Hi, {first_name} {last_name} ({user_name}).
+  Hello, {first_name} {last_name} ({user_name}).
   
-  Please confirm your Fellownation account by clicking this link:
-  {confirmation_link}
-  
-  Once you confirm, you will have full access to Fellownation and all future notifications will be sent to this email address.
+  Please confirm your Fellownation account by clicking this link: {confirmation_link} Once you confirm, you will have full access to Fellownation and all future notifications will be sent to this email address.
   
   The Fellownation Team
   
+  
+  
   ===========
-  Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Fellownation. For general inquiries or to request support with your Fellownation account, please visit us at Fellownation Support.
+  Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Fellownation. For general inquiries or to request support with your Fellownation account, please visit us at Fellownation Help Center : http://support.fellownation.com or send a message to our Support member http://www.fellownation.com/supportmember once logged onto your account.
 label_password: Password
 Your_account_on_iStockCV_has_been_created: Your account on iStockCV has been created.
 Edit_your_offer_job: Edit your job offer
@@ -542,7 +538,7 @@ Send_offer: Send offer
 tab_network_link: Network
 Invited_by: Invited by
 Captcha_challenge_issued_by_server: Captcha challenge issued by server
-Invite_friends_desc: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Invite_friends_desc: Invite_friends_desc
 DASHBOARD_OFFER_JOB_REJECTED_BY_CANDIDATE_candidate: You rejected job offer {offer_link} from {company_link}
 Create_your_own_students_network: Create your own network !
 Our_features_include: "Our features include:"
@@ -679,6 +675,7 @@ good: good
 Here_are_our_Refund_policy_Terms: |
   Here are our <a href="http://www.istockcv.com/refund" target="_blank">Refund policy</a>, <a href="http://www.istockcv.com/privacy" target="_blank">Privacy Policy</a> and our <a href="http://www.istockcv.com/terms_of_service" target="_blank">Terms of Service</a>.
 
+For_business: For Business
 Email_template_candidate_company_relationship_initiated_company_subject: Join my network on iStockCV
 Max_slot_capacity_reached: You cannot add an additional job/event because you have used all your available slots. Upgrade your account in order to get additional slots. Click <a href='/company/account'>here</a> to pick a new plan
 You_can_reply_to_this_message: "You can reply to this message by clicking on the following link:"
@@ -830,35 +827,29 @@ Or_enter_your_friends_email_addresses: "Or, enter your friends' email addresses 
 _pending_: "(pending: {email})"
 candidate_profile_status_0: Unemployed and looking for a job
 You_will_be_charged_plan_credit: "* You will be charged {amount} &euro;."
-Send_the_following_offer_internship: "Send the following internship offer:"
-Not_yet_We_have_designed_a: "Not yet. We have designed a Facebook application but we haven\xE2\x80\x99t deployed it yet. As a candidate, you will be able to get your Dashboard data (e.g. statistics, notifications) on your Facebook account."
-COMPANY_S_DASHBOARD_2: "COMPANY\xE2\x80\x99S DASHBOARD #2"
-New_event_invitation: "New event invitation: "
-Minimum_years_of_study: "Minimum years of study:"
-iStockCV_is_a_pay_as_you: iStockCV is a pay-as-you-go service. There are no long term contracts of commitments on your part. If you cancel, you'll be billed for the current month, but you won't be billed again.
-b_Data_storage_b_iStockCV_uses: <b>Data storage.</b> iStockCV uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run iStockCV. Although iStockCV owns the code, databases, and all rights to the iStockCV application, you retain all rights to your data.
-candidate_profile_status_1: Working and looking for a job
 Event_colon: "Event:"
-SideBar_notice_desc: lorem ipsum lalablaba lbalbalablaba lbalablabalb
-candidate_profile_status_2: Working and not looking for a job
-tab_my_job_preferences_link: Preferences
-Buy_more_credits: Buy more credits
-You_have_been_logged_out: You have been logged out.
-Leisure_interests_and_achievements: Leisure, interests and achievements
+candidate_profile_status_1: Working and looking for a job
+b_Data_storage_b_iStockCV_uses: <b>Data storage.</b> iStockCV uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run iStockCV. Although iStockCV owns the code, databases, and all rights to the iStockCV application, you retain all rights to your data.
+Minimum_years_of_study: "Minimum years of study:"
+New_event_invitation: "New event invitation: "
+iStockCV_is_a_pay_as_you: iStockCV is a pay-as-you-go service. There are no long term contracts of commitments on your part. If you cancel, you'll be billed for the current month, but you won't be billed again.
+COMPANY_S_DASHBOARD_2: "COMPANY\xE2\x80\x99S DASHBOARD #2"
+Not_yet_We_have_designed_a: "Not yet. We have designed a Facebook application but we haven\xE2\x80\x99t deployed it yet. As a candidate, you will be able to get your Dashboard data (e.g. statistics, notifications) on your Facebook account."
+Send_the_following_offer_internship: "Send the following internship offer:"
 Total_price: "Total price:"
-Your_companies: "Your companies:"
-It_is_usual_to_supply_the: It is usual to supply the names, (and addresses) of two referees at the end of your CV - and, subject to their agreement, other contact details if appropriate. Ideally, one will be associated with your academic background and the other with any work or outside activities you have been involved in (e.g. previous employer).
-Send_event_invitations: Send event invitations
-Invite_your_fellow_desc: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-Offer_positive_answers_count: Positive answers ({count}/{total} offers)
+Leisure_interests_and_achievements: Leisure, interests and achievements
+You_have_been_logged_out: You have been logged out.
+Buy_more_credits: Buy more credits
+tab_my_job_preferences_link: Preferences
+candidate_profile_status_2: Working and not looking for a job
+SideBar_notice_desc: lorem ipsum lalablaba lbalbalablaba lbalablabalb
 A_team_member_will_validate_and_send_you_a_link: A member of our team will now review your application as an academic association in the following 24 hours. We will then send you a link to complete your application.
-delete: (delete)
-A_beta_version_of_the_website: "A beta version of the website means that it works and we are still working on it. Here, the beta is public (not private) because <b>we invite everyone to sign up for free and collaborate to improve the product</b>. We will love to hear from you: send all your comments to <a href=\"mailto:feedback@istockcv.com\">feedback@istockcv.com</a>. If you want to discover the cool new upcoming features: check out our <a href=\"http://istockcv.wordpress.com/2008/05/23/543210-istockcv-is-alive-its-alive/\">blog post</a>."
-Lost_password: Lost password
-label_password_confirmation: Password confirmation
-Warning_CandidateSearch_LimitedResults: Your plan allows you to see a limited number of results per search. Tune your search or upgrade your account in order to see more results. Click <a href='/company/account'>here</a> to pick a new plan.
-Unavailable: Unavailable
-DASHBOARD_OFFER_STUDENT_JOB_INITIATED_BY_CANDIDATE_candidate: You requested student job offer {offer_link} from {company_link}
+Offer_positive_answers_count: Positive answers ({count}/{total} offers)
+Invite_your_fellow_desc: Invite_your_fellow_desc
+Send_event_invitations: Send event invitations
+It_is_usual_to_supply_the: It is usual to supply the names, (and addresses) of two referees at the end of your CV - and, subject to their agreement, other contact details if appropriate. Ideally, one will be associated with your academic background and the other with any work or outside activities you have been involved in (e.g. previous employer).
+Your_companies: "Your companies:"
+Company_profile: Company profile
 Email_template_notifier_my_follower: "{first_name} {last_name} ({user_name}) is now following your public messages on Fellownation.\n\n\
   Some info on {first_name} {last_name} ({user_name}):\n\
   - Bio : {bio_content}\n\
@@ -873,17 +864,18 @@ Email_template_notifier_my_follower: "{first_name} {last_name} ({user_name}) is 
   The Fellownation Team\n\n\
   ===========\n\
   Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Fellownation. For general inquiries or to request support with your Fellownation account, please visit us at Fellownation Support."
-Company_profile: Company profile
-search_candidate_advanced_search_engine: (search candidate - advanced search engine)
-The_real_rules_are: "The real rules are:"
-Developed_an_awareness_of_customer_relationship: Developed an awareness of customer relationship management and improved my influencing skills when working with challenging clients under pressure.
-Job_offers_colon: "Job offers:"
+DASHBOARD_OFFER_STUDENT_JOB_INITIATED_BY_CANDIDATE_candidate: You requested student job offer {offer_link} from {company_link}
+Unavailable: Unavailable
+Warning_CandidateSearch_LimitedResults: Your plan allows you to see a limited number of results per search. Tune your search or upgrade your account in order to see more results. Click <a href='/company/account'>here</a> to pick a new plan.
+label_password_confirmation: Password confirmation
+Lost_password: Lost password
+A_beta_version_of_the_website: "A beta version of the website means that it works and we are still working on it. Here, the beta is public (not private) because <b>we invite everyone to sign up for free and collaborate to improve the product</b>. We will love to hear from you: send all your comments to <a href=\"mailto:feedback@istockcv.com\">feedback@istockcv.com</a>. If you want to discover the cool new upcoming features: check out our <a href=\"http://istockcv.wordpress.com/2008/05/23/543210-istockcv-is-alive-its-alive/\">blog post</a>."
+delete: (delete)
 OfferStudentJob_: "Student job: {offer}"
-static_tour_link: Tour
-setting_user_name: User Name
-amount_new_candidate_s_successfully_reached: "{amount} new candidate(s) successfully reached."
-b_C_b_The_week_end: "<b>C.</b> The week-end you want to leave: departure September 6th and return September 7th; departure September 13rd and return September 14th; departure September 20th and return September 21st; departure September 27th and return September 28th."
-For_instance: "For instance:"
+Job_offers_colon: "Job offers:"
+Developed_an_awareness_of_customer_relationship: Developed an awareness of customer relationship management and improved my influencing skills when working with challenging clients under pressure.
+The_real_rules_are: "The real rules are:"
+search_candidate_advanced_search_engine: (search candidate - advanced search engine)
 Email_template_notifier_my_pm: |-
   "{private_message_content}"
   
@@ -896,119 +888,118 @@ Email_template_notifier_my_pm: |-
   
   ===========
   Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Fellownation. For general inquiries or to request support with your Fellownation account, please visit us at Fellownation Support.
-Card_number: "Card number:"
-DASHBOARD_OFFER_JOB_INITIATED_BY_COMPANY_company: You proposed job offer {offer_link} to {candidate_link}
-Cancel_application_for_this_offer: Cancel application for this offer
-manage_your_job_offers_and_event: (manage your job offers and event invitations)
-label_last_name: Last name
+For_instance: "For instance:"
+b_C_b_The_week_end: "<b>C.</b> The week-end you want to leave: departure September 6th and return September 7th; departure September 13rd and return September 14th; departure September 20th and return September 21st; departure September 27th and return September 28th."
+amount_new_candidate_s_successfully_reached: "{amount} new candidate(s) successfully reached."
+setting_user_name: User Name
+static_tour_link: Tour
 Elegant_interfaces: Elegant interfaces
-Nationality: "Nationality:"
-New_offer_student_job: New student job
-Password: "Password:"
+label_last_name: Last name
+manage_your_job_offers_and_event: (manage your job offers and event invitations)
+Cancel_application_for_this_offer: Cancel application for this offer
+DASHBOARD_OFFER_JOB_INITIATED_BY_COMPANY_company: You proposed job offer {offer_link} to {candidate_link}
+Card_number: "Card number:"
 If_you_want_to_advertise_your: If you want to advertise your company on iStockCV, express your needs by email at <a href="mailto:ads@istockcv.com">ads@istockcv.com</a>.
-static_contact_details_link: Contact details
-explore_the_company_s_profile: "(explore the company\xE2\x80\x99s profile)"
-Compose_your_offer_thesis: Compose your thesis offer
-EMAIL_Create_and_manage_offers: "* Create and manage offers"
-company_link_withdrew_their_invitation_to: "{company_link} withdrew their invitation to {offer_link} from you"
-monitor_job_offers_and_event_invitations: (monitor your job offers and event invitations)
-candidate_link_cancelled_their_acceptation_of_offer: "{candidate_link} cancelled their acceptation of your job offer {offer_link}"
+Password: "Password:"
+New_offer_student_job: New student job
+Nationality: "Nationality:"
 Step2_title: Fill out your profile information
-Add_a_location: Add a location
-Error_CandidateCompanyRelationship_ReachedMaxNetworkSize: You cannot add additional candidates to your network because you have reached the maximum size of your network. Remove candidates from your network or upgrade your account in order to increase the size. Click <a href='/company/account'>here</a> to pick a new plan.
-Subject_: "Subject:"
+candidate_link_cancelled_their_acceptation_of_offer: "{candidate_link} cancelled their acceptation of your job offer {offer_link}"
+monitor_job_offers_and_event_invitations: (monitor your job offers and event invitations)
+company_link_withdrew_their_invitation_to: "{company_link} withdrew their invitation to {offer_link} from you"
+EMAIL_Create_and_manage_offers: "* Create and manage offers"
+Compose_your_offer_thesis: Compose your thesis offer
+explore_the_company_s_profile: "(explore the company\xE2\x80\x99s profile)"
+static_contact_details_link: Contact details
+About: About
 EMAIL_Your_recommended_friend_has_accepted_your_invitation: Your recommended friend {name} has accepted your invitation.
-About: About Us
-Search_results_for_agent_: Search results for agent "{agent}"
-Call: online interview
-Create_search_agents: Create search agents
-Advertising: Advertising
-Accept: Accept
-static_news_link: News
-iStockCV_reserves_the_right_at_any: iStockCV reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice.
+Subject_: "Subject:"
+Error_CandidateCompanyRelationship_ReachedMaxNetworkSize: You cannot add additional candidates to your network because you have reached the maximum size of your network. Remove candidates from your network or upgrade your account in order to increase the size. Click <a href='/company/account'>here</a> to pick a new plan.
+Add_a_location: Add a location
 setting_location: Location
-iStockCV_in_its_sole_discretion_has: iStockCV, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Service, or any other iStockCV service, for any reason at any time. Such termination of the Service will result in the deactivation or deletion of your Account or your access to your Account, and the forfeiture and relinquishment of all Content in your Account. iStockCV reserves the right to refuse service to anyone for any reason at any time.
-Why_a_candidate_should_have_a: Why should a candidate have a profile on iStockCV?
-Our_pricing_plans_There_is_a: Our pricing plans. There is a plan that matches your needs.
-Action_Relationship_Reject_Invitation_From_Company: Reject invitation from <strong>{company}</strong>
+iStockCV_reserves_the_right_at_any: iStockCV reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice.
+static_news_link: News
+Accept: Accept
+Advertising: Advertising
+Create_search_agents: Create search agents
+Call: online interview
+Search_results_for_agent_: Search results for agent "{agent}"
+Homepage_academic_desc: <p>Homepage_academic_desc</p>
 Save_event: Save event
-Homepage_academic_desc: |-
-  <p><strong>Get connected</strong> with potential employers and keep in touch with friends and classmates.</p>
-  <p>Build your network, organize events with your fellows,<strong> create groups to exchange documents and information together.</strong></p>
-  <p><strong>Gain valuable information</strong> about previous years' exams, get tips from former students and active professionals.</p>
-Remove_from_my_network: Remove from my network
-Write_some_keywords_2_Target: "1) Keyword search 2) Target the locations you want to look for candidates (e.g. Brussels if you look for candidates who prefer to work there 3) Choose the candidate\xE2\x80\x99s field of occupation (e.g. engineering if you search engineers) 4) Filter the candidate\xE2\x80\x99s education."
-static_check_the_faq_link: Check the FAQ
-It_can_sometimes_be_more_difficult: It can sometimes be more difficult than people expect to find an ideal job upon graduation. Graduates have the education but often lack any practical experience, making it a challenge at times to find that first job. At iStockCV we want to make this transition as smooth as possible (like a career advisor). This explains why iStockCV is focused entirely on the recent graduate segment.
-Company_to_exclude: "Company to exclude:"
-Email_template_activation_account_subject: Confirm your Fellownation account, {first_name} {last_name} ({user_name})!
+Action_Relationship_Reject_Invitation_From_Company: Reject invitation from <strong>{company}</strong>
+Our_pricing_plans_There_is_a: Our pricing plans. There is a plan that matches your needs.
+Why_a_candidate_should_have_a: Why should a candidate have a profile on iStockCV?
+iStockCV_in_its_sole_discretion_has: iStockCV, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Service, or any other iStockCV service, for any reason at any time. Such termination of the Service will result in the deactivation or deletion of your Account or your access to your Account, and the forfeiture and relinquishment of all Content in your Account. iStockCV reserves the right to refuse service to anyone for any reason at any time.
 Step13_title: Invites contacts to Fellownation
-breadcrumb_homepage_link: Homepage
-Edit_your_offer_student_job: Edit your student job
+Email_template_activation_account_subject: Confirm your Fellownation account, {first_name} {last_name} ({user_name})!
+Company_to_exclude: "Company to exclude:"
+It_can_sometimes_be_more_difficult: It can sometimes be more difficult than people expect to find an ideal job upon graduation. Graduates have the education but often lack any practical experience, making it a challenge at times to find that first job. At iStockCV we want to make this transition as smooth as possible (like a career advisor). This explains why iStockCV is focused entirely on the recent graduate segment.
+static_check_the_faq_link: Check the FAQ
+Write_some_keywords_2_Target: "1) Keyword search 2) Target the locations you want to look for candidates (e.g. Brussels if you look for candidates who prefer to work there 3) Choose the candidate\xE2\x80\x99s field of occupation (e.g. engineering if you search engineers) 4) Filter the candidate\xE2\x80\x99s education."
+Remove_from_my_network: Remove from my network
 Homepage_join_the_nation_desc: <p>Fellownation is your tool to connect, socialize and get noticed by professionals as a complement to Facebook.</p>
-You_expressly_understand_and_agree_that: "You expressly understand and agree that iStockCV shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if iStockCV has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to the service."
-candidate_profile_gender_0: Unspecified
-Please_validate_your_new_email_address: Please validate your new email address
-search_a_job_offer: Search the job of your dreams by keyword, location, company...
-No_: "No"
-Change_plan: Change plan
-Error_CandidateCompanyRelationship_CannotInviteInThisPlan: Sorry, your plan doesn't allow you to invite candidates to your network. Upgrade your account in order to get additional slots. Click <a href='/company/account'>here</a> to pick a new plan.
-Offer_details: Offer details
+Edit_your_offer_student_job: Edit your student job
+breadcrumb_homepage_link: Homepage
 Signup_check_lastname: "Last name is too short: min 2 characters."
-candidate_profile_gender_1: Male
-Password_lost?: Password lost?
-Compose_an_internship: Internship
-Wrong_input: Wrong input
-DASHBOARD_OFFER_JOB_REJECTED_BY_CANDIDATE_company: "{candidate_link} rejected your job offer {offer_link}"
+Offer_details: Offer details
+Error_CandidateCompanyRelationship_CannotInviteInThisPlan: Sorry, your plan doesn't allow you to invite candidates to your network. Upgrade your account in order to get additional slots. Click <a href='/company/account'>here</a> to pick a new plan.
+Change_plan: Change plan
+No_: "No"
+search_a_job_offer: Search the job of your dreams by keyword, location, company...
+Please_validate_your_new_email_address: Please validate your new email address
+candidate_profile_gender_0: Unspecified
+You_expressly_understand_and_agree_that: "You expressly understand and agree that iStockCV shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if iStockCV has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to the service."
 Company_Profile: Company profile
-candidate_profile_gender_2: Female
-DASHBOARD_OFFER_INTERNSHIP_RESENT_BY_COMPANY_candidate: "{company_link} resent their internship offer {offer_link} to you"
-You_are_on_a_free_plan: You are on a free plan
-This_company_has_cancelled_your_relationship: This company has cancelled your relationship.
+DASHBOARD_OFFER_JOB_REJECTED_BY_CANDIDATE_company: "{candidate_link} rejected your job offer {offer_link}"
+Wrong_input: Wrong input
+Compose_an_internship: Internship
+Password_lost?: Password lost?
+candidate_profile_gender_1: Male
 Find_appropriate_candidates_and_select_them_one_: <strong>{find_link}</strong> appropriate candidates and select them one by one.
-Yes_: "Yes"
-Simple_and_intuitive_tools: Simple and intuitive tools
-DASHBOARD_OFFER_JOB_CANCELLED_BY_CANDIDATE_company: "{candidate_link} cancelled their acceptation of your job offer {offer_link}"
-EMAIL_Congratulations: Congratulations!
-DASHBOARD_OFFER_EVENT_CREATED: You created event {offer_link}
-Contact_information: Contact information
-static_careers_link: Careers
-Daily_offer_summary: "Daily offer summary:"
+This_company_has_cancelled_your_relationship: This company has cancelled your relationship.
+You_are_on_a_free_plan: You are on a free plan
+DASHBOARD_OFFER_INTERNSHIP_RESENT_BY_COMPANY_candidate: "{company_link} resent their internship offer {offer_link} to you"
+candidate_profile_gender_2: Female
 _plan_: "{name} plan:"
-You_may_save_this_search_both: You may save this search (both keywords and settings) as a <strong>search agent</strong>. Search agents are predefined searches that run automatically. Everytime you log into iStockCV, your dashboard will show you fresh results from your search agents.
-You_created_event_offer_link: You created event {offer_link}
-You_can_propose_this_offer_in: "You can propose this offer in different ways:"
+Daily_offer_summary: "Daily offer summary:"
+static_careers_link: Careers
+Contact_information: Contact information
+DASHBOARD_OFFER_EVENT_CREATED: You created event {offer_link}
+EMAIL_Congratulations: Congratulations!
+DASHBOARD_OFFER_JOB_CANCELLED_BY_CANDIDATE_company: "{candidate_link} cancelled their acceptation of your job offer {offer_link}"
+Simple_and_intuitive_tools: Simple and intuitive tools
+Yes_: "Yes"
+Signup_sidebar_desc: |-
+  <h2>Fellownation is the perfect professional tool as a complement to Facebook.</h2>
+  <p>Fellownation is an information platform made up of short messages.<br/>It's a new and easy way to discover the latest career related news; discuss with employees; listen and participate to others' conversation; follow in realtime your friends' comments; get valuable advices from professionals ready to help you etc.</p> <p>It's an online place where key people around you gather all together to learn and explain the professional world.</p>
 Pricing_plans_tagline1: "\xE2\x80\xA2 Pay as you go<br/>\r\n\
   \xE2\x80\xA2 No long-term contracts<br/>\r\n\
   \xE2\x80\xA2 No sign-up fee<br/>\r\n\
   \xE2\x80\xA2 No termination fee<br/>\r\n\
   \xE2\x80\xA2 Cancel at any time\r\n\
   \r\n"
-Signup_sidebar_desc: |-
-  <h2>Fellownation is the perfect professional tool as a complement to Facebook.</h2>
-  <p>Fellownation is an information platform made up of short messages.<br/>It's a new and easy way to discover the latest career related news; discuss with employees; listen and participate to others' conversation; follow in realtime your friends' comments; get valuable advices from professionals ready to help you etc.</p> <p>It's an online place where key people around you gather all together to learn and explain the professional world.</p>
-Today: Today
-Good_english_level_french_is_a: Good english level (french is a plus)
-Pricing_plans_tagline2: Don't know where to start? Pick any plan - you can upgrade/downgrade at any time. You can't make the wrong choice.
-Job_offer_details: Job offer details
-Skills_required: "Skills required:"
-Company_logo: Company logo
-DASHBOARD_OFFER_EVENT_REJECTED_BY_CANDIDATE_candidate: You rejected the invitation to {offer_link} from {company_link}
-Published: Published
+You_can_propose_this_offer_in: "You can propose this offer in different ways:"
+You_created_event_offer_link: You created event {offer_link}
+You_may_save_this_search_both: You may save this search (both keywords and settings) as a <strong>search agent</strong>. Search agents are predefined searches that run automatically. Everytime you log into iStockCV, your dashboard will show you fresh results from your search agents.
 Step11_title: Are you fellows already in Fellownation?
-An_attractive_salary_package: An attractive salary package
-Future_events: Future events
-DASHBOARD_OFFER_EVENT_CANCELLED_BY_CANDIDATE_candidate: You cancelled your acceptation of the invitation to {offer_link} from {company_link}
-Your_candidates: "Your candidates:"
+Published: Published
+DASHBOARD_OFFER_EVENT_REJECTED_BY_CANDIDATE_candidate: You rejected the invitation to {offer_link} from {company_link}
+Company_logo: Company logo
+Skills_required: "Skills required:"
+Job_offer_details: Job offer details
+Pricing_plans_tagline2: Don't know where to start? Pick any plan - you can upgrade/downgrade at any time. You can't make the wrong choice.
+Good_english_level_french_is_a: Good english level (french is a plus)
+Today: Today
 Signup_public_url_blank: Enter a valid username.
-DASHBOARD_OFFER_STUDENT_JOB_INITIATED_BY_COMPANY_candidate: You received student job offer {offer_link} from {company_link}
-Enter_a_degree_place_or_tag: Enter a degree, place, or tag...
-and_a_blog_post_which_followed: and a blog post which followed the conference "<a href="http://istockcv.wordpress.com/2008/06/17/thinktomorroweu-press-release/">Social Networks are no longer the exclusive playground of teenagers</a>
-You_must_be_18_years_or: You must be 18 years or older to use this Service.
+Your_candidates: "Your candidates:"
+DASHBOARD_OFFER_EVENT_CANCELLED_BY_CANDIDATE_candidate: You cancelled your acceptation of the invitation to {offer_link} from {company_link}
+Future_events: Future events
+An_attractive_salary_package: An attractive salary package
 Event_date: "Event date:"
-Company_name: "Company name:"
-graduates_telling_that_Companies_websites_are: graduates telling that "Companies' websites are all the same, they are telling the same crap about their corporate values etc." or "I would like to find a first job abroad, but how?" or "I just realized after 2 months that my company sucks, I want to leave quickly."
-Action_Relationship_Accept_Invitation_From_Company: Accept invitation from <strong>{company}</strong>
+You_must_be_18_years_or: You must be 18 years or older to use this Service.
+and_a_blog_post_which_followed: and a blog post which followed the conference "<a href="http://istockcv.wordpress.com/2008/06/17/thinktomorroweu-press-release/">Social Networks are no longer the exclusive playground of teenagers</a>
+Enter_a_degree_place_or_tag: Enter a degree, place, or tag...
+DASHBOARD_OFFER_STUDENT_JOB_INITIATED_BY_COMPANY_candidate: You received student job offer {offer_link} from {company_link}
 Email_template_notifier_post_a_comment: |-
   {first_name} wrote:
   "{comment_content}"
@@ -1020,14 +1011,9 @@ Email_template_notifier_post_a_comment: |-
   
   ===========
   Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Fellownation. For general inquiries or to request support with your Fellownation account, please visit us at Fellownation Support.
-OfferJobDetails: Job offer details
-This_company_has_not_published_its: This company has not published its profile.
-What_s_this: What's this?
-DASHBOARD_OFFER_JOB_INITIATED_BY_CANDIDATE_candidate: You requested job offer {offer_link} from {company_link}
-iStockCV_SPRL_address: iStockCV SPRL<br/>7 Rue du bosquet<br/>B-1348 Louvain-la-Neuve<br/>Belgium
-There_is_no_candidate_in_your: There is no candidate in your network for the moment.
-Hide_advanced_search: Hide advanced search
-DASHBOARD_OFFER_EVENT_RESENT_BY_COMPANY_company: You resent your invitation to {offer_link} to {candidate_link}
+Action_Relationship_Accept_Invitation_From_Company: Accept invitation from <strong>{company}</strong>
+graduates_telling_that_Companies_websites_are: graduates telling that "Companies' websites are all the same, they are telling the same crap about their corporate values etc." or "I would like to find a first job abroad, but how?" or "I just realized after 2 months that my company sucks, I want to leave quickly."
+Company_name: "Company name:"
 Email_template_notifier_post_a_wall_message: |-
   {first_name} wrote:
   "{message_content}"
@@ -1039,331 +1025,330 @@ Email_template_notifier_post_a_wall_message: |-
   
   ===========
   Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Fellownation. For general inquiries or to request support with your Fellownation account, please visit us at Fellownation Support.
-plan_student_association_title: Academic association
-We_accept_quite_a_lot_of: We accept quite a lot of solutions
-What_is_a_credit: What is a credit? What is the <i>No Cure No Pay system</i>?
-You_must_be_a_human_Accounts: "You must be a human. Accounts registered by \xE2\x80\x9Cbots\xE2\x80\x9D or other automated methods are not permitted."
-You_are_responsible_for_maintaining_the: You are responsible for maintaining the security of your account and password. iStockCV cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
-Edit_offer_thesis: Edit thesis
-Note_If_you_change_your_custom: "Note: If you change your custom URL, your previous custom URL will no longer be valid."
+DASHBOARD_OFFER_EVENT_RESENT_BY_COMPANY_company: You resent your invitation to {offer_link} to {candidate_link}
+Hide_advanced_search: Hide advanced search
+There_is_no_candidate_in_your: There is no candidate in your network for the moment.
+iStockCV_SPRL_address: iStockCV SPRL<br/>7 Rue du bosquet<br/>B-1348 Louvain-la-Neuve<br/>Belgium
+DASHBOARD_OFFER_JOB_INITIATED_BY_CANDIDATE_candidate: You requested job offer {offer_link} from {company_link}
+What_s_this: What's this?
+This_company_has_not_published_its: This company has not published its profile.
+OfferJobDetails: Job offer details
 Edit_this_offer_job: Edit this job
-Curriculum_vitae_generated_with_iStockCV: Curriculum vitae generated with iStockCV (http://www.istockcv.com)
-Your_plan_colon: "Your plan:"
-Invitations_sent: "Invitations sent:"
-candidate_link_accepted_your_job_offer: "{candidate_link} accepted your job offer {offer_link}"
-OK: OK
+Note_If_you_change_your_custom: "Note: If you change your custom URL, your previous custom URL will no longer be valid."
+Edit_offer_thesis: Edit thesis
+You_are_responsible_for_maintaining_the: You are responsible for maintaining the security of your account and password. iStockCV cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+You_must_be_a_human_Accounts: "You must be a human. Accounts registered by \xE2\x80\x9Cbots\xE2\x80\x9D or other automated methods are not permitted."
+What_is_a_credit: What is a credit? What is the <i>No Cure No Pay system</i>?
+We_accept_quite_a_lot_of: We accept quite a lot of solutions
+plan_student_association_title: Academic association
 setting_wall_emails_label: Email when someone has posted a message on my wall.
-keep_your_profile_up_to_date: (keep your profile up-to-date and increase your visibility)
-No_results_for_: No results for "{query}"
-This_company_has_not_subscribed_yet: This company has not subscribed yet
-Passion_for_everything_web_2_0: Passion for everything "web 2.0"
-You_cancelled_your_acceptation_of_the: You cancelled your acceptation of the invitation to {offer_link} from {company_link}
-Add_strong_company_to_my_network: Add <strong>{company}</strong> to my network
-A_tool_designed_for_you: A tool designed for you
+OK: OK
+candidate_link_accepted_your_job_offer: "{candidate_link} accepted your job offer {offer_link}"
+Invitations_sent: "Invitations sent:"
+Your_plan_colon: "Your plan:"
+Curriculum_vitae_generated_with_iStockCV: Curriculum vitae generated with iStockCV (http://www.istockcv.com)
 Step4_title: Upload some files
-We_are_in_open_beta_company: ""
-build_your_network_and_track_candidates: (build your network and track candidates)
-plan_super_pro_title: Super Pro
-New_offer_thesis: New thesis
+A_tool_designed_for_you: A tool designed for you
+Add_strong_company_to_my_network: Add <strong>{company}</strong> to my network
+You_cancelled_your_acceptation_of_the: You cancelled your acceptation of the invitation to {offer_link} from {company_link}
+Passion_for_everything_web_2_0: Passion for everything "web 2.0"
+This_company_has_not_subscribed_yet: This company has not subscribed yet
+No_results_for_: No results for "{query}"
+keep_your_profile_up_to_date: (keep your profile up-to-date and increase your visibility)
 You_may_not_use_the_Service: You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).
+New_offer_thesis: New thesis
+plan_super_pro_title: Super Pro
+build_your_network_and_track_candidates: (build your network and track candidates)
+We_are_in_open_beta_company: ""
 EMAIL_Click_here_to_view_recommended_friends: "Click here to view your accepted and pending recommended friends (you might have to log in first) :"
-Loading: Loading...
-The_Service_is_billed_in_advance: The Service is billed in advance on a monthly basis and is non-refundable. There will be no refunds or credits for partial months of service, upgrade/downgrade refunds, or refunds for months unused with an open account. In order to treat everyone equally, no exceptions will be made.
-Target: Target
-Euros_per_month_: "&euro;{count} / month"
-DASHBOARD_OFFER_STUDENT_JOB_WITHDRAWN_BY_COMPANY_company: You withdrew your offer {offer_link} to {candidate_link}
-No_candidates_found: No candidates found
-We_aim_to_provide_: We aim to provide an easy to use and elegant interface, with thoughtful features and simple tools to recruit the best new talents.
-You_think_that_iStockCV_is_a: "You think that iStockCV is a kick ass project and really want to let us know - just send us an email at <a href=\"mailto:greatidea@istockcv.com\">greatidea@istockcv.com</a>:) However, if you think that iStockCV will join the other web2.0 startups in the deadpool: we will be glad to get your opinion too (freedom of speech). We will soon launch a blog to interact with you guys."
-img_alt_go!: Go!
-setting_privacy: Privacy
-setting_email_newsletter: Email Newsletter
 Signup_public_url_taken: Username has already been taken.
-We_are_located_in_the_beautiful: "We are located in the beautiful campus of <a href=\"http://www.uclouvain.be/en-index.html\">Universit\xC3\xA9 Catholique de Louvain</a> at Louvain-la-Neuve (Belgium)."
+setting_email_newsletter: Email Newsletter
+setting_privacy: Privacy
+img_alt_go!: Go!
+You_think_that_iStockCV_is_a: "You think that iStockCV is a kick ass project and really want to let us know - just send us an email at <a href=\"mailto:greatidea@istockcv.com\">greatidea@istockcv.com</a>:) However, if you think that iStockCV will join the other web2.0 startups in the deadpool: we will be glad to get your opinion too (freedom of speech). We will soon launch a blog to interact with you guys."
+We_aim_to_provide_: We aim to provide an easy to use and elegant interface, with thoughtful features and simple tools to recruit the best new talents.
+No_candidates_found: No candidates found
+DASHBOARD_OFFER_STUDENT_JOB_WITHDRAWN_BY_COMPANY_company: You withdrew your offer {offer_link} to {candidate_link}
+Euros_per_month_: "&euro;{count} / month"
+Target: Target
+The_Service_is_billed_in_advance: The Service is billed in advance on a monthly basis and is non-refundable. There will be no refunds or credits for partial months of service, upgrade/downgrade refunds, or refunds for months unused with an open account. In order to treat everyone equally, no exceptions will be made.
+Loading: Loading...
 Yearly_subscription_to_plan_plan: "Yearly subscription to plan {plan} (total: <b>{amount}</b>)"
-You_accepted_job_offer_offer_link: You accepted job offer {offer_link} from {company_link}
-COMPANY_S_NETWORK: "COMPANY\xE2\x80\x99S NETWORK"
+We_are_located_in_the_beautiful: "We are located in the beautiful campus of <a href=\"http://www.uclouvain.be/en-index.html\">Universit\xC3\xA9 Catholique de Louvain</a> at Louvain-la-Neuve (Belgium)."
 Change_ellipsis: Change...
-Action_RelationShip_Confirm_Refuse_Invitation_From_Candidate: Are you sure you want to refuse this candidate invitation?
-DASHBOARD_OFFER_STUDENT_JOB_INITIATED_BY_CANDIDATE_company: "{candidate_link} requested student job offer {offer_link}"
-Free: Free<br/><em><small>(no credit card)</small></em>
+COMPANY_S_NETWORK: "COMPANY\xE2\x80\x99S NETWORK"
+You_accepted_job_offer_offer_link: You accepted job offer {offer_link} from {company_link}
 What_we_offer: "What we offer:"
-company_link_accepted_your_request_for_event: "{company_link} accepted your request for event {offer_link}"
-Remove_company_from_my_network: Remove from my network
+Free: Free<br/><em><small>(no credit card)</small></em>
+DASHBOARD_OFFER_STUDENT_JOB_INITIATED_BY_CANDIDATE_company: "{candidate_link} requested student job offer {offer_link}"
+Action_RelationShip_Confirm_Refuse_Invitation_From_Candidate: Are you sure you want to refuse this candidate invitation?
 Step12_subtitle: Select which contact to add as a fellow from the list bellow. You can also {another_email} to find more fellows.
-Send_: Send!
-Build_your_network: Build your network
-EMAIL_Find_candidates_now: "Find candidates now : "
-Work_experience: Work experience
-You_must_provide_your_legal_full: You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.
-Search_agents: Search agents
+Remove_company_from_my_network: Remove from my network
+company_link_accepted_your_request_for_event: "{company_link} accepted your request for event {offer_link}"
 setting_my_files: My File
-Skill: "Skill:"
-What_social_recruiting_stands_for: "What \xE2\x80\x9Csocial recruiting\xE2\x80\x9D stands for?"
-Receive_requests_to_join_my_network: Receive requests to join a network
-Are_you_sure_discard_invitation: Are you sure you want to discard this invitation?
+Search_agents: Search agents
+You_must_provide_your_legal_full: You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.
+Work_experience: Work experience
+EMAIL_Find_candidates_now: "Find candidates now : "
+Build_your_network: Build your network
+Send_: Send!
 OfferInternship_: "Internship: {offer}"
-Call_scheduled_for: Scheduled for
+Are_you_sure_discard_invitation: Are you sure you want to discard this invitation?
+Receive_requests_to_join_my_network: Receive requests to join a network
+What_social_recruiting_stands_for: "What \xE2\x80\x9Csocial recruiting\xE2\x80\x9D stands for?"
+Skill: "Skill:"
 EMAIL_candidate_has_accepted_your_invitation: "{name} has accepted your invitation on the network iStockCV"
-If_you_have_any_questions_about: If you have any questions about iStockCV or the signup process just get in touch <a href="mailto:sales@istockcv.com">sales@istockcv.com</a> and we'll get back to you the same day.
-With_iStockCV_you_can_t_be: "With iStockCV, you can\xE2\x80\x99t be wrong. Every plan is a month-to-month subscription, so you can upgrade, downgrade or cancel your account at every moment. Yes, it\xE2\x80\x99s that simple."
+Call_scheduled_for: Scheduled for
 Picture: "Picture:"
-Withdraw_presence_at_this_event: Withdraw presence at this event
-There_are_no_results_matching_your_criteria: There are no results matching your criteria.
-DASHBOARD_OFFER_INTERNSHIP_REJECTED_BY_CANDIDATE_candidate: You rejected internship offer {offer_link} from {company_link}
-Priority_customer_service: Priority customer service
-Send_a_job_or_event: Send a job or event
+With_iStockCV_you_can_t_be: "With iStockCV, you can\xE2\x80\x99t be wrong. Every plan is a month-to-month subscription, so you can upgrade, downgrade or cancel your account at every moment. Yes, it\xE2\x80\x99s that simple."
+If_you_have_any_questions_about: If you have any questions about iStockCV or the signup process just get in touch <a href="mailto:sales@istockcv.com">sales@istockcv.com</a> and we'll get back to you the same day.
 Any_company_can_sign_up_Initially: Any company can sign up. Initially, iStockCV has been built to provide an affordable recruiting solution for small (and medium sized) businesses. However, we do not filter companies.
-Here_is_summary_last_24_hours: Here is a summary of the offers you have received on iStockCV the last 24 hours.
-Latest_search_agent_results: Latest search agent results
-What_is_it: What is it?
+Send_a_job_or_event: Send a job or event
+Priority_customer_service: Priority customer service
+DASHBOARD_OFFER_INTERNSHIP_REJECTED_BY_CANDIDATE_candidate: You rejected internship offer {offer_link} from {company_link}
+There_are_no_results_matching_your_criteria: There are no results matching your criteria.
+Withdraw_presence_at_this_event: Withdraw presence at this event
 EMAIL_Call_mail_call_link: "Here is a link to the live conference:"
-tab_settings_link: Settings
-Reply_to_this_message: Reply to this message
-EMAIL_Finding_and_apply_for_offers: "* Finding and apply for offers"
+What_is_it: What is it?
+Latest_search_agent_results: Latest search agent results
+Here_is_summary_last_24_hours: Here is a summary of the offers you have received on iStockCV the last 24 hours.
 Compose_your_offer_event: Compose your event invitation
-DASHBOARD_OFFER_STUDENT_JOB_WITHDRAWN_BY_COMPANY_candidate: "{company_link} withdrew their offer {offer_link} from you"
-EMAIL_Title: "Title:          "
-The_failure_of_iStockCV_to_exercise: The failure of iStockCV to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and iStockCV and govern your use of the Service, superceding any prior agreements between you and iStockCV (including, but not limited to, any prior versions of the Terms of Service).
-company_link_resent_their_offer_offer: "{company_link} resent their offer {offer_link} to you"
+EMAIL_Finding_and_apply_for_offers: "* Finding and apply for offers"
+Reply_to_this_message: Reply to this message
+tab_settings_link: Settings
 Start_a_corporate_blog: Start a company profile
-cancel: cancel
-Charges: "Charges:"
-Does_iStockCV_work_with_Facebook: Does iStockCV work with Facebook?
-Discount_code_optional: Discount code (optional)
-DASHBOARD_OFFER_JOB_DESTROYED: You deleted job offer {offer_link}
-EMAIL_Update_your_Profile: "Update your profile:"
-Search_candidate: Search candidate
+company_link_resent_their_offer_offer: "{company_link} resent their offer {offer_link} to you"
+The_failure_of_iStockCV_to_exercise: The failure of iStockCV to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and iStockCV and govern your use of the Service, superceding any prior agreements between you and iStockCV (including, but not limited to, any prior versions of the Terms of Service).
+EMAIL_Title: "Title:          "
+DASHBOARD_OFFER_STUDENT_JOB_WITHDRAWN_BY_COMPANY_candidate: "{company_link} withdrew their offer {offer_link} from you"
 excluded_company: company to exclude
-Browse_all_our_Database: Browse all our Database
-If_you_would_like_to_keep: "If you would like to keep up with iStockCV notifications without logging in, try subscribing to iStockCV rss feed. Go to your Dashboard and click the RSS feed below the header \xE2\x80\x9CLatest activity\xE2\x80\x9D."
-DASHBOARD_COMPANY_PROFILE_CREATED: You created your company profile
-Event_title: "Event title:"
+Search_candidate: Search candidate
+EMAIL_Update_your_Profile: "Update your profile:"
+DASHBOARD_OFFER_JOB_DESTROYED: You deleted job offer {offer_link}
+Discount_code_optional: Discount code (optional)
+Does_iStockCV_work_with_Facebook: Does iStockCV work with Facebook?
+Charges: "Charges:"
+cancel: cancel
 Messages: Messages
-SideBar_profile_tips: Tips
-Create_a_Profile: Create a Profile
-Start_an_association_profile: Start an association profile
-img_alt_you_are_a_candidate!: You are a candidate!
+Event_title: "Event title:"
+DASHBOARD_COMPANY_PROFILE_CREATED: You created your company profile
+If_you_would_like_to_keep: "If you would like to keep up with iStockCV notifications without logging in, try subscribing to iStockCV rss feed. Go to your Dashboard and click the RSS feed below the header \xE2\x80\x9CLatest activity\xE2\x80\x9D."
+Browse_all_our_Database: Browse all our Database
 EMAIL_The_more_information_you_put_into_offers: The more information you put into these offers the easier it is for others to find them and apply for them. Offers are not limited in the time - edit and delete them as you wish.
-Working_Environment: Working Environment
-COMPANY_S_JOBS: "COMPANY\xE2\x80\x99S JOBS"
-Custom: Academic association
+img_alt_you_are_a_candidate!: You are a candidate!
+Start_an_association_profile: Start an association profile
+Create_a_Profile: Create a Profile
+SideBar_profile_tips: Tips
 As_a_candidate_should_I_worry: As a candidate, should I worry about my contact details?
-YourOfferJobs: Your job offers
-You_said_Facebook: You said Facebook ?
+Custom: Academic association
+COMPANY_S_JOBS: "COMPANY\xE2\x80\x99S JOBS"
+Working_Environment: Working Environment
 Add_a_field_of_occupation: Add a field of occupation
-plan_pro_title: Pro
-Assisted_with_stock_and_sales_records: Assisted with stock and sales records giving me an insight into administrative systems.
-img_alt_student_association: Academic association?
-DASHBOARD_OFFER_EVENT_INITIATED_BY_CANDIDATE_candidate: You requested an invitation to {offer_link} from {company_link}
-DASHBOARD_OFFER_JOB_INITIATED_BY_COMPANY_candidate: You received job offer {offer_link} from {company_link}
-Monthly_subscription_to_plan_plan_with_discount: "Monthly subscription to plan {plan} with {discount}% discount (total: <b>{amount}</b>)"
-Edit_your_offer: Edit your offer
+You_said_Facebook: You said Facebook ?
+YourOfferJobs: Your job offers
 Target_candidate: Target candidate
-DASHBOARD_OFFER_INTERNSHIP_ACCEPTED_BY_CANDIDATE_candidate: You accepted internship offer {offer_link} from {company_link}
-Yep_and_it_s_really_easy: "Yep \xE2\x80\x94 and it's really easy. Simply click on the \"Settings\" tab on your dashboard and you'll see your options. Plus, we'll never hit you up with a \"set-up\" or extra \"one-time\" fee when you upgrade."
-Display_feeds_on_my_dashboard: Display {how_much} feeds on my dashboard
-Call_subject: Subject
-b_Rule_n_4_b_you: "<b>Rule n\xC2\xB04:</b> you can not use fake data \xE2\x80\x93 they must be your real personal data."
+Edit_your_offer: Edit your offer
+Monthly_subscription_to_plan_plan_with_discount: "Monthly subscription to plan {plan} with {discount}% discount (total: <b>{amount}</b>)"
+DASHBOARD_OFFER_JOB_INITIATED_BY_COMPANY_candidate: You received job offer {offer_link} from {company_link}
+DASHBOARD_OFFER_EVENT_INITIATED_BY_CANDIDATE_candidate: You requested an invitation to {offer_link} from {company_link}
+img_alt_student_association: Academic association?
+Assisted_with_stock_and_sales_records: Assisted with stock and sales records giving me an insight into administrative systems.
+plan_pro_title: Pro
 quick_links: Quick Links
-Business_Awareness_Active_member_of_the: "Business Awareness: Active member of the university business club \xE2\x80\x93 winner of the \xE2\x80\x9CBest business pitch\xE2\x80\x9D award 2007."
-Remove_strong_company_from_my_network: Remove <strong>{company}</strong> from my network
-Please_validate_and_communicate_this_email_to_the_association: "Please validate and communicate this email to the association:"
-You_created_your_company_profile: You created your company profile
+b_Rule_n_4_b_you: "<b>Rule n\xC2\xB04:</b> you can not use fake data \xE2\x80\x93 they must be your real personal data."
+Call_subject: Subject
+Display_feeds_on_my_dashboard: Display {how_much} feeds on my dashboard
+Yep_and_it_s_really_easy: "Yep \xE2\x80\x94 and it's really easy. Simply click on the \"Settings\" tab on your dashboard and you'll see your options. Plus, we'll never hit you up with a \"set-up\" or extra \"one-time\" fee when you upgrade."
+DASHBOARD_OFFER_INTERNSHIP_ACCEPTED_BY_CANDIDATE_candidate: You accepted internship offer {offer_link} from {company_link}
 EMAIL_Call_mail_object_callee: "{caller} has scheduled an online interview with you."
-EMAIL_You_can_create_five_kinds_of: "You can create five kinds of offers : jobs, students jobs, internships, theses and events."
-Please_activate_your_new_account_on: Please activate your new account on iStockCV
-Required_skills: "Required skills:"
-Make_my_Profile_Public: Make my Profile Public
-Privacy_Policy: Privacy Policy
-In_your_network: In your network
+You_created_your_company_profile: You created your company profile
+Please_validate_and_communicate_this_email_to_the_association: "Please validate and communicate this email to the association:"
+Remove_strong_company_from_my_network: Remove <strong>{company}</strong> from my network
+Business_Awareness_Active_member_of_the: "Business Awareness: Active member of the university business club \xE2\x80\x93 winner of the \xE2\x80\x9CBest business pitch\xE2\x80\x9D award 2007."
 setting_I_am_an_employee: I am an employee
-SideBar_password: Account Fellownation
-DASHBOARD_OFFER_STUDENT_JOB_CANCELLED_BY_CANDIDATE_candidate: You cancelled your acceptation of student job offer {offer_link} from {company_link}
-DASHBOARD_OFFER_STUDENT_JOB_DESTROYED: You deleted student job offer {offer_link}
-language_german: German
+In_your_network: In your network
+Privacy_Policy: Privacy Policy
+Make_my_Profile_Public: Make my Profile Public
+Required_skills: "Required skills:"
+Please_activate_your_new_account_on: Please activate your new account on iStockCV
+EMAIL_You_can_create_five_kinds_of: "You can create five kinds of offers : jobs, students jobs, internships, theses and events."
+Homepage_student_desc: <p><strong>Connect</strong> with potential employers and keep in touch with friends and classmates.</p> <p><strong>Create and publish your professional profile</strong>, build your network, share information with your fellows.</p> <p><strong>Gain valuable information</strong> about companies, get tips from former students and active professionals. <strong>It's easy, free and powerful</strong>.</p>
 setting_contact_information: Contact Information
-Homepage_student_desc: |-
-  <p><strong>Connect</strong> with potential employers and keep in touch with friends and classmates.</p>
-  <p><strong>Create and publish your professional profile</strong>, build your network, share information with your fellows.</p>
-  <p><strong>Gain valuable information</strong> about companies, get tips from former students and active professionals. <strong>It's easy, free and powerful</strong>.</p>
-Email_template_activated_account_subject: Welcome to Fellownation, {first_name} {last_name} ({user_name})!
-static_frequently_asked_questions_link: Frequently asked questions
-A_new_association_has_just_signed_up: A new association has just signed up on iStockCV!
-OfferJob_: "Offer: {offer}"
-The_plan_you_chose_does_not: The plan you chose does not exist
+language_german: German
+DASHBOARD_OFFER_STUDENT_JOB_DESTROYED: You deleted student job offer {offer_link}
+DASHBOARD_OFFER_STUDENT_JOB_CANCELLED_BY_CANDIDATE_candidate: You cancelled your acceptation of student job offer {offer_link} from {company_link}
+SideBar_password: Account Fellownation
 setting_password: Password
-Europe_is_late_again: Europe is late (again)
-limited: limited
-Add_the_iStockCV_application_to_my: Add the iStockCV application to my Facebook account
-page: page
-You_have_created_a_new_CV: You have created a new CV in {language}. We have pre-filled it with contents from your first CV to help you translate it.
+The_plan_you_chose_does_not: The plan you chose does not exist
+OfferJob_: "Offer: {offer}"
+A_new_association_has_just_signed_up: A new association has just signed up on iStockCV!
+static_frequently_asked_questions_link: Frequently asked questions
+Email_template_activated_account_subject: Welcome to Fellownation, {first_name} {last_name} ({user_name})!
 setting_private_text_emails: Private text Emails
-language_spanish: Spanish
-Personal_information: Personal information
-You_don_t_have_enough_credits: You don't have enough credits. To use this functionality you must upgrade your account and buy credits.
-Delete_this_tag: Delete this tag
+You_have_created_a_new_CV: You have created a new CV in {language}. We have pre-filled it with contents from your first CV to help you translate it.
+page: page
+Add_the_iStockCV_application_to_my: Add the iStockCV application to my Facebook account
+limited: limited
+Europe_is_late_again: Europe is late (again)
 Body: Body
-Website: "Website:"
-language_english: English
-candidate_link_rejected_your_job_offer: "{candidate_link} rejected your job offer {offer_link}"
+Delete_this_tag: Delete this tag
+You_don_t_have_enough_credits: You don't have enough credits. To use this functionality you must upgrade your account and buy credits.
+Personal_information: Personal information
+language_spanish: Spanish
 Advanced_search: Advanced search
-Yes_Facebook_Social_networks_like_Facebook: "Yes, Facebook. Social networks like Facebook could be a great source for recruitment. However, since <b>Invasion of Privacy</b> is the first concern: just forget it. There is an interesting trend there that we cannot ignore - if people can find a job within a social network, congrats because this is the goal we deeply share at iStockCV. However, a social network should remain an utility tool for fun. When you look for a job (especially for the first time) you must make a good impression, look professional. Then, what image gives a candidate who has been seen wasted at a students' party on her/his Facebook profile?"
-Place_colon: "Place:"
-Companies_in_your_network: Companies in your network
-Send_the_following_offer_thesis: "Send the following thesis offer:"
+candidate_link_rejected_your_job_offer: "{candidate_link} rejected your job offer {offer_link}"
+language_english: English
+Website: "Website:"
 Step2_subtitle: This information will help ......................................
-New_job_offer_received: "New job offer received: "
+Send_the_following_offer_thesis: "Send the following thesis offer:"
+Companies_in_your_network: Companies in your network
+Place_colon: "Place:"
+Yes_Facebook_Social_networks_like_Facebook: "Yes, Facebook. Social networks like Facebook could be a great source for recruitment. However, since <b>Invasion of Privacy</b> is the first concern: just forget it. There is an interesting trend there that we cannot ignore - if people can find a job within a social network, congrats because this is the goal we deeply share at iStockCV. However, a social network should remain an utility tool for fun. When you look for a job (especially for the first time) you must make a good impression, look professional. Then, what image gives a candidate who has been seen wasted at a students' party on her/his Facebook profile?"
 Showing_candidates_in_your_network_: Showing candidates {from}-{to} of {total} in your network
-Your_job_offers: Your job offers
-New_event: New event
-Misc: Misc
-tab_dashboard_link: Dashboard
+New_job_offer_received: "New job offer received: "
 Discard_rec: Click here to cancel your video mail
-Your_offer_theses: Your theses
-We_are_talking_today_about_deep: "We are talking today about deep changes... Changes in the structure and modus operandi of corporation based on new competitive principles such as openness, peering and sharing. Companies must build relationships beyond its walls, and be more transparent with what is happening inside the organization. And this is also true for recruitment purposes. iStockCV wants to provide \xE2\x80\x9Csocial\xE2\x80\x9D tools that enable companies to express their working environment, human dimension beyond its walls."
-Action_RelationShip_Confirm_Refuse_Invitation_From_Company: Are you sure you want to refuse this company invitation?
+tab_dashboard_link: Dashboard
+Misc: Misc
+New_event: New event
+Your_job_offers: Your job offers
 EMAIL_Complete_my_profile_now: "Complete my profile now : "
-EMAIL_Adding_candidates_and_send_offers: "* Adding candidates and send offers"
-How_does_the_free_plan_work: How does the free plan work?
-EMAIL_other_user_name_requested_to_add: "{name} requested to add you as a connection on iStockCV. Please log in to iStockCV to view this notification on your Dashboard, or just click the link below (you will have to log in first)."
-Edit_this_offer_student_job: Edit this student job
-Just_click_the_button_below_and: Just click the button below and you will get your new credits.
+Action_RelationShip_Confirm_Refuse_Invitation_From_Company: Are you sure you want to refuse this company invitation?
+We_are_talking_today_about_deep: "We are talking today about deep changes... Changes in the structure and modus operandi of corporation based on new competitive principles such as openness, peering and sharing. Companies must build relationships beyond its walls, and be more transparent with what is happening inside the organization. And this is also true for recruitment purposes. iStockCV wants to provide \xE2\x80\x9Csocial\xE2\x80\x9D tools that enable companies to express their working environment, human dimension beyond its walls."
+Your_offer_theses: Your theses
 Sidebar_public_who_are_we: Who we are
-Graduate_school: "Graduate school:"
-Job_title_and_location: "Job title and location:"
+Just_click_the_button_below_and: Just click the button below and you will get your new credits.
+Edit_this_offer_student_job: Edit this student job
+EMAIL_other_user_name_requested_to_add: "{name} requested to add you as a connection on iStockCV. Please log in to iStockCV to view this notification on your Dashboard, or just click the link below (you will have to log in first)."
+How_does_the_free_plan_work: How does the free plan work?
+EMAIL_Adding_candidates_and_send_offers: "* Adding candidates and send offers"
 company_link_resent_their_invitation_to: "{company_link} resent their invitation to {offer_link} to you"
-Warning_this_offer_has_been_updated: "Warning: this offer has been updated since you have accepted it."
-Your_offer_events: Your events
-tab_my_account_link: My account
+Job_title_and_location: "Job title and location:"
+Graduate_school: "Graduate school:"
 b_Rule_n_8_b_we: "<b>Rule n\xC2\xB08:</b> we will publish the result by email and we will get in touch personally with the winner."
-New_student_job_offer_received: New student job offer received
-Could_not_find_picture: Could not find picture.
-Good_knowledge_of_RoR_and_Javascript: Good knowledge of RoR and Javascript libraries (Prototype, script.aculo.us, ...)
-Round_up: Round-up
+tab_my_account_link: My account
+Your_offer_events: Your events
+Warning_this_offer_has_been_updated: "Warning: this offer has been updated since you have accepted it."
 EMAIL_Call_mail_object_caller: Online interview with {callee} scheduled.
-Euros_per_year_: "&euro;{count} / year"
-employers_stating_that_graduates_are_lazy: employers stating that "graduates are lazy" or "they don't know what working is"
-Signup: Signup!
+Round_up: Round-up
+Good_knowledge_of_RoR_and_Javascript: Good knowledge of RoR and Javascript libraries (Prototype, script.aculo.us, ...)
+Could_not_find_picture: Could not find picture.
+New_student_job_offer_received: New student job offer received
 are_you_sure_to_delete_this_message: Are you sure to delete this message ?
-Purchase_of_credits_credits: "Purchase of {credits} credits (total: <b>{amount}</b>)"
-b_Rule_n_12_b_the: "<b>Rule n\xC2\xB012:</b> the 5 other people who will join the winner must also have their published profile on iStockCV."
-No_event: No event.
-skip_this_step: skip this step
+Signup: Signup!
+employers_stating_that_graduates_are_lazy: employers stating that "graduates are lazy" or "they don't know what working is"
+Euros_per_year_: "&euro;{count} / year"
 Signup_public_url_restricted: Username has already been taken.
-Working_environment: "Working environment:"
+skip_this_step: skip this step
+No_event: No event.
+b_Rule_n_12_b_the: "<b>Rule n\xC2\xB012:</b> the 5 other people who will join the winner must also have their published profile on iStockCV."
+Purchase_of_credits_credits: "Purchase of {credits} credits (total: <b>{amount}</b>)"
 setting_email_newsletter_label: Yes please send me great updates once a while !
-Skills_needed: Skills needed
-Search_offer: "Search offers:"
-What_is_the_No_Cure_No: "What is the \xE2\x80\x9CNo Cure, No Pay\xE2\x80\x9D system?"
-motto: A recruiting network for students and young professionals
-Count_credits_per_request: pluralize{{count}, credit, credits} per request
-DASHBOARD_OFFER_THESIS_ACCEPTED_BY_COMPANY_company: You accepted the request for thesis offer {offer_link} by {candidate_link}
-Posted_time_ago_: Posted {time} ago
+Working_environment: "Working environment:"
 Yes_I_want_to_switch_to_: Yes, I want to switch to {plan} plan
-We_collect_the_e_mail_addresses: "We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you\xE2\x80\x99ve requested, when we have your permission, or under the following circumstances: first, it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law; second, we transfer information about you if iStockCV is acquired by or merged with another company. In this event, iStockCV will notify you before information about you is transferred and becomes subject to a different privacy policy."
-Action_Relationship_Add_Candidate: Invite <strong>{candidate}</strong> to my network
-The_purpose_of_this_section_is: "The purpose of this section is to demonstrate to employers the skills you have acquired whilst in the work place. For instance:"
-Plan_details: Plan details
+Posted_time_ago_: Posted {time} ago
+DASHBOARD_OFFER_THESIS_ACCEPTED_BY_COMPANY_company: You accepted the request for thesis offer {offer_link} by {candidate_link}
+Count_credits_per_request: pluralize{{count}, credit, credits} per request
+motto: A recruiting network for students and young professionals
+What_is_the_No_Cure_No: "What is the \xE2\x80\x9CNo Cure, No Pay\xE2\x80\x9D system?"
+Search_offer: "Search offers:"
+Skills_needed: Skills needed
 Check_out_and_modify_your: "1) Check out and modify your contact information 2) The plan details gives your a summary of the billing information 3) If you want to buy more credit: just click the desired number and follow the billing process. 4) Each plan should fit your consumption. You are free to upgrade or downgrade you plan as you want: one click and your done."
-Free_until_September: Free until September
-discard_link: Discard
-DASHBOARD_OFFER_INTERNSHIP_INITIATED_BY_COMPANY_candidate: You received internship offer {offer_link} from {company_link}
+Plan_details: Plan details
+The_purpose_of_this_section_is: "The purpose of this section is to demonstrate to employers the skills you have acquired whilst in the work place. For instance:"
+Action_Relationship_Add_Candidate: Invite <strong>{candidate}</strong> to my network
+We_collect_the_e_mail_addresses: "We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you\xE2\x80\x99ve requested, when we have your permission, or under the following circumstances: first, it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law; second, we transfer information about you if iStockCV is acquired by or merged with another company. In this event, iStockCV will notify you before information about you is transferred and becomes subject to a different privacy policy."
 Here_is_summary_last_week: Here is a summary of the offers you have received on iStockCV the last week.
-You_accepted_the_request_for_offer: You accepted the request for offer {offer_link} by {candidate_link}
+DASHBOARD_OFFER_INTERNSHIP_INITIATED_BY_COMPANY_candidate: You received internship offer {offer_link} from {company_link}
+discard_link: Discard
+Free_until_September: Free until September
 still_working_there: " (still working there)"
-Up_to_: Up to {count}
+You_accepted_the_request_for_offer: You accepted the request for offer {offer_link} by {candidate_link}
+No_network_notifier: <strong> Please choose your network at {profile_link} </strong>
+Add_company_to_my_network: Add to my network
+EMAIL_company_has_accepted_your_invitation: "{name} has accepted your invitation on network iStockCV"
+log_out_link: Log out
+From_to_at_: From {from_time} to {to_time} at {place}.
 New_call_below: |-
   <p>
   <strong>Note:</strong> Your recipient will receive these information by email plus a notification on his/her "Dashboard".
   </p>
-From_to_at_: From {from_time} to {to_time} at {place}.
-log_out_link: Log out
-EMAIL_company_has_accepted_your_invitation: "{name} has accepted your invitation on network iStockCV"
-Add_company_to_my_network: Add to my network
-No_network_notifier: <strong> Please choose your network at {profile_link} </strong>
-Explore_the_job_offer_2: "1) Explore the job offer 2) Interested by this job offer? You can interact with this company by applying, add the company to you network or just discard the job offer 3) You\xE2\x80\x99ve got also some actions like recommending this job offer to a friend 4) At any time, you can jump to a bookmarked job offer."
-Your_profile_status_was_successfully_changed: Your profile status was successfully changed.
-Fields_of_occupation: Job categories
+Up_to_: Up to {count}
 Score_title_sidebar: REWARDS
-Build_a_multilingual_profile_2: 1) Set your profile in another/several language(s) 2) Update your status (e.g. working, looking for a job) 3) Write your profile by filling out your personals details, education, languages, skills etc. 4) Add tags to your profile in order to increase your chances fo being found.
+Fields_of_occupation: Job categories
+Your_profile_status_was_successfully_changed: Your profile status was successfully changed.
+Explore_the_job_offer_2: "1) Explore the job offer 2) Interested by this job offer? You can interact with this company by applying, add the company to you network or just discard the job offer 3) You\xE2\x80\x99ve got also some actions like recommending this job offer to a friend 4) At any time, you can jump to a bookmarked job offer."
 Field_of_occupation: "Job category:"
-Choose_a_language: Choose a language
-job_offers_: pluralize{{count}, job offer, job offers}
+Build_a_multilingual_profile_2: 1) Set your profile in another/several language(s) 2) Update your status (e.g. working, looking for a job) 3) Write your profile by filling out your personals details, education, languages, skills etc. 4) Add tags to your profile in order to increase your chances fo being found.
 Email_template_candidate_company_relationship_accepted_company_subject: <user_fullname> has accepted your invitation on the network iStockCV
-static_faq_link: FAQ
-img_alt_you_are_a_candidate?: You are a candidate?
-N_A: N/A
-Choose_your_URL: "Choose your URL:"
-Send_the_following_offer_event: "Send the following event invitation:"
-Show_hide_video: Show/Hide video recorder
+job_offers_: pluralize{{count}, job offer, job offers}
+Choose_a_language: Choose a language
 setting_picture: Picture
-EMAIL_invitation_accepted_subject: "{name} has accepted your invitation on the network Fellownation"
-Event_positive_answers_count: Positive answers ({count}/{total} offers)
-Choose_a_per_year_subscription_and: Choose a per-year subscription and get <em>2 months free</em> per year (a <strong>{amount} &euro;</strong> savings) !
-Delete_this_CV_: Delete this ({language}) CV
+Show_hide_video: Show/Hide video recorder
+Send_the_following_offer_event: "Send the following event invitation:"
+Choose_your_URL: "Choose your URL:"
+N_A: N/A
+img_alt_you_are_a_candidate?: You are a candidate?
+static_faq_link: FAQ
 b_Rule_n_7_b_the: "<b>Rule n\xC2\xB07:</b> the winner will be picked out randomly amount all the registered candidates on August 1st, 2008."
-DASHBOARD_RELATIONSHIP_ACCEPTED_BY_CANDIDATE_candidate: You accepted the invitation from company {company_link}
-You_must_not_modify_adapt_or: You must not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service, iStockCV, or any other iStockCV service.
-DASHBOARD_RELATIONSHIP_REJECTED_BY_CANDIDATE_candidate: You rejected the invitation from company {company_link}
-Fast_and_easy: Fast and easy
+Delete_this_CV_: Delete this ({language}) CV
+Choose_a_per_year_subscription_and: Choose a per-year subscription and get <em>2 months free</em> per year (a <strong>{amount} &euro;</strong> savings) !
+Event_positive_answers_count: Positive answers ({count}/{total} offers)
+EMAIL_invitation_accepted_subject: "{name} has accepted your invitation on the network Fellownation"
 Please_visit_this_url_to_validate: "Please visit this url to validate your new email address on iStockCV:"
-Target_job_locations: Target job locations
-b_Rule_n_11_b_following: "<b>Rule n\xC2\xB011:</b> following the information received by the winner, iStockCV will book the hotel and the fight; afterwards, iStockCV will not be responsible for any change."
+Fast_and_easy: Fast and easy
+DASHBOARD_RELATIONSHIP_REJECTED_BY_CANDIDATE_candidate: You rejected the invitation from company {company_link}
+You_must_not_modify_adapt_or: You must not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service, iStockCV, or any other iStockCV service.
+DASHBOARD_RELATIONSHIP_ACCEPTED_BY_CANDIDATE_candidate: You accepted the invitation from company {company_link}
 of_them_: "{count} of them"
-DASHBOARD_OFFER_JOB_RESENT_BY_COMPANY_candidate: "{company_link} resent their offer {offer_link} to you"
-EMAIL_Kind_regards: Kind regards,
+b_Rule_n_11_b_following: "<b>Rule n\xC2\xB011:</b> following the information received by the winner, iStockCV will book the hotel and the fight; afterwards, iStockCV will not be responsible for any change."
+Target_job_locations: Target job locations
 static_candidate_homepage_link: Candidate homepage
-YourOfferInternships: Your internship offers
-b_Rule_n_2_b_your: "<b>Rule n\xC2\xB02:</b> your profile must be completely filled out."
-Social_networks_like_Facebook_could_be: "Social networks like Facebook could be a great source for recruitment. However, since Invasion of Privacy is the first concern: just forget it. There is an interesting trend there that we cannot ignore - if people can find a job within a social network, congrats because this is the goal we deeply share at iStockCV. However, a social network should remain an utility tool for fun. When you look for a job (especially for the first time) you must make a good impression, you must be professional. Then, what image gives a candidate who has been see drunk at a students' party on Facebook?"
-Your_profile_colon: "Your profile:"
+EMAIL_Kind_regards: Kind regards,
+DASHBOARD_OFFER_JOB_RESENT_BY_COMPANY_candidate: "{company_link} resent their offer {offer_link} to you"
 Profile_succesfully_updated: Profile succesfully updated.
-Years_of_study: "Years of study:"
-Anywhere: Anywhere
-Price_per_credit: Price per credit
+Your_profile_colon: "Your profile:"
+Social_networks_like_Facebook_could_be: "Social networks like Facebook could be a great source for recruitment. However, since Invasion of Privacy is the first concern: just forget it. There is an interesting trend there that we cannot ignore - if people can find a job within a social network, congrats because this is the goal we deeply share at iStockCV. However, a social network should remain an utility tool for fun. When you look for a job (especially for the first time) you must make a good impression, you must be professional. Then, what image gives a candidate who has been see drunk at a students' party on Facebook?"
+b_Rule_n_2_b_your: "<b>Rule n\xC2\xB02:</b> your profile must be completely filled out."
+YourOfferInternships: Your internship offers
 Unlimited: Unlimited
-SideBar_profile_tips_desc: lorem ipsum lalablabal balbalablab albalablabalb
-DASHBOARD_OFFER_JOB_INITIATED_BY_CANDIDATE_company: "{candidate_link} requested job offer {offer_link}"
-Withdraw_invitation: Withdraw invitation
-Action_Relationship_Withdraw_Invitation_To_Candidate_Short: Withdraw
-Event_description: "Event description:"
-EMAIL_Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
-Express_yourself: Express yourself
+Price_per_credit: Price per credit
+Anywhere: Anywhere
+Years_of_study: "Years of study:"
 Sidebar_public_tips: Our Tips
-Don_t_panic_it_is_normal: "Don\xE2\x80\x99t panic - it is normal. Since iStockCV is a beta version we haven\xE2\x80\x99t deployed all the features. We keep implementing the product: be patient. Meanwhile, if we can make you happy by any means: contact us at <a href=\"mailto:feedback@istockcv.com\">feedback@istockcv.com</a>. If you want to discover the cool new upcoming features: check out our <a href=\"http://istockcv.wordpress.com/2008/05/23/543210-istockcv-is-alive-its-alive/\">blog post</a>."
-Compose_an_offer: Job
-You_have_no_messages_for_the: You have no messages for the moment.
-Please_create_your_profile_first: Please create your profile first!
-It_concerns_companies_only_This_system: "It concerns companies only. This system is <b>the most reliable and democratic system</b> we could offer to companies. It means that you only pay if you get a positive answer from the candidate. Each time you send a job offer, an event invitation or simply add a candidate to your network, it will cost you a credit (from 1\xE2\x82\xAC to 5\xE2\x82\xAC depending your plan). In the case, the candidate refuses (e.g. your job offer), you get back your credit."
-easily_stock_and_keep_your_CV: "easily stock and keep your CV up-to-date. Writing a CV is really painful - nevertheless you must do it. At iStockCV we help you to write it and stock it; you are free then to update and export it. It's pretty easy: you fill out your profile (like in Facebook) and we generate a chronological, academic or skills-based CV. Awesome, isn\xE2\x80\x99t it?"
-Can_I_change_plans_at_any: Can I change plans at any time?
-DASHBOARD_OFFER_THESIS_RESENT_BY_COMPANY_company: You resent your thesis offer {offer_link} to {candidate_link}
-User_details: User details
-setting_make_my_walls_private: Make my walls private
-Homepage_join_the_nation: Join the nation. Meet your fellows.
+Express_yourself: Express yourself
+EMAIL_Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
+Event_description: "Event description:"
+Action_Relationship_Withdraw_Invitation_To_Candidate_Short: Withdraw
+Withdraw_invitation: Withdraw invitation
+DASHBOARD_OFFER_JOB_INITIATED_BY_CANDIDATE_company: "{candidate_link} requested job offer {offer_link}"
+SideBar_profile_tips_desc: SideBar_profile_tips_desc
 Sidebar_public_tips_desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-SideBar_notice_tips_desc: lorem ipsum lalablabal balbalablab albalablabalb
-EMAIL_Complete_your_profile: "* Complete your profile"
-user_friendly_we_know_you_cannot: "user-friendly: we know you cannot spend hours or even minutes to search a job or a talent. We believe most website is too complex. Too many features, too many buttons, too much confusion. We have built an easy to use website with elegant interfaces and thoughtful features."
-DASHBOARD_RELATIONSHIP_REJECTED_BY_COMPANY_candidate: Company {company_link} rejected your invitation
-Absolutely_You_can_browse_the_database: "Absolutely. You can browse the database and read any candidate's profile. We will only charge you one credit to get the candidate's contact details. And if the candidate doesn't give them to you : you'll get back the credit. That's it \xE2\x80\x94 it's that simple and democratic."
-You_understand_that_iStockCV_uses_third: You understand that iStockCV uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
-DASHBOARD_RELATIONSHIP_ACCEPTED_BY_COMPANY_company: You accepted the invitation from candidate {candidate_link}
-EMAIL_Join_my_network_on_iStockCV: Join my network on iStockCV
-You_updated_your_candidate_profile: You updated your candidate profile
+Homepage_join_the_nation: Join the nation. Meet your fellows.
+setting_make_my_walls_private: Make my walls private
+User_details: User details
+DASHBOARD_OFFER_THESIS_RESENT_BY_COMPANY_company: You resent your thesis offer {offer_link} to {candidate_link}
+Can_I_change_plans_at_any: Can I change plans at any time?
+easily_stock_and_keep_your_CV: "easily stock and keep your CV up-to-date. Writing a CV is really painful - nevertheless you must do it. At iStockCV we help you to write it and stock it; you are free then to update and export it. It's pretty easy: you fill out your profile (like in Facebook) and we generate a chronological, academic or skills-based CV. Awesome, isn\xE2\x80\x99t it?"
+It_concerns_companies_only_This_system: "It concerns companies only. This system is <b>the most reliable and democratic system</b> we could offer to companies. It means that you only pay if you get a positive answer from the candidate. Each time you send a job offer, an event invitation or simply add a candidate to your network, it will cost you a credit (from 1\xE2\x82\xAC to 5\xE2\x82\xAC depending your plan). In the case, the candidate refuses (e.g. your job offer), you get back your credit."
+Please_create_your_profile_first: Please create your profile first!
+You_have_no_messages_for_the: You have no messages for the moment.
+Compose_an_offer: Job
+Don_t_panic_it_is_normal: "Don\xE2\x80\x99t panic - it is normal. Since iStockCV is a beta version we haven\xE2\x80\x99t deployed all the features. We keep implementing the product: be patient. Meanwhile, if we can make you happy by any means: contact us at <a href=\"mailto:feedback@istockcv.com\">feedback@istockcv.com</a>. If you want to discover the cool new upcoming features: check out our <a href=\"http://istockcv.wordpress.com/2008/05/23/543210-istockcv-is-alive-its-alive/\">blog post</a>."
 You_have_received_a_new_offer: "You have received a new offer:"
-So_we_came_up_with_this: "To give you an incentive to join iStockCV, we came up with this fantastic trip to win. You leave with your 5 friends on a Saturday morning to reach the European city of your choice. Then: IstockCV offers you the party of a life-time with all expenses paid. On Sunday, we\xE2\x80\x99ll fly you back home with your hangover."
-By_using_the_istockcv_com_web: "By using the istockcv.com web site you are agreeing to be bound by the following terms and conditions (\xE2\x80\x9CTerms of Service\xE2\x80\x9D)."
-Reconfirm_presence_at_this_event: Reconfirm presence at this event
-Keep_it_brief_description: "Keep it brief at three of four lines maximum. It will appear at the top of your profile, thus it should immediately capture the reader\xE2\x80\x99s interest and entice them to read on! Use is to emphasize two or three main strengths."
+You_updated_your_candidate_profile: You updated your candidate profile
+EMAIL_Join_my_network_on_iStockCV: Join my network on iStockCV
+DASHBOARD_RELATIONSHIP_ACCEPTED_BY_COMPANY_company: You accepted the invitation from candidate {candidate_link}
+You_understand_that_iStockCV_uses_third: You understand that iStockCV uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
+Absolutely_You_can_browse_the_database: "Absolutely. You can browse the database and read any candidate's profile. We will only charge you one credit to get the candidate's contact details. And if the candidate doesn't give them to you : you'll get back the credit. That's it \xE2\x80\x94 it's that simple and democratic."
+DASHBOARD_RELATIONSHIP_REJECTED_BY_COMPANY_candidate: Company {company_link} rejected your invitation
+user_friendly_we_know_you_cannot: "user-friendly: we know you cannot spend hours or even minutes to search a job or a talent. We believe most website is too complex. Too many features, too many buttons, too much confusion. We have built an easy to use website with elegant interfaces and thoughtful features."
+EMAIL_Complete_your_profile: "* Complete your profile"
+SideBar_notice_tips_desc: lorem ipsum lalablabal balbalablab albalablabalb
 tab_application_link: Application
-DASHBOARD_OFFER_THESIS_REJECTED_BY_CANDIDATE_candidate: You rejected thesis offer {offer_link} from {company_link}
-OfferEvent_: "Event: {offer}"
-Credits: "Credits:"
-You_are_solely_responsible_for_properly: You are solely responsible for properly canceling your account. An email is considered cancellation. You can cancel your account at any time by sending an email to sales@istockcv.com.
-My_rewards: My rewards
-Send_a_message_to_company: Send a message to <strong>{company}</strong>
+Keep_it_brief_description: "Keep it brief at three of four lines maximum. It will appear at the top of your profile, thus it should immediately capture the reader\xE2\x80\x99s interest and entice them to read on! Use is to emphasize two or three main strengths."
+Reconfirm_presence_at_this_event: Reconfirm presence at this event
+By_using_the_istockcv_com_web: "By using the istockcv.com web site you are agreeing to be bound by the following terms and conditions (\xE2\x80\x9CTerms of Service\xE2\x80\x9D)."
+So_we_came_up_with_this: "To give you an incentive to join iStockCV, we came up with this fantastic trip to win. You leave with your 5 friends on a Saturday morning to reach the European city of your choice. Then: IstockCV offers you the party of a life-time with all expenses paid. On Sunday, we\xE2\x80\x99ll fly you back home with your hangover."
 Email_template_activated_account: "Hello fellow!\n\n\
   We're excited you're now part of the nation! Fellowation is all about communication between fellows : friends, students, colleagues, professors, future employers, alumni etc.\n\n\
   It's real-time information network powered by people all around you that lets you share and discover what\xE2\x80\x99s happening now.\n\n\
@@ -1382,45 +1367,56 @@ Email_template_activated_account: "Hello fellow!\n\n\
   The Fellownation Team\n\n\
   =======================================\n\
   Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Fellownation. For general inquiries or to request support with your Fellownation account, please visit us at Fellownation Support."
-What_types_of_payment_do_you: What types of payment do you accept? Will you take a P.O.? Can you invoice us?
-Error_Offering_NotEnoughCredits: You don't have enough credits to send that job/event to candidates. Refill your account now (click <a href='/company/account'>here</a>).
-Warning_If_you_downgrade_your_account: "Warning : If you downgrade your account you might loose candidates in your network, saved search agents and slots! The system will keep only the latest jobs/events, the latest search agents created and the latest candidates added to your network."
-DASHBOARD_OFFER_THESIS_ACCEPTED_BY_CANDIDATE_candidate: You accepted thesis offer {offer_link} from {company_link}
-EMAIL_Log_in_now_and_expand_your_network: Log in now ({url}) and expand your network!
+Send_a_message_to_company: Send a message to <strong>{company}</strong>
+My_rewards: My rewards
+You_are_solely_responsible_for_properly: You are solely responsible for properly canceling your account. An email is considered cancellation. You can cancel your account at any time by sending an email to sales@istockcv.com.
+Credits: "Credits:"
+OfferEvent_: "Event: {offer}"
+DASHBOARD_OFFER_THESIS_REJECTED_BY_CANDIDATE_candidate: You rejected thesis offer {offer_link} from {company_link}
 Write_a_profile_for_you: "1) Write a profile for you company (We will add very soon a blog and allow you to publish videos and pictures.)2) You can publish your profile or hide it : your job offers and event invitations will also be published (see CANDIDATE\xE2\x80\x99S NETWORK #2 above) 3) Upload your company logo."
-Per_year_subscription: Per-year subscription?
-You_accepted_the_invitation_from_candidate: You accepted the invitation from candidate {candidate_link}
-You_can_cancel_your_account_at: You can cancel your account at any time. You just need to send <a href="mailto:sales@istockcv.com">sales@istockcv.com</a>. If you cancel your account, you will loose definitively all you data (e.g. your network, profile, credits etc.).
-Please_a_href_mailto_info_belighted: Please, <a href="mailto:info@belighted.com">contact us now</a> if you want to share your passion with us!
-DASHBOARD_OFFER_JOB_UPDATED: You updated job offer {offer_link}
+EMAIL_Log_in_now_and_expand_your_network: Log in now ({url}) and expand your network!
+DASHBOARD_OFFER_THESIS_ACCEPTED_BY_CANDIDATE_candidate: You accepted thesis offer {offer_link} from {company_link}
+Warning_If_you_downgrade_your_account: "Warning : If you downgrade your account you might loose candidates in your network, saved search agents and slots! The system will keep only the latest jobs/events, the latest search agents created and the latest candidates added to your network."
+Error_Offering_NotEnoughCredits: You don't have enough credits to send that job/event to candidates. Refill your account now (click <a href='/company/account'>here</a>).
+What_types_of_payment_do_you: What types of payment do you accept? Will you take a P.O.? Can you invoice us?
 Free_entrance: Free entrance
-Our_purpose_is_to_democratize_the: Our purpose is to democratize the access to the job market, especially for entry level jobs. iStockCV aims to provide an easy access to the best new talents from any college and company around the world. It's cheap, user-friendly and we ensure a high-quality database.
-Event_invitations: "Event invitations:"
-Pending: "Pending:"
-DASHBOARD_OFFER_INTERNSHIP_WITHDRAWN_BY_COMPANY_candidate: "{company_link} withdrew their internship offer {offer_link} from you"
-setting_language: Language
+DASHBOARD_OFFER_JOB_UPDATED: You updated job offer {offer_link}
+Please_a_href_mailto_info_belighted: Please, <a href="mailto:info@belighted.com">contact us now</a> if you want to share your passion with us!
+You_can_cancel_your_account_at: You can cancel your account at any time. You just need to send <a href="mailto:sales@istockcv.com">sales@istockcv.com</a>. If you cancel your account, you will loose definitively all you data (e.g. your network, profile, credits etc.).
+You_accepted_the_invitation_from_candidate: You accepted the invitation from candidate {candidate_link}
+Per_year_subscription: Per-year subscription?
 setting_full_name: Full Name
-You_updated_job_offer_offer_link: You updated job offer {offer_link}
-What_is_a_slot: What is a slot?
-DASHBOARD_OFFER_EVENT_ACCEPTED_BY_COMPANY_candidate: "{company_link} accepted your request for event {offer_link}"
-Career_opportunities: "Career opportunities:"
-Task_description: "Task description:"
-DASHBOARD_OFFER_INTERNSHIP_UPDATED: You updated internship offer {offer_link}
+setting_language: Language
+DASHBOARD_OFFER_INTERNSHIP_WITHDRAWN_BY_COMPANY_candidate: "{company_link} withdrew their internship offer {offer_link} from you"
+Pending: "Pending:"
+Event_invitations: "Event invitations:"
+Our_purpose_is_to_democratize_the: Our purpose is to democratize the access to the job market, especially for entry level jobs. iStockCV aims to provide an easy access to the best new talents from any college and company around the world. It's cheap, user-friendly and we ensure a high-quality database.
 Email_template_candidate_company_relationship_accepted_company: |-
   Congratulations! You and <user_fullname> are now connected.
   
   View the full profile of <user_fullname> here (you will have to log in first):
   
   <profile>
-This_account_is_visible: This account is visible
-Action_Relationship_Reject_Invitation_From_Candidate: Reject invitation from <strong>{candidate}</strong>
-Create_a_job_or_event: Create a job or event
+DASHBOARD_OFFER_INTERNSHIP_UPDATED: You updated internship offer {offer_link}
+Task_description: "Task description:"
+Career_opportunities: "Career opportunities:"
+DASHBOARD_OFFER_EVENT_ACCEPTED_BY_COMPANY_candidate: "{company_link} accepted your request for event {offer_link}"
+What_is_a_slot: What is a slot?
+You_updated_job_offer_offer_link: You updated job offer {offer_link}
 Signup_check_password_blank: Password cannot be blank.
-OfferEventDetails: Event details
-label_first_name: First name
-If_your_bandwidth_usage_exceeds_300: ""
+Create_a_job_or_event: Create a job or event
+Action_Relationship_Reject_Invitation_From_Candidate: Reject invitation from <strong>{candidate}</strong>
+This_account_is_visible: This account is visible
 Latest_activity: Latest activity
+If_your_bandwidth_usage_exceeds_300: ""
+label_first_name: First name
+OfferEventDetails: Event details
 DASHBOARD_RELATIONSHIP_INITIATED_BY_CANDIDATE_company: Candidate {candidate_link} added you to her/his network
+Your_network_where_you_belong_to_desc: Your_network_where_you_belong_to_desc
+We_don_t_store_your_login: "Note: we don't store your login, your password is submitted securely, and we don't email without your permission."
+Type_a_keyword: Type a keyword
+Add_: Add {what}
+DASHBOARD_RELATIONSHIP_INITIATED_BY_COMPANY_company: You invited candidate {candidate_link}
 Video_message: |-
   <div>
   <p>
@@ -1447,202 +1443,196 @@ Video_message: |-
   <strong>Note:</strong> we are still working to improve this feature. Don't hesitate to send us feedbacks.
   </p>
   </div>
-DASHBOARD_RELATIONSHIP_INITIATED_BY_COMPANY_company: You invited candidate {candidate_link}
-Add_: Add {what}
-Type_a_keyword: Type a keyword
-We_don_t_store_your_login: "Note: we don't store your login, your password is submitted securely, and we don't email without your permission."
-Your_network_where_you_belong_to_desc: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-Card_Verification_Code: "Card Verification Code:"
-plan_free_title: Free
-We_claim_no_intellectual_property_rights: We claim no intellectual property rights over the material you provide to the Service. Your profile and materials uploaded remain yours. However, by setting your pages to be shared publicly, you agree to allow others to view and share your Content.
-Your_NEW_plan_conditions: Your NEW plan conditions
 Email_template_notifier_my_follower_subject: "{first_name} {last_name} ({user_name}) is now following you on Fellownation!"
-Check_out: "Check out:"
-Invite_new_friends: Invite new friends...
-No_bill_me_monthly: No, bill me monthly
-Career_Opportunities: Career Opportunities
-Edit_this_offer: Edit this offer
-New_password_again: "New password (again):"
+Your_NEW_plan_conditions: Your NEW plan conditions
+We_claim_no_intellectual_property_rights: We claim no intellectual property rights over the material you provide to the Service. Your profile and materials uploaded remain yours. However, by setting your pages to be shared publicly, you agree to allow others to view and share your Content.
+plan_free_title: Free
+Card_Verification_Code: "Card Verification Code:"
 EMAIL_invitation_created_subject: New message from {name} on iStockCV
-Delete_this_offer: Delete this offer
-static_pricing_link: Pricing
-Enter_a_school_name: Enter a school name
-tab_profile_link: Profile
-Your_network_contains_candidates_: Your network contains <strong>{count}</strong> candidates
+New_password_again: "New password (again):"
+Edit_this_offer: Edit this offer
+Career_Opportunities: Career Opportunities
+No_bill_me_monthly: No, bill me monthly
+Invite_new_friends: Invite new friends...
+Check_out: "Check out:"
 setting_downloaded_file_label: Email when someone has downloaded my files.
-Action_Relationship_Withdraw_Invitation_To_Company_Short: Withdraw
+Your_network_contains_candidates_: Your network contains <strong>{count}</strong> candidates
+tab_profile_link: Profile
+Enter_a_school_name: Enter a school name
+static_pricing_link: Pricing
+Delete_this_offer: Delete this offer
 DASHBOARD_OFFER_THESIS_INITIATED_BY_CANDIDATE_candidate: You requested thesis offer {offer_link} from {company_link}
-City: "City:"
-You_can_choose_our_free_plan: You can choose our free plan and you won't be charged a thing. You will receive one slot to create either a job offer or an event invitation. Also, the free plan allows you to create a company profile and make it visible on the Internet (<a href="http://www.istockcv.com/companies/netlog-nv" target="_blank">check it out</a>).
-EMAIL_Create_offers_now: "Create offers now : "
-Add: Add
-Moment_colon: "Moment:"
-Expiration: "Expiration:"
+Action_Relationship_Withdraw_Invitation_To_Company_Short: Withdraw
 RSS_feed: RSS feed
-There_was_an_error_in_your: There was an error in your batch.
-Prices_of_all_Services_including_but: Prices of all Services, including but not limited to monthly subscription plan fees to the Service, are subject to change upon 30 days notice from us. Such notice may be provided at any time by posting the changes to the iStockCV Site (www. istockcv.com) or the Service itself.
-Apply_for_this_offer: Apply for this offer
-Delete_Picture: Delete Picture
+Expiration: "Expiration:"
+Moment_colon: "Moment:"
+Add: Add
+EMAIL_Create_offers_now: "Create offers now : "
+You_can_choose_our_free_plan: You can choose our free plan and you won't be charged a thing. You will receive one slot to create either a job offer or an event invitation. Also, the free plan allows you to create a company profile and make it visible on the Internet (<a href="http://www.istockcv.com/companies/netlog-nv" target="_blank">check it out</a>).
+City: "City:"
 Edit_event: Edit event
-DASHBOARD_OFFER_EVENT_ACCEPTED_BY_CANDIDATE_company: "{candidate_link} accepted your invitation to {offer_link}"
-Checkout_Just_some_more_information_before: Checkout. Just some more information before getting started.
+Delete_Picture: Delete Picture
+Apply_for_this_offer: Apply for this offer
+Prices_of_all_Services_including_but: Prices of all Services, including but not limited to monthly subscription plan fees to the Service, are subject to change upon 30 days notice from us. Such notice may be provided at any time by posting the changes to the iStockCV Site (www. istockcv.com) or the Service itself.
+There_was_an_error_in_your: There was an error in your batch.
 b_Rule_n_3_b_you: "<b>Rule n\xC2\xB03:</b> you must be between 18 and 28-year-old."
-Referees: References
-events_: pluralize{{count}, event, events}
+Checkout_Just_some_more_information_before: Checkout. Just some more information before getting started.
+DASHBOARD_OFFER_EVENT_ACCEPTED_BY_CANDIDATE_company: "{candidate_link} accepted your invitation to {offer_link}"
 No_event_for_the_moment: No event for the moment.
-Title: Title
-If_you_already_have_an_appointment: "If you already have an appointment to see us and need to call us about it, you can reach us at +32 479 217 225. Otherwise we prefer email initially: <a href=\"mailto:info@istockcv.com\">info@istockcv.com</a>."
+events_: pluralize{{count}, event, events}
+Referees: References
 Your_account_on_iStockCV_has_been_activated: Your account on iStockCV has been activated!
-Please_fill_out_at_least_the: Please, fill out at least the <strong>red fields</strong> first in order to continue.
-Salary: "Salary:"
-Announce_an_event: Event
+If_you_already_have_an_appointment: "If you already have an appointment to see us and need to call us about it, you can reach us at +32 479 217 225. Otherwise we prefer email initially: <a href=\"mailto:info@istockcv.com\">info@istockcv.com</a>."
+Title: Title
 Event_pending_answers_count: Pending answers ({count}/{total} offers)
-Search_results: Search results
-There_is_a_god_sake_obvious: "There is a god sake obvious explanation for that: The information flow between candidates and employers is currently not optimized!!"
-DASHBOARD_OFFER_THESIS_INITIATED_BY_COMPANY_company: You proposed thesis offer {offer_link} to {candidate_link}
-DASHBOARD_OFFER_INTERNSHIP_INITIATED_BY_CANDIDATE_candidate: You requested internship offer {offer_link} from {company_link}
-We_may_but_have_no_obligation: "We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party\xE2\x80\x99s intellectual property or these Terms of Service."
+Announce_an_event: Event
+Salary: "Salary:"
+Please_fill_out_at_least_the: Please, fill out at least the <strong>red fields</strong> first in order to continue.
 Signup_check_network: Choose a network from the list or click "Add yours" to create a new network.
-SideBar_password_tips: Tips
-Refuse: Refuse
-OfferStudentJobDetails: Student job details
+We_may_but_have_no_obligation: "We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party\xE2\x80\x99s intellectual property or these Terms of Service."
+DASHBOARD_OFFER_INTERNSHIP_INITIATED_BY_CANDIDATE_candidate: You requested internship offer {offer_link} from {company_link}
+DASHBOARD_OFFER_THESIS_INITIATED_BY_COMPANY_company: You proposed thesis offer {offer_link} to {candidate_link}
+There_is_a_god_sake_obvious: "There is a god sake obvious explanation for that: The information flow between candidates and employers is currently not optimized!!"
+Search_results: Search results
 Currently_we_accept_Visa_Mastercard_and: We accept <strong>Visa</strong>, <strong>Mastercard</strong>, and <strong>American Express</strong>. For POs, checks, or invoices to be paid at a later date, contact us by phone (+32.479.21.72.25), fax (+32.2.791.57.00) or email at (<a href="mailto:sales@istockcv.com">sales@istockcv.com</a>).
-Step4_subtitle: This information will help you......................................
-a_href_http_istockcv_wordpress_com: <a href="http://istockcv.wordpress.com/2008/06/13/our-presentation-at-the-conference-thinktomorroweu">Our presentation at the conference Think Tomorrow</a>
-candidate_profile_relationship_status_0: Unspecified
-You_can_choose_only_one_language: You can choose only one language.
-Is_there_an_iStockCV_API: Is there an iStockCV API?
-DASHBOARD_OFFER_EVENT_RESENT_BY_COMPANY_candidate: "{company_link} resent their invitation to {offer_link} to you"
+OfferStudentJobDetails: Student job details
+Refuse: Refuse
+SideBar_password_tips: Tips
 Information_architecture_software_engineering: Information architecture, software engineering
-Edit_your_profile_raquo: Edit your profile &raquo;
-candidate_profile_relationship_status_1: Single
-Personal_profile: Personal profile
-pagination_previous: "&laquo; Previous"
-Copyright_2008_All_rights_reserved: Copyright 2009 All rights reserved.
+DASHBOARD_OFFER_EVENT_RESENT_BY_COMPANY_candidate: "{company_link} resent their invitation to {offer_link} to you"
+Is_there_an_iStockCV_API: Is there an iStockCV API?
+You_can_choose_only_one_language: You can choose only one language.
+candidate_profile_relationship_status_0: Unspecified
+a_href_http_istockcv_wordpress_com: <a href="http://istockcv.wordpress.com/2008/06/13/our-presentation-at-the-conference-thinktomorroweu">Our presentation at the conference Think Tomorrow</a>
+Step4_subtitle: This information will help you......................................
 Mobile: "Mobile:"
-candidate_profile_relationship_status_2: Married
-You_understand_that_the_technical_processing: You understand that the technical processing and transmission of the Service, including your Content, may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+Copyright_2008_All_rights_reserved: Copyright 2009 All rights reserved.
+pagination_previous: "&laquo; Previous"
+Personal_profile: Personal profile
+candidate_profile_relationship_status_1: Single
+Edit_your_profile_raquo: Edit your profile &raquo;
 save_time_by_receiving_a_daily: "save time by receiving a daily report. You get in touch with candidates through the 'contact request\" feature. If you find that perfect candidate, you can make contact and ask for contact details (e.g. names, email, mobile phone). If they accept, you are sure they are interested in your company and you don\xE2\x80\x99t loose time in interviewing tons of candidates! Concretely, each day, you receive a summary of these interested candidates with their CV in attachment: the perfect document ready to debrief !"
-You_withdrew_your_offer_offer_link: You withdrew your offer {offer_link} to {candidate_link}
-candidate_profile_relationship_status_3: Divorced
-Address: "Address :"
+You_understand_that_the_technical_processing: You understand that the technical processing and transmission of the Service, including your Content, may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+candidate_profile_relationship_status_2: Married
 EMAIL_The_more_information_you_put_into_company: The more information you put into your profile the easier it is for others to find you and to get to know you.
-Press_Inquiries: Press Inquiries
-Accepted_by: Accepted by
-All_fields_required_for_profile_publication: "All fields marked with \xE2\x80\x9C<span class=\"req-sign\">*</span>\xE2\x80\x9D are required in order for<br /> your profile to be published."
-You_resent_your_invitation_to_offer: You resent your invitation to {offer_link} to {candidate_link}
-candidate_search_with_profile_count_: "{search_name} (pluralize{{profile_count}, profile, profiles})"
+Address: "Address :"
+candidate_profile_relationship_status_3: Divorced
+You_withdrew_your_offer_offer_link: You withdrew your offer {offer_link} to {candidate_link}
 All_fees_are_exclusive_of_all: "All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding residents of the EU. VAT (value added taxes) is applicable to residents of the EU and calculated at the Belgian VAT rate of 21%. If you live outside the EU, you will not be charged the VAT. As a EU resident, if you register your EU VAT code will be exempt from paying VAT. (See Art.21,\xC2\xA73,7\xC2\xB0 VAT code). However, we can only add your VAT registration number at the the beginning of the next invoicing period. An additional entry can only be considered for the next invoice."
-SideBar_profile_desc: lorem ipsum lalablaba lbalbalablaba lbalablabalb
-Interested: Interested?
-Buy_more: Buy more?
-Refund_Policy: Refund Policy
-EMAIL_Click_here_to_view_profile_here: "Click here to view her/his profile (you might have to log in first) :"
-Forms_of_payment: Forms of payment
-iStockCV_attended_the_conference_a_href: iStockCV attended the conference <a href="http://www.trendq.eu/en_85.html">Think Tomorrow</a> organized by  An De Jonghe the CEO of <a href="http://www.ulysses-consulting.com">Ulysses Consulting</a> and founder of <a href="http://www.trendq.eu">TrendQ</a>.
-Action_RelationShip_Confirm_Remove_Candidate: Are you sure you want to delete this candidate from your network?
+candidate_search_with_profile_count_: "{search_name} (pluralize{{profile_count}, profile, profiles})"
+You_resent_your_invitation_to_offer: You resent your invitation to {offer_link} to {candidate_link}
+All_fields_required_for_profile_publication: "All fields marked with \xE2\x80\x9C<span class=\"req-sign\">*</span>\xE2\x80\x9D are required in order for<br /> your profile to be published."
+Accepted_by: Accepted by
+Press_Inquiries: Press Inquiries
 Email_template_notifier_download_file_subject: "Someone has downloaded your \xE2\x80\x98{file_name}\xE2\x80\x99 file on Fellownation"
-Your_account_has_been_reactivated_with: Your account has been reactivated with new email {email}
-DASHBOARD_RELATIONSHIP_WITHDRAWN_BY_CANDIDATE_company: Candidate {candidate_link} removed you from her/his network
-Send_requests_to_join_my_network: Send requests to join my network
-Association: Association
+Action_RelationShip_Confirm_Remove_Candidate: Are you sure you want to delete this candidate from your network?
+iStockCV_attended_the_conference_a_href: iStockCV attended the conference <a href="http://www.trendq.eu/en_85.html">Think Tomorrow</a> organized by  An De Jonghe the CEO of <a href="http://www.ulysses-consulting.com">Ulysses Consulting</a> and founder of <a href="http://www.trendq.eu">TrendQ</a>.
+Forms_of_payment: Forms of payment
+EMAIL_Click_here_to_view_profile_here: "Click here to view her/his profile (you might have to log in first) :"
+Refund_Policy: Refund Policy
+Buy_more: Buy more?
+Interested: Interested?
+SideBar_profile_desc: lorem ipsum lalablaba lbalbalablaba lbalablabalb
 experience: work experience
-A_work_environment_with_wonderful_gear: A work environment with wonderful gear (MacBook Pro, iPhone, ...)
-static_careers_and_jobs_link: Careers &amp; jobs
-iStockCV_does_not_warrant_that_i: iStockCV does not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
-You_withdrew_your_invitation_to_candidate: You withdrew your invitation to candidate {candidate_link}
+Association: Association
+Send_requests_to_join_my_network: Send requests to join my network
+DASHBOARD_RELATIONSHIP_WITHDRAWN_BY_CANDIDATE_company: Candidate {candidate_link} removed you from her/his network
+Your_account_has_been_reactivated_with: Your account has been reactivated with new email {email}
 Location: "Location:"
-EMAIL_You_can_invite_candidates_to_join: "You can invite candidates to join your network by clicking on \"Add to my network\xE2\x80\x9D as a contact. By doing so, you will receive notifications each time they will update their profiles and they will be informed for any change happening on your profile and offers. Finally, you can send offers to your network or to search results."
-Order_confirmation: Order confirmation
-go_back: go back
+You_withdrew_your_invitation_to_candidate: You withdrew your invitation to candidate {candidate_link}
+iStockCV_does_not_warrant_that_i: iStockCV does not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
+static_careers_and_jobs_link: Careers &amp; jobs
+A_work_environment_with_wonderful_gear: A work environment with wonderful gear (MacBook Pro, iPhone, ...)
 inbox: INBOX
-The_following_information_is_available_to_companies: The following information is available to companies.
-Publish_rich_content: Build your network
-DASHBOARD_OFFER_THESIS_ACCEPTED_BY_CANDIDATE_company: "{candidate_link} accepted your thesis offer {offer_link}"
-Help_your_students_alumni: Help your students & alumni
-Other_questions: Other questions?
+go_back: go back
+Order_confirmation: Order confirmation
+EMAIL_You_can_invite_candidates_to_join: "You can invite candidates to join your network by clicking on \"Add to my network\xE2\x80\x9D as a contact. By doing so, you will receive notifications each time they will update their profiles and they will be informed for any change happening on your profile and offers. Finally, you can send offers to your network or to search results."
 Cancellation_and_Termination: Cancellation and Termination
-Edit_offer_job: Edit job
-days_ago_: "{count} days ago"
-EMAIL_You_can_invite_companies_to_join: "You can invite companies to join your network by clicking on \"Add to my network\xE2\x80\x9D as a contact. By doing so, you will receive notifications each time they will update their profile or offers. In exchange they will access to your contact details."
+Other_questions: Other questions?
+Help_your_students_alumni: Help your students & alumni
+DASHBOARD_OFFER_THESIS_ACCEPTED_BY_CANDIDATE_company: "{candidate_link} accepted your thesis offer {offer_link}"
+Publish_rich_content: Build your network
+The_following_information_is_available_to_companies: The following information is available to companies.
 Place: Place
-Upgrade_Downgrade_my_account: Upgrade/Downgrade my account
-Free_plan: Free plan
-Email: "Email:"
-If_you_cancel_the_Service_before: If you cancel the Service before the end of your current paid up month, your cancellation will take effect immediately and you will not be charged again.
-Event_: "Event: {event}"
+EMAIL_You_can_invite_companies_to_join: "You can invite companies to join your network by clicking on \"Add to my network\xE2\x80\x9D as a contact. By doing so, you will receive notifications each time they will update their profile or offers. In exchange they will access to your contact details."
+days_ago_: "{count} days ago"
+Edit_offer_job: Edit job
 Signup_check_birthdate: Enter a valid birthdate.
-DASHBOARD_OFFER_JOB_RESENT_BY_COMPANY_company: You resent your offer {offer_link} to {candidate_link}
-Your_order_is_not_valid: Your order is not valid.
-Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
-DASHBOARD_OFFER_EVENT_INITIATED_BY_COMPANY_candidate: You received an invitation to {offer_link} from {company_link}
+Event_: "Event: {event}"
+If_you_cancel_the_Service_before: If you cancel the Service before the end of your current paid up month, your cancellation will take effect immediately and you will not be charged again.
+Email: "Email:"
+Free_plan: Free plan
+Upgrade_Downgrade_my_account: Upgrade/Downgrade my account
 All_of_your_Content_will_be: All of your Content will be immediately deleted from the Service upon cancellation. This information can not be recovered once your account is cancelled.
-Relationship_status: "Relationship status:"
-Yearly_subscription_to_plan_plan_with_discount: "Yearly subscription to plan {plan} with {discount}% discount (total: <b>{amount}</b>)"
-VAT_number: "VAT number:"
-Since_your_are_in_Belgium_you: Since your are in Belgium, you will be charged 21% VAT.
-Sent_an_invitation_to_invitations_sent: You just sent an invitation to {count} of your contacts. Thank you!
+DASHBOARD_OFFER_EVENT_INITIATED_BY_COMPANY_candidate: You received an invitation to {offer_link} from {company_link}
+Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
+Your_order_is_not_valid: Your order is not valid.
+DASHBOARD_OFFER_JOB_RESENT_BY_COMPANY_company: You resent your offer {offer_link} to {candidate_link}
 Signup_check_city_characters: "City is too short: min 2 characters."
-Your_login_may_only_be_used: "Your login may only be used by one person \xE2\x80\x93 a single login shared by multiple people is not permitted. You may create separate logins for as many people as you like."
+Sent_an_invitation_to_invitations_sent: You just sent an invitation to {count} of your contacts. Thank you!
+Since_your_are_in_Belgium_you: Since your are in Belgium, you will be charged 21% VAT.
+VAT_number: "VAT number:"
+Yearly_subscription_to_plan_plan_with_discount: "Yearly subscription to plan {plan} with {discount}% discount (total: <b>{amount}</b>)"
+Relationship_status: "Relationship status:"
 Please_review_our_: Please review our {terms_of_service_link}, {privacy_link} and {refund_link}. If you have questions please <a href="mailto:sales@istockcv.com">email</a> sales team.
-Purchase_of_credits_credits_with_discount: "Purchase of {credits} credits with {discount}% discount (total: <b>{amount}</b>)"
-To: To
-copyright_notice: All rights reserved
-What_is_iStockCV: What is iStockCV?
+Your_login_may_only_be_used: "Your login may only be used by one person \xE2\x80\x93 a single login shared by multiple people is not permitted. You may create separate logins for as many people as you like."
 Invite_friends_h2: INVITE YOUR FRIEND
-message: message
-Summary: Summary
-Action_Relationship_Add_Company: Invite <strong>{company}</strong> to my network
+What_is_iStockCV: What is iStockCV?
+copyright_notice: All rights reserved
+To: To
+Purchase_of_credits_credits_with_discount: "Purchase of {credits} credits with {discount}% discount (total: <b>{amount}</b>)"
 Driver_s_license: "Driver's license:"
-Timeout_during_connection_to_banking_system: Timeout during connection to banking system. Try again!
-Send_job_offers: Send offers (jobs, internships, theses, summer jobs etc.)
-Total_results_found: "{count} results found."
-Your_offer_student_jobs: Your student jobs
-fluent: fluent
-Homepage_business: Fellownation for business.
+Action_Relationship_Add_Company: Invite <strong>{company}</strong> to my network
+Summary: Summary
+message: message
 Save_Photo: <font size="3"><strong>1. Click on your photo and expand the square.<br/>2. To make adjustments, you can drag around and resize the square bellow.<br/>3. When you are happy with your photo click the "Save Photo" button.</strong></font>
-Candidates_in_your_network: Candidates in your network
-As_Steve_Jobs_would_say_There: "As Steve Jobs would say, \xE2\x80\x9CThere must be a better way\xE2\x80\x9D. We decided to stop this long lasting global frustration and build this recruiting website to break down all the fences. iStockCV provides the tools to enable companies and candidates to find each other based on interactive tools."
-EMAIL_The_following_tips_will_help_you: The following tips will help you to get the most out of iStockCV.
-OfferThesisDetails: Thesis details
-One_company_has_to_be_right_for_you: One has to be right for you.
+Homepage_business: Fellownation for business.
+fluent: fluent
+Your_offer_student_jobs: Your student jobs
+Total_results_found: "{count} results found."
+Send_job_offers: Send offers (jobs, internships, theses, summer jobs etc.)
+Timeout_during_connection_to_banking_system: Timeout during connection to banking system. Try again!
 send_a_private_message_to: Send a private message to
-Save_offer: Save offer
-Activity_history: Activity history
-logged_in_as: Logged in as {name}.
-Subscribe_to_exploit_this_information!: Subscribe to exploit this information!
-Personal_profile_colon: "Personal profile:"
+One_company_has_to_be_right_for_you: One has to be right for you.
+OfferThesisDetails: Thesis details
+EMAIL_The_following_tips_will_help_you: The following tips will help you to get the most out of iStockCV.
+As_Steve_Jobs_would_say_There: "As Steve Jobs would say, \xE2\x80\x9CThere must be a better way\xE2\x80\x9D. We decided to stop this long lasting global frustration and build this recruiting website to break down all the fences. iStockCV provides the tools to enable companies and candidates to find each other based on interactive tools."
+Candidates_in_your_network: Candidates in your network
 setting_you_are: "You are :"
-Billing_information: Billing information
-average: average
+Personal_profile_colon: "Personal profile:"
+Subscribe_to_exploit_this_information!: Subscribe to exploit this information!
+logged_in_as: Logged in as {name}.
+Activity_history: Activity history
+Save_offer: Save offer
 setting_make_my_contact_informations_private: Make my contact information private
-Your_profile: Your profile
-For_any_upgrade_or_downgrade_in: For any upgrade or downgrade in tarif plan, your credit card that you provided will automatically be charged the new rate on your next billing cycle.
-Violation_of_any_of_the_terms: Violation of any of the terms below will result in the termination of your Account. While iStockCV prohibits such conduct and Content on the Service, you understand and agree that iStockCV cannot be responsible for the Content posted on the Service and you nonetheless may be exposed to such materials. You agree to use the Service at your own risk.
-Perfect!: Perfect!
+average: average
+Billing_information: Billing information
 keep_you_CV_up_to_date: (keep you CV up-to-date)
-occupation_field: job category
-How_do_I_change_my_account: How do I change my account?
+Perfect!: Perfect!
+Violation_of_any_of_the_terms: Violation of any of the terms below will result in the termination of your Account. While iStockCV prohibits such conduct and Content on the Service, you understand and agree that iStockCV cannot be responsible for the Content posted on the Service and you nonetheless may be exposed to such materials. You agree to use the Service at your own risk.
+For_any_upgrade_or_downgrade_in: For any upgrade or downgrade in tarif plan, your credit card that you provided will automatically be charged the new rate on your next billing cycle.
+Your_profile: Your profile
 Actions: Actions
-Notification_invite_friends: Invitations Sent
-Up_to_count_slots: Up to pluralize{{count}, slot, slots}
-Initiative_x_x_Adaptability_Successful_study: "Initiative x%x Adaptability: Successful study and work in Spain and Mexico demonstrate my ability to adapt and thrive in new and different environments."
-Target_locations: Target locations
+How_do_I_change_my_account: How do I change my account?
+occupation_field: job category
 Signup_sidebar_header: Connect and share with students and emloyees. Free, easy and powerful.
-SideBar_profile: Account
-Who_can_sign_up_for_iStockCV: Who can sign up for iStockCV?
-OfferThesi_: "Thesis: {offer}"
-DASHBOARD_OFFER_STUDENT_JOB_ACCEPTED_BY_COMPANY_candidate: "{company_link} accepted your request for offer {offer_link}"
-Country: Country
+Target_locations: Target locations
+Initiative_x_x_Adaptability_Successful_study: "Initiative x%x Adaptability: Successful study and work in Spain and Mexico demonstrate my ability to adapt and thrive in new and different environments."
+Up_to_count_slots: Up to pluralize{{count}, slot, slots}
+Notification_invite_friends: Invitations Sent
 expert: expert
-New_internship_offer_received: New internship offer received
+Country: Country
+DASHBOARD_OFFER_STUDENT_JOB_ACCEPTED_BY_COMPANY_candidate: "{company_link} accepted your request for offer {offer_link}"
+OfferThesi_: "Thesis: {offer}"
+Who_can_sign_up_for_iStockCV: Who can sign up for iStockCV?
+SideBar_profile: Account
 Signup_process_is_complete_company: Signup process is complete! Welcome on iStockCV!<br /> You can start by filling <a href="/company/profile">your company profile</a> to let candidates find you.
-Not_sure_about_the_best_plan: "Not sure about the best plan for you? Feel free to contact us, we\xE2\x80\x99ll be glad to help you finding your way and start recruiting."
-Jobs: List of Jobs
+New_internship_offer_received: New internship offer received
 Upgrade: Upgrade
-Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
-Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
-Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
-Send_the_following_offer_job: "Send the following job offer:"
+Jobs: List of Jobs
+Not_sure_about_the_best_plan: "Not sure about the best plan for you? Feel free to contact us, we\xE2\x80\x99ll be glad to help you finding your way and start recruiting."
 Call_form_at: At
-For_business: "For Business"
+Send_the_following_offer_job: "Send the following job offer:"
+Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
+Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
+Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
