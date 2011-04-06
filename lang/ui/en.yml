@@ -840,19 +840,14 @@ label_password_confirmation: Password confirmation
 Warning_CandidateSearch_LimitedResults: Your plan allows you to see a limited number of results per search. Tune your search or upgrade your account in order to see more results. Click <a href='/company/account'>here</a> to pick a new plan.
 Unavailable: Unavailable
 DASHBOARD_OFFER_STUDENT_JOB_INITIATED_BY_CANDIDATE_candidate: You requested student job offer {offer_link} from {company_link}
-Email_template_notifier_my_follower: "{first_name} {last_name} ({user_name}) is now following your public messages on Fellownation. Some info on {first_name} {last_name} ({user_name}):\r\n \r\n\
+Email_template_notifier_my_follower: "{first_name} {last_name} ({user_name}) is now following your public messages on Fellownation. Some info on {first_name} {last_name} ({user_name}):\r\n\
   - Bio : {bio_content} \r\n\
-  \r\n\
   - Location : {location_content} \r\n\
-  \r\n\
   - Public Message : {number_of_publicmessages}\r\n\
-  \r\n\
   - Follower : {number_of_followers} \r\n\
-  \r\n\
-  - Following : {number_of_people_following}\r\n \r\n\
+  - Following : {number_of_people_following}\r\n\
   - Favorites : {number_of_favorites} \r\n\
-  \r\n\
-  - Applications : {number_of_applications_used}\r\n \r\n\
+  - Applications : {number_of_applications_used}\r\n\
   You {have_relation} follow {first_name} {last_name} ({user_name}). \r\n\
   \r\n\
   What\xE2\x80\x99s Next? * Find out more about {first_name} {last_name} on {user_name}\xE2\x80\x99s profile page : {user_name_public_link} * Post a public message on {user_name}\xE2\x80\x99s wall : {user_name_wall_link} * Send {user_name} a private message : {user_name_privatemessage_link}\r\n\
@@ -1587,3 +1582,11 @@ Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
 Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Send_the_following_offer_job: "Send the following job offer:"
 Call_form_at: At
+EMAIL_invitation_created: |-
+  {name} invited you to join Fellownation.
+
+  To see more details and join Fellownation, follow the link below:
+  http://fellownation.com/signup
+
+  Thanks,
+  The Fellownation Team
