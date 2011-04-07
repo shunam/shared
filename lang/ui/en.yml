@@ -439,7 +439,12 @@ Edit_offer: Edit offer
 iStockCV_Latest_activity_for_: "iStockCV: Latest activity for {name}"
 Public_message_signup_default: "Welcome fellow! I hope you will enjoy Fellownation and find plainly of useful information. Remember that more you interact with people more likely you will receive valuable information and get noticed. Why don't you start asking a question about your career? "
 SideBar_notice_tips: TIPS
-Email_template_activation_account: "Hello, {first_name} {last_name} ({user_name}). Please confirm your Fellownation account by clicking this link: {confirmation_link} Once you confirm, you will have full access to Fellownation and all future notifications will be sent to this email address. The Fellownation Team"
+Email_template_activation_account: |-
+  Hello, {first_name} {last_name} ({user_name}). 
+  
+  Please confirm your Fellownation account by clicking this link: {confirmation_link} Once you confirm, you will have full access to Fellownation and all future notifications will be sent to this email address. 
+  
+  The Fellownation Team
 label_password: Password
 Your_account_on_iStockCV_has_been_created: Your account on iStockCV has been created.
 Edit_your_offer_job: Edit your job offer
@@ -841,16 +846,30 @@ Warning_CandidateSearch_LimitedResults: Your plan allows you to see a limited nu
 Unavailable: Unavailable
 DASHBOARD_OFFER_STUDENT_JOB_INITIATED_BY_CANDIDATE_candidate: You requested student job offer {offer_link} from {company_link}
 Email_template_notifier_my_follower: "{first_name} {last_name} ({user_name}) is now following your public messages on Fellownation. Some info on {first_name} {last_name} ({user_name}):\r\n\
+  \r\n\
   - Bio : {bio_content} \r\n\
+  \r\n\
   - Location : {location_content} \r\n\
   - Public Message : {number_of_publicmessages}\r\n\
+  \r\n\
   - Follower : {number_of_followers} \r\n\
+  \r\n\
   - Following : {number_of_people_following}\r\n\
+  \r\n\
   - Favorites : {number_of_favorites} \r\n\
+  \r\n\
   - Applications : {number_of_applications_used}\r\n\
+  \r\n\
   You {have_relation} follow {first_name} {last_name} ({user_name}). \r\n\
   \r\n\
-  What\xE2\x80\x99s Next? * Find out more about {first_name} {last_name} on {user_name}\xE2\x80\x99s profile page : {user_name_public_link} * Post a public message on {user_name}\xE2\x80\x99s wall : {user_name_wall_link} * Send {user_name} a private message : {user_name_privatemessage_link}\r\n\
+  \r\n\
+  What\xE2\x80\x99s Next? \r\n\
+  \r\n\
+  * Find out more about {first_name} {last_name} on {user_name}\xE2\x80\x99s profile page : {user_name_public_link}\r\n\
+  \r\n\
+  * Post a public message on {user_name}\xE2\x80\x99s wall : {user_name_wall_link}\r\n\
+  \r\n\
+  * Send {user_name} a private message : {user_name_privatemessage_link}\r\n\
   \r\n\
   The Fellownation Team"
 Company_profile: Company profile
@@ -864,7 +883,12 @@ setting_user_name: User Name
 amount_new_candidate_s_successfully_reached: "{amount} new candidate(s) successfully reached."
 b_C_b_The_week_end: "<b>C.</b> The week-end you want to leave: departure September 6th and return September 7th; departure September 13rd and return September 14th; departure September 20th and return September 21st; departure September 27th and return September 28th."
 For_instance: "For instance:"
-Email_template_notifier_my_pm: "\"{private_message_content}\" Private message sent by {sender_first_name} {sender_last_name} ({sender_user_name}) to you on {sent_time}. To reply to this message, follow the link below: {display_here_the_link} The Fellownation Team"
+Email_template_notifier_my_pm: |-
+  "{private_message_content}" Private message sent by {sender_first_name} {sender_last_name} ({sender_user_name}) to you on {sent_time}. 
+  
+  To reply to this message, follow the link below: {display_here_the_link}
+  
+  The Fellownation Team
 Card_number: "Card number:"
 DASHBOARD_OFFER_JOB_INITIATED_BY_COMPANY_company: You proposed job offer {offer_link} to {candidate_link}
 Cancel_application_for_this_offer: Cancel application for this offer
@@ -992,7 +1016,10 @@ iStockCV_SPRL_address: iStockCV SPRL<br/>7 Rue du bosquet<br/>B-1348 Louvain-la-
 There_is_no_candidate_in_your: There is no candidate in your network for the moment.
 Hide_advanced_search: Hide advanced search
 DASHBOARD_OFFER_EVENT_RESENT_BY_COMPANY_company: You resent your invitation to {offer_link} to {candidate_link}
-Email_template_notifier_post_a_wall_message: "{first_name} wrote: \"{message_content}\" To see the comment thread, follow the link below: {message_link} The Fellownation Team"
+Email_template_notifier_post_a_wall_message: |-
+  {first_name} wrote: "{message_content}" To see the comment thread, follow the link below: {message_link} 
+  
+  The Fellownation Team
 plan_student_association_title: Academic association
 We_accept_quite_a_lot_of: We accept quite a lot of solutions
 What_is_a_credit: What is a credit? What is the <i>No Cure No Pay system</i>?
@@ -1277,6 +1304,14 @@ Years_of_study: "Years of study:"
 Anywhere: Anywhere
 Price_per_credit: Price per credit
 Unlimited: Unlimited
+EMAIL_invitation_created: |-
+  {name} invited you to join Fellownation.
+  
+  To see more details and join Fellownation, follow the link below:
+  http://fellownation.com/signup
+  
+  Thanks,
+  The Fellownation Team
 SideBar_profile_tips_desc: <p>Filling in your profile information will help people find you on Fellownation. Using accurate information will help people to instantly identify you.</p><p>More accurate and complete is your profile, more likely people will interact with you.</p>
 DASHBOARD_OFFER_JOB_INITIATED_BY_CANDIDATE_company: "{candidate_link} requested job offer {offer_link}"
 Withdraw_invitation: Withdraw invitation
@@ -1318,7 +1353,24 @@ Credits: "Credits:"
 You_are_solely_responsible_for_properly: You are solely responsible for properly canceling your account. An email is considered cancellation. You can cancel your account at any time by sending an email to sales@istockcv.com.
 My_rewards: My rewards
 Send_a_message_to_company: Send a message to <strong>{company}</strong>
-Email_template_activated_account: "Hello fellow! We're excited you're now part of the nation! Fellowation is all about communication between fellows : friends, students, colleagues, professors, future employers, alumni etc. It's real-time information network powered by people all around you that lets you share and discover what\xE2\x80\x99s happening now. Get started on Fellownation: 1. Discover who's on fellownation Browse popular accounts by interest or look for your friends and follow the ones you like. 2. Check back often Visit Fellownation often so you'll see what's new from the accounts you follow. How to communicate 1. Set up your profile Complete your profile information. A picture of yourself and a short bio make you more interesting to others on Fellownation. 2. Share information! Write your first public message. Share what's happening with you fellows. If you're using Fellownation for your business, get tips on getting started from Fellownation 101 for business. Welcome to the nation! The Fellownation Team"
+Email_template_activated_account: "Hello fellow! We're excited you're now part of the nation! Fellowation is all about communication between fellows : friends, students, colleagues, professors, future employers, alumni etc.\r\n\
+  \r\n\
+  It's real-time \r\n\
+  information network powered by people all around you that lets you share and discover what\xE2\x80\x99s happening now. \r\n\
+  \r\n\
+  Get started on Fellownation: \r\n\
+  1. Discover who's on fellownation Browse popular accounts by interest or look for your friends and follow the ones you like.\r\n\
+  2. Check back often Visit Fellownation often so you'll see what's new from the accounts you follow. \r\n\
+  \r\n\
+  How to communicate \r\n\
+  1. Set up your profile Complete your profile information. A picture of yourself and a short bio make you more interesting to others on Fellownation.\r\n\
+  2. Share information! Write your first public message. Share what's happening with you fellows. \r\n\
+  \r\n\
+  If you're using Fellownation for your business, get tips on getting started from Fellownation 101 for business. \r\n\
+  \r\n\
+  Welcome to the nation!\r\n\
+  \r\n\
+  The Fellownation Team"
 What_types_of_payment_do_you: What types of payment do you accept? Will you take a P.O.? Can you invoice us?
 Error_Offering_NotEnoughCredits: You don't have enough credits to send that job/event to candidates. Refill your account now (click <a href='/company/account'>here</a>).
 Warning_If_you_downgrade_your_account: "Warning : If you downgrade your account you might loose candidates in your network, saved search agents and slots! The system will keep only the latest jobs/events, the latest search agents created and the latest candidates added to your network."
@@ -1582,11 +1634,3 @@ Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
 Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Send_the_following_offer_job: "Send the following job offer:"
 Call_form_at: At
-EMAIL_invitation_created: |-
-  {name} invited you to join Fellownation.
-
-  To see more details and join Fellownation, follow the link below:
-  http://fellownation.com/signup
-
-  Thanks,
-  The Fellownation Team
