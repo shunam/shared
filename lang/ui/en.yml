@@ -1634,3 +1634,13 @@ Send_the_following_offer_job: "Send the following job offer:"
 Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Up_to_count_candidates: Up to pluralize{{count}, candidate, candidates}
 Thank_you_your_account_on_iStockCV: Thank you, your account on iStockCV has now been activated!
+SideBar_subscription: "Subscriptions"
+SideBar_subscription_desc: "lorem ipsum"
+SideBar_subs_tips: "Tips"
+SideBar_subs_tips_desc: "lorem ipsum dolor"
+Feed_subs_name: "Name :"
+Feed_subs_desc: "Description :"
+Feed_subs_url: "URL :"
+Feed_subs_category: "Category :"
+Feed_subs_sucess: "Congratulations, your subscription has been submitted for approval. It can take a few days to review your submission. You will receive a private message when your subscription will be accepted."
+Private_message_accep_subs: "Congratulations, your subscription has been accepted and is now available under the subscriptions directory. Fellownation Team"
