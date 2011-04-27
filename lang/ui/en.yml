@@ -11,7 +11,7 @@ You_must_always_have_at_least: You must always have at least one CV.
 setting_private_text_emails_label: Email when I receive new private message.
 DASHBOARD_OFFER_THESIS_CANCELLED_BY_CANDIDATE_company: "{candidate_link} cancelled her/his acceptation of your thesis offer {offer_link}"
 Questions_about_the_Terms_of_Service: Questions about the Terms of Service should be sent to info at iStockCV dot com.
-Feed_subs_name: "Feed Name :"
+Feed_subs_name: "Feed Name:"
 democratic_as_an_example_it_costs: "democratic: as an example, it costs hundreds (or thousands) of euros a month to recruit on Monster.com. It is fair to pay this price? No. Could a SME pays this significant price? Definitively, no!"
 iStockCV_on_Facebook: iStockCV on Facebook
 Sign_up_for_free!: "Available now : "
@@ -1216,7 +1216,7 @@ EMAIL_other_user_name_requested_to_add: "{name} requested to add you as a connec
 Edit_this_offer_student_job: Edit this student job
 Just_click_the_button_below_and: Just click the button below and you will get your new credits.
 Sidebar_public_who_are_we: WHAT IS FELLOWNATION?
-Feed_subs_desc: "Feed Description :"
+Feed_subs_desc: "Feed Description:"
 Graduate_school: "Graduate school:"
 Job_title_and_location: "Job title and location:"
 company_link_resent_their_invitation_to: "{company_link} resent their invitation to {offer_link} to you"
@@ -1473,7 +1473,7 @@ Your_network_contains_candidates_: Your network contains <strong>{count}</strong
 setting_downloaded_file_label: Email when someone has downloaded my files.
 Action_Relationship_Withdraw_Invitation_To_Company_Short: Withdraw
 DASHBOARD_OFFER_THESIS_INITIATED_BY_CANDIDATE_candidate: You requested thesis offer {offer_link} from {company_link}
-Feed_subs_url: "Feed URL :"
+Feed_subs_url: "Feed URL:"
 City: "City:"
 You_can_choose_our_free_plan: You can choose our free plan and you won't be charged a thing. You will receive one slot to create either a job offer or an event invitation. Also, the free plan allows you to create a company profile and make it visible on the Internet (<a href="http://www.istockcv.com/companies/netlog-nv" target="_blank">check it out</a>).
 EMAIL_Create_offers_now: "Create offers now : "
@@ -1648,7 +1648,7 @@ Action_Relationship_Accept_Invitation_From_Candidate_Short: Accept
 Send_the_following_offer_job: "Send the following job offer:"
 Call_form_at: At
 
-Feed_subs_type: "Feed type :"
-Feed_subs_country: "Feed country :"
-Feed_subs_industry: "Feed industry :"
+Feed_subs_type: "Feed type:"
+Feed_subs_country: "Feed country:"
+Feed_subs_industry: "Feed industry:"
 Feed_subs_industry_desc: "(You can select 2 industries)"
