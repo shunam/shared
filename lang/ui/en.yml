@@ -1,4 +1,7 @@
---- 
+---
+setting_password: Password
+Step12_subtitle: Select which contact to add as a fellow from the list below. You can also {another_email} to find more fellows.
+Step12_count_contact: You have pluralize{{count_contact}, contact, contacts} on Fellownation that you can follow.
 See_the_list_of_all: 1) See the list of all the companies in your network you are tracking 2) Check out pending event invitations 3) A small search engine is there to find a company within your network 4) At any time, on the top of the page, there is the search engine so you can search a company within iStockCV.
 Message: Message
 setting_time_zone: Time Zone
