@@ -782,6 +782,7 @@ Keep_it_brief_description: "Keep it brief at three of four lines maximum. It wil
 DASHBOARD_OFFER_THESIS_REJECTED_BY_CANDIDATE_candidate: You rejected thesis offer {offer_link} from {company_link}
 Credits: "Credits:"
 Send_a_message_to_company: Send a message to <strong>{company}</strong>
+Email_template_activated_account_subject: Welcome to Fellownation, {first_name} {last_name} ({user_name})
 Email_template_activated_account: "Hello fellow! We're excited you're now part of the nation! Fellowation is all about communication between fellows : friends, students, colleagues, professors, future employers, alumni etc.\r\n\
   \r\n\
   It's real-time \r\n\
@@ -996,3 +997,10 @@ Feed_subs_type: "Feed type :"
 Feed_subs_country: "Feed country :"
 Feed_subs_industry: "Feed industry :"
 Feed_subs_industry_desc: "(You can select 2 industries)"
+subtab_one: "subtab_one"
+subtab_two: "subtab_two"
+subtab_three: "subtab_three"
+subtab_one_free_text: "subtab_one_free_text"
+subtab_two_free_text: "subtab_two_free_text"
+subtab_three_free_text: "subtab_three_free_text"
+sidebar_file: "sidebar_file"
