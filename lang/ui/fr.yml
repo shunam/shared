@@ -1,760 +1,554 @@
---- 
-iStockCV_Latest_activity_for_: "iStockCV: Derni\xC3\xA8re activit\xC3\xA9 pour {name}"
-More_info: Plus d'infos...
-A_work_environment_with_wonderful_gear: A work environment with wonderful gear (MacBook Pro, iPhone, ...)
-EMAIL_invitation_created_subject_with_name: "Vous avez \xC3\xA9t\xC3\xA9 invit\xC3\xA9 par {name}"
-limited: "limit\xC3\xA9"
-EMAIL_Call_mail_call_link: "Voici le lien qui vous permettra de rejoindre la conf\xC3\xA9rence:"
-still_studying: "(\xC3\xA9tudie encore)"
-Level: "Niveau:"
-static_privacy_link: "Vie priv\xC3\xA9e"
-Euros_per_year_: "&euro;{count} / an"
-DASHBOARD_RELATIONSHIP_WITHDRAWN_BY_CANDIDATE_company: "Vous avez enlev\xC3\xA9 l'entreprise {company_link} de votre r\xC3\xA9seau"
-You_may_save_this_search_both: "Vous pouvez sauver cette recherche (les mots clefs et les param\xC3\xA8tres) comme <strong>agent de recherche</strong>. Les agents de recherche sont des recherches pr\xC3\xA9d\xC3\xA9finies qui se lance automatiquement. Chaque fois que vous vous connectez \xC3\xA0 iStockCV, votre Aper\xC3\xA7u vous montrera les derniers r\xC3\xA9sultats de vos agents de recheche."
-_9000_companies_around_you: 9.000 entreprises autour de toi.
-What_types_of_payment_do_you: "Quels sont les moyens de paiement accept\xC3\xA9s? Prenez-vous un B.C.? Nous facturez-vous?"
-Probably_the_best_job_board_in_the_world: "Disponible maintenant : outils de <a href=http://www.istockcv.com/tour?locale=fr#reseau>video conversation</a>"
-Free_entrance: "Entr\xC3\xA9e libre"
-You_must_agree_to_the_Terms: "Vous devez \xC3\xAAtres d'accord avec les conditions g\xC3\xA9n\xC3\xA9rales d'utilisation"
-DASHBOARD_OFFER_JOB_UPDATED: "Vou savez mis \xC3\xA0 jour l'offre d'emploi {offer_link}"
-Profile_succesfully_updated: "Profil mis \xC3\xA0 jour avec succ\xC3\xA8s."
-Salary_package: Pack salarial
-Your_companies: "Vos entreprises:"
-Mini_feeds: "Mini-news:"
-Events: "Ev\xC3\xA9nements"
-Basic_knowledge_of_Ruby_on_Rails: Basic knowledge of Ruby on Rails or a similar web development framework
-Admin_path: "Chemin d'administration:"
-breadcrumb_homepage_link: Page d'accueil
-Working_Environment: Environnement de travail
-Please_visit_this_url_to_validate: "SVP, cliquez sur ce lien pour valider votre nouvelle adresse email sur iStockCV:"
-Here_is_summary_last_24_hours: "Voici un r\xC3\xA9sum\xC3\xA9 des offres que vous avez re\xC3\xA7ues sur iStockCV sur les 24 derni\xC3\xA8res heures."
-Yes_: Oui
-DASHBOARD_MESSAGE_CREATED_BY_COMPANY_candidate: "Vous avez re\xC3\xA7u un {message} de {company_link}"
-Your_public_URL_is: "Votre URL publique est:"
-Downgrade: Diminuer
-static_news_archives_link: "Actualit\xC3\xA9s"
-Email_offers: "Offres par email:"
-DASHBOARD_RELATIONSHIP_ACCEPTED_BY_COMPANY_company: "Vosu avez accept\xC3\xA9 l'invitation du candidat {candidate_link}"
-delete: (delete)
-DASHBOARD_CALL_SCHEDULED_BY_COMPANY_company: "Vous avez programm\xC3\xA9 une {interview_link} avec {candidate_link} le {scheduled_for}"
-DASHBOARD_OFFER_EVENT_DESTROYED: "Vous avez supprim\xC3\xA9 l'\xC3\xA9v\xC3\xA9nement {offer_link}"
-Change_picture: Changer l'image
-DASHBOARD_OFFER_JOB_CANCELLED_BY_CANDIDATE_candidate: "Vous avez annul\xC3\xA9 votre acceptation \xC3\xA0 l'offre d'emploi {offer_link} de {company_link}"
-EMAIL_The_more_information_you_put_into_company: Au plus d'informations vous mettez dans votre profil, au plus facile les candidats pourront vous trouver et en apprendre sur vous.
-h2_Please_verify_your_information_h2: "<h2>Veuillez v\xC3\xA9rifier vos informations:</h2>"
-EMAIL_Complete_your_profile: "* Compl\xC3\xA9ter votre profil"
-OfferJobDetails: "D\xC3\xA9tails de l'offre d'emploi"
-Candidates_in_your_network: "Candidats dans votre r\xC3\xA9seau"
-Count_credits_per_candidate: "pluralize{{count}, cr\xC3\xA9dit, cr\xC3\xA9dits} par candidat"
-Skills_needed: "Comp\xC3\xA9tences requises"
-skill: "comp\xC3\xA9tence"
-State_Province_Region_country: "Etat, pays:"
-New_password_again: "Nouveau mot de passe(encore):"
-General_Conditions: General Conditions
-Please_fill_out_at_least_the: Veuillez d'abord remplir au moins <strong>les zones rouges</strong> pour continuer.
-Announce_an_event: "Ev\xC3\xA9nement"
-Sorry_this_activation_code_is_not: "D\xC3\xA9sol\xC3\xA9, ce code d\xE2\x80\x99activation est incorrect."
-Call_below: "<p>\r\n\
-  <strong>Note:</strong> Votre interlocuteur va appara\xC3\xAEtre automatiquement lorsqu'il se joindra \xC3\xA0 la conversation. Pour terminer, cliquez sur n'importe quel onglet (par ex. \"Aper\xC3\xA7u\")\r\n\
-  </p>"
-Error_Offering_NotEnoughCredits: "Vous n'avez pas assez de cr\xC3\xA9dits pour envoyer cette offre/invitation au(x) candidat(s). Rechargez votre compte (click <a href='/company/account'>ici</a>). "
-tab_dashboard_link: "Aper\xC3\xA7u"
-Save_offer: Sauver l'offre
-Invited_by: "Invit\xC3\xA9 par"
-An_attractive_salary_package: An attractive salary package
-Network: "R\xC3\xA9seau:"
-Save: Sauver
-static_contact_us_link: Nous contacter
-EMAIL_View_this_offer: Voir cette offre
-Skills: "Comp\xC3\xA9tences"
-Edit_your_profile_raquo: Modifier votre profil &raquo;
-User_details: "D\xC3\xA9tails de l'utilisateur"
-Any_school: "Quelconque \xC3\xA9cole"
-Fast_and_easy: Rapide et facile
-Latest_activity: "Activit\xC3\xA9s r\xC3\xA9centes"
-Signup: Inscrivez- vous!
-or_cancel_: ou {cancel_link}
-DASHBOARD_OFFER_INTERNSHIP_WITHDRAWN_BY_COMPANY_candidate: "{company_link} vous a retir\xC3\xA9 son offre de stage {offer_link}"
-We_don_t_store_your_login: "Note: nous ne gardons pas votre identifiant, votre mot de passe est soumis de mani\xC3\xA8re s\xC3\xA9curis\xC3\xA9e, et nous ne vous vous envoyons pas d'emails sans votre permission."
-Loading: En cours...
-tab_network_link: "R\xC3\xA9seau"
-Offer_pending_answers_count: "R\xC3\xA9ponses en attentes ({count}/{total} offres)"
-label_association: Association
-My_rewards: Mes gains
-Job_offer: Offre de job
-Misc: Divers
-EMAIL_Call_mail_body_caller: "Vous avez programm\xC3\xA9 une interview avec {callee} le {scheduled_for}."
-Future_events: Voir tous
-Edit_this_offer: Modifier cette offre
-DASHBOARD_OFFER_JOB_RESENT_BY_COMPANY_candidate: "{company_link} vous a renvoy\xC3\xA9 son offre {offer_link}"
-EMAIL_Congratulations_You_and_other_user_profile: "F\xC3\xA9licitations! Vous et {name} \xC3\xAAtes maintenant connect\xC3\xA9s ensemble."
-EMAIL_You_can_create_five_kinds_of: "Vous pouvez cr\xC3\xA9er 5 sortes d'offres: jobs, jobs d'\xC3\xA9tudiants, stages, sujets de m\xC3\xA9moire (cad TFE) ou \xC3\xA9v\xC3\xA9nements."
-Action_Relationship_Add_Company: "Inviter <strong>{company}</strong> dans mon r\xC3\xA9seau"
-Description: "Description:"
-First_login_create_your_profile: "Premi\xC3\xA8re connexion: cr\xC3\xA9ez votre profil"
-Thank_you_We_have_just_sent: "Merci. Nous venons de vous envoyer un email avec un lien. Veuillez cliquer sur le lien pour choisir un nouveau mot de passe pour votre compte.<br/>\r\n\
-  <strong><font color=\"#FF0000\">Si vous ne trouvez pas cet email, v\xC3\xA9rifiez vos  dossiers \"spam\" et \"corbeille\" car il se peut que l'email ai \xC3\xA9t\xC3\xA9 rejet\xC3\xA9 par un filtre!</font></strong><a href=\"http://www.istockcv.com/faq?locale=fr#mail_activation\"><br/>\r\n\
-  Pas re\xC3\xA7u l'email?</a>."
-Event_colon: "Ev\xC3\xA9nement:"
-Gender: "Sexe:"
-cancel: annuler
-Action_Relationship_Add_Candidate_Short: Ajouter
-EMAIL_company_has_accepted_your_invitation: "{name} a accept\xC3\xA9 votre invitation sur le r\xC3\xA9seau iStockCV"
-Action_Relationship_Withdraw_Invitation_To_Company_Short: Retirer
-tab_settings_link: "Param\xC3\xA8tres"
-Call_candidate_new: Programmer une interview en ligne avec <strong>{company}</strong>
-Don_t_care: Peu importe
-Job_description: "Description du job:"
-Send_weekly_offer_reports: Envoyer un rapport hebdomadaire
-EMAIL_Find_candidates_now: "Trouver des candidats maintenant :  "
-Current_status: Statut actuel
-Delete: Supprimer
-Call_new_title: Programmer une interview en ligne
-Search_results_for_agent_: "R\xC3\xA9sultats de la recherche pour l'agent \"{agent}\""
-DASHBOARD_OFFER_JOB_ACCEPTED_BY_CANDIDATE_candidate: "Vous avez accept\xC3\xA9 l'offre d'emploi {offer_link} de {company_link}"
-EMAIL_invitation_accepted_subject: "{name} a accept\xC3\xA9 votre invitation sur le r\xC3\xA9seau Fellownation"
-Relationship_status: "Statut relationnel:"
-Postal_code: "Code postal:"
-Sign_up_now!: Inscrivez-vous maintenant en 10 secondes!
-label_password: Mot de passe
-Discard_rec: "Cliquez ici pour annuler votre message vid\xC3\xA9o"
-All_fields_marked_with_span_class: "Tous les champs marqu\xC3\xA9s avec \xE2\x80\x9C<span class=\"req-sign\">*</span>\xE2\x80\x9D sont requis"
-Discard: Rejeter
-City: "Ville:"
-Change_plan?: Changer de plan?
-Action_RelationShip_Confirm_Withdraw_Invitation_To_Company: "Etes-vous s\xC3\xBBr de vouloir retirer cette invitation?"
-static_careers_and_jobs_link: "Carri\xC3\xA8res &amp; jobs"
-This_account_is_hidden: "Ce compte est cach\xC3\xA9"
-DASHBOARD_MESSAGE_CREATED_BY_COMPANY_company: "Vous avez envoy\xC3\xA9 un {message} \xC3\xA0 {candidate_link}"
-Pending_for: "En attente : "
-Send_offer: Envoyer l'offre
-Lost_password: Mot de passe perdu
-Last_name: "Nom:"
-You_can_choose_our_free_plan: "Avec le plan tarifaire gratuit, vous ne payerez absolument rien. Vous recevrez un slot pour cr\xC3\xA9er une offre de job ou pour envoyer une invitation \xC3\xA0 un \xC3\xA9v\xC3\xA9nement. Le plan gratuit vous permet aussi de cr\xC3\xA9er un profil d'entreprise et de le rendre public. (<a href=\"http://www.istockcv.com/companies/netlog-nv\" target=\"_blank\">Voici un exemple</a>)."
-Receive_requests_to_join_my_network: "Recevoir invitations \xC3\xA0 rejoindre un r\xC3\xA9seau"
-EMAIL_You_can_accept_invitations_coming_from: "Vous pouvez accepter des invitations qui proviennent de candidats pour rejoindre votre r\xC3\xA9seau. De cette mani\xC3\xA8re, vous serez notifi\xC3\xA9 chaque fois qu'ils mettrons \xC3\xA0 jour leur profil et ils seront inform\xC3\xA9s pour tout changement sur votre profil et offres. Finalement, vous pouvez envoyer des offres gratuitement \xC3\xA0 votre r\xC3\xA9seau."
-Invite_new_friends: Inviter de nouveaux amis...
-Career_Opportunities: "Opportunit\xC3\xA9 de carri\xC3\xA8re"
-Referees: !binary |
-  UsOpZsOpcmVuY2Vz
-
-Candidate_with_unspecified_education: "Candidat avec une \xC3\xA9ducation non d\xC3\xA9finie"
-EMAIL_View_the_full_profile_of_other: "Voir le profil complet de {name} ici (vous devrez d'abord vous connecter):"
-This_candidate_has_cancelled_your_relationship: "Ce candidat a annul\xC3\xA9 votre relation."
-Your_account: Ton compte
-New_internship_offer_received: "Nouvelle offre de stage re\xC3\xA7ue"
-Action_Relationship_Reject_Invitation_From_Company_Short: Rejeter
-DASHBOARD_OFFER_EVENT_ACCEPTED_BY_CANDIDATE_candidate: "Vous avez accept\xC3\xA9 l'invitation \xC3\xA0 {offer_link} de {company_link}"
-You_can_propose_this_offer_in: "Vous pouvez proposer cette offre de diff\xC3\xA9rentes mani\xC3\xA8res:"
-go_back: retourner
-New_password: "Nouveau mot de passe:"
-EMAIL_Change_your_email_notifications: "Changer vos notifications par email:"
-static_contact_details_link: Contact
-Add_a_picture: Ajouter une image
-Years_of_study: "Ann\xC3\xA9es d'\xC3\xA9tude:"
-Cancel: Annuler
-EMAIL_Adding_candidates_and_send_offers: "* Ajouter des candidats et envoyer des offres"
-setting_time_zone: a
-This_company_has_not_published_its: "Cette entreprise n'a pas publi\xC3\xA9 son profil.\r\n"
-DASHBOARD_MESSAGE_CREATED_BY_CANDIDATE_candidate: "Vous avez envoy\xC3\xA9 un {message} \xC3\xA0 {company_link}"
-DASHBOARD_OFFER_JOB_INITIATED_BY_CANDIDATE_company: "{candidate_link} s'est propos\xC3\xA9 pour l'offre d'emploi {offer_link}"
-Call: interview en ligne
-Credits_left_colon: "Credits restants:"
-There_was_an_error_in_your: Il y avait une erreur dans votre lot.
-Residence: "R\xC3\xA9sidence:"
-Subject_s_studied: "Mati\xC3\xA8re(s) \xC3\xA9tudi\xC3\xA9e(s):"
-Company_name: "Nom d'entreprise:"
-Up_to_count_slots: "Jusqu'\xC3\xA0 pluralize{{count}, emplacement, emplacements}"
-Discard_event: "Rejeter l'\xC3\xA9v\xC3\xA9nement"
-Can_I_browse_the_database_for: "Puis-je naviguer dans la base de donn\xC3\xA9es gratuitement?"
-Reply_to_this_message: "R\xC3\xA9pondre \xC3\xA0 ce message"
-DASHBOARD_OFFER_THESIS_INITIATED_BY_CANDIDATE_candidate: "Vous avez postul\xC3\xA9 pour l'offre de sujet de m\xC3\xA9moire/TFE {offer_link} de {company_link}"
-OfferEventDetails: "Details de l'\xC3\xA9v\xC3\xA9nement"
-Email_address: "Adresse email:"
-Action_Relationship_Remove_Candidate_Short: Ajouter
-Create_search_agents: "Cr\xC3\xA9er des agents de recherche"
-Withdraw_presence: "Retirer pr\xC3\xA9sence"
-Password_lost?: Mot de passe perdu?
-Today: Aujourd'hui
-Need_to_answer_some_questions_in: "Besoin de r\xC3\xA9pondre \xC3\xA0 quelques questions dans le service mail"
-Charges: "Frais:"
-Street_and_number: "Rue et num\xC3\xA9ro:"
-Field_of_occupation: "Cat\xC3\xA9gorie de jobs:"
-Add_a_school: "Ajouter une \xC3\xA9cole"
-Discover_companies: "D\xC3\xA9couvrir les entreprises"
-DASHBOARD_MESSAGE_CREATED_BY_CANDIDATE_company: "Vous avez re\xC3\xA7u un {message} de {candidate_link}"
-Business_Awareness_Active_member_of_the: "Business Awareness: Active member of the university business club \xE2\x80\x93 winner of the \xE2\x80\x9CBest business pitch\xE2\x80\x9D award 2007."
-DASHBOARD_OFFER_INTERNSHIP_UPDATED: "Vous avez mis \xC3\xA0 jour l'offre de stage {offer_link}"
-still_working_there: " (y travaille encore)"
-Search_agent_name: "Nom de l'agent de recherche:"
-DASHBOARD_RELATIONSHIP_ACCEPTED_BY_COMPANY_candidate: "Entreprise {company_link} a accept\xC3\xA9 votre invitation"
-Emphasize_key_words_that_demonstrate_evidence: "Emphasize key words that demonstrate evidence of your skills (e.g. captain of the university\xE2\x80\x99s soccer team demonstrates leadership). Focus demonstrating appropriate behaviors rather than seeking to impress an employer with an amazing achievement."
-Update_your_password: "Mettre \xC3\xA0 jour votre mot de passe"
-Delete_this_tag: Supprimer ce tag
-DASHBOARD_OFFER_INTERNSHIP_DESTROYED: "Vous avez supprim\xC3\xA9 l'offre de stage {offer_link}"
-Thanks_for_signing_up_Please_check: "F\xC3\xA9licitation! Nous vous avons envoy\xC3\xA9 un email avec un lien. Cliquez sur le lien dans cet email pour confirmer votre adresse email et activer votre compte.<br/>\r\n\
-  <strong><font color=\"#FF0000\">Si vous ne trouvez pas cet email, v\xC3\xA9rifiez vos  dossiers \"spam\" et \"corbeille\" car il se peut que l'email ai \xC3\xA9t\xC3\xA9 rejet\xC3\xA9 par un filtre!</font></strong><a href=\"http://www.istockcv.com/faq?locale=fr#mail_activation\"><br/>\r\n\
-  Pas re\xC3\xA7u l'email?</a>."
-CV_Now: "Pr\xC3\xA9sent"
-pagination_previous: "&laquo; Pr\xC3\xA9c\xC3\xA9dent"
-DASHBOARD_RELATIONSHIP_ACCEPTED_BY_CANDIDATE_candidate: "Vous avez accept\xC3\xA9 l'invitation de l'entreprise {company_link}"
-DASHBOARD_OFFER_EVENT_CANCELLED_BY_CANDIDATE_company: "{candidate_link} a annul\xC3\xA9 son acceptation de l'invitation \xC3\xA0 {offer_link}"
-Video_message: "<div>\r\n\
-  <p>\r\n\
-  <strong>Apprenez \xC3\xA0 utiliser notre outil de vid\xC3\xA9o message \"tokbox\" :</strong>\r\n\
-  </p>\r\n\
-  <p>\r\n\
-  <font color=\"#ED2121\"><strong>1)</strong></font> Pour ajouter un message vid\xC3\xA9o \xC3\xA0 votre texte, cliquez sur <strong>\"Montrer/Cacher l'enregistreur vid\xC3\xA9o\"</strong>.\r\n\
-  <br/>\r\n\
-  <br/>\r\n\
-  <font color=\"#ED2121\"><strong>2)</strong></font> Cliquer <strong>\"Record\"</strong> pour commencer \xC3\xA0 enregistrer un message vid\xC3\xA9o et <strong>\"Stop\"</strong> pour stopper l'enregistrement.\r\n\
-  <br/>\r\n\
-  <br/>\r\n\
-  <font color=\"#ED2121\"><strong>3)</strong></font> Vous pouvez relire (bouton <strong>\"Play Back\"</strong>) votre message vid\xC3\xA9o ou r\xC3\xA9-enregistrer (bouton <strong>\"Re-Record\"</strong>) si vous \xC3\xAAtes insatisfait.\r\n\
-  Finalement, cliquez \"<strong>Send</strong>\" \xC3\xA0 deux reprises pour attacher le message vid\xC3\xA9o au texte.\r\n\
-  <br/>\r\n\
-  <br/>\r\n\
-  <strong>Astuce:</strong> une vid\xC3\xA9o efficace dure entre 12 et 60 secondes.\r\n\
-  <strong>Attention: </strong> apr\xC3\xA8s le 1er bouton <strong>\"Send\"</strong>, vous pouvez ajouter une adresse email pour envoyer la video \xC3\xA0 une autre personne (Cc - Carbon copy). Veilliez \xC3\xA0 ne pas retirer l'adresse <strong>\"tokbox@istockcv.com\"</strong>\r\n\
-  <br/>\r\n\
-  <br/>\r\n\
-  <font color=\"#ED2121\"><strong>4)</strong></font> Quand vous avez tout fini (texte et video), cliquez sur <strong>\"Envoyer!\".</strong>\r\n\
-  <br/>\r\n\
-  <br/>\r\n\
-  <br/>\r\n\
-  <strong>Note:</strong> nous continuons \xC3\xA0 am\xC3\xA9liorer cette fonction. N'h\xC3\xA9sitez pas \xC3\xA0 nous envoyer vos commentaires.\r\n\
-  </p>\r\n\
-  </div>"
-Interested: !binary |
-  SW50w6lyZXNzw6k/
-
-Maximum_size_of_my_network: "Taille maximum de mon r\xC3\xA9seau"
-Fields_of_occupation: "Cat\xC3\xA9gories de jobs"
-DASHBOARD_OFFER_THESIS_RESENT_BY_COMPANY_candidate: "{company_link} vous a r\xC3\xA9envoy\xC3\xA9 son offre de sujet de m\xC3\xA9moire/TFE {offer_link}"
-Create_a_Profile: "Cr\xC3\xA9er un Profil"
-static_blog_link: Blog
-Euros_per_month_: "&euro;{count} / mois"
-Compose_a_thesis: "M\xC3\xA9moire"
-Actions: Actions
-Passion_for_everything_web_2_0: Passion for everything "web 2.0"
-DASHBOARD_CANDIDATE_PROFILE_UPDATED: "Votre profil de candidat a \xC3\xA9t\xC3\xA9 mis \xC3\xA0 jour"
-Compose_an_offer: Job
-candidate_profile_relationship_status_0: "Non sp\xC3\xA9cifi\xC3\xA9"
-You_invited_candidate_link_to_offer: "Vous avez invit\xC3\xA9 {candidate_link} \xC3\xA0 {offer_link}"
-Logged_in_successfully: "Connect\xC3\xA9 avec succ\xC3\xA8s"
-Credits_: "{count} Credits"
-Message: Message
-DASHBOARD_OFFER_EVENT_ACCEPTED_BY_CANDIDATE_company: "{candidate_link} a accept\xC3\xA9 votre invitation \xC3\xA0 {offer_link}"
-Perfect!: Parfait!
-New_student_job_offer_received: "Nouvelle offre de job d'\xC3\xA9tudiant re\xC3\xA7ue"
-Invitation_title: |
-  <p align="center">Parrainage</p>
-
-Saved_search_agents: Agents de recherche
-accept: (accepter)
-Enter_a_degree_place_or_tag: "Ecrivez un dipl\xC3\xB4me, une \xC3\xA9cole, tags..."
-Accept: Accepter
-UNKNOWN_CATEGORY_TODO: UNKNOWN CATEGORY (TODO)
-Change_your_status_to_make_this: Changez votre status pour rendre cette information visible aux candidats.
-DASHBOARD_OFFER_EVENT_ACCEPTED_BY_COMPANY_company: "Vous avez accept\xC3\xA9 la demande de {candidate_link} pour l'\xC3\xA9v\xC3\xA9nement {offer_link}"
-Action_Relationship_Add_Candidate: "Inviter <strong>{candidate}</strong> dans mon r\xC3\xA9seau"
-DASHBOARD_OFFER_STUDENT_JOB_RESENT_BY_COMPANY_company: "Vous avez r\xC3\xA9envoy\xC3\xA9 votre offre {offer_link} \xC3\xA0 {candidate_link}"
-Signup_process_is_complete_company: "Le processus d\xE2\x80\x99enregistrement est termin\xC3\xA9! Bienvenu sur iStockCV!<br /> Vous pouvez commencer par remplir <a href=\"/company/profile\">votre profil d\xE2\x80\x99entreprise</a> afin d\xE2\x80\x99\xC3\xAAtre visible par tous les candidats."
-Thank_you_your_account_on_iStockCV: "Merci, votre compte iStockCV est maintenant activ\xC3\xA9!"
-Currently_we_accept_Visa_Mastercard_and: "Nous acceptons <strong>Visa</strong>, <strong>Mastercard</strong>, and <strong>American Express</strong>. Pour les bons de commandes, cheques, ou les factures avec paiement \xC3\xA0 une date ult\xC3\xA9rieure, contactez nous par t\xC3\xA9l\xC3\xA9phone (+32.479.21.72.25), fax (+32.2.791.57.00) ou email (<a href=\"mailto:sales@istockcv.com\">sales@istockcv.com</a>). "
-Your_network_contains_candidates_: "Votre r\xC3\xA9seau contient <strong>{count}</strong> candidats"
-DASHBOARD_OFFER_EVENT_INITIATED_BY_COMPANY_company: "Vous avez invit\xC3\xA9 {candidate_link} \xC3\xA0 {offer_link}"
-If_you_have_any_questions_about: "Pour tout autre question relative \xC3\xA0 iStockcv ou au processus d'enregistrement, il vous suffit de nous contacter \xC3\xA0 <a href=\"mailto:sales@istockcv.com\">sales@istockcv.com</a> et vous ferons notre possible de vous r\xC3\xA9pondre le m\xC3\xAAme jour."
-Website: "Site web:"
-We_are_in_open_beta_company: ""
-Mobile: "GSM:"
-DASHBOARD_OFFER_EVENT_REJECTED_BY_CANDIDATE_company: "{candidate_link} a refus\xC3\xA9 votre invitation \xC3\xA0 {offer_link}"
-See_the_list_of_all: "1) Visualisez la liste des entreprises de votre r\xC3\xA9seau 2) V\xC3\xA9rifiez ais\xC3\xA9ment les invitations \xC3\xA0 un \xC3\xA9v\xC3\xA9nement en attente 3) Un moteur de recherche tout simple est l\xC3\xA0 pour rechercher les entreprises dans votre r\xC3\xA9seau 4) A tout moment, en haut de la page, il y a le moteur de recherche avanc\xC3\xA9 pour rechercher toutes les entreprises \xC3\xA0 travers la base de donn\xC3\xA9es d'iStockCV."
-DASHBOARD_RELATIONSHIP_REJECTED_BY_COMPANY_candidate: "L'entreprise {company_link} a rejet\xC3\xA9 votre invitation"
-What_we_offer: "What we offer:"
-If_your_bandwidth_usage_exceeds_300: ""
-Search_offer: "Rechercher:"
-Price_EUR_: "{price} EUR"
-Target_locations: "Localisations cibl\xC3\xA9es"
-refuse: (refuser)
-Advanced_search: "Recherche avanc\xC3\xA9e"
-Please_validate_your_new_email_address: SVP validez votre nouvelle adresse email
-If_you_did_not_request_to: "Si vous n'avez pas demand\xC3\xA9 de changer votre mot de passe, ignorez simplement cet email."
-region: endroit
-There_was_in_error_in_your: "Il y avait une erreur dans votre formulaire, veuillez essayer \xC3\xA0 nouveau."
-Simple_and_intuitive_tools: Outils simples et intuitifs
-Send_requests_to_join_my_network: "Envoyer une invitation \xC3\xA0 rejoindre mon r\xC3\xA9seau"
-a_href_http_www_belighted_com: <a href="http://www.belighted.com/">Belighted</a>, the development company behind iStockCV, is looking for Ruby on Rails developers to join its team.
-My_account: Mon compte
-Activity_history: "Historique de l'activit\xC3\xA9"
-Developed_an_awareness_of_customer_relationship: Developed an awareness of customer relationship management and improved my influencing skills when working with challenging clients under pressure.
-label_last_name: Nom
-DASHBOARD_OFFER_EVENT_WITHDRAWN_BY_COMPANY_company: "Vous avez retir\xC3\xA9 votre invitation \xC3\xA0 {offer_link} de {candidate_link}"
-Reapply_for_this_offer: Repostuler pour cette offre
-What_is_a_credit: "Que signifie un cr\xC3\xA9dit? Que signifie le syst\xC3\xA8me <i>No Cure No Pay</i>?"
-days_ago_: il y a {count} jour(s)
-Sent_to: "Envoy\xC3\xA9 : "
-Privacy: "Vie priv\xC3\xA9e:"
-Education: Education
-New_offer: Nouvelle offre
-DASHBOARD_OFFER_INTERNSHIP_INITIATED_BY_COMPANY_company: "Vous avez propos\xC3\xA9 l'offre de stage {offer_link} de {candidate_link}"
-static_news_link: "Actualit\xC3\xA9s"
-Up_to_: "Jusqu'\xC3\xA0 {count}"
-Title: Titre
-Accepted_by: "Accept\xC3\xA9 : "
-EMAIL_The_search_function_enables_you_to: "Le moteur de recherche vous permet de trouver les candidats qui vous sont appropri\xC3\xA9s. Vous pouvez affiner votre recherche avec des param\xC3\xA8tre et des mots-cl\xC3\xA9s."
-This_validation_code_is_invalid_Try: Ce code de validation est incorrect. Essayez de redemander un nouveau code.
-Send_invitation: Envoyer l'invitation
-DASHBOARD_OFFER_INTERNSHIP_ACCEPTED_BY_CANDIDATE_company: "{candidate_link} a accept\xC3\xA9 votre offre de stage {offer_link}"
-DASHBOARD_OFFER_INTERNSHIP_CANCELLED_BY_CANDIDATE_company: "{candidate_link} a annul\xC3\xA9 son acceptation \xC3\xA0 votre offre de stage {offer_link}"
-Howdy_We_are_glad_to_welcome: Bonjour! Comment allez-vous? Nous sommes heureux de vous accueillir sur iStockCV.
-DASHBOARD_OFFER_INTERNSHIP_REJECTED_BY_CANDIDATE_company: "{candidate_link} a refus\xC3\xA9 votre offre de stage {offer_link}"
-With_search_agent_results: "Via agents de recherche:"
-DASHBOARD_OFFER_THESIS_WITHDRAWN_BY_COMPANY_candidate: "{company_link} a annul\xC3\xA9 son offre de sujet de m\xC3\xA9moire/TF {offer_link}"
-What_s_this: Qu'est-ce?
-Company_description: Description de l'entreprise
-Pending_invitations: "Invitations en attente:"
-We_are_in_open_beta_candidate: ""
-Skills_required: "Comp\xC3\xA9tences requises:"
-Job_offers: Offres de job
-Informations: Informations
-Withdraw_invitation: Retirer l'invitation
-Assisted_with_stock_and_sales_records: Assisted with stock and sales records giving me an insight into administrative systems.
-Confirm_presence_at_this_event: "Confirmer ma pr\xC3\xA9sence \xC3\xA0 cet \xC3\xA9v\xC3\xA9nement"
-Internships: Stages
-Company_logo: Logo
-Full_name: "Nom complet:"
-DASHBOARD_OFFER_THESIS_CREATED: "Vous avz cr\xC3\xA9e une offre de sujet de m\xC3\xA9moire/TFE {offer_link}"
-Request_for_a_new_password: Demande de nouveau mot de passe
-EMAIL_Title: Titre
-DASHBOARD_CALL_SCHEDULED_BY_COMPANY_candidate: "{company_link} a programm\xC3\xA9 une {interview_link} avec vous le {scheduled_for}"
-Target_company: "Entreprise cibl\xC3\xA9e"
-confirmation: (confirmation)
-There_are_no_results_matching_your_criteria: "Il n'y a pas de r\xC3\xA9sultats correspondants \xC3\xA0 vos crit\xC3\xA8res."
-We_could_not_find_any_user: "Nous n\xE2\x80\x99avons pas trouv\xC3\xA9 d\xE2\x80\x99utilisateur avec cette adresse email. Veuillez essayer \xC3\xA0 nouveau."
-Free_plan: Plan gratuit.
-Get_a_job: "Un outil con\xC3\xA7u pour vous"
-DASHBOARD_OFFER_JOB_RESENT_BY_COMPANY_company: "Vous avez renvoy\xC3\xA9 votre offre {offer_link} \xC3\xA0 {candidate_link}"
-Graduate_school: "Institution:"
-New_call_below: "<p>\r\n\
-  <strong>Note:</strong> Votre destinataire va recevoir ces informations par email ainsi qu'une notification sur son onglet \"Aper\xC3\xA7u\".\r\n\
-  </p>"
-DASHBOARD_OFFER_EVENT_INITIATED_BY_COMPANY_candidate: "Vous avez re\xC3\xA7u une invitation \xC3\xA0 {offer_link} de {company_link}"
-Send_a_message_to_company_about_this_offer: "Envoyer un message \xC3\xA0 <strong>{company}</strong> relatif \xC3\xA0 cette offre"
-Search_results: "R\xC3\xA9sultats de la recherche"
-EMAIL_Your_iStockCV_team: "Votre \xC3\xA9quipe iStockcv"
-logged_in_as: "Connect\xC3\xA9 comme {name}."
-Please_validate_and_communicate_this_email_to_the_association: "Veuillez valider et communiquer cet email \xC3\xA0 l'association:"
-No_event: "Pas d'\xC3\xA9v\xC3\xA9nements."
-DASHBOARD_RELATIONSHIP_INITIATED_BY_COMPANY_candidate: "L'entreprise {company_link} vous invite \xC3\xA0 rejoindre son r\xC3\xA9seau"
-Action_Relationship_Withdraw_Invitation_To_Candidate_Short: Retirer
-DASHBOARD_RELATIONSHIP_ACCEPTED_BY_CANDIDATE_company: "Le candidat {candidate_link} a accept\xC3\xA9 votre invitation"
-Select_everyone: "S\xC3\xA9lectionner tout"
-static_refund_policy_link: Politique de remboursement
-Email: "Email:"
-DASHBOARD_OFFER_THESIS_CANCELLED_BY_CANDIDATE_company: "{candidate_link} a annul\xC3\xA9 son application pour {offer_link}"
-You_have_received_a_new_offer: "Vous avez re\xC3\xA7u une nouvelle offre:"
-Compensations: "Compensations:"
-Latest_search_agent_results: "Derniers r\xC3\xA9sultats de l'agent de recherche"
-We_may_but_have_no_obligation: "We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party\xE2\x80\x99s intellectual property or these Terms of Service."
-DASHBOARD_RELATIONSHIP_REJECTED_BY_CANDIDATE_company: "Le candidat {candidate_link} a rejet\xC3\xA9 votre invitation"
-Please_activate_your_new_account_on: SVP activez votre nouveau compte iStockCV
-DASHBOARD_OFFER_EVENT_INITIATED_BY_CANDIDATE_company: "{candidate_link} a demand\xC3\xA9 une invitation pour {offer_link}"
-No_: Non
-Add_your_logo: Ajouter votre logo...
-Nationality: "Nationalit\xC3\xA9:"
-Your_email?: Votre email?
-Choose_a_country: Choisir un pays
-DASHBOARD_RELATIONSHIP_INITIATED_BY_CANDIDATE_company: "Le candidat {candidate_link} vous a rajout\xC3\xA9 \xC3\xA0 son r\xC3\xA9seau"
-What_is_a_slot: Que signifie un emplacement?
-Contact_information: Informations de contact
-Delete_Picture: Supprimer l'image
-Student_jobs: "Jobs d'\xC3\xA9tudiant"
-It_is_usual_to_supply_the: It is usual to supply the names, (and addresses) of two referees at the end of your CV - and, subject to their agreement, other contact details if appropriate. Ideally, one will be associated with your academic background and the other with any work or outside activities you have been involved in (e.g. previous employer).
-DASHBOARD_OFFER_EVENT_ACCEPTED_BY_COMPANY_candidate: "{company_link} a accept\xC3\xA9 votre demande pour l'\xC3\xA9v\xC3\xA9nement {offer_link}"
-Accepted: "Accept\xC3\xA9(s) :"
-Action_RelationShip_Confirm_Refuse_Invitation_From_Company: "Etes-vous s\xC3\xBBr de vouloir refuser l'invitation de cette entreprise?"
-Purchase_of_credits_credits: "Achat de {credits} cr\xC3\xA9dits (total: <b>{amount}</b>)"
-Company_details: "D\xC3\xA9tails de l'entreprise"
-DASHBOARD_OFFER_THESIS_DESTROYED: "Vous avez supprimer l'offre du sujet de m\xC3\xA9moire/TFE {offer_link}"
-Team_spirit: Team spirit
-Link: "Lien:"
-Jobs: Jobs
-_pending_: "(pending: {email})"
-EMAIL_Create_offers_now: "Cr\xC3\xA9er des offres maintenant : "
-label_email: Email
-DASHBOARD_RELATIONSHIP_REJECTED_BY_CANDIDATE_candidate: "Vous avez rejet\xC3\xA9 l'invitation de l'entreprise {company_link}"
-label_company: Entreprise
-Information_architecture_software_engineering: Information architecture, software engineering
-DASHBOARD_OFFER_THESIS_RESENT_BY_COMPANY_company: "Vous avez r\xC3\xA9envoy\xC3\xA9 votre offre de sujet de m\xC3\xA9moire {offer_link} \xC3\xA0 {candidate_link}"
-Upgrade: Augmenter
-Export_CVs_in_PDF: Exporter CVs en PDF
-How_does_the_free_plan_work: Comment fonctionne le plan tarifaire gratuit?
-Leisure_interests_and_achievements: "Loisirs, int\xC3\xA9r\xC3\xAAts et accomplissements"
-Call_scheduled_for: En date du
-Please_choose_a_new_password: "SVP choisissez un nouveau mot de passe:"
-URL: "URL:"
-Billing_information: Informations de facturation
-Or_enter_your_friends_email_addresses: "Ou, entrez les emails de vos amis manuellement, s\xC3\xA9par\xC3\xA9s par une virgule:"
-No_candidates_reached_Maybe_you_already: "Pas de candidats atteints. Peut-\xC3\xAAtre leur avez-vous d\xC3\xA9j\xC3\xA0 envoy\xC3\xA9 une offre."
-Invite_to_my_network: "Inviter \xC3\xA0 mon r\xC3\xA9seau"
-EMAIL_Company_name: Nom de l'entreprise
-Choose_a_language: Choisir une langue
-Send_a_job_or_event_to: "Envoyer un job ou \xC3\xA9v\xC3\xA9nement \xC3\xA0 mon r\xC3\xA9seau"
-Sorry_no_results: "D\xC3\xA9sol\xC3\xA9, il n'y a pas de r\xC3\xA9sultat correspondant \xC3\xA0 votre requ\xC3\xAAte."
-Refuse: Refuser
-Buy_more: Acheter plus?
-tab_my_account_link: Compte
-DASHBOARD_OFFER_STUDENT_JOB_INITIATED_BY_COMPANY_company: "Vous avez propos\xC3\xA9 l'offre de job {offer_link} \xC3\xA0 {candidate_link}"
-Offers: Offres
-Bad_user_name_or_password: Mauvais identifiant ou mot de passe
-EMAIL_invitation_created_subject: Nouveau message de {name} sur iStockCV
-Anywhere: "N'importe o\xC3\xB9"
-Per_year_subscription: "Inscription \xC3\xA0 l'ann\xC3\xA9e?"
-You_can_choose_only_one_language: Vous ne pouvez choisir qu'une seule langue.
-Delete_this_offer: Supprimer cette offre
-Invitations_received: "Invitations re\xC3\xA7ues:"
-No_candidates_found: "Pas de candidats trouv\xC3\xA9s"
-DASHBOARD_OFFER_INTERNSHIP_INITIATED_BY_COMPANY_candidate: "Vous avez re\xC3\xA7u une proposition d'offre de stage {offer_link} de {company_link}"
-Place: Lieu
-Company: Entreprise
-There_are_no_results_explanation: "Nous n'avons pas pu trouver d'offre associ\xC3\xA9e aux mots-clefs que vous avez introduits. Veuillez r\xC3\xA9essayer avec d'autres mots-clefs."
-DASHBOARD_OFFER_INTERNSHIP_ACCEPTED_BY_COMPANY_candidate: "{company_link} a accept\xC3\xA9 votre demande de stage {offer_link}"
-candidate_search_with_profile_count_: "{search_name} (pluralize{{profile_count}, profil, profils})"
-DASHBOARD_RELATIONSHIP_WITHDRAWN_BY_COMPANY_company: "Vous avez annul\xC3\xA9 l'invitation au candidat {candidate_link}"
-EMAIL_You_can_invite_candidates_to_join: "Vous pouvez inviter des candidats \xC3\xA0 rejoindre votre r\xC3\xA9seau en cliquant sur \"Ajouter \xC3\xA0 mon r\xC3\xA9seau\". De cette mani\xC3\xA8re, vous serez notifi\xC3\xA9 chaque fois qu'ils mettrons \xC3\xA0 jour leur profil et ils seront inform\xC3\xA9s pour tout changement sur votre profil et offres. Finalement, vous pouvez envoyer des offres \xC3\xA0 votre r\xC3\xA9seau ou aux r\xC3\xA9sultats de vos recherches."
-No_spam_we_promise: Pas de spam, c'est promis
-Offer_title_and_location: "Titre de l'offre et lieu:"
-Location: "Localisation:"
-Warning_this_offer_has_been_updated: "Attention: cette offre a \xC3\xA9t\xC3\xA9 mise \xC3\xA0 jour depuis que vous l'avez accept\xC3\xA9e."
-events_: "pluralize{{count}, \xC3\xA9v\xC3\xA9nement, \xC3\xA9v\xC3\xA9nements}"
-static_check_the_faq_link: Consulter la FAQ
-DASHBOARD_OFFER_EVENT_UPDATED: "Vous avez mis \xC3\xA0 jour l'\xC3\xA9v\xC3\xA9nement {offer_link}"
-One_company_has_to_be_right_for_you: L'une d'elles est la bonne.
-DASHBOARD_OFFER_INTERNSHIP_INITIATED_BY_CANDIDATE_company: "{candidate_link} s'est propos\xC3\xA9 pour l'offre de stage {offer_link}"
-Action_Relationship_Remove_Company_Short: Retirer
-Elegant_interfaces: "Interfaces \xC3\xA9l\xC3\xA9gantes"
-Enter_a_company_name_location_industry: Entrer un nom d'entreprise, localisation, industrie...
-DASHBOARD_OFFER_THESIS_WITHDRAWN_BY_COMPANY_company: "Vous avez annul\xC3\xA9 l'offre de sujet de m\xC3\xA9moire/TFE {offer_link} \xC3\xA0 {candidate_link}"
-Add_a_location: Ajouter une localisation
-By_searching: Via moteur de recherche
-Contact_person: "Personne de contact:"
-OfferInternshipDetails: "D\xC3\xA9tails du stage"
-Good_english_level_french_is_a: Good english level (french is a plus)
-Action_RelationShip_Confirm_Refuse_Invitation_From_Candidate: "Etes-vous s\xC3\xBBr de vouloir refuser l'invitation de ce candidat?"
-Your_profile_status_was_successfully_changed: "Le status de votre profil a \xC3\xA9t\xC3\xA9 chang\xC3\xA9 avec succ\xC3\xA8s."
-Career_opportunities: "Opportunit\xC3\xA9 de carri\xC3\xA8re:"
-You_have_no_messages_for_the: Vous n'avez pas de messages pour le moment.
-DASHBOARD_OFFER_STUDENT_JOB_ACCEPTED_BY_CANDIDATE_candidate: "Vous avez accept\xC3\xA9 le job d'\xC3\xA9tudiant {offer_link} de {company_link}"
-Moment: Moment
-Send_a_job_or_event: "Envoyer un job ou \xC3\xA9v\xC3\xA9nement"
-Please_create_your_profile_first: "Veuillez d'abord cr\xC3\xA9er votre profil!"
-RSS_feed: RSS feed
-experience: "exp\xC3\xA9rience de travail"
-Where_can_we_review_your_terms: "O\xC3\xB9 pouvons-nous lire vos conditions g\xC3\xA9n\xC3\xA9rale et politique de vie priv\xC3\xA9e?"
-A_candidate_cannot_initialize_a_paying: Un candidat ne peut initialiser une action payante.
-DASHBOARD_CALL_SCHEDULED_BY_CANDIDATE_company: "{candidate_link} a programm\xC3\xA9 une {interview_link} avec vous le {scheduled_for}"
-Thank_you_for_signing_up_on_iStockCV: "Merci de s'\xC3\xAAtre enregistr\xC3\xA9 sur iStockCV!"
-New_event: "Nouveaux \xC3\xA9v\xC3\xA9nements"
-Keep_it_brief_description: "Keep it brief at three of four lines maximum. It will appear at the top of your profile, thus it should immediately capture the reader\xE2\x80\x99s interest and entice them to read on! Use is to emphasize two or three main strengths."
-Expiration: "Expiration:"
-DASHBOARD_OFFER_THESIS_INITIATED_BY_COMPANY_company: "Vous avez propos\xC3\xA9 l'offre de sujet de m\xC3\xA9moire/TFE {offer_link} \xC3\xA0 {candidate_link}"
-Up_to_count_candidates: "Jusqu'\xC3\xA0 pluralize{{count}, candidat, candidats}"
-DASHBOARD_OFFER_JOB_ACCEPTED_BY_COMPANY_candidate: "{company_link} a accept\xC3\xA9 votre demande pour l'offre {offer_link}"
-Dashboard: "Aper\xC3\xA7u"
-DASHBOARD_OFFER_STUDENT_JOB_RESENT_BY_COMPANY_candidate: "{company_link} vous a r\xC3\xA9envoy\xC3\xA9 son offre {offer_link}"
-DASHBOARD_OFFER_INTERNSHIP_CANCELLED_BY_CANDIDATE_candidate: "Vous avez annul\xC3\xA9 votre acceptation \xC3\xA0 l'offre de stage {offer_link} de {company_link}"
-Degree: "Titre du dipl\xC3\xB4me:"
-EMAIL_Update_your_Profile: "Mettre \xC3\xA0 jour votre profil:"
-Event_title: "Titre de l'\xC3\xA9v\xC3\xA9nement:"
-This_account_is_visible: Ce compte est visible
-Text_and_video_messages: "Messages texte et vid\xC3\xA9o"
-Next_charge_colon: "Prochaine facturation:"
-Personal_profile: Profil personnel
-DASHBOARD_OFFER_JOB_REJECTED_BY_CANDIDATE_candidate: "Vous avez refus\xC3\xA9 l'offre d'emploi {offer_link} de {company_link}"
-EMAIL_Click_here_to_view_recommended_friends: "Cliquez ici pour voir vos amis recommand\xC3\xA9s et en attentes (vous devrez peut-\xC3\xAAtre vous connecter avant) :"
-Target_job_locations: Localiser les jobs
-Moment_colon: "Moment:"
-average: moyen
-DASHBOARD_OFFER_THESIS_INITIATED_BY_CANDIDATE_company: "{candidate_link} \xC3\xA0 postul\xC3\xA9 pour l'offre de sujet de m\xC3\xA9moire/TFE {offer_link}"
-Wrong_input: "Mauvaise entr\xC3\xA9e"
-Add_the_iStockCV_application_to_my: "Ajouter l'application iStockCV \xC3\xA0 mon compte Facebook"
-Companies_in_your_network: "Entreprises dans votre r\xC3\xA9seau"
-Plan_details: "D\xC3\xA9tails du plan"
-Give_an_overview_of_your_degree: Give an overview of your degree course. It includes a list of relevant modules, major courses, information about projects and dissertations undertaken, average grades to date or predicted results. This will enable you to demonstrate how you are able to put your knowledge into action and will also provide evidence of some of your skills (e.g. analytical, research, team-working, communication, etc) which employers are really looking for.
-label_password_confirmation: Confirmation du mot de passe
-DASHBOARD_RELATIONSHIP_REJECTED_BY_COMPANY_company: "Vous avez rejet\xC3\xA9 l'invitation du candidat {company_link}"
-DASHBOARD_OFFER_THESIS_CANCELLED_BY_CANDIDATE_candidate: "Vous avez annul\xC3\xA9 votre application pour l'offre de sujet de m\xC3\xA9moire/TFE {offer_link} de {company_link}"
-Add_a_field_of_occupation: "Ajouter une cat\xC3\xA9gories de jobs"
-tab_profile_link: Profil
-Initiative_x_x_Adaptability_Successful_study: "Initiative x%x Adaptability: Successful study and work in Spain and Mexico demonstrate my ability to adapt and thrive in new and different environments."
-expert: expert
-Update_my_password: "Mettre \xC3\xA0 jour mon mot de passe"
-You_have_been_invited_to_a: "Vous avez \xC3\xA9t\xC3\xA9 invit\xC3\xA9 \xC3\xA0 un nouvel \xC3\xA9v\xC3\xA9nement:"
-Send_a_new_message: Envoyer un nouveau message
-static_company_homepage_link: "Page d'accueil soci\xC3\xA9t\xC3\xA9"
-We_are_hiring_Ruby_on_Rails: We are hiring Ruby on Rails developers!
-Search_candidate: Rechercher
-Action_Relationship_Reject_Invitation_From_Candidate: Rejeter l'invitation de <strong>{candidate}</strong>
-EMAIL_The_following_tips_will_help_you: "Les astuces suivantes vous aideront rapidement \xC3\xA0 tirer parti d'iStockcv."
-Apply: "Postuler:"
-Card_type: "Type de carte:"
-EMAIL_The_more_information_you_put_into_offers: "Au plus vous mettez d'informations dans ces offres, au plus facile les candidats pourront les trouver et postuler. Vos offres ne sont pas limit\xC3\xA9s dans le temps -- modifier et supprimer les \xC3\xA0 votre convenance."
-Showing_candidates_in_your_network_: "Affichage des candidats {from}-{to} de {total} dans votre r\xC3\xA9seau."
-Total_results_found: "{count} r\xC3\xA9sultats trouv\xC3\xA9s."
-Yesterday: Hier
-Choose_a_nationality: "Choisir une nationalit\xC3\xA9"
-Server_returned_unexpected_data: "Donn\xC3\xA9es inattendues retourn\xC3\xA9es par serveur."
-EMAIL_Complete_my_profile_now: "Compl\xC3\xA9ter mon profil maintenant : "
-Unlimited: "Illimit\xC3\xA9"
-EMAIL_Place: "Lieu:"
-Video_interviews: "Interviews vid\xC3\xA9o"
-Please_a_href_terms_of_service: "SVP <a href=\"/terms_of_service\">lisez</a> nos Conditions g\xC3\xA9n\xC3\xA9rales d'utilisation, Protection de la vie priv\xC3\xA9e et la Politique de remboursement. Si vous avez des questions: envoyez un email au <a href=\"mailto:support@istockcv.com\">service support</a>."
-Job_title: "Titre du job:"
-Send: Envoyer
-candidates_: pluralize{{count}, candidat, candidats}
-State_Province_Region: "Etat:"
-DASHBOARD_OFFER_STUDENT_JOB_REJECTED_BY_CANDIDATE_candidate: "Vous avez rejet\xC3\xA9 l'offre de job d'\xC3\xA9tudiant {offer_link} de {company_link}"
-Browse_all_our_Database: "Naviguer dans toute notre base de donn\xC3\xA9es"
-Count_credits_per_request: "pluralize{{count}, cr\xC3\xA9dit, cr\xC3\xA9dits} par demande"
-DASHBOARD_RELATIONSHIP_INITIATED_BY_COMPANY_company: "Vous avez invit\xC3\xA9 le candidat {candidate_link}"
-Add_: Ajout {what}
-Refund_Policy: Politique de remboursement
-Signup_process_is_complete_candidate: "Le processus d\xE2\x80\x99enregistrement est termin\xC3\xA9! Bienvenu sur iStockCV! <br /> Vous pouvez commencer par remplir <a href=\"/candidate/profile\">votre profil</a> afin d\xE2\x80\x99\xC3\xAAtre visible par toutes les entreprises."
-static_privacy_policy_link: "Vie priv\xC3\xA9e"
-You_are_on_a_free_plan: Vous avez un plan tarifaire Gratuit.
-EMAIL_Click_here_to_view_profile_here: "Cliquez ici pour voir son profil (vous devrez peut-\xC3\xAAtre vous connecter avant) :"
-Discard_this_offer: Rejeter cette offre
-DASHBOARD_OFFER_JOB_WITHDRAWN_BY_COMPANY_candidate: "{company_link} vous a retir\xC3\xA9 de son offre {offer_link}"
-Euros_per_credit_: "{count}&euro; / credit"
-Send_this_to_selected_people: "Envoyer ceci aux personnes s\xC3\xA9lectionn\xC3\xA9es:"
-Call_subject: Sujet
-Search_results_for_query_: "pluralize{{count}, resultat, resultats} pour la requ\xC3\xAAte \"{query}\""
-From: De
-An_amazing_atmosphere_in_a_small: An amazing atmosphere in a small, passionate and funny team
-static_take_the_tour_link: "D\xC3\xA9monstration"
-Send_the_following_offer_thesis: "Envoyer l'offre de m\xC3\xA9moire suivante:"
-Choose_your_URL: "Choisissez votre URL:"
-of_them_: "{count} d'entre eux"
-Association: Association
-From_to_: "De {from_time} \xC3\xA0 {to_time}."
-static_site_map_link: Plan du site
-Official_website: "Site web officiel:"
-You_must_always_have_at_least: Vous devez toujours avoir au moins un CV.
-static_frequently_asked_questions_link: Foire aux questions
-Good_knowledge_of_RoR_and_Javascript: Good knowledge of RoR and Javascript libraries (Prototype, script.aculo.us, ...)
-My_public_profile: Mon profil public
-Send_every_offer_individually: Envoyer chaque offre individuellement
-General_error: "Erreur g\xC3\xA9n\xC3\xA9rale"
-Call_success: "Vous avez programm\xC3\xA9 une interview en ligne. Un email contenant les d\xC3\xA9tails de cette interview vous a \xC3\xA9t\xC3\xA9 envoy\xC3\xA9."
-Your_candidates: "Vos candidats:"
-Salary: "Salaire:"
-Publish_your_profile: Publier un profil multilingue
-Call_form_with: Avec
-language: langue
-Call_form_at: A
-Max_search_agent_capacity_reached: "Vous ne pouvez sauvegarder cet agent de recherche parce que vous avez utilis\xC3\xA9 tous vos agents disponibles. Supprimer des agents pr\xC3\xA9c\xC3\xA9dents ou augmenter votre plan tarifaire de mani\xC3\xA8re \xC3\xA0 obtenir des agents de recherche additionnels. Cliquez <a href='/company/account'>ici</a> pour choisir un nouveau plan tarifaire."
-Name: "Nom:"
-Search_agent_cannot_be_created_Check: "L'agent de recherche ne peut \xC3\xAAtre cr\xC3\xA9\xC3\xA9. Veuillez v\xC3\xA9rifier si votre recherche est valide et essayez \xC3\xA0 nouveau."
-Strong_interest_in_agile_development: Strong interest in agile development
-Action_Relationship_Remove_Candidate: "Retirer <strong>{candidate}</strong> de mon r\xC3\xA9seau"
-Log_in: Se connecter
-Subject_: "Sujet:"
-Event_date: "Date de l'\xC3\xA9v\xC3\xA9nement:"
-Your_plan: Votre plan
-Languages: Langues
-DASHBOARD_CALL_SCHEDULED_BY_CANDIDATE_candidate: "Vous avez programm\xC3\xA9 une {interview_link} avec {company_link} le {scheduled_for}"
-DASHBOARD_OFFER_THESIS_UPDATED: "Vous avez mis \xC3\xA0 jour votre offre de sujet de m\xC3\xA9moire {offer_link}"
-EMAIL_Join_my_network_on_iStockCV: "Rejoignez mon r\xC3\xA9seau sur iStockcv"
-Password: "Mot de passe:"
-New_thesis_offer_received: "Nouvelle offre de m\xC3\xA9moire re\xC3\xA7ue"
-EMAIL_Dear_name: "Cher/ch\xC3\xA8re {name},"
-EMAIL_View_this_notification_on_your_dashboard: "Voir cette notification sur votre onglet Aper\xC3\xA7u"
-Change?: Changer?
-Event_invitation: "Invitation \xC3\xA0 un \xC3\xA9v\xC3\xA9nement"
-Confirm_presence: "Confirmer pr\xC3\xA9sence"
-Action_Relationship_Reject_Invitation_From_Candidate_Short: Rejeter
-Work_experience: "Exp\xC3\xA9rience de travail"
-Enter_a_school_name: "Entrez le nom d'une \xC3\xA9cole"
-occupation_field: "cat\xC3\xA9gorie de job"
-Enter_a_keyword_location_or_company: Entrez un mot-clef, une ville... (par ex. Brussels internship)
-static_about_us_link: A propos de nous
-N_A: N/A
-static_press_information_link: Presse
-Dealt_with_a_wide_cross_section: "Dealt with a wide cross-section of the public \xE2\x80\x93 enjoyed the contact and was successful in making sales."
-Contact: "Contact:"
-View_all: Tout voir
-Bummer_You_did_not_select_any: "Dommage. Tu n'as pas s\xC3\xA9lectionn\xC3\xA9 de contacts."
-DASHBOARD_OFFER_STUDENT_JOB_ACCEPTED_BY_CANDIDATE_company: "{candidate_link} a accept\xC3\xA9 votre offre d'emploi {offer_link}"
-EMAIL_Congratulations: "F\xC3\xA9licitations!"
-Invitations_sent: "Invitations envoy\xC3\xA9es:"
-Posted_time_ago_: "Post\xC3\xA9 il y a {time}"
-EMAIL_Create_and_manage_offers: "* Cr\xC3\xA9er et g\xC3\xA9rer des offres"
-find_the_perfect_candidate: "Trouvez le candidat parfait par dipl\xC3\xB4me, localisation, comp\xC3\xA9tences, &hellip;"
-The_purpose_of_this_section_is: "The purpose of this section is to demonstrate to employers the skills you have acquired whilst in the work place. For instance:"
-Send_a_message_to_company: "Envoyer un message \xC3\xA0 <strong>{company}</strong>"
-DASHBOARD_OFFER_STUDENT_JOB_REJECTED_BY_CANDIDATE_company: "{candidate_link} a rejet\xC3\xA9 votre offre de job d'\xC3\xA9tudiant {offer_link}"
-Plan_name: "Nom du plan:"
-basic: basique
-iStockCV_is_a_pay_as_you: "iStockcv est un service dont le paiement est \xC3\xA0 l'usage. Il n'y a pas de contrat long terme de votre part. Si vous annulez, vous serez factur\xC3\xA9 sur le mois entam\xC3\xA9, mais vous ne serez plus factur\xC3\xA9 \xC3\xA0 nouveau."
-static_candidate_homepage_link: Page d'accueil candidat
-Call_title: Interview en ligne avec {other}
+---
+setting_password: "Mot de passe"
+Step12_subtitle: "Sélectionne les connaissances à rajouter commme Fellows dans la liste ci-dessous. Vous pouvez aussi {another_email} pour trouver d'autres Fellows."
+Step12_count_contact: "Vous avez pluralize{{count_contact}, connaissance, connaissances} sur Fellownation que vous pouvez suivre."
+Message: "Message"
+setting_time_zone: "Fuseau horaire"
+Feed_subs_name: "Nom :"
+setting_private_text_emails_label: "Recevoir un email quand je recois un message privé."
+EMAIL_Place: "Place:"
+refuse: "(refuse)"
+Please_choose_a_new_password: "Veuillez choisir un nouveau mot de passe:"
+Request_for_a_new_password: "Demander un nouveau mot de passe."
+Signup_check_city_blank: "Ville est trop court (min 2 caractères)"
+Log_in: "Se connecter"
+My_public_profile: "Mon profil public"
+Sent_to: "Envoyé à"
+setting_I_am_an_healer: "Je suis un assitant"
+Action_Relationship_Remove_Candidate_Short: "Ajouter"
+Admin_path: "Admin path:"
+Residence: "Residence:"
+Your_account: "Votre compte"
+Feed_subs_sucess: "Féliciations, votre abonnement a été soumis pour approbation. Cela peut prendre quelques jours. Vous allez recevoir un message privé quand votre abonnement est accepté."
+Don_t_care: "Don't care"
+Action_Relationship_Remove_Company_Short: "Remove"
+Thanks_for_signing_up_Please_check: |-
+  Féliciations! Nous vous avons envoyé un email avec un lien. Cliquez sur le pour confirmer votre adresse e-mail et activer votre compte.<br/>
+  <strong><font color="#FF0000">Si vous ne trouvez pas cet e-mail, vérifiez vos mails et dossiers de courrier indésirable (junk/spam).</font></strong>
+Signup_check_password_characters: "Mote de passe trop court (min 4 caractères)"
+Locality_postal_code: "Localité, code postal:"
+Choose_a_country: "Choisissez un pays"
 Birthdate: "Date de naissance:"
-Your_offer_internships: Vos offres de stages
-Sent: "Envoy\xC3\xA9"
-DASHBOARD_OFFER_THESIS_INITIATED_BY_COMPANY_candidate: "Vous avez recu une offre de sujet de m\xC3\xA9moire/TFE {offer_link} de {company_link}"
-Hide_advanced_search: "Masquer la recherche avanc\xC3\xA9e"
-EMAIL_Call_mail_object_caller: "Une interview en ligne avec {callee} a \xC3\xA9t\xC3\xA9 programm\xC3\xA9e."
-Subscription_rate: "Tarif de l'abonnement:"
-A_state_of_the_art_work: A state-of-the-art work in RoR and agile development in Belgium
-Career_objectives: Mes attentes
-DASHBOARD_OFFER_THESIS_ACCEPTED_BY_CANDIDATE_candidate: "Vous avez accept\xC3\xA9 l'offre de sujet de m\xC3\xA9moire/TFE {offer_link} de {company_link}"
-static_pricing_link: Tarifs
-DASHBOARD_OFFER_EVENT_RESENT_BY_COMPANY_candidate: "{company_link} vous a renvoy\xC3\xA9 son invitation \xC3\xA0 {offer_link}"
-Publish_and_promote_your_profile_on: "Publiez et promouvez votre profil sur le web:"
+message_has_deleted: "Message supprimé!"
+If_you_did_not_request_to: "Si vous n'avez pas demandé de changer votre mot de passe, ignorez simplement ce message."
+EMAIL_View_this_notification_on_your_dashboard: "View this notification on your dashboard:"
+Someone_requested_a_new_password_for: "Quelqu'un a demandé un nouveau mot de passe pour votre compte sur Fellownation. Visitez cette URL si vous souhaitez modifier votre mot de passe:"
+tab_inbox_link: "Boîte de réception"
+EMAIL_Company_name: "Nom de l'entreprise:"
+SideBar_tips_desc: "<p>Changer votre nom n'affectera pas vos messages publics ou privés existants, ou d'autres données. Toutefois, si vous changez votre nom d'utilisateur cela affectera votre URL personnel http://www.fellownation.com/your_username </ p> Protéger votre compte pour garder votre profil partiellement ou totalement privés. </ p>"
+Edit: "Modifier"
+label_email: "Email"
+Company_details: "Company details"
+Update_your_password: "Mettre à jour votre mot de passe"
+private_messages: "Messages privés"
+Add_a_picture: "Ajouter une photo"
+Incorrect_email_password_combination: "Combinaison email/mot de passe incorrecte"
+confirmation: "(confirmation)"
+Account_owner_details: "Account owner details"
+Privacy: "Ma vie privée"
+Signup_public_url_special_character: "Lettres et chiffres uniquement. Pas d'espace, pas de symboles."
+accept: "(accept)"
+EMAIL_Please_click_on_the_following_link: "Please click on the following link to confirm your email address and get to know the Web site:"
+From: "De"
+Accepted: "Accepted:"
+New_password: "Nouveau mot de passe:"
+setting_comment_emails: "Commentaires"
+static_privacy_link: "Vie privée"
+SideBar_subscription: "Abonnements"
+General_error: "Erreur générale"
+Success_notice_setting: "Paramètres sauvegardés avec succès!"
+SideBar_password_tips_desc: "Si vous avez fait confiance à un service Fellownation tiers ou des applications avec votre mot de passe et vous le changer ici, vous devrez vous réauthentifier auprès de l'application tiers."
+Count_per_search: "{count} per search"
+Please_enter_your_email_address_here: "Entrez votre e-mail ici et nous vous enverrons un e-mail avec un lien pour réactiver votre compte:"
+Network: "Réseau:"
+Back_to_the_dashboard: "Retour au flux de messages"
+or: "or"
+By_searching: "By searching:"
+UNKNOWN_CATEGORY_TODO: "UNKNOWN CATEGORY (TODO)"
+This_validation_code_is_invalid_Try: "This validation code is invalid. Try asking again for a new code."
+message_has_sent: "Message envoyé !"
+New_email_address: "Nouvel email:"
+Step11_subtitle: "Rechercher dans de votre compte email est le moyen le plus rapide de trouver qui de vos connaissances utilisent déjà Fellownation <br/>. Abonnez-vous à vos connaissances afin de lire leurs messages publics sur votre fil d'actualité."
+Overview: "Overview:"
+setting_wall_emails: "Mur"
+Pending_for: "Pending for"
+Change_picture: "Changer photo"
+setting_make_my_files_private: "Rendre mes fichiers privés"
+SideBar_password_desc: "Soyez astucieux ! Votre mot de passe doit contenir au moins 4 caractères."
+candidates_: "pluralize{{count}, candidate, candidates}"
+My_account: "Mon compte"
+EMAIL_invitation_created_subject_with_name: "{name} vous invite à rejoindre Fellonwation."
+Company_description: "Company description"
+Search_agent_name: "Nom de l'agent de recherche:"
+Sign_up_now!: "Sign up now in 10 seconds!"
+SideBar_subs_tips_desc: "lorem ipsum dolor"
+reply: "Répondre"
+Add_your_logo: "Ajouter votre logo..."
+Send_invitation: "Envoyer invitation"
+setting_new_follower_emails_label: "Envoyer un e-mail quand quelqu'un s'abonne à mes messages."
+EMAIL_Dear_name: "Dear {name},"
+Gender: "Genre:"
+You_must_agree_to_the_Terms: "Vous devez approuver les conditions d'utilisation."
+img_alt_you_are_a_company!: "You are a company!"
+Signup_check_network_blank: "Choisissez un réseau dans la liste ou cliquez sur \"Ajouter votre réseau\" pour créer un nouveau réseau."
+need_some_help?: "Besoin d'aide?"
+Homepage_student: "Pour étudiants"
+static_contact_us_link: "Contactez nous"
+Total_results_found_showing_count: "{total} results found. Showing first {count} results."
+Company: "Entreprise"
+Enter_a_company_name_location_industry: "Enter a company name, location, industry..."
+static_about_us_link: "A propos"
+static_company_homepage_link: "Page d'accueil entreprise"
+Search_company: "Search company:"
+outbox: "Messages envoyés"
+static_press_information_link: "Presse"
+CV_Now: "Now"
+Languages: "Langues"
+Withdraw_presence: "Withdraw presence"
+Homepage_professional: "Pour les professionnels"
+Submitting: "Submitting..."
+Action_Relationship_Add_Candidate_Short: "Ajouter"
+Not_a_supported_address_book: "Not a supported address book"
+Invite_your_fellow: "WIN AN iPAD !"
+Your_network_where_you_belong_to: "CREER VOTRE COMPTE EN 4 ETAPES"
+Signup_check_network_characters: "Réseau est trop court: min 2 caractères."
+All_fields_marked_with_span_class: "All fields marked with \xE2\x80\x9C<span class=\"req-sign\">*</span>\xE2\x80\x9D are required"
+Find: "Find"
+Enter_a_keyword_location_or_company: "Enter a keyword, location... (e.g. Brussels internship)"
+Terms: "Conditions & Confidentialité"
+Sorry_this_activation_code_is_not: "Sorry, this activation code is not valid."
+We_are_in_open_beta_candidate: ""
+setting_password_confirmation: "Confirmation du mot de passe"
+No_thanks_Bring_me_to_my: "No, thanks. Bring me to my profile..."
+Contact_us: "Contactez nous"
+Last_name: "Nom:"
+Name: "Nom:"
+You_have_received_a_new_message_from_at: "Vous avez reçu un messagde de {from} à {at}."
+Moment: "Moment"
+Remember_me: "Se souvenir de moi"
+Publish_and_promote_your_profile_on: "Publier et promouvoir votre profil sur le web:"
+From_to_: "De {from_time} à {to_time}."
+static_blog_link: "Blog"
+setting_downloaded_file: "Fichier téléchargé"
+Subscription_rate: "Subscription rate:"
+EMAIL_Date_and_time: "Date et heure:  "
+Sidebar_public_who_are_we_desc: "L'outil parfait comme complément professionnel à Facebook. Connectez et partagez avec les étudiants et les employés. Gratuit, facile et efficace. Obtenez des conseils précieux de personnes prêtes à vous aider dans votre carrière."
+Signup_public_url_max_15: "Maximum 15 caractères."
+DASHBOARD_MESSAGE_CREATED_BY_COMPANY_company: "Vous avez envoyé un {message} à {candidate_link}"
+Homepage_professional_desc: |-
+  <p><strong>Communiquez facilement</strong> et <strong>partagez</strong> de l'information. <strong>Attirer des talents</strong>, recueillez <strong>des données</strong>.</p>
+  <p><strong>Créez et publiez votre profil professionnel</strong>, <strong>établissez des relations</strong> avec des gens qui se soucient de votre entreprise.</p>
+  <p><strong>C'est facile, gratuit et efficace.</strong>.</p>  
+setting_comment_emails_label: "Email quand quelqu'un commente mes messages publics."
+EMAIL_View_the_full_profile_of_other: "View the full profile of {name} here (you will have to log in first):"
+setting_I_am_an_student: "Je suis un étudiant"
+static_privacy_policy_link: "Politique de confidentialité"
+Full_name: "Nom complet:"
+Postal_code: "Code postal:"
+static_take_the_tour_link: "Demonstration"
+Homepage_academic: "Pour les assistants"
+Public_message_signup_default: "Bienvenue Fellow! J'espère que vous apprécierez Fellownation et trouverez des informations utiles. Rappelez-vous que plus vous êtes en contact avec des personnes, plus vous serez susceptible de recevoir des informations précieuses et vous faire emarquer. Pourquoi ne pas commencer à poser une question au sujet de votre carrière? "
+SideBar_notice_tips: "TIPS"
+Email_template_activation_account: |-
+  Bonjour, {first_name} {last_name} ({user_name}).
+  
+  Veuillez confirmer votre compte Fellownation en cliquant sur ce lien: {confirmation_link} Lorsque vous aurez confirmé votre compte, vous aurez un accès complet à Fellownation et toutes les futures notifications seront envoyées à cette adresse e-mail.
+  
+  L'équipe Fellownation
+label_password: "Mot de passe"
+pagination_next: "Suivant &raquo;"
+label_company: "Entreprise"
+Logged_in_successfully: "Connecté avec succès"
+Delete: "Effacer"
+Signup_check_password: "Les mots de passe ne correspondent pas."
+Mini_feeds: "Fil d’actualité:"
+You_can_do_better: "You can do better!"
+Link: "Link:"
+Company_colon: "Company:"
+Yesterday: "Yesterday"
+Homepage_business_desc: |-
+  <p>Quelle que soit la taille de votre organisation, tirer le meilleur parti de Fellownation.</p>
+  <p>Construisez votre base d'utilisateurs (stagiaires, étudiants, employés,...) faites de la publicité, réaliser des enquêtes, promouvez votre entreprise, ...</p>
+language: "langue"
+Invitations_received: "Invitations received:"
+following: "Abonnements"
+First_login_create_your_profile: "First login: create your profile"
+View_all: "Afficher tout"
+Save: "Sauver"
+Action_Relationship_Add_Company_Short: "Add"
+Thank_you_We_have_just_sent: |-
+  Merci. Nous vous avons envoyé un email avec un lien. Veuillez cliquer sur le lien pour choisir nouveau mot de passe pour votre compte.<br/>
+  <strong><font color="#FF0000">Si vous ne trouvez pas cet e-mail, vérifiez vos mails et dossiers de courrier indésirable (junk/spam)</font></strong>.
+Signup_check_lastname_blank: "Nom de famille trop court: min 2 caractères."
+Bad_user_name_or_password: "Bad user name or password"
+Link_invitation: "You could visit this link {invitation_code} to signup."
+Email_template_notifier_download_file: "Bonjour {user_first_name} {user_last_name}, {first_name} {last_name} ({user_name}) a téléchargé votre fichier. Nom du fichier: {file_name}. Heure du téléchargement: {download_time} L'équipe Fellownation"
+setting_new_follower_emails: "Nouveaux abonnés"
+Discard: "Fermer"
+Your_email?: "Votre email?"
+tab_network_link: "Réseau"
+Invited_by: "Invited by"
+Captcha_challenge_issued_by_server: "Captcha challenge issued by server"
+or_cancel_: "ou {cancel_link}"
+URL: "URL:"
+Education: "Education"
+Your_network: "Votre réseau"
+EMAIL_To_log_in_at_a_later: "To log in at a later date, please enter your e-mail address \"{email}\" and the password which you used when you signed up."
+setting_email: "Email"
+Email_template_notifier_post_a_comment_subject: "{from_first_name} {from_last_name} ({from_user_name}) a  commenté le message public de {first_name} {last_name} ({user_name})"
+OK_now_check_the_contacts_you: "OK, now check the contacts you want to invite."
+Street_and_number: "Street and number:"
+SideBar_account: "COMPTE"
+We_could_not_find_any_user: "We could not find any user with this email address. Please try again."
+Step3_title: "Télécharger votre photo"
+Homepage_latest_public_message: " Messages publics récents"
+Private_title: "Connectez-vous et partagez avec les étudiants et employés. Obtenez de l'aide et faites vous remarquer par des professionnels."
+Informations: "Information"
+Step14_title: "Abonnez-vous au(x) pluralize{{count_invite}, connaissance, connaissances} qui vous a(ont) invité(s) à rejoindre Fellownation."
+Private_message_signup_default: "Bonjour, mon nom est David. Je suis le fondateur de Fellownation et aujourd'hui je suis heureux de devenir votre fellow. Notre mission à Fellownation est simple: offrir le meilleur site pour échanger de l'information afin de vous aider à prendre les bonnes décisions pour votre carrière. Ensemble, je suis sûr, nous pouvons améliorer la vie de chacun. Je reste à votre service et je serais ravi de recevoir votre avis."
+SideBar_account_desc: "Ici vous pouvez modifier l'information de base de votre compte, le réseau auquel vous appartenez, vos paramètres de confidentialité, et votre localisation."
+With_search_agent_results: "With search agent results:"
+Plan_name: "Plan name:"
+Contact: "Contact:"
+Step3_subtitle: "Faites-vous reconnaître. Votre photo de profil aide vos abonnés à instantanément vous reconnaitre et en dit plus sur vous à ceux qui ne vous suivent pas."
+Reply_to_: "Répondre à {message}"
+static_site_map_link: "Site Map"
+More_info: "More info..."
+setting_bio: "Bio"
+Description: "Description:"
+Any_questions_before_you_sign_up: "Any questions before you sign up?"
+Through_your_network: "Through your network:"
+No_spam_we_promise: "No spam, we promise"
+HTTP_error: "HTTP error"
+There_was_in_error_in_your: "There was in error in your form, please try again."
+State_Province_Region_country: "State, country:"
+EMAIL_send_invitation_subject: "Vous êtes invité à rejoindre Fellownation"
+For_business: "Pour Entreprises"
+You_can_reply_to_this_message: "You can reply to this message by clicking on the following link:"
+Invite_your_friends_from_your_other: |-
+  Invite your friends from your other networks:
+  <br/>
+  (connect yourself to your network, then select your friends from the generated list)
+Cancel: Annuler
+SideBar_notice: "NOTIFICATIONS"
+h2_Please_verify_your_information_h2: <h2>Please verify your information:</h2>
+Email_address: "Email:"
+characters_left: "caractères restants"
+Send: "Envoyer"
+Change?: "Modifier?"
+SideBar_tips: "Astuces"
+EMAIL_Change_your_email_notifications: "Changer vos notifications par email:"
+Dashboard: "Tableau de bord"
+Email_template_notifier_my_pm_subject: "Message privé de {sender_first_name} {sender_last_name} ({sender_user_name})"
+Send_this_to_selected_people: "Send this to selected people:"
+Contact_person: "Personne de contact:"
+General_Conditions: "Conditions générales"
+Archives: "Archives"
+State_Province_Region: "State:"
+Send_a_new_message: "Envoyer un nouveau message"
+Target_company: "Target company"
+Step14_subtitle: "Sélectionner les connaissances à ajouter comme fellows ci-dessous."
 Invitation_sentence_3: ""
-Total_results_found_showing_count: "{total} r\xC3\xA9sultats trouv\xC3\xA9s. Affichage des {count} premiers r\xC3\xA9sultats."
-log_out_link: "D\xC3\xA9connecter"
-fluent: courant
-Back_to_the_dashboard: "Retour au Aper\xC3\xA7u"
-tab_jobs_link: Jobs
-Through_your_network: "A travers votre r\xC3\xA9seau:"
-DASHBOARD_OFFER_JOB_CREATED: "Vous avez cr\xC3\xA9\xC3\xA9 l'offre d'emploi {offer_link}"
-or: ou
-Minimum_years_of_study: "Min. d'ann\xC3\xA9es d'\xC3\xA9tudes:\r\n"
-Absolutely_You_can_browse_the_database: "Absolument. Vous pouvez naviguer dans la base de donn\xC3\xA9es et lire le profil de n'importe quel candidat. Nous vous facturerons seulement 1 cr\xC3\xA9dit pour obtenir les infomations de contact du candidat. Et si le candidat ne vous les donne pas: vous r\xC3\xA9cup\xC3\xA9rerez votre cr\xC3\xA9dit. C'est aussi simple et d\xC3\xA9mocratique que \xC3\xA7a."
-Your_account_has_been_reactivated_with: "Votre compte a \xC3\xA9t\xC3\xA9 r\xC3\xA9activ\xC3\xA9 avec un nouvel email {email}"
-Reply_to_: "R\xC3\xA9pondre \xC3\xA0 {message}"
-Task_description: "Description du travail:"
-message: message
-DASHBOARD_OFFER_STUDENT_JOB_ACCEPTED_BY_COMPANY_candidate: "{company_link} a accept\xC3\xA9 votre demande pour l'offre {offer_link}"
-Action_Relationship_Accept_Invitation_From_Candidate_Short: Accepter
-Please_enter_your_email_address_here: "SVP entrez votre email ici et nous vous enverrons un email avec le lien pour r\xC3\xA9activer votre compte:"
-Not_published: "Pas publi\xC3\xA9"
-A_slot_is_used_to_create: "Un emplacement sert \xC3\xA0 cr\xC3\xA9er une offre d'emploi ou une invitation \xC3\xA0 un \xC3\xA9v\xC3\xA9nement. Chaque plan tarifaire vous permet d'obtenir un certain nombre d'emplacements. Vous pouvez utiliser les emplacements \xC3\xA0 la fois pour cr\xC3\xA9er des offres d'emploi ou des invitations \xC3\xA0 des \xC3\xA9v\xC3\xA9nements. Les offres ou invitations n'ont pas de limite dans le temps. Vous pouvez \xC3\xA9diter, supprimer et recr\xC3\xA9er de nouvelles offres et invitations. Veuillez juste \xC3\xA0 ne pas d\xC3\xA9passer le nombre d'emplacements disponibles.  Par exemple, le plan Super Pro vous permet de g\xC3\xA9rer jusqu'\xC3\xA0 4 emplacements \xC3\xA0 la fois."
-School_and_graduation_year_unspecified: "Institution et ann\xC3\xA9e de remise du dipl\xC3\xB4me non d\xC3\xA9finies"
-EMAIL_Kind_regards: Cordialement,
-Invite_your_friends_from_your_other: "Invite tes amis via d'autres r\xC3\xA9seaux:\r\n\
-  <br/>\r\n\
-  (connecte-toi \xC3\xA0 ton r\xC3\xA9seau, ensuite s\xC3\xA9lectionne tes amis sur liste)\r\n"
-Your_orders: Vos commandes
-There_is_a_god_sake_obvious: "Il y a une simple raison \xC3\xA0 cela: le flux d'informations entre les candidats et les employeurs n'est pas optimis\xC3\xA9; en bref, le march\xC3\xA9 de l'emploi n'est pas transparent!"
-DASHBOARD_OFFER_THESIS_REJECTED_BY_CANDIDATE_company: "{candidate_link} a rejet\xC3\xA9 votre offre de sujet de m\xC3\xA9moire/TFE {offer_link}"
-DASHBOARD_OFFER_THESIS_ACCEPTED_BY_COMPANY_candidate: "{company_link} a accept\xC3\xA9 votre application pour l'offre de sujet de m\xC3\xA9moire/TFE {offer_link}"
-A_team_member_will_validate_and_send_you_a_link: "Un membre de notre \xC3\xA9quipe va maintenant \xC3\xA9valuer votre inscription en tant qu'association acad\xC3\xA9mique dans les prochaines 24 heures. Nous vous enverrons alors un lien pour achever votre inscription."
-Change_plan: Changer de plan
-Can_I_change_plans_at_any: "Puis-je changer de plan tarifaire \xC3\xA0 n'importe quel moment?"
-Desired_skills: "Desired skills:"
-Its_all_free: Tout est gratuit
-You_can_do_better: Tu peux faire mieux!
-A_credit_is_equally_use_to: "Un cr\xC3\xA9dit peut \xC3\xAAtre utilis\xC3\xA9 pour envoyer une offre d'emploi (ou une invitation \xC3\xA0 un \xC3\xA9v\xC3\xA9nement) \xC3\xA0 un candidat ou pour inviter un candidat dans un r\xC3\xA9seau. Ce candidat aura le choix entre accepter ou refuser votre offre/invitation. S'il accepte : vous perdez votre cr\xC3\xA9dit. S'il refuse : vous r\xC3\xA9cup\xC3\xA9rez votre cr\xC3\xA9dit et pouvez l'utiliser \xC3\xA0 nouveau. Ce syst\xC3\xA8me d\xC3\xA9mocratique est nomm\xC3\xA9 <strong>No Cure No Pay</strong>: vous pouvez n'utiliser qu'un seul cr\xC3\xA9dit jusqu'\xC3\xA0 trouver le parfait candidat!\r\n\
-  <br/>\r\n\
-  <br/>\r\n\
-  Vous pouvez acheter un nombre illimit\xC3\xA9 de cr\xC3\xA9dits \xE2\x80\x94 chaque plan tarifaire donne acc\xC3\xA8s \xC3\xA0 des fonctionnalit\xC3\xA9s diff\xC3\xA9rentes pour r\xC3\xA9pondre au mieux \xC3\xA0 vos besoins. D'autre part, notez que nous ne vous facturerons rien si un candidat vous invite \xC3\xA0 rejoindre son r\xC3\xA9seau. Faites donc en sorte d'\xC3\xAAtre connu et diffusez votre profil public sur Internet!"
-No_thanks_Bring_me_to_my: "Non merci. Je souhaite acc\xC3\xA9der \xC3\xA0 mon profil."
-Edit: Modifier
-EMAIL_Your_recommended_friend_has_accepted_your_invitation: "Votre ami recommand\xC3\xA9 {name} a accept\xC3\xA9 votre invitation."
-Start_using_iStockCV: "D\xC3\xA9marrez avec iStockCV"
-characters_left: "caract\xC3\xA8res restants"
-EMAIL_Please_click_on_the_following_link: "Veuillez cliquer sur le lien suivant pour confirmer votre adresse email et d\xC3\xA9couvrir le site web:"
-Team_Working_Leadership_Planning_and_coordination: "Team Working & Leadership: Planning and coordination role taken in university group assignments \xE2\x80\x93 achieved an overall average 70+ grade in group assessments."
-Monthly_subscription_to_plan_plan: "Inscription mensuelle au plan tarifaire {plan} (total: <b>{amount}</b>)"
-VAT_number: "Num\xC3\xA9ro de TVA:"
-To: A
-There_is_no_offer_for_you: "Vous n'avez pas encore re\xC3\xA7u d'offres. Restez \xC3\xA0 l'\xC3\xA9coute! <br/><br/>En attendant, vous pouvez en trouver via la barre de recherche ci-dessus :-)"
-Monthly_price: Monthly price
-Search_company: "Rechercher:"
-OK_now_check_the_contacts_you: "OK, maintenant v\xC3\xA9rifie les contacts que tu veux inviter."
-Driver_s_license: "Permis de conduire:"
-Keep_it_brief_objectives: Keep it brief at three of four lines maximum. Use it to demonstrate your career focus and/or current aims.
-Not_a_supported_address_book: "Carnet d'adresses pas support\xC3\xA9"
-Overview: "Aper\xC3\xA7u:"
-EMAIL_To_log_in_at_a_later: "Pour vous connecter ult\xC3\xA9rieurement, veuillez entrer votre adresse email \"{email}\" et mot de passe -- celui utilis\xC3\xA9 lors du processus d'inscription."
-DASHBOARD_OFFER_STUDENT_JOB_UPDATED: "Vous avez mis \xC3\xA0 jour l'offre de job d'\xC3\xA9tudiant {offer_link}"
-User_doesn_t_have_enough_credits: "L'utilisateur n'a pas assez de cr\xC3\xA9dit."
-Captcha_challenge_issued_by_server: "Le serveur a g\xC3\xA9n\xC3\xA9r\xC3\xA9 une erreur"
-For_instance: "Par exemple:"
-Action_RelationShip_Confirm_Remove_Candidate: "Etes-vous s\xC3\xBBr de vouloir supprimer ce candidat de votre r\xC3\xA9seau?"
-OfferThesisDetails: "D\xC3\xA9tails du m\xC3\xA9moire"
-Find: Trouvez
-iStockCV_on_Facebook: iStockCV sur Facebook
-Credits: "Credits:"
-Pending: "En suspens :"
-No_event_for_the_moment: "Pas d'\xC3\xA9v\xC3\xA9nement pour le moment."
-need_some_help?: Besoin d'aide?
-Count_per_search: "{count} par recherche"
-Event_: "Ev\xC3\xA9nement: {event}"
-HTTP_error: HTTP erreur
-DASHBOARD_RELATIONSHIP_WITHDRAWN_BY_COMPANY_candidate: "L'entreprise {company_link} a annul\xC3\xA9 son invitation"
-Action_Relationship_Withdraw_Invitation_To_Company: Retirer l'invitation de <strong>{company}</strong>
-Compose_a_student_job: "Job d'\xC3\xA9tudiant"
-Account_owner_details: "D\xC3\xA9tails du propri\xC3\xA9taire du compte"
-There_is_no_candidate_in_your: "Il n'y a pas de candidats dans votre r\xC3\xA9seau."
-Required_skills: "Required skills:"
-Add: Ajouter
-DASHBOARD_OFFER_INTERNSHIP_ACCEPTED_BY_COMPANY_company: "Vous avez accept\xC3\xA9 la demande de stage {offer_link} de {candidate_link}"
-pagination_next: Suivant &raquo;
-Incorrect_email_password_combination: Combinaison email/mot de passe incorrecte
-Locality_postal_code: "Localit\xC3\xA9, code postal:"
-tab_inbox_link: Messages
-Search_for_jobs: "Trouver des jobs, stages, m\xC3\xA9moires, jobs d'\xC3\xA9tudiant, \xC3\xA9v\xC3\xA9nements etc."
-Any_questions_before_you_sign_up: Encore des questions avant de vous inscrire?
-Your_profile: Votre profil
-Country: Pays
-Theses: "M\xC3\xA9moires"
-Submitting: "Requ\xC3\xAAte en cours..."
-Your_network: "Votre r\xC3\xA9seau"
-Someone_requested_a_new_password_for: "Quelqu'un a demand\xC3\xA9 un nouveau mot de passe pour votre compte iStockCV. SVP cliquez sur ce lien si vous d\xC3\xA9sirez changer votre mot de passe:"
-Reconfirm_presence_at_this_event: "Reconfirmer ma pr\xC3\xA9sence \xC3\xA0 cet \xC3\xA9v\xC3\xA9nement"
-You_have_received_a_new_message_from_at: "Vous avez re\xC3\xA7u un nouveau message de {from} \xC3\xA0 {at}."
-Unavailable: Indisponible
-Note_If_you_change_your_custom: "Note: Si vous changez votre URL personnalis\xC3\xA9e, votre ancienne URL personnalis\xC3\xA9e ne sera plus valide."
-EMAIL_Date_and_time: "Date et heure :"
-Apply_for_this_offer: Postuler pour cette offre
-Make_my_Profile_Public: Rendre mon profil public
-img_alt_go!: Go!
-DASHBOARD_OFFER_THESIS_ACCEPTED_BY_COMPANY_company: "Vous avez accept\xC3\xA9 l'application pour l'offre de sujet de m\xC3\xA9moire/TFE {offer_link} par {candidate_link}"
-OfferStudentJobDetails: "D\xC3\xA9tails du job d'\xC3\xA9tudiant"
-Summary: !binary |
-  UsOpc3Vtw6k=
+Official_website: "Official website:"
+Sent: "Envoyé"
+Select_everyone: "Select everyone"
+Signup_check_firstname: "Prénom est trop court: min 2 caractères."
+Update_my_password: "Mettre à jour mon mot de passe"
+Your_public_URL_is: "Votre URL publique est:"
+Or_enter_your_friends_email_addresses: "Or, enter your friends' email addresses manually, separated by commas:"
+_pending_: "(pending: {email})"
+SideBar_notice_desc: "Choisissez le type d'emails que nous vous enverrons."
+Invite_your_fellow_desc: "Invite your friends from Institut des Hautes Etudes en Communication sociale (IHECS) and win an iPad. More invitations you send, more friends join Fellownation. Check below the score in real time!"
+Your_companies: "Your companies:"
+Unavailable: "Unavailable"
+label_password_confirmation: "Confirmation du mot de passe"
+Email_template_notifier_my_follower: |-
+  {first_name} {last_name} ({user_name}) est maintenant abonné à vos messages publics sur Fellownation. Quelques infos sur {first_name} {last_name} ({user_name}):\r\n\
+  \r\n\
+  - Bio : {bio_content} \r\n\
+  \r\n\
+  - Localisation : {location_content} \r\n\
+  - Public Message : {number_of_publicmessages}\r\n\
+  \r\n\
+  - Abonnés : {number_of_followers} \r\n\
+  \r\n\
+  - Abonnements : {number_of_people_following}\r\n\
+  \r\n\
+  - Favoris : {number_of_favorites} \r\n\
+  \r\n\
+  - Applications : {number_of_applications_used}\r\n\
+  \r\n\
+  Vous êtes {have_relation} abonné à {first_name} {last_name} ({user_name}). \r\n\
+  \r\n\
+  \r\n\
+  What\xE2\x80\x99s Next? \r\n\
+  \r\n\
+  * En savoir plus sur {first_name} {last_name} via son profil : {user_name_public_link}\r\n\
+  \r\n\
+  * Poster un message publique sur le mur de {user_name}\xE2\x80\x99s : {user_name_wall_link}\r\n\
+  \r\n\
+  * Envoyer un message privé à {user_name} : {user_name_privatemessage_link}\r\n\
+  \r\n\
+  L'équipe Fellownation
+Lost_password: "Mot de passe perdu"
+delete: "(delete)"
+For_instance: "For instance:"
+setting_user_name: "Nom d'utilisateur"
+Email_template_notifier_my_pm: |-
+  "{private_message_content}" Message privé envoyé par {sender_first_name} {sender_last_name} ({sender_user_name}) à {sent_time}.
+  
+  Pour répondre à ce message, suivez le lien {display_here_the_link}
+  
+  L'équipe Fellownation
+label_last_name: Nom de famille
+Password: "Mot de passe:"
+Nationality: "Nationalité:"
+Step2_title: "Remplissez vos informations de profil"
+static_contact_details_link: "Vos coordonnées"
+EMAIL_Your_recommended_friend_has_accepted_your_invitation: "Your recommended friend {name} has accepted your invitation."
+Subject_: "Sujet:"
+Add_a_location: "Ajouter une localisation"
+About: "A propos"
+setting_location: "Localisation"
+static_news_link: "News"
+Accept: "Accept"
+Create_search_agents: "Create search agents"
+Search_results_for_agent_: "Search results for agent \"{agent}\""
+Homepage_academic_desc: |-
+    <p><strong>Communiquez facilement</strong> et <strong>partagez</strong> de l'information. <strong>Aider les gens</strong>, recueillez <strong>des données</strong>.</p>
+    <p><strong>Créez et publiez votre profil professionnel</strong>, <strong>établissez des relations</strong> avec des gens dont vous vous souciez.</p>
+    <p><strong>C'est facile, gratuit et efficace.</strong>.</p>
+Email_template_activation_account_subject: "Confirmer votre compte, {first_name} {last_name} ({user_name})!"
+Step13_title: "Invitez des connaissances sur Fellownation"
+static_check_the_faq_link: Visiter les FAQ
+Homepage_join_the_nation_desc: "<p>Fellownation est votre outil pour se connecter, socialiser et se faire remarquer par les professionnels comme complément à Facebook.</p>"
+breadcrumb_homepage_link: Accueil
+Signup_check_lastname: "Nom de famille trop court : min 2 caractères."
+No_: "Non"
+Please_validate_your_new_email_address: "Veuillez valider votre adresse email."
+Wrong_input: "Wrong input"
+Password_lost?: "Mot de passe perdu?"
+EMAIL_Congratulations: Congratulations!
+Contact_information: Contact information
+Simple_and_intuitive_tools: Simple and intuitive tools
+Yes_: "Yes"
+Signup_sidebar_desc: <h2>Fellownation est l'outil parfait comme complément professionnel à Facebook.</h2> <p>Fellownation est une plate-forme de communication constituée de courts messages.<br/>C'est un moyen nouveau et facile pour découvrir les dernières nouvelles relatives à votre carrière; discuter avec des employés; écouter et participer à des conversations; suivre en temps réel les commentaires de vos amis; obtenir des conseils de professionnels.</p> <p>C'est une place virtuelle où les gens se réunissent pour apprendre et expliquer le monde du travail.</p>
+Step11_title: "Vos connaissances sont-elles déjà sur Fellownation?"
+Company_logo: "Company logo"
+Today: "Today"
+Signup_public_url_blank: "Entrer un nom d'utilisateur valide."
+Company_name: "Company name:"
+Email_template_notifier_post_a_comment: |-
+  {first_name} a ecrit:
+  "{comment_content}"
+  Pour lire la discussion, suivez le lien ci-dessous:
+  {thread_link}
+  
+  L'équipe Fellownation
+What_s_this: "What's this?"
+Email_template_notifier_post_a_wall_message: |-
+  {first_name} a ecrit: 
+  "{message_content}"
+  Pour lire la discussion, suivez le lien ci-dessous:
+  {message_link}
+  
+  L'équipe Fellownation
+Note_If_you_change_your_custom: "Note: Si vous changez votre URL personnelle, votre ancienne URL ne sera plus valide."
+setting_wall_emails_label: "Email lorsque je recois un message sur mon mur."
+Invitations_sent: "Invitations envoyées:"
+Step4_title: "Télécharger fichiers"
+We_are_in_open_beta_company: ""
+img_alt_go!: "Go!"
+setting_privacy: Privacy
+setting_email_newsletter: "Email Newsletter"
+Signup_public_url_taken: "Nom d'utilisateur indisponible."
+Loading: Loading...
+setting_my_files: "Mes fichiers"
+There_are_no_results_matching_your_criteria: "There are no results matching your criteria."
+Latest_search_agent_results: "Latest search agent results"
+Reply_to_this_message: "Répondre à ce message"
+tab_settings_link: "Parametres"
+EMAIL_Title: "Titre:          "
+Search_candidate: "Search candidate"
+EMAIL_Update_your_Profile: "Mettre à jour votre profil:"
+cancel: "annuler"
+Browse_all_our_Database: "Browse all our Database"
+SideBar_profile_tips: "ASTUCES"
+Create_a_Profile: "Créer un profil"
+Make_my_Profile_Public: "Rendre mon profil public"
+setting_I_am_an_employee: "Je suis un employé"
+SideBar_password: "MOT DE PASSE"
+Homepage_student_desc: |-
+  <p><strong>Créer et publier votre profil professionnel</strong>.</p>
+  <p><strong>Connectez vous</strong> avec de potentiels <strong>employeurs</strong> et rester en contact avec vos <strong>amis et camarades de classe</strong>.</p>
+  <p><strong>Obtenez de l'aide et des infos</strong> d'anciens élèves et professionnels.<br/><strong>C'est facile, gratuit et efficace.</strong>.</p>
+setting_contact_information: "Coordonnées"
+static_frequently_asked_questions_link: "Questions fréquemment posées"
+setting_private_text_emails: "Private text Emails"
+limited: "limited"
+Advanced_search: A"dvanced search"
+Website: "Website:"
+Step2_subtitle: "Ces informations apparaissent sur votre profil public information appears on your public profile. It tells those who aren't following you more about you.<br/>\xE2\x80\xA2 Biography: Who are you? What are you looking for? What do you like?<br/>\xE2\x80\xA2 Contact Information: How would like to get in touch? How often?"
+Misc: Misc
+tab_dashboard_link: "Dashboard"
+EMAIL_Complete_my_profile_now: "Complete my profile now : "
+Sidebar_public_who_are_we: "QU'EST-CE FELLOWNATION?"
+Feed_subs_desc: "Description :"
+Private_message_accep_subs: "Félicitations, votre abonnement a été accepté et est maintenant disponible dans le répertoire des abonnements. L'équipe Fellownation"
+are_you_sure_to_delete_this_message: "Are you sure to delete this message ?"
+Signup: "Signup!"
+Signup_public_url_restricted: "Nom d'utilisateur indisponible."
+SideBar_subscription_desc: lorem ipsum
+setting_email_newsletter_label: "Oui, s'il vous plait. Envoyez de temps en temps vos fantastiques nouvelles."
+Posted_time_ago_: "Posté {time} ago"
+No_network_notifier: "<strong> Veuillez choisir votre réseau à {profile_link} </strong>"
+log_out_link: "Se déconnecter"
+Up_to_: "Up to {count}"
+Your_profile_status_was_successfully_changed: "Votre profil a été mis à jour avec succès."
+Score_title_sidebar: "REAL TIME SCORE"
+Choose_a_language: "Choisissez votre langue"
+N_A: N/A
+Choose_your_URL: "Choosissez votre URL:"
+setting_picture: "Photo"
+EMAIL_invitation_accepted_subject: "{name} a accepté votre invitation à rejoindre Fellownation."
+Fast_and_easy: "Fast and easy"
+SideBar_subs_tips: "Astuces"
+of_them_: "{count} of them"
+EMAIL_Kind_regards: "Cordialement,"
+static_candidate_homepage_link: "Candidate homepage"
+Profile_succesfully_updated: "Votre profil a été mis à jour avec succès."
+Unlimited: "Unlimited"
+Anywhere: "Anywhere"
+EMAIL_invitation_created: |-
+    {name} vous a invité à rejoindre Fellownation.
 
-Action_Relationship_Withdraw_Invitation_To_Candidate: Retirer l'invitation de <strong>{candidate}</strong>
-You_can_reply_to_this_message: "Vous pouvez r\xC3\xA9pondre \xC3\xA0 ce message en cliquant sur le lien suivant:"
-Published: "Publi\xC3\xA9"
-Working_environment: "Environnement de travail:"
-Event_description: "Description de l'\xC3\xA9v\xC3\xA9nement:"
-EMAIL_Log_in_now_and_expand_your_network: "Connectez-vous maintenant ({url}) et construisez son r\xC3\xA9seau!"
-Action_Relationship_Accept_Invitation_From_Candidate: Accepter l'invitation de <strong>{candidate}</strong>
-Offer_details: Detail de l'offre
-Price_per_credit: "Prix par cr\xC3\xA9dit"
-EMAIL_Thank_you_your_account_on_iStockCV: "Merci, votre compte sur iStockcv a \xC3\xA9t\xC3\xA9 activ\xC3\xA9!"
-Please_a_href_mailto_info_belighted: Please, <a href="mailto:info@belighted.com">contact us now</a> if you want to share your passion with us!
-Call_subtitle: "Pr\xC3\xA9vue le {scheduled_for}"
-Buy_more_credits: "Acheter plus de cr\xC3\xA9dits"
-Call_new: Programmer une interview en ligne avec <strong>{candidate}</strong>
-Action_Relationship_Add_Company_Short: Ajouter
-Archives: Archives
-Here_is_summary_last_week: "Voici un r\xC3\xA9sum\xC3\xA9 des offres que vous avez re\xC3\xA7ues sur iStockCV la semaine derni\xC3\xA8re."
-img_alt_you_are_a_company!: "Vous \xC3\xAAtes une entreprise!"
-DASHBOARD_OFFER_THESIS_REJECTED_BY_CANDIDATE_candidate: "Vous avez rejet\xC3\xA9 l'offre de sujet de m\xC3\xA9moire/TFE {offer_link} de {company_link}"
-Create_a_job_or_event: "Cr\xC3\xA9er un job ou un \xC3\xA9v\xC3\xA9nement"
-Offer_positive_answers_count: "R\xC3\xA9ponses positives ({count}/{total} offres)"
-New_email_address: "Nouvelle adresse email:"
-Yearly_price: Prix annuel<br/><em><small>2 mois gratuits!</small></em>
-Event_details: "Details de l'\xC3\xA9v\xC3\xA9nement"
-Action_RelationShip_Confirm_Remove_Company: "Etes-vous s\xC3\xBBr de vouloir supprimer cette entreprise de votre r\xC3\xA9seau?"
-Remember_me: Me retenir
-Show_hide_video: "Montrer/Masquer l'enregistreur vid\xC3\xA9o"
-label_first_name: "Pr\xC3\xA9nom"
-DASHBOARD_OFFER_INTERNSHIP_INITIATED_BY_CANDIDATE_candidate: "Vous vous \xC3\xAAtes propos\xC3\xA9 \xC3\xA0 l'offre de stage {offer_link} de {company_link}"
-DASHBOARD_OFFER_EVENT_WITHDRAWN_BY_COMPANY_candidate: "{company_link} vous a retir\xC3\xA9 son invitation \xC3\xA0 {offer_link}"
-DASHBOARD_OFFER_INTERNSHIP_CREATED: "Vous avez cr\xC3\xA9\xC3\xA9 l'offre de stage {offer_link}"
-Target_candidate: "Candidat cibl\xC3\xA9"
-A_new_association_has_just_signed_up: Une nouvelle association vient de s'inscrire sur iStockCV!
-Address: "Adresse :"
-Company_colon: "Entreprise:"
-EMAIL_Call_mail_body_callee: "{caller} a programm\xC3\xA9 une interview avec vous le {scheduled_for}."
-Your_job_preferences: "Vos pr\xC3\xA9f\xC3\xA9rences"
-DASHBOARD_OFFER_INTERNSHIP_WITHDRAWN_BY_COMPANY_company: "Vous avez retir\xC3\xA9 votre offre de stage {offer_link} de {candidate_link}"
-Your_account_on_iStockCV_has_been_activated: "Votre nouveau compte sur iStockCV a \xC3\xA9t\xC3\xA9 activ\xC3\xA9!"
-Sent_an_invitation_to_invitations_sent: "Invitation envoy\xC3\xA9e \xC3\xA0 {count} de vos contacts. Merci!"
+    Pour en savoir plus et joindre Fellownation, suivez le lien ci-dessous:
+    http://fellownation.com/signup
+
+    Merci,
+    L'équipe Fellownation
+SideBar_profile_tips_desc: "<p>Remplir votre profil va faciliter la recherche de votre profil sur Fellownation. Utiliser de l'information précise aidera également les gens à vous identifier rapidement.</p><p>Au plus votre profil est complet et précis, au plus grand sera la probabilité d'intéraction avec les fellows.</p>"
+Action_Relationship_Withdraw_Invitation_To_Candidate_Short: "Withdraw"
+Withdraw_invitation: "Withdraw invitation"
+Sidebar_public_tips: "POURQUOI FELLOWNATION ?"
+Homepage_join_the_nation: "Rejoignez la nation. Rencontrez vos fellows."
+setting_make_my_walls_private: "Rendre mon mur privé."
+Please_create_your_profile_first: "Please create your profile first!"
+You_have_no_messages_for_the: "You have no messages for the moment."
+Sidebar_public_tips_desc: "Parce que nous en avons tous besoin. Nous avons besoin d'un environnement où toute information nécessaire à notre carrière est gratuit et libre. Un environnement où nous pouvons communiquer librement au sujet notre carrière, nos problèmes et obtenir de l'aide de professionnels ou simplement nos paires."
+Compose_an_offer: "Job"
+User_details: "User details"
+SideBar_notice_tips_desc: "Assurez-vous que votre email est correct dans les paramètres du votre compte pour recevoir les emails."
+EMAIL_Complete_your_profile: "* Remplissez votre profil."
+tab_application_link: "Application"
+Email_template_activated_account_subject: "Bienvenue sur Fellownation, {first_name} {last_name} ({user_name})"
+Email_template_activated_account: |-
+  Bonjour fellow! Nous sommes très heureux de vous accueillir dans la nation! Sur Fellowation, tout est une question de communication entre fellows : amis, étudiants, collègues, professeurs, futurs employeurs, alumni etc.\r\n\
+  \r\n\
+  C'est un réseau d'information en temps réel \r\n\
+  animé par des personnes de votre entourage qui vous permet de partager et découvrir ce qu'il se passe maintenant. \r\n\
+  \r\n\
+  Démarrer sur Fellownation: \r\n\
+  1. Découvrir qui est sur Fellownation : Parcourrez les comptes les plus populaires ou ceux de vos connaissances et suivez ceux qui vous intéressent.\r\n\
+  2. Revenez souvent : Visitez Fellownation souvent pour décrouvrir les nouveautés sur les comptes de vos fellows. \r\n\
+  \r\n\
+  Comment communiquer ? \r\n\
+  1. Créer son profil : Remplissez votre profil. Une photo de vous et une courte biographie rendra plus attractif votre profil comparé aux autres sur Fellownation.\r\n\
+  2. Partager l'information : Ecrivez votre premier message public. Partager ce qui se passe dans notre carrière avec vos fellows. \r\n\
+  \r\n\
+  Si vous utilisez Fellownation pour votre entreprise, recevez des astuces pour démarrer sur Fellownation 101 pour Entreprises ici :  \r\n\
+  \r\n\
+  Bienvenue sur Fellownation!\r\n\
+  \r\n\
+  L'équipe Fellownation.
+My_rewards: "My rewards"
+EMAIL_Log_in_now_and_expand_your_network: "Log in now ({url}) and expand your network!"
+Pending: "Pending:"
+setting_language: "Langue"
+setting_full_name: "Nom complet"
+Signup_check_password_blank: "Mot de passe ne peut être vide."
+label_first_name: "Prénom"
+Latest_activity: "Activité récente"
+Add_: "Add {what}"
+Your_network_where_you_belong_to_desc: "En 2 minutes, compléter votre compte. C'est rapide et facile. Ecrivez quelques infos sur vous et commencez à faire des contacts. Une fois fini, vous aurez déjà de l'information précieuse sur votre fil d’actualité."
+We_don_t_store_your_login: "Note: we don't store your login, your password is submitted securely, and we don't email without your permission."
+Email_template_notifier_my_follower_subject: "{first_name} {last_name} ({user_name}) s'est abonné à votre compte sur Fellownation"
+Invite_new_friends: "Invite new friends..."
+New_password_again: "Nouveau mot de passe (encore):"
+Enter_a_school_name: "Entre le nom d'une école"
+tab_profile_link: "Profil"
+setting_downloaded_file_label: "Email quand mes fichiers sont téléchargés."
+Action_Relationship_Withdraw_Invitation_To_Company_Short: "Withdraw"
+Feed_subs_url: "URL :"
+Add: "Add"
+Moment_colon: "Moment:"
+Expiration: "Expiration:"
+RSS_feed: "RSS feed"
+City: "Ville:"
+Delete_Picture: "Effacer photo"
+Title: "Titre"
+Please_fill_out_at_least_the: "Please, fill out at least the <strong>red fields</strong> first in order to continue."
+Signup_check_network: "Sélectionner un réseau dans la liste ou cliquez \"Ajouter le votre\" pour créer un nouveau réseau."
+We_may_but_have_no_obligation: "We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party\xE2\x80\x99s intellectual property or these Terms of Service."
+Search_results: "Résultats de la recherche"
+SideBar_password_tips: "NOTE"
+Refuse: "Refuse"
+You_can_choose_only_one_language: "You can choose only one language."
+Step4_subtitle: "Remplissez votre profil en ajoutant des fichiers (max. 5 files) que vous désirez partager avec la communauté.<br/> Recherchez vos fichiers, ensuite cliquez \"Sauver & Continuer."
+Personal_profile: "Profil personnel"
+Mobile: "Mobile:"
+pagination_previous: "&laquo; Précédent"
+Edit_your_profile_raquo: "Modifier votre profile &raquo;"
+Address: "Address :"
+EMAIL_The_more_information_you_put_into_company: "Plus votre profil sera complet, plus The more information you put into your profile the easier it is for others to find you and to get to know you."
+candidate_search_with_profile_count_: "{search_name} (pluralize{{profile_count}, profile, profiles})"
+Accepted_by: "Accepted by"
+Email_template_notifier_download_file_subject: "Quelqu'un a téléchargé votre \xE2\x80\x98{file_name}\xE2\x80\x99 fichier sur votre profil"
+SideBar_profile_desc: <p>Ces informations figurent sur votre profil public, en résultats de recherches, et plus encore.</p><p>Ces renseignements servent à vos abonnés pour vous identifier et en apprend davantage à ceux qui ne vous suivent pas encore.</p>
+EMAIL_Click_here_to_view_profile_here: "Click here to view her/his profile (you might have to log in first) :"
+Interested: "Interested?"
+Your_account_has_been_reactivated_with: "Votre compte a été réacticé avec le nouvel email {email}"
+Send_requests_to_join_my_network: "Send requests to join my network"
+Association: "Association"
+static_careers_and_jobs_link: "Careers &amp; jobs"
+Location: "Location:"
+EMAIL_You_can_invite_candidates_to_join: "You can invite candidates to join your network by clicking on \"Add to my network\xE2\x80\x9D as a contact. By doing so, you will receive notifications each time they will update their profiles and they will be informed for any change happening on your profile and offers. Finally, you can send offers to your network or to search results."
+go_back: "go back"
+inbox: "BOITE DE RECEPTION"
+days_ago_: "Il y a {count} jours"
+Place: "Place"
+Email: "Email:"
+Signup_check_birthdate: "Entrer une date d'anniversaire valide."
+Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
+Relationship_status: "Relationship status:"
+VAT_number: "VAT number:"
+Sent_an_invitation_to_invitations_sent: "You just sent an invitation to {count} of your contacts. Thank you!"
+Signup_check_city_characters: "Ville est trop court: 2 caractères."
+To: "A"
+message: "message"
+Summary: "Summary"
+Action_Relationship_Add_Company: "Invite <strong>{company}</strong> to my network"
+Total_results_found: "{count} results found."
+Homepage_business: "Fellownation pour entreprises."
+Save_Photo: <font size="3"><strong>1. Cliquez sur le photo pour étendre le rectange.<br/>2. Pour effectuer des réglages, faites glisser et redimensionner le rectangle. <br/>3. Quand votre photo vous satisfait, cliquez sur "Sauver Photo".</strong></font>
+logged_in_as: "Logged in as {name}."
+setting_you_are: "You are :"
+average: "average"
+setting_make_my_contact_informations_private: "Rendre mes coordonnées privées."
+Your_profile: "Mon profil"
+Perfect!: "Perfect!"
+Actions: "Actions"
+Notification_invite_friends: "Invitations envoyées"
+Signup_sidebar_header: "Se connecter et partager entre étudiants et employés. Facile, gratuit et efficace."
+SideBar_profile: "PROFIL"
+Country: "Pays"
+expert: "expert"
+Upgrade: "Upgrade"
+Feed_subs_type: "Type :"
+Feed_subs_country: "Pays :"
+Feed_subs_industry: "Industry :"
+Feed_subs_industry_desc: "(Vous pouvez sélectionner jusqu'à 2 industries)"
+subtab_one: "subtab_one"
+subtab_two: "subtab_two"
+subtab_three: "subtab_three"
+sidebar_file: "sidebar_file"
