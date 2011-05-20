@@ -550,3 +550,4 @@ expert: expert
 Country: Country
 SideBar_profile: PROFILE
 Upgrade: Upgrade
+Email_template_notifier_post_a_wall_message_subject: "{first_name} {last_name} ({user_name}) wrote a message on your wall"
