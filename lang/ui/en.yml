@@ -297,7 +297,9 @@ delete: (delete)
 For_instance: "For instance:"
 setting_user_name: User Name
 Email_template_notifier_my_pm: |-
-  "{private_message_content}" Private message sent by {sender_first_name} {sender_last_name} ({sender_user_name}) to you on {sent_time}.
+  "{private_message_content}"
+
+  Private message sent by {sender_first_name} {sender_last_name} ({sender_user_name}) to you on {sent_time}.
   
   To reply to this message, follow the link below: {display_here_the_link}
   
