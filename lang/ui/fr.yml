@@ -262,8 +262,7 @@ Invite_your_fellow_desc: "Invite your friends from Institut des Hautes Etudes en
 Your_companies: "Your companies:"
 Unavailable: "Unavailable"
 label_password_confirmation: "Confirmation du mot de passe"
-Email_template_notifier_my_follower: |-
-  {first_name} {last_name} ({user_name}) est maintenant abonné à vos messages publics sur Fellownation. Quelques infos sur {first_name} {last_name} ({user_name}):\r\n\
+Email_template_notifier_my_follower: "{first_name} {last_name} ({user_name}) est maintenant abonné à vos messages publics sur Fellownation. Quelques infos sur {first_name} {last_name} ({user_name}):\r\n\
   \r\n\
   - Bio : {bio_content} \r\n\
   \r\n\
@@ -289,7 +288,7 @@ Email_template_notifier_my_follower: |-
   \r\n\
   * Envoyer un message privé à {user_name} : {user_name_privatemessage_link}\r\n\
   \r\n\
-  L'équipe Fellownation
+  L'équipe Fellownation"
 Lost_password: "Mot de passe perdu"
 delete: "(delete)"
 For_instance: "For instance:"
