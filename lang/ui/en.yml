@@ -1,4 +1,4 @@
---- 
+---
 Message: Message
 setting_time_zone: Time Zone
 setting_private_text_emails_label: Email when I receive new private message.
@@ -660,7 +660,7 @@ network_block_user: "Block the user"
 subscribe_header_form: "SUBMIT A SUBSCRIPTION"
 subscribe_save_btn: "Save"
 my_subscribe_link: "MY SUBSCRIPTIONS"
-follower_subscribe_link: "FOLLOWERS\' SUBSCRIPTIONS"
+follower_subscribe_link: "FOLLOWERS' SUBSCRIPTIONS"
 subscribe_directory_link: "SUBSCRIPTIONS DIRECTORY"
 subscribe_label: "SUBSCRIPTION"
 subscribes_label: "SUBSCRIPTIONS"
@@ -723,3 +723,7 @@ question_post_btn: "Post"
 question_favor_you: "You"
 question_asked_label: "asked"
 question_answered_label: "answered"
+
+
+Signup_check_firstname_blank: "First name is too short: min 2 characters."
+new_fellow_link: "Lorem"
