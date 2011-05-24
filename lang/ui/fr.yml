@@ -1,5 +1,4 @@
 ---
----
 setting_password: "Mot de passe"
 Step12_subtitle: "Sélectionne les connaissances à rajouter commme Fellows dans la liste ci-dessous. Vous pouvez aussi {another_email} pour trouver d'autres Fellows."
 Step12_count_contact: "Vous avez pluralize{{count_contact}, connaissance, connaissances} sur Fellownation que vous pouvez suivre."
