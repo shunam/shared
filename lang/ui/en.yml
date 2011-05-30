@@ -723,6 +723,7 @@ question_post_btn: "Post"
 question_favor_you: "You"
 question_asked_label: "asked"
 question_answered_label: "answered"
+
 Signup_check_firstname_blank: "First name is too short: min 2 characters."
 new_fellow_link: "Lorem"
 step1 : "Step 1"
@@ -753,3 +754,32 @@ max_size_file_upload: "Maximum size of 700k. JPG, GIF, PNG"
 and: "and"
 favored_by: "favored by"
 like_this: "like this"
+Email_template_head_notify_message: |-
+  Hello,
+
+  Our system alert was triggered because someone posted some text that matched your keyword(s): "{keywords}".
+  You can view the hole text at:
+
+
+Email_template_foot_notify_message: "Best Regards,\r\n\
+  \r\n\
+  Fellownation Team\r\n\
+  \r\n\
+  If you wish to no longer receive email alerts for this keyword click following link: {unsubscribe_job_url} "
+
+
+
+Email_template_message_alert: |-
+  Hello, {name}.
+
+  This is just sample email, here are your keywords :
+
+  - {key1}
+  - {key2}
+  - {key3}
+
+  Best Regard,
+
+  Fellownation Team
+
+  If you wish to no longer receive email alerts click following link http://{host}/subscribe_messages/delete-alert/{subscribe_code}
