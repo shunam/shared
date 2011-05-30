@@ -594,7 +594,7 @@ menu_application: "Applications"
 menu_setting: "Paramètres"
 menu_logout: "Se déconnecter"
 menu_my_time_line: "Fil d’actualité"
-menu_my_subscriptions: "Mes flux"
+menu_my_subscriptions: "Flux RSS"
 menu_questions: "Questions"
 menu_my_network: "Ma communauté"
 menu_all_employees: "Tous les employés"
@@ -784,3 +784,12 @@ Email_template_message_alert: |-
   Fellownation Team
 
   If you wish to no longer receive email alerts click following link http://{host}/subscribe_messages/delete-alert/{subscribe_code}
+
+Search_results_for: "Resultats pour"
+search_you_requested: "  Il n'y a pas de résultats"
+Add_your_network: "Add your Network "
+University_school: "Université/Ecole"
+Organization: "Organisation"
+Show_more_questions: "Questions plus anciennes"
+Search_result_for_header: "RESULTATS DE RECHERCHE POUR"
+Search_requested_not_found: "La recherche que vous avez demandée n'est pas trouvée" 

@@ -783,3 +783,11 @@ Email_template_message_alert: |-
   Fellownation Team
 
   If you wish to no longer receive email alerts click following link http://{host}/subscribe_messages/delete-alert/{subscribe_code}
+Search_results_for: "Search results for"
+search_you_requested: "The search you requested is not found"
+Add_your_network: "Ajouter votre Communauté "
+Organization: "Organization"
+University_school: "University/School"
+Show_more_questions: "More Questions"
+Search_result_for_header: "SEARCH RESULTS FOR"
+Search_requested_not_found: "The search you requested is not found"
