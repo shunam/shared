@@ -113,8 +113,8 @@
 :setting_full_name: MISSING
 :Homepage_academic_desc: MISSING
 :SideBar_tips_desc: MISSING
-:setting_password_confirmation: MISSING
-:Signup_check_city_blank: MISSING
-:Your_network_where_you_belong_to: MISSING
-:"Your_password?": MISSING
 :Signup_check_network_characters: MISSING
+:"Your_password?": MISSING
+:Your_network_where_you_belong_to: MISSING
+:Signup_check_city_blank: MISSING
+:setting_password_confirmation: MISSING
