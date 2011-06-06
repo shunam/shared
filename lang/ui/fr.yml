@@ -848,8 +848,15 @@ Email_template_notifier_post_a_wall_message_subject: "{first_name} {last_name} (
 are_you_sure: "En êtes-vous sûr ?"
 you_should_login: "Veuillez d'abord pour connecter."
 
-this_is_not_an_email: "Ce n'est pas un e-mail!"
-email_already_in_use: "Votre e-mail déjà utilisée!"
+this_is_not_an_email: "Cela ne ressemble pas à un email valide."
+email_already_in_use: "Cet email est déjà utilisé!"
 network_already_exist: "Réseau existent déjà!"
 try_another_email_account: "Essayez un autre compte de messagerie"
 continue: "Continuer"
+
+select_all_or_none: "Sélectionner tout / Aucun"
+Skip_link: "Sauter"
+that_is_you_label: "C'est vous"
+no_contact_information: "Aucune information contacter"
+no_location: "Aucun autre endroit"
+no_data: "Pas de données"
