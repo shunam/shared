@@ -861,3 +861,5 @@ ask_something: "Ask something..."
 Your_password?: Your password?
 posted_by: "posted by"
 votes: "votes"
+you_have_already_answer: "You have already answered the question"
+peoples_label: "PEOPLES"

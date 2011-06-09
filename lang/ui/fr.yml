@@ -358,7 +358,7 @@ Invitations_sent: "Invitations envoyées:"
 Step4_title: "Télécharger fichiers"
 We_are_in_open_beta_company: ""
 img_alt_go!: "Go!"
-setting_privacy: Privacy
+setting_privacy: "Confidentialité"
 setting_email_newsletter: "Email Newsletter"
 Signup_public_url_taken: "Nom d'utilisateur indisponible."
 Loading: Loading...
@@ -863,5 +863,7 @@ no_data: "Pas de données"
 no_updates: "Aucune dernière nouvelle."
 ask_something: "Poser quelque chose..."
 Your_password?: Votre mot de passe?
-posted_by: "posté par"
+posted_by: "Publié par"
 votes: "votes"
+you_have_already_answer: "Vous avez déjà répondu à la question."
+peoples_label: "PEUPLES"
