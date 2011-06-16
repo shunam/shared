@@ -465,7 +465,7 @@ Email_template_activated_account: "Hello fellow! We're excited you're now part o
   \r\n\
   The Fellownation Team"
 My_rewards: My rewards
-subtab_one: subtab_one
+subtab_one: "Alert"
 EMAIL_Log_in_now_and_expand_your_network: Log in now ({url}) and expand your network!
 Pending: "Pending:"
 setting_language: Language
@@ -476,7 +476,7 @@ Latest_activity: Latest activity
 Add_: Add {what}
 Your_network_where_you_belong_to_desc: In 2 minutes, complete your account. It's fast and easy. Give some info about you and start making new contacts. When finish you will already get valuable information on your timeline.
 We_don_t_store_your_login: "Note: we don't store your login, your password is submitted securely, and we don't email without your permission."
-subtab_three: subtab_three
+subtab_three: "Applications"
 Email_template_notifier_my_follower_subject: "{first_name} {last_name} ({user_name}) is now following you on Fellownation"
 Invite_new_friends: Invite new friends...
 New_password_again: "New password (again):"
@@ -484,7 +484,7 @@ Enter_a_school_name: Enter a school name
 tab_profile_link: Profile
 setting_downloaded_file_label: Email when someone has downloaded my files.
 Action_Relationship_Withdraw_Invitation_To_Company_Short: Withdraw
-subtab_two: subtab_two
+subtab_two: "RSS Feed"
 Add: Add
 Moment_colon: "Moment:"
 Expiration: "Expiration:"
@@ -880,8 +880,12 @@ that_is_you: "That's you"
 wall: "WALL"
 question_cant_blank: "Question can not blank!"
 you_are_following: "You are following"
-you_are_not_following: "Vous étes pas abonnements"
+you_are_not_following: "You are not following"
 limit_upload_file: "Limit for file is 4 MB"
 file_cannot_be_empty: "File can't be empty"
 max_five_files: "Max 5 files"
 file_uploaded_sucess: "Your file is uploaded successfully"
+photo_successfully_deleted: "Photo successfully deleted!"
+photo_is_empty: "Photo is empty!"
+format_is_not_valid: "format is not valid."
+is_not_RSS_feed: "is not a RSS feed!"
