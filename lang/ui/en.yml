@@ -889,3 +889,8 @@ photo_successfully_deleted: "Photo successfully deleted!"
 photo_is_empty: "Photo is empty!"
 format_is_not_valid: "format is not valid."
 is_not_RSS_feed: "is not a RSS feed!"
+
+wrong_network: "Wrong network! please click 'add yours' to add your network"
+user_name_please_use: "User name only use letters, numbers and no spaces"
+location_max_30: "location must be maximum 30 charaters long"
+photo_can_not_be_blank: "Photo can't be blank!"
