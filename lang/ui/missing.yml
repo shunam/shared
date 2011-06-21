@@ -114,10 +114,10 @@
 :Homepage_academic_desc: MISSING
 :setting_location: MISSING
 :setting_full_name: MISSING
-:SideBar_password_tips: MISSING
-:setting_email_newsletter_label: MISSING
 :setting_private_text_emails_label: MISSING
-:Email_template_message_alert: MISSING
-:setting_wall_emails_label: MISSING
-:Private_message_accep_subs: MISSING
+:setting_email_newsletter_label: MISSING
+:SideBar_password_tips: MISSING
 :setting_wall_emails: MISSING
+:Private_message_accep_subs: MISSING
+:setting_wall_emails_label: MISSING
+:Email_template_message_alert: MISSING
