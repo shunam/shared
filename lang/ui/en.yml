@@ -895,3 +895,5 @@ user_name_please_use: "User name only use letters, numbers and no spaces"
 location_max_30: "location must be maximum 30 charaters long"
 photo_can_not_be_blank: 'Please select a photo on your computer. Click "Choose file"'
 next_btn: "Next"
+invite_your_friend_via_emails: "Invite your friends via emails"
+select_your_email: "Select  your email provider(s) bellow to connect to your mailbox(es)."
