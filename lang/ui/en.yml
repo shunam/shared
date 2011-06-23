@@ -221,7 +221,6 @@ No_spam_we_promise: No spam, we promise
 HTTP_error: HTTP error
 There_was_in_error_in_your: There was in error in your form, please try again.
 State_Province_Region_country: "State, country:"
-EMAIL_send_invitation_subject: You are invited to join Fellownation
 For_business: For Business
 You_can_reply_to_this_message: "You can reply to this message by clicking on the following link:"
 Invite_your_friends_from_your_other: |-
@@ -428,7 +427,7 @@ EMAIL_invitation_created: |-
   {name} invited you to join Fellownation.
   
   To see more details and join Fellownation, follow the link below:
-  http://fellownation.com/signup
+  http://fellownation.com/signup{invitation}
   
   Thanks,
   The Fellownation Team
@@ -570,8 +569,8 @@ signup_email: "Email :"
 signup_gender: "Gender :"
 signup_birthdate: "Birth Date :"
 signup_category: "Category :"
-signup_your_network: "Your Network :"
-signup_network_not_found: "No network found?"
+signup_your_network: "Your Community :"
+signup_network_not_found: "No community found?"
 signup_add_yours: "Add yours"
 signup_create_your_fellow: "2. Create your fellownation account"
 signup_your_public_url: "Your public URL:"
@@ -591,14 +590,14 @@ lost_password_send: "Send"
 menu_home: "Home"
 menu_profile: "Profile"
 menu_subscription: "Subscriptions"
-menu_network: "Network"
+menu_network: "Community"
 menu_application: "Applications"
 menu_setting: "Settings"
 menu_logout: "Logout"
 menu_my_time_line: "My Timeline"
 menu_my_subscriptions: "My Subscriptions"
 menu_questions: "Questions"
-menu_my_network: "My Network"
+menu_my_network: "My Community"
 menu_all_employees: "All Employees"
 menu_all_student: "All Students"
 menu_all_helpers: "All Helpers"
@@ -682,17 +681,17 @@ setting_tab_account: "Account"
 setting_tab_password: "Password"
 setting_tab_notification: "Notifications"
 setting_tab_profile: "Profile"
-setting_network_label: "Network :"
+setting_network_label: "Community :"
 deactive_account_link: "deactivate my account"
-no_network_account_label: "No network found?"
+no_network_account_label: "No community found?"
 your_public_profile_is_account: "Your public profile is"
 account_find_email: "Let others find me by email address"
 account_note_label: "Note: email will not be publicly displayed"
 account_like_language: "What language would you like to use for your fellow?"
-account_network_type_label: "Network type:"
-account_network_name_label: "Network name:"
-account_create_network_btn: "Create my network"
-account_network_manually_label: "We validate networks manually. Please finish your signup and you'll be noticed when your network is added."
+account_network_type_label: "Community type:"
+account_network_name_label: "Community name:"
+account_create_network_btn: "Create my community"
+account_network_manually_label: "Your community is automatically created and available in your registration form."
 apps_register_label: "REGISTER NEW APPLICATIONS"
 apps_provide_information_label: "Provide Essential Information"
 apps_name_label: "Application Name:"
@@ -897,3 +896,6 @@ photo_can_not_be_blank: 'Please select a photo on your computer. Click "Choose f
 next_btn: "Next"
 invite_your_friend_via_emails: "Invite your friends via emails"
 select_your_email: "Select  your email provider(s) bellow to connect to your mailbox(es)."
+please_wait_we_importing_your_contact: |-
+  Please wait, we are importing your contacts now.
+  Thank you, Fellownation Team

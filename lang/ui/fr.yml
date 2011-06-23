@@ -222,7 +222,6 @@ No_spam_we_promise: "No spam, we promise"
 HTTP_error: "HTTP error"
 There_was_in_error_in_your: "There was in error in your form, please try again."
 State_Province_Region_country: "State, country:"
-EMAIL_send_invitation_subject: "Vous êtes invité à rejoindre Fellownation"
 For_business: "Pour Entreprises"
 You_can_reply_to_this_message: "Pour répondre à ce message, cliquez sur le lien suivant:"
 Invite_your_friends_from_your_other: |-
@@ -422,7 +421,7 @@ EMAIL_invitation_created: |-
     {name} vous a invité à rejoindre Fellownation.
 
     Pour en savoir plus et joindre Fellownation, suivez le lien ci-dessous:
-    http://fellownation.com/signup
+    http://fellownation.com/signup{invitation}
 
     Merci,
     L'équipe Fellownation
@@ -899,5 +898,8 @@ Upload_Photo: "Télécharger la photo"
 Upload: "Télécharger"
 photo_can_not_be_blank: "Veuillez sélectionner une photo sur votre ordinateur"
 next_btn: "Passer"
-invite_your_friend_via_emails: "Invite your friends via emails"
-select_your_email: "Select  your email provider(s) bellow to connect to your mailbox(es)."
+invite_your_friend_via_emails: "Invitez vos amis par email"
+select_your_email: "Choisissez votre compte email ci-dessous pour vous-y connecter."
+please_wait_we_importing_your_contact: |-
+  Veuillez patienter, nous importons vos contacts.
+  Merci, l'équipe Fellownation.
