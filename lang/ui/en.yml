@@ -427,7 +427,7 @@ EMAIL_invitation_created: |-
   {name} invited you to join Fellownation.
   
   To see more details and join Fellownation, follow the link below:
-  http://fellownation.com/signup{invitation}
+  {invitation}
   
   Thanks,
   The Fellownation Team
