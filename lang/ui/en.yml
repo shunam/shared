@@ -87,7 +87,7 @@ EMAIL_Dear_name: Dear {name},
 Gender: "Gender:"
 You_must_agree_to_the_Terms: You must agree to the Terms of Service
 img_alt_you_are_a_company!: You are a company!
-Signup_check_network_blank: Choose a network from the list or click "Add yours" to create a new network.
+Signup_check_network_blank: Choose a community from the list or click "Add yours" to create a community network.
 need_some_help?: Need some help?
 Homepage_student: For Students
 static_contact_us_link: Contact us
@@ -784,7 +784,7 @@ Email_template_message_alert: |-
   If you wish to no longer receive email alerts click following link http://{host}/subscribe_messages/delete-alert/{subscribe_code}
 Search_results_for: "Search results for"
 search_you_requested: "The search you requested is not found"
-Add_your_network: "Add your Network "
+Add_your_network: "Add your Community "
 Organization: "Organization"
 University_school: "University/School"
 Show_more_questions: "More Questions"
@@ -889,7 +889,7 @@ photo_is_empty: "Photo is empty!"
 format_is_not_valid: "format is not valid."
 is_not_RSS_feed: "is not a RSS feed!"
 
-wrong_network: "Wrong network! please click 'add yours' to add your network"
+wrong_network: "Wrong community! please click 'add yours' to add your community"
 user_name_please_use: "User name only use letters, numbers and no spaces"
 location_max_30: "location must be maximum 30 charaters long"
 photo_can_not_be_blank: 'Please select a photo on your computer. Click "Choose file"'
