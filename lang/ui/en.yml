@@ -87,7 +87,7 @@ EMAIL_Dear_name: Dear {name},
 Gender: "Gender:"
 You_must_agree_to_the_Terms: You must agree to the Terms of Service
 img_alt_you_are_a_company!: You are a company!
-Signup_check_network_blank: Choose a community from the list or click "Add yours" to create a community network.
+Signup_check_network_blank: Choose a community from the list or click "Add yours" to create a new community .
 need_some_help?: Need some help?
 Homepage_student: For Students
 static_contact_us_link: Contact us
