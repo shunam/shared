@@ -106,7 +106,7 @@ Homepage_professional: For Professionals
 Submitting: Submitting...
 Action_Relationship_Add_Candidate_Short: Ajouter
 Not_a_supported_address_book: Not a supported address book
-Invite_your_fellow: WIN AN iPAD !
+Invite_your_fellow: "INVITE AND WIN !"
 Your_network_where_you_belong_to: SETUP YOUR ACCOUNT 4 STEPS
 Signup_check_network_characters: "Network is too short: min 2 characters."
 All_fields_marked_with_span_class: "All fields marked with \xE2\x80\x9C<span class=\"req-sign\">*</span>\xE2\x80\x9D are required"
@@ -118,7 +118,7 @@ We_are_in_open_beta_candidate: ""
 setting_password_confirmation: Password Confirmation
 No_thanks_Bring_me_to_my: No, thanks. Bring me to my profile...
 Contact_us: Contact Us
-sidebar_file: sidebar_file
+sidebar_file: "3 TOOLS FOR BUSINESSES"
 Last_name: "Last name:"
 Name: "Name:"
 You_have_received_a_new_message_from_at: You have received a new message from {from} at {at}.
@@ -258,9 +258,7 @@ Your_public_URL_is: "Your public URL is:"
 Or_enter_your_friends_email_addresses: "Or, enter your friends' email addresses manually, separated by commas:"
 _pending_: "(pending: {email})"
 SideBar_notice_desc: These settings control how much we notify you about various things.
-Invite_your_fellow_desc: |
-  Invite your friends from Institut des Hautes Etudes en Communication sociale (IHECS) and win an iPad. More invitations you send, more friends join Fellownation. Check below the score in real time!
-
+Invite_your_fellow_desc: "Invite your friends from Institut des Hautes Etudes en Communication sociale (IHECS) and win an iPad. More email invitations you send, higher will be your racking! Be the first to invite your classmates to increase your chance. Check below the score in real time!"
 Your_companies: "Your companies:"
 Unavailable: Unavailable
 label_password_confirmation: Password confirmation
@@ -606,7 +604,7 @@ sidebar_following_link: "following"
 sidebar_followed_link: "followed"
 sidebar_messages_link: "messages"
 sidebar_follow_label: "Following"
-side_bar_invite_friend: "Invite your friends"
+side_bar_invite_friend: "FIND & INVITE FELLOWS"
 sidebar_search_something: "Search Something?"
 sidebar_check_student: "Student"
 sidebar_check_employee: "Employee"
@@ -894,10 +892,16 @@ user_name_please_use: "User name only use letters, numbers and no spaces"
 location_max_30: "location must be maximum 30 charaters long"
 photo_can_not_be_blank: 'Please select a photo on your computer. Click "Choose file"'
 next_btn: "Next"
-invite_your_friend_via_emails: "Invite your friends via emails"
-select_your_email: "Select  your email provider(s) bellow to connect to your mailbox(es)."
+invite_your_friend_via_emails: "FIND & INVITE YOUR FELLOWS"
+select_your_email: "Search the services you use to discover which of your fellows are already using Fellownation. Follow any of the fellows you find to add their public messages to your timeline."
 please_wait_we_importing_your_contact: |-
   Please wait, we are importing your contacts now.
   Thank you, Fellownation Team
-invite_friend_sidebar_non_rp_header: "LOREM IPSUM"
-invite_friend_sidebar_non_rp_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non imperdiet quam. Duis tincidunt quam sit amet arcu molestie euismod. Phasellus sapien urna, tincidunt in interdum id, elementum sed neque. In sodales nibh libero. Vestibulum eu metus at nibh faucibus imperdiet. Nullam quis ipsum erat, ac lacinia dolor. Vestibulum nibh lectus, iaculis non varius nec, posuere sit amet elit. Suspendisse interdum erat quis massa auctor lobortis. Nulla fringilla lacus eget erat mollis blandit. Vestibulum tempor mattis urna, eu euismod nunc varius a. Donec adipiscing varius leo sed imperdiet. In hac habitasse platea dictumst. Phasellus in dignissim risus."
+invite_friend_sidebar_non_rp_header: "FIND FELLOWS"
+invite_friend_sidebar_non_rp_description: "Not finding who you're looking for? Search the services you use to find your friends, classmates, alumni, family members and many more!"
+message_must_not_blank: "Message musn\'t blank !"
+sidebar_file_description: "Discover 3 tools to take full advantage of Fellownation platform. From simple email alerts that warn you when someone talks about a topic you like (e.g. about you or your company) to RSS feeds to spread your news. And for the most advanced users, you can also build your own application and integrate it fully on the platform (such as a Facebook application!). Give it a try!"
+sidebar_tips: "Tips"
+sidebar_tips_description: "For alerts, think about a topic (e.g. what do people think about my company) then choose max 3 keywords (e.g. company name: Unilever, CEO name: Paul Polman, a product name: Dove). For RSS feed, make sure to give a concise explanation in 420 characters. For applications, possibilities are endless! Contact us, we can advice you and help you set it up!"
+invite_friends_next_step_description: "Choosing a service will open up a window for you to log in securely and authorize Fellownation to see your contacts. You'll only see users who have allowed their accounts to be found by email address."
+invite_friends_info: "<b><i>Don't worry</i></b>: we won't share your contacts with anybody or email anyone without your consent."
