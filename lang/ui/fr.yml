@@ -276,7 +276,7 @@ Email_template_notifier_my_follower: "{first_name} {last_name} ({user_name}) est
   \r\n\
   - Applications : {number_of_applications_used}\r\n\
   \r\n\
-  Vous êtes {have_relation} abonné à {first_name} {last_name} ({user_name}). \r\n\
+  Vous {have_relation} abonné à {first_name} {last_name} ({user_name}). \r\n\
   \r\n\
   \r\n\
   Et maintenant? \r\n\
