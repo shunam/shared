@@ -917,3 +917,5 @@ Step11_foot_2: "<b><i>Pas d'inquiétude</i></b>: nous ne partageons pas vos cont
 Email_template_notifier_my_follower_follow: êtes
 Email_template_notifier_my_follower_not_follow: n'êtes pas
 Title: "Fellownation : Connecte, partage et fais-toi remarquer par des professionnels."
+public_profile_follow: Vous êtes abonné à <b> {username} </b>
+public_profile_not_follow: Vous n'êtes pas abonné à <b> {username} </b>
