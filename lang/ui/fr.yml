@@ -238,7 +238,7 @@ Change?: "Modifier?"
 SideBar_tips: "Astuces"
 EMAIL_Change_your_email_notifications: "Changer vos notifications par email:"
 Dashboard: "Tableau de bord"
-Email_template_notifier_my_pm_subject: "aloha"
+Email_template_notifier_my_pm_subject: Message privé de {sender_first_name} {sender_last_name} ({sender_user_name})
 Send_this_to_selected_people: "Send this to selected people:"
 Contact_person: "Personne de contact:"
 General_Conditions: "Conditions générales"
@@ -266,7 +266,7 @@ Email_template_notifier_my_follower: "{first_name} {last_name} ({user_name}) est
   - Bio : {bio_content} \r\n\
   \r\n\
   - Localisation : {location_content} \r\n\
-  - Public Message : {number_of_publicmessages}\r\n\
+  - Message public : {number_of_publicmessages}\r\n\
   \r\n\
   - Abonnés : {number_of_followers} \r\n\
   \r\n\
@@ -279,11 +279,11 @@ Email_template_notifier_my_follower: "{first_name} {last_name} ({user_name}) est
   Vous êtes {have_relation} abonné à {first_name} {last_name} ({user_name}). \r\n\
   \r\n\
   \r\n\
-  What\xE2\x80\x99s Next? \r\n\
+  Et maintenant? \r\n\
   \r\n\
   * En savoir plus sur {first_name} {last_name} via son profil : {user_name_public_link}\r\n\
   \r\n\
-  * Poster un message publique sur le mur de {user_name}\xE2\x80\x99s : {user_name_wall_link}\r\n\
+  * Poster un message publique sur le mur de {user_name} : {user_name_wall_link}\r\n\
   \r\n\
   * Envoyer un message privé à {user_name} : {user_name_privatemessage_link}\r\n\
   \r\n\
@@ -604,7 +604,7 @@ sidebar_following_link: "Abonnements"
 sidebar_followed_link: "Abonnés"
 sidebar_messages_link: "Messages"
 sidebar_follow_label: "Vos Abonnements"
-side_bar_invite_friend: "TROUVER & CHERCHER VOS FELLOWS"
+side_bar_invite_friend: "TROUVER VOS FELLOWS"
 sidebar_search_something: "Recherchez-vous quelque chose?"
 sidebar_check_student: "Etudiant"
 sidebar_check_employee: "Employé"
@@ -912,3 +912,8 @@ sidebar_tips_description: "Pour les alertes, pensez à un sujet (par exemple, qu
 invite_friends_next_step_description: "Choisir un service ouvrira une fenêtre permettant de vous identifier de manière sécurisée afin d'autoriser Fellownation à voir vos contacts. Vous ne verrez que les contacts ayant autorisé la recherche de leur compte par adresse email."
 invite_friends_info: "<b><i>Pas d'inquiétude</i></b>: nous ne partageons pas vos contacts ni n'envoyons d'e-mail à qui que ce soit sans votre consentement."
 could_not_find_message: "Désolé, ce message a été effacé par un utilisateur."
+Step11_foot_1: "Choisir un service ouvrira une fenêtre permettant de vous identifier de manière sécurisée afin d'autoriser Fellownation à voir vos contacts. Vous ne verrez que les contacts ayant autorisé la recherche de leur compte par adresse email."
+Step11_foot_2: "<b><i>Pas d'inquiétude</i></b>: nous ne partageons pas vos contacts ni n'envoyons d'e-mail à qui que ce soit sans votre consentement."
+Email_template_notifier_my_follower_follow: êtes
+Email_template_notifier_my_follower_not_follow: n'êtes pas
+Title: "Fellownation : Connecte, partage et fais-toi remarquer par des professionnels."

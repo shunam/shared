@@ -267,7 +267,7 @@ Email_template_notifier_my_follower: "{first_name} {last_name} ({user_name}) is 
   - Bio : {bio_content} \r\n\
   \r\n\
   - Location : {location_content} \r\n\
-  - Public Message : {number_of_publicmessages}\r\n\
+  - Public message : {number_of_publicmessages}\r\n\
   \r\n\
   - Follower : {number_of_followers} \r\n\
   \r\n\
@@ -906,3 +906,8 @@ sidebar_tips_description: "For alerts, think about a topic (e.g. what do people 
 invite_friends_next_step_description: "Choosing a service will open up a window for you to log in securely and authorize Fellownation to see your contacts. You'll only see users who have allowed their accounts to be found by email address."
 invite_friends_info: "<b><i>Don't worry</i></b>: we won't share your contacts with anybody or email anyone without your consent."
 could_not_find_message: "Sorry, this message has been deleted by an user."
+Step11_foot_1: "Choosing a service will open up a window for you to log in securely and authorize Fellownation to see your contacts. You'll only see users who have allowed their accounts to be found by email address."
+Step11_foot_2: "<b><i>Don't worry</i></b>: we won't share your contacts with anybody or email anyone without your consent."
+Email_template_notifier_my_follower_follow: do
+Email_template_notifier_my_follower_not_follow: do not
+Title: "Fellownation - Connect, Socialize and get noticed by professionals."
