@@ -81,7 +81,7 @@ Sign_up_now!: Sign up now in 10 seconds!
 reply: Reply
 Add_your_logo: Add your logo...
 Send_invitation: Send invitation
-SideBar_subs_tips_desc: lorem ipsum dolor
+SideBar_subs_tips_desc: "To be found more easily, make sure to give a concise explanation in max 420 characters."
 setting_new_follower_emails_label: Email when someone starts following me.
 EMAIL_Dear_name: Dear {name},
 Gender: "Gender:"
@@ -399,7 +399,7 @@ Private_message_accep_subs: Congratulations, your subscription has been accepted
 are_you_sure_to_delete_this_message: Are you sure to delete this message ?
 Signup: Signup!
 Signup_public_url_restricted: Username has already been taken.
-SideBar_subscription_desc: lorem ipsum
+SideBar_subscription_desc: "Submit your RSS feed to our directory to make it available to every fellows on Fellownation. This is the simplest way to spread your news."
 setting_email_newsletter_label: Yes please send me great updates once a while !
 Posted_time_ago_: Posted {time} ago
 No_network_notifier: <strong> Please choose your network at {profile_link} </strong>
