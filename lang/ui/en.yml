@@ -915,3 +915,7 @@ Email_template_notifier_my_follower_not_follow: do not
 Title: "Fellownation - Connect, Socialize and get noticed by professionals."
 public_profile_follow: You are following <b> {username} </b>
 public_profile_not_follow: You are not following <b> {username} </b>
+whom_subscription: "{username}'S SUBSCRIPTION"
+whom_subscriptions: "{username}'S SUBSCRIPTIONS"
+question_mine: "{username}'S QUESTION"
+questions_mine: "{username}'S QUESTIONS"

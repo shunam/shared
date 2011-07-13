@@ -715,7 +715,6 @@ already_account_label: "Avez-vous déjà un compte ?"
 question_pool_option: "Ajouter des choix de réponse (optionnel)"
 ask_question_btn: "Poser une question"
 question_fellow_header: "QUESTIONS DES FELLOWS"
-question_mine: "'S QUESTIONS"
 question_post_btn: "Partager"
 question_favor_you: "Vous"
 question_asked_label: "a demandé"
@@ -921,3 +920,7 @@ Email_template_notifier_my_follower_not_follow: n'êtes pas
 Title: "Fellownation : Connecte, partage et fais-toi remarquer par des professionnels."
 public_profile_follow: Vous êtes abonné à <b> {username} </b>
 public_profile_not_follow: Vous n'êtes pas abonné à <b> {username} </b>
+whom_subscription: "FLUX RSS DE {username}"
+whom_subscriptions: "FLUX RSS DE {username}"
+question_mine: "QUESTIONS DE {username}"
+questions_mine: "QUESTIONS DE {username}"
