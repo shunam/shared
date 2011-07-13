@@ -751,7 +751,9 @@ viewAll_public_message: "Afficher tout"
 and: "et"
 favored_by: "sauvé par"
 question_favor_you: "Vous"
-like_this: "comme ceci"
+you_like_this: "aimez ça"
+he_she_like_this: "aime ça"
+plural_like_this: "aiment ça"
 Email_template_head_notify_message: |-
   Hello,
 

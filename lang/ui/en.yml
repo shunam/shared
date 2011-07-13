@@ -750,7 +750,9 @@ Delete_Photo: "Delete Photo"
 max_size_file_upload: "Maximum size of 700k. JPG, GIF, PNG"
 and: "and"
 favored_by: "favored by"
-like_this: "like this"
+you_like_this: "like this"
+he_she_like_this: "like this"
+plural_like_this: "likes this"
 Email_template_head_notify_message: |-
   Hello,
 
