@@ -752,7 +752,7 @@ and: "and"
 favored_by: "favored by"
 you_like_this: "like this"
 he_she_like_this: "likes this"
-plural_like_this: "likes this"
+plural_like_this: "like this"
 Email_template_head_notify_message: |-
   Hello,
 
