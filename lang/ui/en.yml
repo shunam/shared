@@ -191,7 +191,7 @@ Captcha_challenge_issued_by_server: Captcha challenge issued by server
 or_cancel_: or {cancel_link}
 URL: "URL:"
 Education: Education
-Your_network: Your network
+Your_network: Your community
 EMAIL_To_log_in_at_a_later: To log in at a later date, please enter your e-mail address "{email}" and the password which you used when you signed up.
 setting_email: Email
 Email_template_notifier_post_a_comment_subject: "{from_first_name} {from_last_name} ({from_user_name}) commented on {first_name} {last_name} ({user_name})\xE2\x80\x99s public message"
@@ -928,4 +928,4 @@ direct_emails_button: "Send invitations"
 direct_emails_use_comma: "<i>(use commas to separate emails)</i>"
 link_find_fellow: "<b>Find Fellows</b>"
 subscribe_to_rss_feed: "Subscribe to RSS feeds to display hot news on your timeline"
-invite_message_title: ""
+invite_message_title: "Leave them a message (optional)"
