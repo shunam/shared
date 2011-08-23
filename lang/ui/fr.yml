@@ -786,6 +786,8 @@ Anywhere: "Anywhere"
 EMAIL_invitation_created: |-
     {name} vous a invité à rejoindre Fellownation.
 
+    {invite_message}
+
     Pour en savoir plus et joindre Fellownation, suivez le lien ci-dessous:
     {invitation}
 

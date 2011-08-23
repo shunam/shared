@@ -424,6 +424,8 @@ Anywhere: Anywhere
 EMAIL_invitation_created: |-
   {name} invited you to join Fellownation.
   
+  {invite_message}
+  
   To see more details and join Fellownation, follow the link below:
   {invitation}
   
