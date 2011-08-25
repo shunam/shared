@@ -1300,3 +1300,4 @@ direct_emails_use_comma: "<i>(utilisez des virgules pour séparer les emails)</i
 link_find_fellow: "<b>Trouver des Fellows</b>"
 subscribe_to_rss_feed: "Abonnez-vous aux flux pour afficher des news dans votre Fil d'Actualités"
 invite_message_title: "Laissez-leur un message (optionnel)"
+error_message_user_comma: " est un courriel non valide, Veuillez utiliser une virgule entre les emails"
