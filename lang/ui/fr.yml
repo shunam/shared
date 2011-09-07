@@ -1300,6 +1300,6 @@ direct_emails_use_comma: "<i>(utilisez des virgules pour séparer les emails)</i
 link_find_fellow: "<b>Trouver des Fellows</b>"
 subscribe_to_rss_feed: "Abonnez-vous aux flux pour afficher des news dans votre Fil d'Actualités"
 invite_message_title: "Laissez-leur un message (optionnel)"
-error_message_user_comma: " est un courriel non valide, Veuillez utiliser une virgule entre les emails"
+error_message_user_comma: "Il y a une (des) erreur(s) dans votre liste d'emails.\nVeuillez vérifier vos emails et la virgule entre chaque adresse email."
 step1_5_title: "Invitez vos contacts."
 step1_5_top_info1: "Ecrivez ci-dessous les adresses emails de vos contacts à inviter :"
