@@ -346,7 +346,9 @@ SideBar_account: ACCOUNT
 We_could_not_find_any_user: We could not find any user with this email address. Please try again.
 Step3_title: Upload your picture profile
 Homepage_latest_public_message: Latest public messages
-Private_title: Connect, socialize and get noticed by professionals.
+Private_title: |-
+  <p>Connect, socialize and get noticed by professionals.</p>
+  <p>FellowNation is a free and open communication platform for communities. It's a new and easy way to discover the latest career related news, to keep up with professionals and get help for your career.</p>
 footer_support_link: Support
 Show_more_link: Show more
 Informations: Information
@@ -700,6 +702,7 @@ log_out_link: Log out
 Up_to_: Up to {count}
 apps_disagree_label: Disagree
 Your_profile_status_was_successfully_changed: Your profile status was successfully changed.
+top_menu_find_link: Find
 Score_title_sidebar: REAL TIME SCORE
 search_tab_subscription: SUBSCRIPTIONS
 signin_connect_account: Connect to your account
@@ -896,10 +899,10 @@ Action_Relationship_Add_Company: Invite <strong>{company}</strong> to my network
 Save_Photo: <font size="3"><strong>1. Click on your photo and expand the square.<br/>2. To make adjustments, you can drag around and resize the square bellow.<br/>3. When you are happy with your photo click the "Save Photo" button.</strong></font>
 Total_results_found: "{count} results found."
 Homepage_business: Fellownation for business.
+logged_in_as: Logged in as {name}.
+subscribe_my_label: MY
 subscribe_label: SUBSCRIPTION
 application_not_found: The application you requested was not found
-subscribe_my_label: MY
-logged_in_as: Logged in as {name}.
 setting_you_are: "You are :"
 average: average
 setting_make_my_contact_informations_private: Make my contact information private
@@ -927,4 +930,3 @@ upload_files: Upload Files
 Upgrade: Upgrade
 sidebar_check_employee: Employee
 no_updates: No Updates.
-top_menu_find_link: "Find"

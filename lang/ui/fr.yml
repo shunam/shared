@@ -172,7 +172,7 @@ need_some_help?: Besoin d'aide?
 all_subscriptions: Tous les flux
 Homepage_student: "Pour \xC3\xA9tudiants"
 user_name_please_use: Lettres et chiffres uniquement. Pas d'espace, pas de symboles
-signin_link: S'inscrire
+signin_link: Se Connecter
 Email_template_notifier_post_a_wall_message_subject: "{first_name} {last_name} ({user_name}) a \xC3\xA9crit un message sur votre mur"
 resources_path_new: nouveau
 signup_about_you: 1. A propos de vous
@@ -365,7 +365,8 @@ SideBar_account: COMPTE
 We_could_not_find_any_user: We could not find any user with this email address. Please try again.
 Step3_title: "T\xC3\xA9l\xC3\xA9charger votre photo"
 Homepage_latest_public_message: " Messages publics r\xC3\xA9cents"
-Private_title: Connecte, partage et fais-toi remarquer par des professionnels.
+Private_title: "<p>Connecte, partage et fais-toi remarquer par des professionnels.</p>\r\n\
+  <p>FellowNation est une plate-forme communautaire totalement ouverte et gratuite. C'est un nouveau moyen d'obtenir des news pour votre carri\xC3\xA8re et de discuter entre \xC3\xA9tudiants, chercheurs d\xE2\x80\x99emplois et professionnels.</p>"
 footer_support_link: Support
 Show_more_link: Afficher plus
 Informations: Information
@@ -1010,6 +1011,7 @@ log_out_link: "Se d\xC3\xA9connecter"
 Up_to_: Up to {count}
 apps_disagree_label: "Je d\xC3\xA9sapprouve"
 Your_profile_status_was_successfully_changed: "Votre profil a \xC3\xA9t\xC3\xA9 mis \xC3\xA0 jour avec succ\xC3\xA8s."
+top_menu_find_link: Trouver
 Score_title_sidebar: SCORE EN TEMPS REEL
 search_tab_subscription: FLUX RSS
 signin_connect_account: "Se connecter \xC3\xA0 votre compte"
@@ -1266,4 +1268,3 @@ upload_files: Fichiers
 Upgrade: Upgrade
 sidebar_check_employee: "Employ\xC3\xA9"
 no_updates: "Aucune derni\xC3\xA8re nouvelle."
-top_menu_find_link: "Trouver"
