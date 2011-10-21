@@ -1269,3 +1269,5 @@ Upgrade: Upgrade
 sidebar_check_employee: "Employ\xC3\xA9"
 no_updates: "Aucune derni\xC3\xA8re nouvelle."
 public_profile_button_signup: "S'inscrire"
+right_bar_total_following: Suit {following_link} fellows
+right_bar_total_followed:  Suivi par {following_link} fellows

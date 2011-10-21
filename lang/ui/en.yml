@@ -931,3 +931,5 @@ Upgrade: Upgrade
 sidebar_check_employee: Employee
 no_updates: No Updates.
 public_profile_button_signup: "Sign Up"
+right_bar_total_following: Following {following_link} fellows
+right_bar_total_followed:  Followed by {following_link} fellows
