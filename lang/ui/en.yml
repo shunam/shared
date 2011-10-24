@@ -160,6 +160,7 @@ all_subscriptions: All subscriptions
 Homepage_student: For Students
 user_name_please_use: User name only use letters, numbers and no spaces
 signin_link: Sign in
+public_profile_button_signup: Sign Up
 Email_template_notifier_post_a_wall_message_subject: "{first_name} {last_name} ({user_name}) wrote a message on your wall"
 signup_about_you: 1. About you
 static_contact_us_link: Contact us
@@ -482,6 +483,7 @@ signin_label_login: "login :"
 question_answered_label: answered
 news_confirm_label: "Please confirm your account \xE2\x80\x94 a confirmation message was sent to"
 SideBar_notice_desc: These settings control how much we notify you about various things.
+right_bar_total_following: Following {following_link}
 Invite_your_fellow_desc: Invite your friends from Institut des Hautes Etudes en Communication sociale (IHECS) and win an iPad. More email invitations you send, higher will be your racking! Be the first to invite your classmates to increase your chance. Check below the score in real time!
 Your_companies: "Your companies:"
 Unavailable: Unavailable
@@ -577,6 +579,7 @@ Simple_and_intuitive_tools: Simple and intuitive tools
 Yes_: "Yes"
 Signup_sidebar_desc: <h2>Fellownation is the perfect tool as a professional complement to Facebook.</h2> <p>Fellownation is an information platform made up of short messages.<br/>It's a new and easy way to discover the latest career related news; discuss with employees; listen and participate to others' conversation; follow in realtime your friends' comments; get valuable advices from professionals.</p> <p>It's an online place where key people around you gather all together to learn and explain the professional world.</p>
 apps_contact_email_label: "Contact Email:"
+right_bar_total_followed: Followed by {following_link}
 public_profile_files: MY FILES
 Step11_title: Are you fellows already on Fellownation?
 Company_logo: Company logo
@@ -702,7 +705,7 @@ log_out_link: Log out
 Up_to_: Up to {count}
 apps_disagree_label: Disagree
 Your_profile_status_was_successfully_changed: Your profile status was successfully changed.
-top_menu_find_link: Find
+top_menu_find_link: Find contacts
 Score_title_sidebar: REAL TIME SCORE
 search_tab_subscription: SUBSCRIPTIONS
 signin_connect_account: Connect to your account
@@ -899,37 +902,34 @@ Action_Relationship_Add_Company: Invite <strong>{company}</strong> to my network
 Save_Photo: <font size="3"><strong>1. Click on your photo and expand the square.<br/>2. To make adjustments, you can drag around and resize the square bellow.<br/>3. When you are happy with your photo click the "Save Photo" button.</strong></font>
 Total_results_found: "{count} results found."
 Homepage_business: Fellownation for business.
-logged_in_as: Logged in as {name}.
-subscribe_my_label: MY
-subscribe_label: SUBSCRIPTION
-application_not_found: The application you requested was not found
 setting_you_are: "You are :"
-average: average
+application_not_found: The application you requested was not found
+subscribe_label: SUBSCRIPTION
+subscribe_my_label: MY
+logged_in_as: Logged in as {name}.
 setting_make_my_contact_informations_private: Make my contact information private
-Your_profile: Your profile
-Older_messages_link: Older Messages
-keyword1: Keyword 1
+average: average
 Perfect!: Perfect!
-person_label: PERSON
-account_like_language: What language would you like to use for your fellow?
-keyword2: Keyword 2
-Actions: Actions
+keyword1: Keyword 1
+Older_messages_link: Older Messages
+Your_profile: Your profile
 sidebar_messages_link: messages
-direct_emails_button: Send invitations
-Notification_invite_friends: Invitations sent
-Signup_sidebar_header: Connect and share with students and employees. Free, easy and powerful.
-keyword3: Keyword 3
-menu_my_subscriptions: My Subscriptions
-sidebar_tips_description: "For alerts, think about a topic (e.g. what do people think about my company) then choose max 3 keywords (e.g. company name: Unilever, CEO name: Paul Polman, a product name: Dove). For RSS feed, make sure to give a concise explanation in 420 characters. For applications, possibilities are endless! Contact us, we can advice you and help you set it up!"
+Actions: Actions
+keyword2: Keyword 2
+account_like_language: What language would you like to use for your fellow?
+person_label: PERSON
 application_label: APPLICATION
-Country: "Country:"
-expert: expert
+sidebar_tips_description: "For alerts, think about a topic (e.g. what do people think about my company) then choose max 3 keywords (e.g. company name: Unilever, CEO name: Paul Polman, a product name: Dove). For RSS feed, make sure to give a concise explanation in 420 characters. For applications, possibilities are endless! Contact us, we can advice you and help you set it up!"
+menu_my_subscriptions: My Subscriptions
+keyword3: Keyword 3
+Signup_sidebar_header: Connect and share with students and employees. Free, easy and powerful.
+Notification_invite_friends: Invitations sent
+direct_emails_button: Send invitations
 SideBar_profile: PROFILE
-lost_password_header: Lost Password
+expert: expert
+Country: "Country:"
 upload_files: Upload Files
+lost_password_header: Lost Password
 Upgrade: Upgrade
-sidebar_check_employee: Employee
 no_updates: No Updates.
-public_profile_button_signup: "Sign Up"
-right_bar_total_following: Following {following_link}
-right_bar_total_followed:  Followed by {following_link}
+sidebar_check_employee: Employee
