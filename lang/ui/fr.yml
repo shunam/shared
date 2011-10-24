@@ -1271,3 +1271,4 @@ lost_password_header: "Mot de passe oubli\xC3\xA9?"
 Upgrade: Upgrade
 no_updates: "Aucune derni\xC3\xA8re nouvelle."
 sidebar_check_employee: "Employ\xC3\xA9"
+view_all_comment: Afficher tous les {num_total_of_comments} commentaires

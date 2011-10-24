@@ -933,3 +933,4 @@ lost_password_header: Lost Password
 Upgrade: Upgrade
 no_updates: No Updates.
 sidebar_check_employee: Employee
+view_all_comment: View all {num_total_of_comments} comments
