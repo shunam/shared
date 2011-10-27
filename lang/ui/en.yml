@@ -934,3 +934,5 @@ Upgrade: Upgrade
 no_updates: No Updates.
 sidebar_check_employee: Employee
 view_all_comment: View all {num_total_of_comments} comments
+connect_with_facebook_information: "If so, you can link your account on Facebook to your Fellownation account:"
+connect_with_google_information: "If so, you can link your account on Google to your Fellownation account:"

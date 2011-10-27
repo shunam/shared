@@ -1272,3 +1272,5 @@ Upgrade: Upgrade
 no_updates: "Aucune derni\xC3\xA8re nouvelle."
 sidebar_check_employee: "Employ\xC3\xA9"
 view_all_comment: Afficher tous les {num_total_of_comments} commentaires
+connect_with_facebook_information: "Si tel est le cas, vous pouvez lier votre compte Facebook à votre compte FellowNation:"
+connect_with_google_information: "Si tel est le cas, vous pouvez lier votre compte Google à votre compte FellowNation:"
