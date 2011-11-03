@@ -160,8 +160,8 @@ all_subscriptions: All subscriptions
 Homepage_student: For Students
 user_name_please_use: User name only use letters, numbers and no spaces
 signin_link: Sign in
-public_profile_button_signup: Sign Up
 Email_template_notifier_post_a_wall_message_subject: "{first_name} {last_name} ({user_name}) wrote a message on your wall"
+public_profile_button_signup: Sign Up
 signup_about_you: 1. About you
 static_contact_us_link: Contact us
 Total_results_found_showing_count: "{total} results found. Showing first {count} results."
@@ -238,6 +238,7 @@ Sidebar_public_who_are_we_desc: The perfect tool as a professional complement to
 Signup_public_url_max_15: Maximum 15 characters.
 for_business: FOR BUSINESSES
 your_public_profile_is_account: Your public profile is
+connect_with_facebook_information: "If so, you can link your account on Facebook to your Fellownation account:"
 DASHBOARD_MESSAGE_CREATED_BY_COMPANY_company: You have sent a {message} to {candidate_link}
 menu_network: Community
 Delete_Photo: Delete Photo
@@ -356,6 +357,7 @@ Informations: Information
 menu_subscription: Subscriptions
 sidebar_tips: Tips
 Step14_title: pluralize{{count_invite}, contact, contacts} invited you to join Fellownation that you can follow.
+connect_with_google_information: "If so, you can link your account on Google to your Fellownation account:"
 Search_requested_not_found: The search you requested is not found
 dashboard_share: Share
 Private_message_signup_default: "Hello, my name is David. I am the founder of Fellownation and today I am very happy to become your \"fellow\". At Fellownation our mission is simple: providing the best place to exchange information in order to help you to take the right decisions for your career. All the users together, I am sure, we can make a difference in everyone's life. I am at your service and I would love to hear from you."
@@ -370,7 +372,7 @@ Step3_subtitle: Let people see you. This picture appears on your public profile,
 question_post_btn: Post
 Reply_to_: Reply to {message}
 wrong_network: Wrong community! please click 'add yours' to add your community
-you_should_login: You should login first
+you_should_login: Please login in first.
 network_follow_label: YOU FOLLOW
 static_site_map_link: Site Map
 More_info: More info...
@@ -754,24 +756,24 @@ EMAIL_Complete_your_profile: "* Complete your profile"
 tab_application_link: Application
 with: with
 menu_my_time_line: My Timeline
-Email_template_activated_account: "Hello fellow! We're excited you're now part of the nation! Fellowation is all about communication between fellows : friends, students, colleagues, professors, future employers, alumni etc.\r\n\
-  \r\n\
-  It's real-time \r\n\
-  information network powered by people all around you that lets you share and discover what\xE2\x80\x99s happening now. \r\n\
-  \r\n\
-  Get started on Fellownation: \r\n\
-  1. Discover who's on fellownation Browse popular accounts by interest or look for your friends and follow the ones you like.\r\n\
-  2. Check back often Visit Fellownation often so you'll see what's new from the accounts you follow. \r\n\
-  \r\n\
-  How to communicate \r\n\
-  1. Set up your profile Complete your profile information. A picture of yourself and a short bio make you more interesting to others on Fellownation.\r\n\
-  2. Share information! Write your first public message. Share what's happening with you fellows. \r\n\
-  \r\n\
-  If you're using Fellownation for your business, get tips on getting started from Fellownation 101 for business. \r\n\
-  \r\n\
-  Welcome to the nation!\r\n\
-  \r\n\
-  The Fellownation Team"
+Email_template_activated_account: |-
+  Hello fellow!
+  
+  We're excited you're now part of the nation! FellowNation is all about communication between fellows : friends, students, colleagues, professors, future employers, alumni etc.
+  
+  It's a professional network for communities powered by people all around you that let's you share and help each other to succeed our career.
+  
+  How to get started on FellowNation ?
+  1. Discover who's on FellowNation: Browse popular accounts by interest or look for your friends and follow the ones you like.
+  2. Check back often Visit FellowNation often so you'll see what's new from the accounts you follow. 
+  
+  How to communicate ?
+  1. Set up your profile : Complete your profile information. A picture of yourself and a short bio make you more interesting to others on Fellownation.
+  2. Share information :  Write your first public message. Share what's happening with you fellows. 
+  
+  Welcome to the nation!
+  
+  The FellowNation Team
 My_rewards: My rewards
 EMAIL_Log_in_now_and_expand_your_network: Log in now ({url}) and expand your network!
 save_continue_btn: Save & Continue
@@ -886,6 +888,7 @@ Email: "Email:"
 menu_all_employees: All Employees
 popular: Popular
 Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
+view_all_comment: View all {num_total_of_comments} comments
 signin_lost_password: Lost password
 Sent_an_invitation_to_invitations_sent: You just sent an invitation to {count} of your contacts. Thank you!
 VAT_number: "VAT number:"
@@ -899,9 +902,9 @@ select_all_or_none: Select All / None
 message: message
 setting_tab_account: Account
 Action_Relationship_Add_Company: Invite <strong>{company}</strong> to my network
-Save_Photo: <font size="3"><strong>1. Click on your photo and expand the square.<br/>2. To make adjustments, you can drag around and resize the square bellow.<br/>3. When you are happy with your photo click the "Save Photo" button.</strong></font>
-Total_results_found: "{count} results found."
 Homepage_business: Fellownation for business.
+Total_results_found: "{count} results found."
+Save_Photo: <font size="3"><strong>1. Click on your photo and expand the square.<br/>2. To make adjustments, you can drag around and resize the square bellow.<br/>3. When you are happy with your photo click the "Save Photo" button.</strong></font>
 setting_you_are: "You are :"
 application_not_found: The application you requested was not found
 subscribe_label: SUBSCRIPTION
@@ -933,6 +936,3 @@ lost_password_header: Lost Password
 Upgrade: Upgrade
 no_updates: No Updates.
 sidebar_check_employee: Employee
-view_all_comment: View all {num_total_of_comments} comments
-connect_with_facebook_information: "If so, you can link your account on Facebook to your Fellownation account:"
-connect_with_google_information: "If so, you can link your account on Google to your Fellownation account:"
