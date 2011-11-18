@@ -1037,7 +1037,7 @@ select_your_email: "Parcourez les services que vous utilisez pour d\xC3\xA9couvr
 Profile_succesfully_updated: "Votre profil a \xC3\xA9t\xC3\xA9 mis \xC3\xA0 jour avec succ\xC3\xA8s."
 Unlimited: Unlimited
 Anywhere: Anywhere
-EMAIL_invitation_created: "{name} vous a invit\xC3\xA9 \xC3\xA0 rejoindre Fellownation.\n\n\
+EMAIL_invitation_created: "
   {invite_message}\n\n\
   Pour en savoir plus et joindre Fellownation, suivez le lien ci-dessous:\n\
   {invitation}\n\n\

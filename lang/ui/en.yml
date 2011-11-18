@@ -728,7 +728,6 @@ Profile_succesfully_updated: Profile succesfully updated.
 Unlimited: Unlimited
 Anywhere: Anywhere
 EMAIL_invitation_created: |-
-  {name} invited you to join Fellownation.
   
   {invite_message}
   
