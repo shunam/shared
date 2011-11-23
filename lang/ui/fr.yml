@@ -64,7 +64,7 @@ tab_inbox_link: "Bo\xC3\xAEte de r\xC3\xA9ception"
 recently_added: "Ajouts R\xC3\xA9cents"
 active_record_helper_header_message: pluralize{{error_count}, erreur} pendant l'enregistrement de '{failed_object}'
 question_cant_blank: "Question ne peut \xC3\xAAtre vide."
-employee: "Employ\xC3\xA9"
+employee: Professionnel
 dashboard_comment_link: Commenter
 EMAIL_Company_name: "Nom de l'entreprise:"
 SideBar_tips_desc: "<p>Changer votre nom n'affectera pas vos messages publics ou priv\xC3\xA9s existants ou d'autres donn\xC3\xA9es. Toutefois, si vous changez votre nom d'utilisateur cela affectera votre URL personnel.</ p> Prot\xC3\xA9gez votre compte pour garder votre profil partiellement ou totalement priv\xC3\xA9. </ p>"
@@ -122,7 +122,7 @@ Count_per_search: "{count} per search"
 Please_enter_your_email_address_here: "Entrez votre e-mail ici et nous vous enverrons un e-mail avec un lien pour r\xC3\xA9activer votre compte:"
 Network: "R\xC3\xA9seau:"
 Back_to_the_dashboard: Retour au flux de messages
-or: Ou
+or: Ou s'inscrire avec
 account_network_manually_label: "Votre communaut\xC3\xA9 est automatiquement cr\xC3\xA9\xC3\xA9e et disponible dans votre formulaire d'inscription."
 By_searching: "By searching:"
 posted_by: "Publi\xC3\xA9 par"
@@ -130,14 +130,14 @@ inbox_link: BOITE DE RECEPTION
 UNKNOWN_CATEGORY_TODO: UNKNOWN CATEGORY (TODO)
 This_validation_code_is_invalid_Try: This validation code is invalid. Try asking again for a new code.
 message_has_sent: "Message envoy\xC3\xA9 !"
-New_email_address: "Nouvel email:"
+New_email_address: "Nouvelle adresse email:"
 Step11_subtitle: "Rechercher dans votre compte email est le moyen le plus rapide de trouver qui de vos connaissances utilisent d\xC3\xA9j\xC3\xA0 Fellownation <br/>. Abonnez-vous \xC3\xA0 vos connaissances afin de lire leurs messages publics sur votre fil d'actualit\xC3\xA9."
 Overview: "Overview:"
 day: jour
 setting_wall_emails: Mur
 subscribes_label: FLUX
 male: Homme
-signup_email: "Email :"
+signup_email: "Votre addresse email :"
 Pending_for: Pending for
 Change_picture: Changer photo
 setting_make_my_files_private: "Rendre mes fichiers priv\xC3\xA9s"
@@ -157,7 +157,7 @@ Add_your_logo: Ajouter votre logo...
 Send_invitation: Envoyer invitation
 SideBar_subs_tips_desc: "Pour \xC3\xAAtre retrouv\xC3\xA9 facilement, assurez-vous de remplir votre profil."
 recommedn_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam porttitor porttitor turpis, nec sollicitudin mauris viverra ac. Aliquam aliquam, eros id auctor commodo, risus odio feugiat diam, vitae porta diam magna nec libero. Donec viverra lorem at purus fringilla posuere. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus eros augue, pharetra sed varius vel, mollis in neque. Morbi lobortis, leo in egestas facilisis, ante augue condimentum erat, at rhoncus lectus elit sed tellus. Donec ac nisl libero. Sed tincidunt urna quis quam sagittis lobortis. Praesent ac felis neque, in iaculis nulla. Aliquam adipiscing facilisis vehicula. Sed lobortis, metus vel placerat luctus, ligula elit molestie nulla, nec pellentesque sem elit vitae quam. Pellentesque eleifend turpis vitae nisi aliquet congue. Mauris quam neque, suscipit ac sollicitudin vitae, ullamcorper rutrum nibh.
-Add_your_network: "Ajouter votre Communaut\xC3\xA9 "
+Add_your_network: "Ajouter votre communaut\xC3\xA9 "
 left: restants
 menu_questions: Questions
 full_name_network: NOM
@@ -167,7 +167,7 @@ EMAIL_Dear_name: Dear {name},
 Gender: "Genre:"
 You_must_agree_to_the_Terms: Vous devez approuver les conditions d'utilisation.
 img_alt_you_are_a_company!: You are a company!
-Signup_check_network_blank: "Choisissez un r\xC3\xA9seau dans la liste ou cliquez sur \"Ajouter votre r\xC3\xA9seau\" pour cr\xC3\xA9er un nouveau r\xC3\xA9seau."
+Signup_check_network_blank: "Choisissez une communaut\xC3\xA9 dans la liste ou cliquez sur \"Ajouter votre communaut\xC3\xA9\" pour cr\xC3\xA9er une nouvelle communaut\xC3\xA9."
 need_some_help?: Besoin d'aide?
 all_subscriptions: Tous les flux
 Homepage_student: "Pour \xC3\xA9tudiants"
@@ -221,6 +221,7 @@ Enter_a_keyword_location_or_company: Enter a keyword, location... (e.g. Brussels
 error_message_too_short: "est trop court (min. %d caract\xC3\xA8re(s))."
 Terms: "Conditions & Confidentialit\xC3\xA9"
 Sorry_this_activation_code_is_not: Sorry, this activation code is not valid.
+top_share_infromation: Partager un message public
 We_are_in_open_beta_candidate: ""
 signup_network_not_found: "Communaut\xC3\xA9 inexistante?"
 setting_password_confirmation: Confirmation du mot de passe
@@ -349,7 +350,7 @@ next_btn: Passer
 file_uploaded_sucess: "Votre fichier est t\xC3\xA9l\xC3\xA9charg\xC3\xA9 avec succ\xC3\xA8s"
 setting_network_label: "Communaut\xC3\xA9 :"
 question_asked_label: "a demand\xC3\xA9"
-signup_for_fellow: S'inscrire sur Fellownation
+signup_for_fellow: S'inscrire avec le formulaire ci-dessous
 are_you_sure: "En \xC3\xAAtes-vous s\xC3\xBBr ?"
 apps_register_label: ENREGISTRER UNE APPLICATION
 setting_email: Email
@@ -367,6 +368,8 @@ SideBar_account: COMPTE
 We_could_not_find_any_user: We could not find any user with this email address. Please try again.
 Step3_title: "T\xC3\xA9l\xC3\xA9charger votre photo"
 Homepage_latest_public_message: " Messages publics r\xC3\xA9cents"
+v2_home_page_info_login: "Cr\xC3\xA9ez votre compte et rejoindre votre communaut\xC3\xA9"
+v2_home_page_sub_title: "FellowNation est un r\xC3\xA9seau professionnel ouvert et gratuit pour communaut\xC3\xA9s."
 Private_title: "<p>Connecte, partage et fais-toi remarquer par des professionnels.</p>\r\n\
   <p>FellowNation est une plate-forme communautaire totalement ouverte et gratuite. C'est un nouveau moyen d'obtenir des news pour votre carri\xC3\xA8re et de discuter entre \xC3\xA9tudiants, chercheurs d\xE2\x80\x99emplois et professionnels.</p>"
 footer_support_link: Support
@@ -375,7 +378,9 @@ Informations: Information
 menu_subscription: Flux
 sidebar_tips: ASTUCES
 Step14_title: "Abonnez-vous au(x) pluralize{{count_invite}, connaissance, connaissances} qui vous a(ont) invit\xC3\xA9(s) \xC3\xA0 rejoindre Fellownation."
-connect_with_google_information: "Si tel est le cas, vous pouvez lier votre compte Google \xC3\xA0 votre compte FellowNation:"
+connect_with_google_information: "Si oui, vous pouvez lier votre compte Google \xC3\xA0 FellowNation.<br>\r\n\
+  \r\n\
+  Si non, remplissez le formulaire en bas."
 Search_requested_not_found: "Il n'y a pas de r\xC3\xA9sultats"
 dashboard_share: Partager
 Private_message_signup_default: "Bonjour, mon nom est David. Je suis le fondateur de Fellownation et aujourd'hui je suis heureux de devenir votre fellow. Notre mission \xC3\xA0 Fellownation est simple: offrir le meilleur site pour \xC3\xA9changer de l'information afin de vous aider \xC3\xA0 prendre les bonnes d\xC3\xA9cisions pour votre carri\xC3\xA8re. Ensemble, je suis s\xC3\xBBr, nous pouvons am\xC3\xA9liorer la vie de chacun. Je reste \xC3\xA0 votre service et je serais ravi de recevoir votre avis."
@@ -389,7 +394,7 @@ Contact: "Contact:"
 Step3_subtitle: "Faites-vous reconna\xC3\xAEtre. Votre photo de profil aide vos abonn\xC3\xA9s \xC3\xA0 instantan\xC3\xA9ment vous reconnaitre et en dit plus sur vous \xC3\xA0 ceux qui ne vous suivent pas."
 question_post_btn: Partager
 Reply_to_: "R\xC3\xA9pondre \xC3\xA0 {message}"
-wrong_network: "Choisissez un r\xC3\xA9seau dans la liste ou cliquez sur \"Ajouter votre r\xC3\xA9seau\" pour cr\xC3\xA9er un nouveau r\xC3\xA9seau."
+wrong_network: "Choisissez une communaut\xC3\xA9 dans la liste ou cliquez sur \"Ajouter votre communaut\xC3\xA9\" pour cr\xC3\xA9er une nouvelle communaut\xC3\xA9."
 you_should_login: Veuillez d'abord vous connecter.
 network_follow_label: "VOUS \xC3\x8BTES ABONNES A"
 static_site_map_link: Site Map
@@ -439,7 +444,7 @@ Upload: !binary |
   VMOpbMOpY2hhcmdlcg==
 
 already_account_label: "Avez-vous d\xC3\xA9j\xC3\xA0 un compte ?"
-Email_address: "Votre email:"
+Email_address: "Adresse email:"
 Email_template_message_alert: |-
   Hello, {name}.
   
@@ -477,6 +482,7 @@ footer_about_link: A propos
 date_helper_x_months: "%d mois"
 apps_support_url_label: "Support URL:"
 you_have_unfavor: "Vous avez d\xC3\xA9favo cette question!"
+v2_home_page_title: "Rejoignez Votre Communaut\xC3\xA9"
 apps_directory_label: REPERTOIRE D'APPLICATIONS
 signup_about_you_detail: Nous ne partageons pas ces infos.
 Step12_count_contact: Vous avez pluralize{{count_contact}, connaissance, connaissances} sur Fellownation que vous pouvez suivre.
@@ -503,6 +509,7 @@ signup_or_connect: OU
 Signup_check_firstname: "Pr\xC3\xA9nom est trop court: min 2 caract\xC3\xA8res."
 Show_more_subscriptions_link: Plus Subscriptions
 date_helper_half_a_minute: une demi-minute
+v2_home_page_community_footer: "Votre communaute existe d\xC3\xA9j\xC3\xA0. Rejoignez-la et restez en contact avec vos fellows."
 step4_upload_btn: "T\xC3\xA9lecharger"
 try_another_email_account: Essayer un autre compte email
 Update_my_password: "Mettre \xC3\xA0 jour mon mot de passe"
@@ -517,7 +524,7 @@ you_have_already_answer: "Vous avez d\xC3\xA9j\xC3\xA0 r\xC3\xA9pondu \xC3\xA0 l
 news_limit_access: "Jusqu'\xC3\xA0 ce que vous confirmez, vous aurez un acc\xC3\xA8s limit\xC3\xA9 \xC3\xA0 certaines fonctionnalit\xC3\xA9s du site."
 no_contact_information: "Pas de coordonn\xC3\xA9es"
 lost_password_email: "Votre email :"
-signin_label_login: "Votre email :"
+signin_label_login: "Adresse email :"
 question_answered_label: !binary |
   YSByw6lwb25kdSDDoA==
 
@@ -844,7 +851,7 @@ date_helper_date_formats:
   default: "%Y-%m-%d"
   short: "%e %b"
   long: "%e %B, %Y"
-signup_category: "Cat\xC3\xA9gorie :"
+signup_category: "Qui \xC3\xAAtes vous ?"
 Homepage_join_the_nation_desc: "<p>Connecte toi, socialise et fais-toi remarquer par les professionnels. FellowNation est le compl\xC3\xA9ment professionnel \xC3\xA0 facebook.</p>"
 breadcrumb_homepage_link: Accueil
 wall: MUR
@@ -1037,8 +1044,7 @@ select_your_email: "Parcourez les services que vous utilisez pour d\xC3\xA9couvr
 Profile_succesfully_updated: "Votre profil a \xC3\xA9t\xC3\xA9 mis \xC3\xA0 jour avec succ\xC3\xA8s."
 Unlimited: Unlimited
 Anywhere: Anywhere
-EMAIL_invitation_created: "
-  {invite_message}\n\n\
+EMAIL_invitation_created: " {invite_message}\n\n\
   Pour en savoir plus et joindre Fellownation, suivez le lien ci-dessous:\n\
   {invitation}\n\n\
   Merci,\n\
@@ -1180,45 +1186,46 @@ he_she_like_this: "aime \xC3\xA7a"
 Address: "Address :"
 EMAIL_The_more_information_you_put_into_company: Plus votre profil sera complet, plus The more information you put into your profile the easier it is for others to find you and to get to know you.
 recommend_ipad: ET GAGNEZ UN IPAD
+v2_signup_button: S'inscrire maintenant
 student: Etudiant
 candidate_search_with_profile_count_: "{search_name} (pluralize{{profile_count}, profile, profiles})"
 Accepted_by: Accepted by
-Interested: Interested?
-EMAIL_Click_here_to_view_profile_here: "Click here to view her/his profile (you might have to log in first) :"
-SideBar_profile_desc: "<p>Ces informations figurent sur votre profil public.</p><p>Vos abonn\xC3\xA9s vous identifient gr\xC3\xA2ce aux renseignements qui figurent sur votre profil public et en apprend davantage \xC3\xA0 ceux qui ne vous suivent pas encore.</p>"
-Email_template_notifier_download_file_subject: "Quelqu'un a t\xC3\xA9l\xC3\xA9charg\xC3\xA9 votre \xE2\x80\x98{file_name}\xE2\x80\x99 fichier sur votre profil"
 mini_biography: MINI BIOGRAPHIE
-is_not_RSS_feed: n'est pas un flux RSS!
-Your_account_has_been_reactivated_with: "Votre compte a \xC3\xA9t\xC3\xA9 r\xC3\xA9activ\xC3\xA9 avec le nouvel email {email}"
-Association: Association
-Send_requests_to_join_my_network: Send requests to join my network
+Email_template_notifier_download_file_subject: "Quelqu'un a t\xC3\xA9l\xC3\xA9charg\xC3\xA9 votre \xE2\x80\x98{file_name}\xE2\x80\x99 fichier sur votre profil"
+SideBar_profile_desc: "<p>Ces informations figurent sur votre profil public.</p><p>Vos abonn\xC3\xA9s vous identifient gr\xC3\xA2ce aux renseignements qui figurent sur votre profil public et en apprend davantage \xC3\xA0 ceux qui ne vous suivent pas encore.</p>"
+EMAIL_Click_here_to_view_profile_here: "Click here to view her/his profile (you might have to log in first) :"
+Interested: Interested?
 Show_more_favorites_link: Plus favoris
-apps_security_label: "Contr\xC3\xB4le de s\xC3\xA9curit\xC3\xA9:"
-Location: "Location:"
+Send_requests_to_join_my_network: Send requests to join my network
+Association: Association
+Your_account_has_been_reactivated_with: "Votre compte a \xC3\xA9t\xC3\xA9 r\xC3\xA9activ\xC3\xA9 avec le nouvel email {email}"
+is_not_RSS_feed: n'est pas un flux RSS!
 static_careers_and_jobs_link: Careers &amp; jobs
-account_menu_bar: Compte
-date_helper_am: am
-monthly_active_user: utilisateur actif mensuel
-EMAIL_You_can_invite_candidates_to_join: "You can invite candidates to join your network by clicking on \"Add to my network\xE2\x80\x9D as a contact. By doing so, you will receive notifications each time they will update their profiles and they will be informed for any change happening on your profile and offers. Finally, you can send offers to your network or to search results."
-inbox: BOITE DE RECEPTION
+Location: "Location:"
+apps_security_label: "Contr\xC3\xB4le de s\xC3\xA9curit\xC3\xA9:"
 go_back: go back
+inbox: BOITE DE RECEPTION
+EMAIL_You_can_invite_candidates_to_join: "You can invite candidates to join your network by clicking on \"Add to my network\xE2\x80\x9D as a contact. By doing so, you will receive notifications each time they will update their profiles and they will be informed for any change happening on your profile and offers. Finally, you can send offers to your network or to search results."
+monthly_active_user: utilisateur actif mensuel
+date_helper_am: am
+account_menu_bar: Compte
 monthly_active_users: utilisateurs actifs mensuel
-new_fellow_label: Nouveau sur Fellownation?
-Place: Place
-days_ago_: Il y a {count} jours
 female: Femme
-Signup_check_birthdate: Entrer une date d'anniversaire valide.
-Email: "Email:"
+days_ago_: Il y a {count} jours
+Place: Place
+new_fellow_label: Nouveau sur Fellownation?
 menu_all_employees: "Tous les employ\xC3\xA9s"
-view_all_comment: Afficher tous les {num_total_of_comments} commentaires
-popular: Populaires
-Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
+Email: "Email:"
+Signup_check_birthdate: Entrer une date d'anniversaire valide.
 signin_lost_password: "Mot de passe oubli\xC3\xA9?"
-Sent_an_invitation_to_invitations_sent: You just sent an invitation to {count} of your contacts. Thank you!
-VAT_number: "VAT number:"
-my_apps_label: MES APPLICATIONS
-Signup_check_city_characters: "Ville est trop court: 2 caract\xC3\xA8res."
+Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
+popular: Populaires
+view_all_comment: Afficher tous les {num_total_of_comments} commentaires
 Relationship_status: "Relationship status:"
+Signup_check_city_characters: "Ville est trop court: 2 caract\xC3\xA8res."
+my_apps_label: MES APPLICATIONS
+VAT_number: "VAT number:"
+Sent_an_invitation_to_invitations_sent: You just sent an invitation to {count} of your contacts. Thank you!
 date_helper_day_names: 
 - Dimanche
 - Lundi
@@ -1227,55 +1234,49 @@ date_helper_day_names:
 - Jeudi
 - Vendredi
 - Samedi
-whom_subscription: FLUX RSS DE {username}
 To: A
-Summary: Summary
-select_all_or_none: "S\xC3\xA9lectionner tout / Aucun\""
-message: message
-setting_tab_account: Compte
+whom_subscription: FLUX RSS DE {username}
+Action_Relationship_Add_Company: Invite <strong>{company}</strong> to my network
 date_helper_time_formats: 
   default: "%a, %d %b %Y %H:%M:%S %z"
   short: "%d %b, %H:%M"
   long: "%d %B, %Y %H:%M"
-Action_Relationship_Add_Company: Invite <strong>{company}</strong> to my network
-Save_Photo: "<font size=\"3\"><strong>1. Cliquez sur le photo pour \xC3\xA9tendre le rectange.<br/>2. Pour effectuer des r\xC3\xA9glages, faites glisser et redimensionner le rectangle. <br/>3. Quand votre photo vous satisfait, cliquez sur \"Sauver Photo\".</strong></font>"
-Total_results_found: "{count} results found."
+setting_tab_account: Compte
+message: message
+select_all_or_none: "S\xC3\xA9lectionner tout / Aucun\""
+Summary: Summary
 Homepage_business: FellowNation pour entreprises.
-subscribe_label: FLUX
-application_not_found: " L'application que vous recherchez n'a pas \xC3\xA9t\xC3\xA9 trouv\xC3\xA9e"
-subscribe_my_label: MES
-logged_in_as: Logged in as {name}.
+Total_results_found: "{count} results found."
+Save_Photo: "<font size=\"3\"><strong>1. Cliquez sur le photo pour \xC3\xA9tendre le rectange.<br/>2. Pour effectuer des r\xC3\xA9glages, faites glisser et redimensionner le rectangle. <br/>3. Quand votre photo vous satisfait, cliquez sur \"Sauver Photo\".</strong></font>"
 setting_you_are: "Vous \xC3\xA9tes :"
-average: average
+logged_in_as: Logged in as {name}.
+subscribe_my_label: MES
+application_not_found: " L'application que vous recherchez n'a pas \xC3\xA9t\xC3\xA9 trouv\xC3\xA9e"
+subscribe_label: FLUX
 setting_make_my_contact_informations_private: "Rendre mes coordonn\xC3\xA9es priv\xC3\xA9es."
-Your_profile: Mon profil
-Older_messages_link: "Messages \xC3\xA2g\xC3\xA9es"
-keyword1: "Mot-cl\xC3\xA9 1"
-error_message_not_a_number: "n'est pas une valeur num\xC3\xA9rique."
+average: average
 Perfect!: Parfait!
-person_label: PERSONNE
-account_like_language: En quelle langue souhaitez-vous utiliser Fellownation?
-keyword2: "Mot-cl\xC3\xA9 2"
-Actions: Actions
+error_message_not_a_number: "n'est pas une valeur num\xC3\xA9rique."
+keyword1: "Mot-cl\xC3\xA9 1"
+Older_messages_link: "Messages \xC3\xA2g\xC3\xA9es"
+Your_profile: Mon profil
 sidebar_messages_link: Messages
-direct_emails_button: Envoyer les invitations
-sidebar_tips_description: "Pour les alertes, pensez \xC3\xA0 un sujet (par exemple, que pensent les gens de mon entreprise), puis choisissez max 3 mots cl\xC3\xA9s (nom de l'entreprise, par exemple: Unilever, le nom du PDG: Paul Polman, un nom de produit: Dove). Pour les flux RSS, assurez-vous de donner une explication concise de 420 caract\xC3\xA8res. Pour les applications, les possibilit\xC3\xA9s sont infinies! Contactez-nous, nous pouvons vous aider \xC3\xA0 les configurer."
-Notification_invite_friends: "Invitations envoy\xC3\xA9es"
-Signup_sidebar_header: "Se connecter et partager entre \xC3\xA9tudiants et employ\xC3\xA9s. Facile, gratuit et efficace."
-keyword3: "Mot-cl\xC3\xA9 3"
-menu_my_subscriptions: Flux RSS
+Actions: Actions
+keyword2: "Mot-cl\xC3\xA9 2"
+account_like_language: En quelle langue souhaitez-vous utiliser Fellownation?
+person_label: PERSONNE
 application_label: APPLICATION
-Country: "Pays:"
-expert: expert
+menu_my_subscriptions: Flux RSS
+keyword3: "Mot-cl\xC3\xA9 3"
+Signup_sidebar_header: "Se connecter et partager entre \xC3\xA9tudiants et employ\xC3\xA9s. Facile, gratuit et efficace."
+Notification_invite_friends: "Invitations envoy\xC3\xA9es"
+sidebar_tips_description: "Pour les alertes, pensez \xC3\xA0 un sujet (par exemple, que pensent les gens de mon entreprise), puis choisissez max 3 mots cl\xC3\xA9s (nom de l'entreprise, par exemple: Unilever, le nom du PDG: Paul Polman, un nom de produit: Dove). Pour les flux RSS, assurez-vous de donner une explication concise de 420 caract\xC3\xA8res. Pour les applications, les possibilit\xC3\xA9s sont infinies! Contactez-nous, nous pouvons vous aider \xC3\xA0 les configurer."
+direct_emails_button: Envoyer les invitations
 SideBar_profile: PROFIL
-lost_password_header: "Mot de passe oubli\xC3\xA9?"
+expert: expert
+Country: "Pays:"
 upload_files: Fichiers
+lost_password_header: "Mot de passe oubli\xC3\xA9?"
 Upgrade: Upgrade
-sidebar_check_employee: "Employ\xC3\xA9"
 no_updates: "Aucune derni\xC3\xA8re nouvelle."
-top_share_infromation: Partager un message public
-v2_home_page_title: Rejoindre votre communauté
-v2_home_page_sub_title: Fellownation est un réseau libre et ouvert.
-v2_signup_button: S'inscrire maintenant
-v2_home_page_info_login: Créez votre compte et rejoindre votre communauté
-v2_home_page_community_footer: Votre communautaire existe déjà. Y adhérer et de rester en contact avec vos semblables
+sidebar_check_employee: "Employ\xC3\xA9"

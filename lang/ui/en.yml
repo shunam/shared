@@ -56,7 +56,7 @@ Someone_requested_a_new_password_for: "Someone requested a new password for your
 tab_inbox_link: Inbox
 recently_added: Recently Added
 question_cant_blank: Question can not blank!
-employee: Employee
+employee: Professional
 dashboard_comment_link: Comment
 EMAIL_Company_name: "Company name:   "
 SideBar_tips_desc: <p>Changing your full name will not affect your existing public or private messages, or other data. However, if you change your username it will affect your personal public profile URL http://www.fellownation.com/your_username.</p><p>Protect your account to keep your profile partially or completely private.</p>
@@ -108,7 +108,7 @@ Count_per_search: "{count} per search"
 Please_enter_your_email_address_here: "Please enter your email address here and we will send you an email with a link to reactivate your account:"
 Network: "Network:"
 Back_to_the_dashboard: Back to the dashboard
-or: Or
+or: Or signup with
 account_network_manually_label: Your community is automatically created and available in your registration form.
 By_searching: "By searching:"
 posted_by: posted by
@@ -123,7 +123,7 @@ day: day
 setting_wall_emails: Wall Emails
 subscribes_label: SUBSCRIPTIONS
 male: Male
-signup_email: "Email :"
+signup_email: "Your email address :"
 Pending_for: Pending for
 Change_picture: Change picture
 setting_make_my_files_private: Make my files private
@@ -144,7 +144,7 @@ Add_your_logo: Add your logo...
 Send_invitation: Send invitation
 SideBar_subs_tips_desc: To be found more easily, make sure to give a concise explanation in max 420 characters.
 recommedn_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt, tellus vulputate pretium dictum, massa metus adipiscing nisi, vitae consequat est magna a dolor. Nam dapibus porttitor risus congue laoreet. Suspendisse eu fermentum nulla. Donec nec tellus nibh, nec pulvinar urna. Curabitur tortor libero, sodales eget ullamcorper quis, placerat in arcu. Duis dolor nibh, rutrum a lobortis ac, porta quis neque. Pellentesque posuere orci id nunc molestie vel gravida eros malesuada. Aenean pharetra est nec nulla vehicula tempor varius lectus consectetur. Curabitur nisl nunc, dignissim ac vestibulum eget, sodales sit amet elit. Curabitur placerat nulla ac leo adipiscing blandit ultricies arcu interdum. Maecenas vel eros nisl. Nullam et tortor enim. Donec sed lorem dolor. Donec a pulvinar massa.
-Add_your_network: "Add your Community "
+Add_your_network: "Add your community "
 left: left
 menu_questions: Questions
 full_name_network: FULL NAME
@@ -200,6 +200,7 @@ Find: Find
 Enter_a_keyword_location_or_company: Enter a keyword, location... (e.g. Brussels internship)
 Terms: Terms & Privacy
 Sorry_this_activation_code_is_not: Sorry, this activation code is not valid.
+top_share_infromation: Share a public message with
 We_are_in_open_beta_candidate: ""
 signup_network_not_found: No community found?
 setting_password_confirmation: Password Confirmation
@@ -267,7 +268,7 @@ Email_template_activation_account: |-
   The Fellownation Team
 label_password: Password
 public_url: Public URL
-signup_your_network: "Your Community :"
+signup_your_network: "Your community :"
 apps_max_file_upload_label: Maximum size of 700k JPG, GIF, PNG.
 error_message_user_comma: |-
   There is an (some) error(s) in your list of emails.
@@ -330,7 +331,7 @@ next_btn: Next
 file_uploaded_sucess: Your file is uploaded successfully
 setting_network_label: "Community :"
 question_asked_label: asked
-signup_for_fellow: Signup for fellownation
+signup_for_fellow: Signup with the form below
 are_you_sure: Are you sure?
 apps_register_label: REGISTER NEW APPLICATIONS
 setting_email: Email
@@ -348,6 +349,8 @@ SideBar_account: ACCOUNT
 We_could_not_find_any_user: We could not find any user with this email address. Please try again.
 Step3_title: Upload your picture profile
 Homepage_latest_public_message: Latest public messages
+v2_home_page_info_login: Create your account and join your community!
+v2_home_page_sub_title: FellowNation is a free and open professional network for communities.
 Private_title: |-
   <p>Connect, socialize and get noticed by professionals.</p>
   <p>FellowNation is a free and open communication platform for communities. It's a new and easy way to discover the latest career related news, to keep up with professionals and get help for your career.</p>
@@ -357,7 +360,10 @@ Informations: Information
 menu_subscription: Subscriptions
 sidebar_tips: Tips
 Step14_title: pluralize{{count_invite}, contact, contacts} invited you to join Fellownation that you can follow.
-connect_with_google_information: "If so, you can link your account on Google to your Fellownation account:"
+connect_with_google_information: |-
+  If yes, you can link your Google account to FellowNation by entering your email address and password.
+  
+  If not, fill the form at the bottom.
 Search_requested_not_found: The search you requested is not found
 dashboard_share: Share
 Private_message_signup_default: "Hello, my name is David. I am the founder of Fellownation and today I am very happy to become your \"fellow\". At Fellownation our mission is simple: providing the best place to exchange information in order to help you to take the right decisions for your career. All the users together, I am sure, we can make a difference in everyone's life. I am at your service and I would love to hear from you."
@@ -447,6 +453,7 @@ Your_password?: Your password?
 footer_about_link: About
 apps_support_url_label: "Support URL:"
 you_have_unfavor: You have unfavor this question!
+v2_home_page_title: Join Your Community
 apps_directory_label: APPLICATIONS DIRECTORY
 signup_about_you_detail: We don't share this with strangers.
 Step12_count_contact: You have pluralize{{count_contact}, contact, contacts} on Fellownation that you can follow.
@@ -468,6 +475,7 @@ peoples_label: PEOPLES
 signup_or_connect: OR
 Signup_check_firstname: "First name is too short: min 2 characters."
 Show_more_subscriptions_link: More Subscriptions
+v2_home_page_community_footer: Your community already exists. Join it and stay in touch with your fellows.
 step4_upload_btn: Upload
 try_another_email_account: try another email account
 Update_my_password: Update my password
@@ -481,7 +489,7 @@ you_have_already_answer: You have already answered the question
 news_limit_access: Until you confirm, you will have limited access to certain features on the website.
 no_contact_information: No contact information
 lost_password_email: "Your E-mail :"
-signin_label_login: "login :"
+signin_label_login: "Email address :"
 question_answered_label: answered
 news_confirm_label: "Please confirm your account \xE2\x80\x94 a confirmation message was sent to"
 SideBar_notice_desc: These settings control how much we notify you about various things.
@@ -562,7 +570,7 @@ Email_template_activation_account_subject: Confirm your Fellownation account, {f
 Step13_title: Invites contacts to Fellownation
 static_check_the_faq_link: Check the FAQ
 account_network_type_label: "Community type:"
-signup_category: "Category :"
+signup_category: Who are you ?
 Homepage_join_the_nation_desc: <p>Fellownation is your tool to connect, socialize and get noticed by professionals as a complement to Facebook.</p>
 breadcrumb_homepage_link: Homepage
 wall: WALL
@@ -859,6 +867,7 @@ recommend_ipad: AND WIN AN IPAD
 student: Student
 candidate_search_with_profile_count_: "{search_name} (pluralize{{profile_count}, profile, profiles})"
 Accepted_by: Accepted by
+v2_signup_button: Sign up now
 Email_template_notifier_download_file_subject: "Someone has downloaded your \xE2\x80\x98{file_name}\xE2\x80\x99 file on your profile"
 mini_biography: MINI BIOGRAPHY
 SideBar_profile_desc: <p>This information appears on your public profile, search results, and beyond.</p><p>It helps instantly identify you to those following you, and tells those who aren't more about you.</p>
@@ -894,13 +903,13 @@ VAT_number: "VAT number:"
 my_apps_label: MY APPLICATIONS
 Signup_check_city_characters: "City is too short: min 2 characters."
 Relationship_status: "Relationship status:"
-To: To
 whom_subscription: "{username}'S SUBSCRIPTION"
-Summary: Summary
-select_all_or_none: Select All / None
-message: message
-setting_tab_account: Account
+To: To
 Action_Relationship_Add_Company: Invite <strong>{company}</strong> to my network
+setting_tab_account: Account
+message: message
+select_all_or_none: Select All / None
+Summary: Summary
 Homepage_business: Fellownation for business.
 Total_results_found: "{count} results found."
 Save_Photo: <font size="3"><strong>1. Click on your photo and expand the square.<br/>2. To make adjustments, you can drag around and resize the square bellow.<br/>3. When you are happy with your photo click the "Save Photo" button.</strong></font>
@@ -935,9 +944,3 @@ lost_password_header: Lost Password
 Upgrade: Upgrade
 no_updates: No Updates.
 sidebar_check_employee: Employee
-top_share_infromation: Share a public message with
-v2_home_page_title: Join your Community
-v2_home_page_sub_title: Fellownation is a free and open network.
-v2_signup_button: Sign up Now
-v2_home_page_info_login: Create your account and join your community!
-v2_home_page_community_footer: Your Community already exists. Join it and stay in touch with your fellows
