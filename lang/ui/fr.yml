@@ -1280,3 +1280,7 @@ lost_password_header: "Mot de passe oubli\xC3\xA9?"
 Upgrade: Upgrade
 no_updates: "Aucune derni\xC3\xA8re nouvelle."
 sidebar_check_employee: "Employ\xC3\xA9"
+v2_popup_login_wellcome_back: Welcome Back!
+v2_popup_login_login_button: Login
+v2_popup_login_footer1: Oh Snap!
+v2_popup_login_footer2: "S'il vous plaît noter: la récupération gueule de bois est pas possible avec seulement votre adresse email. Toujours le message de façon responsable"

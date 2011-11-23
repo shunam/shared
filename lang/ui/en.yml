@@ -944,3 +944,7 @@ lost_password_header: Lost Password
 Upgrade: Upgrade
 no_updates: No Updates.
 sidebar_check_employee: Employee
+v2_popup_login_wellcome_back: Welcome Back!
+v2_popup_login_login_button: Login
+v2_popup_login_footer1: Oh Snap!
+v2_popup_login_footer2: "Please note: hangover recovery is not possible with only your email. Always message responsibly"
