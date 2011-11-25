@@ -955,4 +955,9 @@ v2_footer_open_source: Open Source
 v2_footer_about: About
 v2_footer_blog: Blog
 v2_footer_contact: Contact Us
-
+v2_error_message_email_alert_full_name: "can't be blank"
+v2_error_message_email_alert_keyword: "Keyword have to fill at least 1 keyword"
+v2_error_message_email_alert_subscssrib_email: "Email can't be blank"
+v2_error_message_email_alert_invalid_email: "Invalid Email"
+v2_rss_feed_error_message_name: "can't be blank"
+v2_rss_feed_error_message_url: "can't be blank"

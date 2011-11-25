@@ -1291,3 +1291,9 @@ v2_footer_open_source: Open Source
 v2_footer_about: A Propos
 v2_footer_blog: Blog
 v2_footer_contact: Nous contacter
+v2_error_message_email_alert_full_name: "ne peut pas être vide"
+v2_error_message_email_alert_keyword: "Keyword devez remplir au moins 1 mot-clé"
+v2_error_message_email_alert_subscssrib_email: "Email ne peut pas être vide"
+v2_error_message_email_alert_invalid_email: "Invalid Email"
+v2_rss_feed_error_message_name: "cant'n vierge"
+v2_rss_feed_error_message_url: "cant'n vierge"
