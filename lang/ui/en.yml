@@ -52,6 +52,7 @@ If_you_did_not_request_to: If you did not request to change your password, simpl
 EMAIL_View_this_notification_on_your_dashboard: "View this notification on your dashboard:"
 subscription_follower_user: <a href='/{custom_url}'>{name}</a>'s Subscriptions
 my: MY
+v2_footer_thanks: Thank You
 Someone_requested_a_new_password_for: "Someone requested a new password for your account on Fellownation. Please visit this url if you want to change your password:"
 tab_inbox_link: Inbox
 recently_added: Recently Added
@@ -78,6 +79,7 @@ signup_birthdate: "Birth Date :"
 apps_website_label: "Application Website:"
 signup_your_public_url: "Your public URL:"
 file_cannot_be_empty: File can't be empty
+v2_error_message_email_alert_invalid_email: Invalid Email
 confirmation: (confirmation)
 Account_owner_details: Account owner details
 location_network: LOCATION
@@ -90,6 +92,7 @@ Show_more_following_link: More Following
 this_is_not_an_email: Doesn't look like a valid email.
 network_select_report_spam: Reports as a spam
 Accepted: "Accepted:"
+v2_error_message_email_alert_full_name: can't be blank
 New_password: "New password:"
 you_have_liked: You have liked this question
 setting_comment_emails: Comment Emails
@@ -179,6 +182,9 @@ others_network_fellows: "{username} FOLLOW <span id='following_size'>{count}</sp
 Search_company: "Search company:"
 outbox: OUTBOX
 Organization: Organization
+v2_footer_press: Press
+v2_footer_blog: Blog
+v2_popup_login_wellcome_back: ""
 static_press_information_link: Press
 CV_Now: Now
 Email_template_notifier_my_follower_follow: do
@@ -211,6 +217,7 @@ sidebar_file: 3 TOOLS FOR BUSINESSES
 comment_deleted: Comment has beed deleted!
 dashboard_like_link: Like
 application_follower_user: <a href='{path}'>{name}</a>'s Applications
+v2_footer_about: About
 Last_name: "Last name:"
 Name: "Name:"
 You_have_received_a_new_message_from_at: You have received a new message from {from} at {at}.
@@ -229,6 +236,7 @@ my_subscribe_link: MY SUBSCRIPTIONS
 static_blog_link: Blog
 photo_successfully_deleted: Photo successfully deleted!
 setting_downloaded_file: Downloaded File
+v2_rss_feed_error_message_name: can't be blank
 Subscription_rate: "Subscription rate:"
 get_started_link: Get started
 you_have_unliked: You have unliked this question
@@ -617,10 +625,12 @@ Invitations_sent: "Invitations sent:"
 you_login_first: You should login first.
 directory_footer_link: Directory
 Step4_title: Upload files
+v2_rss_feed_error_message_url: can't be blank
 We_are_in_open_beta_company: ""
 learn_more_fellow: Learn more about fellownation
 img_alt_go!: Go!
 setting_privacy: Privacy
+v2_footer_open_source: Open Source
 send_private_message_label: Send a private message to
 setting_email_newsletter: Email Newsletter
 Signup_public_url_taken: Username has already been taken.
@@ -659,6 +669,7 @@ that_is_you_label: That's you
 sidebar_favorites: Favorites
 that_is_you: That's you
 Read_all_link: Read all on
+v2_popup_login_login_button: Login
 setting_tab_notification: Notifications
 select_file_4_mb: "Select a file on your computer ( 4MB max ) :"
 Make_my_Profile_Public: Make my Profile Public
@@ -704,6 +715,7 @@ account_note_label: "Note: email will not be publicly displayed"
 Signup: Signup!
 Signup_public_url_restricted: Username has already been taken.
 apps_call_back_url_label: "Callback URL:"
+v2_footer_for_business: For Business
 SideBar_subscription_desc: Submit your RSS feed to our directory to make it available to every fellows on Fellownation. This is the simplest way to spread your news.
 setting_email_newsletter_label: Yes please send me great updates once a while !
 Posted_time_ago_: Posted {time} ago
@@ -799,6 +811,8 @@ setting_language: Language
 setting_full_name: Full Name
 signup_add_yours: Add yours
 your_label: YOUR
+v2_error_message_email_alert_keyword: Keyword have to fill at least 1 keyword
+v2_footer_contact: Contact Us
 Signup_check_password_blank: Password cannot be blank.
 signin_label_password: "Password :"
 label_first_name: First name
@@ -819,8 +833,10 @@ Invite_new_friends: Invite new friends...
 New_password_again: "New password (again):"
 Enter_a_school_name: Enter a school name
 tab_profile_link: Profile
+v2_popup_login_footer1: Oh Snap!
 setting_downloaded_file_label: Email when someone has downloaded my files.
 personal_information: PERSONAL INFORMATION
+v2_popup_login_footer2: " "
 Show_more_messages_link: More Messages
 Action_Relationship_Withdraw_Invitation_To_Company_Short: Withdraw
 Add: Add
@@ -887,22 +903,22 @@ EMAIL_You_can_invite_candidates_to_join: "You can invite candidates to join your
 inbox: INBOX
 go_back: go back
 monthly_active_users: monthly active users
-new_fellow_label: New to Fellownation?
-Place: Place
-days_ago_: "{count} days ago"
 female: Female
-Signup_check_birthdate: Enter a valid birthdate.
-Email: "Email:"
+days_ago_: "{count} days ago"
+Place: Place
+new_fellow_label: New to Fellownation?
 menu_all_employees: All Employees
-popular: Popular
-Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
-view_all_comment: View all {num_total_of_comments} comments
+Email: "Email:"
+Signup_check_birthdate: Enter a valid birthdate.
 signin_lost_password: Lost password
-Sent_an_invitation_to_invitations_sent: You just sent an invitation to {count} of your contacts. Thank you!
-VAT_number: "VAT number:"
-my_apps_label: MY APPLICATIONS
-Signup_check_city_characters: "City is too short: min 2 characters."
+view_all_comment: View all {num_total_of_comments} comments
+Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
+popular: Popular
 Relationship_status: "Relationship status:"
+Signup_check_city_characters: "City is too short: min 2 characters."
+my_apps_label: MY APPLICATIONS
+VAT_number: "VAT number:"
+Sent_an_invitation_to_invitations_sent: You just sent an invitation to {count} of your contacts. Thank you!
 whom_subscription: "{username}'S SUBSCRIPTION"
 To: To
 Action_Relationship_Add_Company: Invite <strong>{company}</strong> to my network
@@ -939,11 +955,13 @@ direct_emails_button: Send invitations
 SideBar_profile: PROFILE
 expert: expert
 Country: "Country:"
+v2_error_message_email_alert_subscssrib_email: Email can't be blank
 upload_files: Upload Files
 lost_password_header: Lost Password
 Upgrade: Upgrade
 no_updates: No Updates.
 sidebar_check_employee: Employee
+<<<<<<< Updated upstream
 v2_popup_login_wellcome_back: Welcome Back!
 v2_popup_login_login_button: Login
 v2_popup_login_footer1: Oh Snap!
@@ -962,3 +980,5 @@ v2_error_message_email_alert_invalid_email: "Invalid Email"
 v2_rss_feed_error_message_name: "can't be blank"
 v2_rss_feed_error_message_url: "can't be blank"
 search_tab_fellow: FELLOWS
+=======
+>>>>>>> Stashed changes
