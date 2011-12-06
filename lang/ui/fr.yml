@@ -1238,34 +1238,27 @@ popular: Populaires
 Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
 signin_lost_password: "Mot de passe oubli\xC3\xA9?"
 Sent_an_invitation_to_invitations_sent: You just sent an invitation to {count} of your contacts. Thank you!
-<<<<<<< Updated upstream
-date_helper_day_names:
-=======
 VAT_number: "VAT number:"
 my_apps_label: MES APPLICATIONS
 Signup_check_city_characters: "Ville est trop court: 2 caract\xC3\xA8res."
 Relationship_status: "Relationship status:"
-date_helper_day_names:
->>>>>>> Stashed changes
-- Dimanche
-- Lundi
-- Mardi
-- Mercredi
-- Jeudi
-- Vendredi
-- Samedi
+date_helper_day_names: "
+  - Dimanche
+  - Lundi
+  - Mardi
+  - Mercredi
+  - Jeudi
+  - Vendredi
+  - Samedi"
 whom_subscription: FLUX RSS DE {username}
-<<<<<<< Updated upstream
 Action_Relationship_Add_Company: Invite <strong>{company}</strong> to my network
 date_helper_time_formats:
-=======
 To: A
 Summary: Summary
 select_all_or_none: "S\xC3\xA9lectionner tout / Aucun\""
 message: message
 setting_tab_account: Compte
 date_helper_time_formats:
->>>>>>> Stashed changes
   default: "%a, %d %b %Y %H:%M:%S %z"
   short: "%d %b, %H:%M"
   long: "%d %B, %Y %H:%M"
