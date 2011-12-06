@@ -961,7 +961,6 @@ lost_password_header: Lost Password
 Upgrade: Upgrade
 no_updates: No Updates.
 sidebar_check_employee: Employee
-<<<<<<< Updated upstream
 v2_popup_login_wellcome_back: Welcome Back!
 v2_popup_login_login_button: Login
 v2_popup_login_footer1: Oh Snap!
@@ -980,5 +979,3 @@ v2_error_message_email_alert_invalid_email: "Invalid Email"
 v2_rss_feed_error_message_name: "can't be blank"
 v2_rss_feed_error_message_url: "can't be blank"
 search_tab_fellow: FELLOWS
-=======
->>>>>>> Stashed changes

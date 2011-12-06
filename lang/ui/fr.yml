@@ -1245,7 +1245,7 @@ VAT_number: "VAT number:"
 my_apps_label: MES APPLICATIONS
 Signup_check_city_characters: "Ville est trop court: 2 caract\xC3\xA8res."
 Relationship_status: "Relationship status:"
-date_helper_day_names: 
+date_helper_day_names:
 >>>>>>> Stashed changes
 - Dimanche
 - Lundi
@@ -1264,7 +1264,7 @@ Summary: Summary
 select_all_or_none: "S\xC3\xA9lectionner tout / Aucun\""
 message: message
 setting_tab_account: Compte
-date_helper_time_formats: 
+date_helper_time_formats:
 >>>>>>> Stashed changes
   default: "%a, %d %b %Y %H:%M:%S %z"
   short: "%d %b, %H:%M"
@@ -1305,7 +1305,6 @@ lost_password_header: "Mot de passe oubli\xC3\xA9?"
 upload_files: Fichiers
 Upgrade: Upgrade
 sidebar_check_employee: "Employ\xC3\xA9"
-<<<<<<< Updated upstream
 v2_popup_login_wellcome_back: Welcome Back!
 v2_popup_login_login_button: Login
 v2_popup_login_footer1: Oh Snap!
@@ -1324,6 +1323,4 @@ v2_error_message_email_alert_invalid_email: "Invalid Email"
 v2_rss_feed_error_message_name: "cant'n vierge"
 v2_rss_feed_error_message_url: "cant'n vierge"
 search_tab_fellow: FELLOWS
-=======
 no_updates: "Aucune derni\xC3\xA8re nouvelle."
->>>>>>> Stashed changes
