@@ -53,7 +53,7 @@ Locality_postal_code: "Localit\xC3\xA9, code postal:"
 signup_confirm_password: "Confirmez :"
 Choose_a_country: Choisissez un pays
 unfollow: "se d\xC3\xA9sabonner"
-v2_helper_tool_tips: Well hello there. That's what a helper is all about
+v2_helper_tool_tips: "S\xC3\xA9lectionnez ce badge si votre objectif sur FellowNation est d'aider des fellows."
 Birthdate: "Date de naissance:"
 message_has_deleted: "Message supprim\xC3\xA9!"
 If_you_did_not_request_to: "Si vous n'avez pas demand\xC3\xA9 de changer votre mot de passe, ignorez simplement ce message."
@@ -63,7 +63,7 @@ my: MES
 v2_footer_thanks: Merci
 Someone_requested_a_new_password_for: "Quelqu'un a demand\xC3\xA9 un nouveau mot de passe pour votre compte sur Fellownation. Visitez cette URL si vous souhaitez modifier votre mot de passe:"
 tab_inbox_link: "Bo\xC3\xAEte de r\xC3\xA9ception"
-v2_prof_tool_tips: Well hello there. That's what Pro is all about
+v2_prof_tool_tips: "S\xC3\xA9lectionnez ce badge si vous n'\xC3\xAAtes plus un \xC3\xA9tudiant. Vous \xC3\xAAtes maintenant un professionnel (un employ\xC3\xA9, un freelance ou \xC3\xA0 la recherche d'un emploi)"
 recently_added: "Ajouts R\xC3\xA9cents"
 active_record_helper_header_message: pluralize{{error_count}, erreur} pendant l'enregistrement de '{failed_object}'
 question_cant_blank: "Question ne peut \xC3\xAAtre vide."
@@ -107,7 +107,7 @@ this_is_not_an_email: "Cela ne ressemble pas \xC3\xA0 un email valide."
 date_helper_x_days: "%d jours"
 network_select_report_spam: Signaler comme spam
 Accepted: "Accepted:"
-v2_error_message_email_alert_full_name: "ne peut pas \xC3\xAAtre vide"
+v2_error_message_email_alert_full_name: "Nom complet ne peut pas \xC3\xAAtre vide"
 New_password: "Nouveau mot de passe:"
 you_have_liked: "Vous avez aim\xC3\xA9 cette question"
 setting_comment_emails: Commentaires
@@ -129,7 +129,7 @@ Please_enter_your_email_address_here: "Entrez votre e-mail ici et nous vous enve
 Network: "R\xC3\xA9seau:"
 Back_to_the_dashboard: Retour au flux de messages
 or: Ou s'inscrire avec
-v2_student_tool_tips: Well hello young padawan. Much to learn you have.
+v2_student_tool_tips: "S\xC3\xA9lectionner ce badge si vous \xC3\xAAtes un \xC3\xA9tudiant."
 account_network_manually_label: "Votre communaut\xC3\xA9 est automatiquement cr\xC3\xA9\xC3\xA9e et disponible dans votre formulaire d'inscription."
 By_searching: "By searching:"
 posted_by: "Publi\xC3\xA9 par"
@@ -261,7 +261,7 @@ my_subscribe_link: MES FLUX
 static_blog_link: Blog
 photo_successfully_deleted: "Photo supprim\xC3\xA9 avec succ\xC3\xA8s!"
 setting_downloaded_file: "Fichier t\xC3\xA9l\xC3\xA9charg\xC3\xA9"
-v2_rss_feed_error_message_name: cant'n vierge
+v2_rss_feed_error_message_name: "Nom ne peut \xC3\xAAtre vide."
 Subscription_rate: "Subscription rate:"
 get_started_link: "D\xC3\xA9marrer"
 you_have_unliked: Vous avez unliked cette question
@@ -316,7 +316,7 @@ Mini_feeds: "Fil d\xE2\x80\x99actualit\xC3\xA9:"
 You_can_do_better: You can do better!
 menu_my_network: "Ma communaut\xC3\xA9"
 Feed_subs_type: "Type :"
-v2_signup_password: Password
+v2_signup_password: "Mot de passe"
 Link: "Link:"
 Company_colon: "Company:"
 Yesterday: Yesterday
@@ -382,7 +382,7 @@ We_could_not_find_any_user: We could not find any user with this email address. 
 Step3_title: "T\xC3\xA9l\xC3\xA9charger votre photo"
 Homepage_latest_public_message: " Messages publics r\xC3\xA9cents"
 v2_home_page_info_login: "Cr\xC3\xA9ez votre compte et rejoindre votre communaut\xC3\xA9"
-v2_home_page_sub_title: "FellowNation est un r\xC3\xA9seau professionnel ouvert et gratuit pour communaut\xC3\xA9s."
+v2_home_page_sub_title: "FellowNation est un r\xC3\xA9seau professionnel ouvert et gratuit pour les communaut\xC3\xA9s."
 Private_title: "<p>Connecte, partage et fais-toi remarquer par des professionnels.</p>\r\n\
   <p>FellowNation est une plate-forme communautaire totalement ouverte et gratuite. C'est un nouveau moyen d'obtenir des news pour votre carri\xC3\xA8re et de discuter entre \xC3\xA9tudiants, chercheurs d\xE2\x80\x99emplois et professionnels.</p>"
 footer_support_link: Support
@@ -506,7 +506,7 @@ Target_company: Target company
 Step14_subtitle: "S\xC3\xA9lectionner les connaissances \xC3\xA0 ajouter comme fellows ci-dessous."
 apps_name_label: "Nom de l\xE2\x80\x99application:"
 Invitation_sentence_3: ""
-v2_add_another_community_palceholder: add another community?
+v2_add_another_community_palceholder: "ajouter une autre communaut\xC3\xA9?"
 Official_website: "Official website:"
 number_helper_unit: !binary |
   4oKs
@@ -523,7 +523,7 @@ signup_or_connect: OU
 Signup_check_firstname: "Pr\xC3\xA9nom est trop court: min 2 caract\xC3\xA8res."
 Show_more_subscriptions_link: Plus Subscriptions
 date_helper_half_a_minute: une demi-minute
-v2_home_page_community_footer: "Votre communaute existe d\xC3\xA9j\xC3\xA0. Rejoignez-la et restez en contact avec vos fellows."
+v2_home_page_community_footer: "Votre communaut\xC3\xA9 existe d\xC3\xA9j\xC3\xA0. Rejoignez-la et restez en contact avec vos fellows."
 step4_upload_btn: "T\xC3\xA9lecharger"
 v2_not_valid_community: This is not a valid community
 try_another_email_account: Essayer un autre compte email
@@ -912,11 +912,11 @@ Note_If_you_change_your_custom: "Note: Si vous changez votre URL personnelle, vo
 setting_wall_emails_label: Email lorsque je recois un message sur mon mur.
 search_you_requested: "  Il n'y a pas de r\xC3\xA9sultats"
 Invitations_sent: "Invitations envoy\xC3\xA9es:"
-v2_community2_palceholder: Community 2
+v2_community2_palceholder: "Communaut\xC3\xA9 2"
 you_login_first: Vous devez vous connecter d'abord.
 directory_footer_link: "R\xC3\xA9pertoire"
 Step4_title: "T\xC3\xA9l\xC3\xA9charger fichiers"
-v2_rss_feed_error_message_url: cant'n vierge
+v2_rss_feed_error_message_url: "URL ne peut \xC3\xAAtre vide"
 error_message_accepted: "doit \xC3\xAAtre accept\xC3\xA9."
 We_are_in_open_beta_company: ""
 date_helper_order: 
@@ -1014,7 +1014,7 @@ Misc: Misc
 tab_dashboard_link: Dashboard
 EMAIL_Complete_my_profile_now: "Complete my profile now : "
 setting_tab_password: Mot de passe
-v2_network_first_placeholder: First pre-defined community
+v2_network_first_placeholder: "Premi\xC3\xA8re communaut\xC3\xA9"
 Sidebar_public_who_are_we: QU'EST-CE FELLOWNATION?
 Show_more_inbox_link: "Plus la bo\xC3\xAEte de r\xC3\xA9ception"
 Feed_subs_desc: "Description :"
@@ -1143,7 +1143,7 @@ setting_language: Langue
 setting_full_name: Nom complet
 signup_add_yours: "Ajouter la v\xC3\xB4tre"
 your_label: VOS
-v2_error_message_email_alert_keyword: "Keyword devez remplir au moins 1 mot-cl\xC3\xA9"
+v2_error_message_email_alert_keyword: "Vous devez remplir au moins 1 mot-cl\xC3\xA9"
 v2_footer_contact: Nous contacter
 Signup_check_password_blank: "Mot de passe ne peut \xC3\xAAtre vide."
 signin_label_password: "Mot de passe :"
