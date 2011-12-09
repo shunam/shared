@@ -46,7 +46,7 @@ Locality_postal_code: "Locality, postal code:"
 signup_confirm_password: "Confirm  :"
 Choose_a_country: Choose a country
 unfollow: unfollow
-v2_helper_tool_tips: Well hello there. That's what a helper is all about
+v2_helper_tool_tips: Select this badge if your goal on FellowNation is to help other fellows.
 Birthdate: "Birthdate:"
 message_has_deleted: Message has deleted !
 If_you_did_not_request_to: If you did not request to change your password, simply ignore this mail.
@@ -56,7 +56,7 @@ my: MY
 v2_footer_thanks: Thank You
 Someone_requested_a_new_password_for: "Someone requested a new password for your account on Fellownation. Please visit this url if you want to change your password:"
 tab_inbox_link: Inbox
-v2_prof_tool_tips: Well hello there. That's what Pro is all about
+v2_prof_tool_tips: Select this badge if your time has a student is over. You are now a professional (an employee, a freelance or just looking for a job)
 recently_added: Recently Added
 question_cant_blank: Question can not blank!
 employee: Professional
@@ -94,7 +94,7 @@ Show_more_following_link: More Following
 this_is_not_an_email: Doesn't look like a valid email.
 network_select_report_spam: Reports as a spam
 Accepted: "Accepted:"
-v2_error_message_email_alert_full_name: can't be blank
+v2_error_message_email_alert_full_name: Full name can't be blank
 New_password: "New password:"
 you_have_liked: You have liked this question
 setting_comment_emails: Comment Emails
@@ -115,7 +115,7 @@ Please_enter_your_email_address_here: "Please enter your email address here and 
 Network: "Network:"
 Back_to_the_dashboard: Back to the dashboard
 or: Or signup with
-v2_student_tool_tips: Well hello young padawan. Much to learn you have.
+v2_student_tool_tips: Select this badge if you are a student.
 account_network_manually_label: Your community is automatically created and available in your registration form.
 By_searching: "By searching:"
 posted_by: posted by
@@ -240,7 +240,7 @@ my_subscribe_link: MY SUBSCRIPTIONS
 static_blog_link: Blog
 photo_successfully_deleted: Photo successfully deleted!
 setting_downloaded_file: Downloaded File
-v2_rss_feed_error_message_name: can't be blank
+v2_rss_feed_error_message_name: Name can't be blank.
 Subscription_rate: "Subscription rate:"
 get_started_link: Get started
 you_have_unliked: You have unliked this question
@@ -633,7 +633,7 @@ v2_community2_palceholder: Community 2
 you_login_first: You should login first.
 directory_footer_link: Directory
 Step4_title: Upload files
-v2_rss_feed_error_message_url: can't be blank
+v2_rss_feed_error_message_url: URL can't be blank
 We_are_in_open_beta_company: ""
 learn_more_fellow: Learn more about fellownation
 img_alt_go!: Go!
@@ -709,7 +709,7 @@ Misc: Misc
 tab_dashboard_link: Dashboard
 EMAIL_Complete_my_profile_now: "Complete my profile now : "
 setting_tab_password: Password
-v2_network_first_placeholder: First pre-defined community
+v2_network_first_placeholder: First community
 Sidebar_public_who_are_we: WHAT IS FELLOWNATION?
 Show_more_inbox_link: More Inbox
 Feed_subs_desc: "Description :"
@@ -821,7 +821,7 @@ setting_language: Language
 setting_full_name: Full Name
 signup_add_yours: Add yours
 your_label: YOUR
-v2_error_message_email_alert_keyword: Keyword have to fill at least 1 keyword
+v2_error_message_email_alert_keyword: You have to fill at least 1 keyword
 v2_footer_contact: Contact Us
 Signup_check_password_blank: Password cannot be blank.
 signin_label_password: "Password :"
