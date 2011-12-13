@@ -1,4 +1,4 @@
---- 
+---
 and: et
 Message: Message
 setting_time_zone: Fuseau horaire
@@ -19,7 +19,7 @@ Signup_check_city_blank: "Ville est trop court (min 2 caract\xC3\xA8res)"
 menu_profile: Profil
 Log_in: Se connecter
 My_public_profile: Mon profil public
-number_helper_order: 
+number_helper_order:
 - number
 - unit
 invite_friends_info: "<b><i>Pas d'inqui\xC3\xA9tude</i></b>: nous ne partageons pas vos contacts ni n'envoyons d'e-mail \xC3\xA0 qui que ce soit sans votre consentement."
@@ -254,7 +254,7 @@ Publish_and_promote_your_profile_on: "Publier et promouvoir votre profil sur le 
 From_to_: "De {from_time} \xC3\xA0 {to_time}."
 Email_template_head_notify_message: |-
   Hello,
-  
+
   Our system alert was triggered because someone posted some text that matched your keyword(s): "{keywords}".
   You can view the hole text at:
 my_subscribe_link: MES FLUX
@@ -416,7 +416,7 @@ setting_bio: BIO
 Description: "Description:"
 Any_questions_before_you_sign_up: Any questions before you sign up?
 Through_your_network: "Through your network:"
-date_helper_abbr_day_names: 
+date_helper_abbr_day_names:
 - Dim
 - Lun
 - Mar
@@ -460,17 +460,17 @@ already_account_label: "Avez-vous d\xC3\xA9j\xC3\xA0 un compte ?"
 Email_address: "Adresse email:"
 Email_template_message_alert: |-
   Hello, {name}.
-  
+
   This is just sample email, here are your keywords :
-  
+
   - {key1}
   - {key2}
   - {key3}
-  
+
   Best Regard,
-  
+
   Fellownation Team
-  
+
   If you wish to no longer receive email alerts click following link http://{host}/subscribe_messages/delete-alert/{subscribe_code}
 signup_link_account: Lier les comptes
 characters_left: "caract\xC3\xA8res restants"
@@ -605,7 +605,7 @@ business_join_fellownation: S'inscrire
 search_subscribe_label: Rechercher flux
 setting_location: Localisation
 static_news_link: News
-countries_list: 
+countries_list:
 - Afghanistan
 - Albanie
 - "Alg\xC3\xA9rie"
@@ -862,7 +862,7 @@ Email_template_activation_account_subject: Confirmer votre compte, {first_name} 
 Step13_title: Invitez des connaissances sur Fellownation
 static_check_the_faq_link: Visiter les FAQ
 account_network_type_label: "Type de communaut\xC3\xA9:"
-date_helper_date_formats: 
+date_helper_date_formats:
   default: "%Y-%m-%d"
   short: "%e %b"
   long: "%e %B, %Y"
@@ -919,7 +919,7 @@ Step4_title: "T\xC3\xA9l\xC3\xA9charger fichiers"
 v2_rss_feed_error_message_url: "URL ne peut \xC3\xAAtre vide"
 error_message_accepted: "doit \xC3\xAAtre accept\xC3\xA9."
 We_are_in_open_beta_company: ""
-date_helper_order: 
+date_helper_order:
 - :day
 - :month
 - :year
@@ -935,8 +935,8 @@ recommend_invite_fellow: INVITEZ VOS PROCHES
 directory_page_title: "Fellownation R\xC3\xA9pertoire"
 Show_more_questions: Questions plus anciennes
 subscribe_search_btn: rechercher!
-date_helper_abbr_month_names: 
-- - 
+date_helper_abbr_month_names:
+- -
 - Jan
 - Fev
 - Mar
@@ -1110,8 +1110,8 @@ Email_template_activated_account: "Bonjour fellow!\r\n\
   L'\xC3\xA9quipe Fellownation."
 My_rewards: My rewards
 EMAIL_Log_in_now_and_expand_your_network: Log in now ({url}) and expand your network!
-date_helper_month_names: 
-- - 
+date_helper_month_names:
+- -
 - Janvier
 - "F\xC3\xA9vrier"
 - Mars
@@ -1259,7 +1259,7 @@ setting_tab_account: Compte
 message: message
 select_all_or_none: "S\xC3\xA9lectionner tout / Aucun\""
 Summary: Summary
-date_helper_time_formats: 
+date_helper_time_formats:
   default: "%a, %d %b %Y %H:%M:%S %z"
   short: "%d %b, %H:%M"
   long: "%d %B, %Y %H:%M"
@@ -1300,3 +1300,5 @@ lost_password_header: "Mot de passe oubli\xC3\xA9?"
 Upgrade: Upgrade
 no_updates: "Aucune derni\xC3\xA8re nouvelle."
 sidebar_check_employee: "Employ\xC3\xA9"
+community_profile_public: "Profile Public"
+community_administrator: "Administrator"
