@@ -1302,3 +1302,14 @@ no_updates: "Aucune derni\xC3\xA8re nouvelle."
 sidebar_check_employee: "Employ\xC3\xA9"
 community_profile_public: "Profile Public"
 community_administrator: "Administrator"
+mail_notifier_ask_for_join_subject: "Hello"
+link_stop_notifi: Stop this notification
+message_content_ask_for_join: |-
+  Hello
+  
+  Join with us
+  click following link <a href='{host}/signup&p=2&email={email}&ni={network_id}'>Signup</a>
+  
+  
+  
+  <a href='{host}/users/stop_reminder?code={confirmcode}'>don't send me reminder</a>
