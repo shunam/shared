@@ -973,7 +973,7 @@ no_updates: No Updates.
 sidebar_check_employee: Employee
 community_profile_public: Profile Public
 community_administrator: Administrator
-mail_notifier_ask_for_join_subject: "Hello"
+email_notifier_ask_for_join_subject: "Hello"
 link_stop_notifi: Stop this notification
 message_content_ask_for_join: "
   Hello
