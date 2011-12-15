@@ -976,11 +976,13 @@ community_administrator: Administrator
 email_notifier_ask_for_join_subject: "Hello"
 link_stop_notifi: Stop this notification
 message_content_ask_for_join: "
-  Hello
+  
+  Hi Fellow
+  
   
   Join with us
+  
   click following link <a href='{host}/signup?p=2&email={email}&ni={network_id}'>Signup</a>
-  
-  
-    <a href='{host}/users/stop_reminder?code={confirmcode}'>don't send me reminder</a>"
+  <a href='{host}/users/stop_reminder?code={confirmcode}'>don't send me reminder</a>
+  "
   
