@@ -1314,3 +1314,6 @@ message_content_ask_for_join: "
   click following link <a href='{host}/signup?p=2&email={email}&ni={network_id}'>Signup</a><br/><br/>
   <a href='{host}/users/stop_reminder?code={confirmcode}'>don't send me reminder</a>
   " 
+title_tab_member: "Member"
+title_tab_community: "Community"
+connect_with_facebook_information: "If so, you can link your account on Linkedin to your Fellownation account:"
