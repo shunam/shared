@@ -988,4 +988,20 @@ message_content_ask_for_join: "
 title_tab_member: "Member"
 title_tab_community: "Community"
 connect_with_linkedin_information: "If so, you can link your account on LinkedIn to your Fellownation account:"
+message_unsubscribe_newsletter: "
+  
+  Hi Fellow
+  <br/><br/>
+  
+  For remove from newsletter
+  <br/>
+  click following link <a href='{host}/newsletter/remove/?code={confirmcode}'>Complete Remove</a>
+  "
+message_complete_unsubscirbe: "Unsubscribe completed -- translate string"  
+message_check_email_unsubscribe: "Email Send-- translate string"
+unsubscribe_form_title: "Remove from newsletter Title-- translate string"
+unsubscribe_email_not_exits: "Email Not Exists-- translate string"
+unsubscribe_required_msg: "This is a required field-- translate string"
+  
+
   
