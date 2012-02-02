@@ -1006,6 +1006,16 @@ embed_title: "Tools"
 embed_follow_btn: "Follow Button"
 embed_share_btn: "Share Button"
 embed_label_user_or_community: "User/Comunity Name"
+mention_email_subject: "{mentioner} mention you"
+mention_email_content: "
   
+  Hi {for_who}
+  <br/><br/>
+  
+  {from} mention you
+  <br/>
+  click following link <a href='{host}/{user_name}/message/{url}'>Here</a>
+  "
+top_bar_add_community_link_2012: "Add a Community"
 
   
