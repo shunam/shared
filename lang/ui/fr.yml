@@ -1345,3 +1345,5 @@ mention_email_content: "
   click following link <a href='{host}/{user_name}/message/{url}'>Here</a>
   "
 top_bar_add_community_link_2012: "Add a Community"
+follower_title:  "Followers"
+following_title: "Following"
