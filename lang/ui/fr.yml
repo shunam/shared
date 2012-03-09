@@ -1243,7 +1243,7 @@ new_fellow_label: Nouveau sur Fellownation?
 menu_all_employees: "Tous les employ\xC3\xA9s"
 Email: "Email:"
 Signup_check_birthdate: Entrer une date d'anniversaire valide.
-signin_lost_password: "Mot de passe oubli\xC3\xA9?"
+signin_lost_password: "Recover your forgotten password?"
 Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
 popular: Populaires
 view_all_comment: Afficher tous les {num_total_of_comments} commentaires

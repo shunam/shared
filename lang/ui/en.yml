@@ -102,7 +102,7 @@ submit_alert: Submit Alert
 network_select_private_message: Send a private message
 static_privacy_link: Privacy
 SideBar_subscription: Subscriptions
-signin_remember_me: Remember me on this computer
+signin_remember_me: Remember me
 General_error: General error
 menu_all_student: All Students
 Success_notice_setting: Setting successfully saved  !
@@ -503,7 +503,7 @@ University_school: University/School
 you_have_already_answer: You have already answered the question
 news_limit_access: Until you confirm, you will have limited access to certain features on the website.
 no_contact_information: No contact information
-lost_password_email: "Your E-mail :"
+lost_password_email: "Your email"
 signin_label_login: "Email address :"
 question_answered_label: answered
 news_confirm_label: "Please confirm your account \xE2\x80\x94 a confirmation message was sent to"
@@ -824,7 +824,7 @@ your_label: YOUR
 v2_error_message_email_alert_keyword: You have to fill at least 1 keyword
 v2_footer_contact: Contact Us
 Signup_check_password_blank: Password cannot be blank.
-signin_label_password: "Password :"
+signin_label_password: "Password"
 label_first_name: First name
 please_try: Please try it later.
 apps_logo_label: "Logo:"
@@ -920,7 +920,7 @@ new_fellow_label: New to Fellownation?
 menu_all_employees: All Employees
 Email: "Email:"
 Signup_check_birthdate: Enter a valid birthdate.
-signin_lost_password: Lost password
+signin_lost_password: Recover your forgotten password?
 view_all_comment: View all {num_total_of_comments} comments
 Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
 popular: Popular
