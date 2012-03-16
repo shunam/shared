@@ -1002,3 +1002,40 @@ SideBar_account: ACCOUNT
 University_school: University/School
 Show_more_favorites_link: More Favorites
 You_must_agree_to_the_Terms: You must agree to the Terms of Service
+
+
+why_fellownation_char: "Why FellowNation?"
+create_account_char: "Create an Account in 5 seconds With:"
+next_step_link: "Next step >"
+fellow_updates_link: "Fellow Updates"
+secure_information_text: "We use secure authentication, so we don't access your password at anytime."
+example_friend_mail: "ronald@mcdonalds.com, ralph@lauren.com,..."
+checkout_fellownation_text: "Yo B****! Check out Fellownation!"
+info_char: "Info:"
+network_admin_text: "Navigate thru the tabs to change your community info and activate/deactivate the services you want to manage your community. All the administrators have access to it."
+community_cover_text: "Community Cover"
+upload_replace_logo_text: "Upload and replace your logo"
+max_logo_size_text: "Max weight 700k JPG, GIF, PNG"
+cancel_button: "Cancel"
+save_pictures_button: "Save Pictures"
+myprofile_cutom_url_text: "myprofile"
+
+first_name_text: "First Name"
+last_name_text: "Last Name"
+email_text: "Email"
+category_text: "Category"
+communities_text: "Communities"
+custom_fellow_url_text: "Your custom fellownation URL"
+register_button: "Register"
+
+invite_fellow_text: "Invite your Fellow"
+invite_friends_text: "Invite your friends from another account"
+invite_by_email_text: "Or send your friends an invite to Fellownation by email."
+
+upload_delete_file_text: "Upload, delete or replace files"
+left_text: "left"
+add_description_text: "Add a Description"
+
+security_links: "Security"
+profile_picture_tab: "Profile Picture"
+my_profile_picture: "My Profile Picture"
