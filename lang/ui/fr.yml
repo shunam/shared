@@ -185,6 +185,7 @@ resources_path_new: nouveau
 public_profile_button_signup: S'inscrire
 signup_about_you: 1. A propos de vous
 static_contact_us_link: Contactez nous
+fellownation_notes: Fellownation lets you connect with your Communities, share and exchange professional information or advice.
 Total_results_found_showing_count: "{total} results found. Showing first {count} results."
 Company: Entreprise
 subscribe_directory_link: REPERTOIRE DE FLUX
@@ -1168,6 +1169,7 @@ Enter_a_school_name: "Entre le nom d'une \xC3\xA9cole"
 tab_profile_link: Profil
 v2_popup_login_footer1: Oh zut!
 setting_downloaded_file_label: "Email quand mes fichiers sont t\xC3\xA9l\xC3\xA9charg\xC3\xA9s."
+connect_with: Sign in to Fellownation to connect with
 personal_information: INFORMATION PERSONNELLE
 v2_popup_login_footer2: ""
 Show_more_messages_link: Messages plus anciens

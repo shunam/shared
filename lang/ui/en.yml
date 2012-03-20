@@ -172,6 +172,7 @@ Email_template_notifier_post_a_wall_message_subject: "{first_name} {last_name} (
 public_profile_button_signup: Sign Up
 signup_about_you: 1. About you
 static_contact_us_link: Contact us
+fellownation_notes: Fellownation lets you connect with your Communities, share and exchange professional information or advice.
 Total_results_found_showing_count: "{total} results found. Showing first {count} results."
 Company: Company
 subscribe_directory_link: SUBSCRIPTIONS DIRECTORY
@@ -846,6 +847,7 @@ Enter_a_school_name: Enter a school name
 tab_profile_link: Profile
 v2_popup_login_footer1: Oh snap!
 setting_downloaded_file_label: Email when someone has downloaded my files.
+connect_with: Sign in to Fellownation to connect with
 personal_information: PERSONAL INFORMATION
 v2_popup_login_footer2: ""
 Show_more_messages_link: More Messages
