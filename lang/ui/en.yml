@@ -928,6 +928,8 @@ Relationship_status: "Relationship status:"
 Signup_check_city_characters: "City is too short: min 2 characters."
 my_apps_label: MY APPLICATIONS
 VAT_number: "VAT number:"
+email_notifier_ask_for_join_subject: Hello
+top_bar_add_community_link_2012: Add a Community
 Sent_an_invitation_to_invitations_sent: You just sent an invitation to {count} of your contacts. Thank you!
 whom_subscription: "{username}'S SUBSCRIPTION"
 To: To
