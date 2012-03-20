@@ -50,6 +50,7 @@ v2_helper_tool_tips: Well hello there. That's what a helper is all about
 Birthdate: "Birthdate:"
 message_has_deleted: Message has deleted !
 If_you_did_not_request_to: If you did not request to change your password, simply ignore this mail.
+following_title: Following
 EMAIL_View_this_notification_on_your_dashboard: "View this notification on your dashboard:"
 subscription_follower_user: <a href='/{custom_url}'>{name}</a>'s Subscriptions
 my: MY
@@ -946,6 +947,7 @@ application_not_found: The application you requested was not found
 subscribe_label: SUBSCRIPTION
 subscribe_my_label: MY
 logged_in_as: Logged in as {name}.
+follower_title: Followers
 setting_make_my_contact_informations_private: Make my contact information private
 average: average
 Perfect!: Perfect!

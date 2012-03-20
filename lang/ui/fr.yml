@@ -430,6 +430,7 @@ format_is_not_valid: format n'est pas valide.
 HTTP_error: HTTP error
 account_find_email: "Permettre de me trouver gr\xC3\xA2ce \xC3\xA0 mon e-mail"
 There_was_in_error_in_your: There was in error in your form, please try again.
+following_title: Following
 State_Province_Region_country: "State, country:"
 question_pool_option: "Ajouter des choix de r\xC3\xA9ponse (optionnel)"
 signup_your_password: "Votre mot de passe :"
@@ -1271,6 +1272,7 @@ Total_results_found: "{count} results found."
 Save_Photo: "<font size=\"3\"><strong>1. Cliquez sur le photo pour \xC3\xA9tendre le rectange.<br/>2. Pour effectuer des r\xC3\xA9glages, faites glisser et redimensionner le rectangle. <br/>3. Quand votre photo vous satisfait, cliquez sur \"Sauver Photo\".</strong></font>"
 setting_you_are: "Vous \xC3\xA9tes :"
 logged_in_as: Logged in as {name}.
+follower_title: Followers
 subscribe_my_label: MES
 application_not_found: " L'application que vous recherchez n'a pas \xC3\xA9t\xC3\xA9 trouv\xC3\xA9e"
 subscribe_label: FLUX
