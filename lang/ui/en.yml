@@ -1051,3 +1051,17 @@ apps_logo_label: "Logo:"
 University_school: University/School
 Show_more_favorites_link: More Favorites
 You_must_agree_to_the_Terms: You must agree to the Terms of Service
+
+community_description: "Short community description:"
+select_community: "Select the communities you want to belong to"
+five_community: "(up to 5 communities)"
+profile_tab: "Profile"
+files_tab: "Files"
+communities_tab: "COMMUNITIES"
+join_button: "Join for free now!"
+fellownation_dashboard_text: "FellowNation is a free and open professional network for communities. Do you want to join the members of the IHECS Community, ask your questions or share advice? "
+connect_link: "Do you want to connect with them?"
+become_member_button: "Become a member Now"
+fellownation_short_text: "FellowNation is a free and open professional network for communities."
+is_on_fellownation: "is on FellowNation"
+header_signup: "Connect, socialize and get noticed by professionals"
