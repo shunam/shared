@@ -1064,3 +1064,19 @@ SideBar_account: ACCOUNT
 University_school: University/School
 You_must_agree_to_the_Terms: You must agree to the Terms of Service
 Show_more_favorites_link: More Favorites
+
+activity: Activity
+all: All
+join_community: Join this Community
+follow: Follow
+
+view_all: View all
+members: Members
+choose_category: "You must choose a category. Not sure? You can always change it later"
+required_field: "This is a required field"
+choose_url: "You must choose a custom URL"
+or_connect_with: "Or connect with"
+find_your_fellow: "Find your fellows"
+fellow_text: "Not finding who you're looking for? Connect with your other services to find your friends, classmates, alumni, family members and many more!"
+directory_tab: "Directory"
+find_fellow_text: "Find Fellows"
