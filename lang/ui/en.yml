@@ -1096,3 +1096,11 @@ info_community: "Info about the community :"
 
 write_message: "Write a new message"
 to: "To:"
+
+message_content_ask_for_join: |-
+      Hi {recipients},
+
+      Join with us
+
+      click following link <a href='http://{host}/signup'>Signup</a>
+      <a href='http://{host}/users/stop_reminder'>don't send me reminder</a>
