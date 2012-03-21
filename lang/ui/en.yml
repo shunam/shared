@@ -125,7 +125,7 @@ Send_a_new_message: Send a new message
 Association: Association
 application_not_found: The application you requested was not found
 Step4_subtitle: Complete your profile by adding some files (max. 5 files) that you would like to share with the community.<br/> Browse, then click "Save & Continue."
-activity: Activity
+activity: Activities
 Show_more_subscriptions_link: More Subscriptions
 helper: Mentor
 signin_remember_me: Remember me on this computer
@@ -890,177 +890,177 @@ Step14_title: pluralize{{count_invite}, contact, contacts} invited you to join F
 EMAIL_To_log_in_at_a_later: To log in at a later date, please enter your e-mail address "{email}" and the password which you used when you signed up.
 Last_name: "Last name:"
 Show_more_inbox_link: More Inbox
-you_have_unfavor: You have unfavor this question!
-subscribe_popular_label: Popular
-By_searching: "By searching:"
-already_account_label: Already have an account ?
-Note_If_you_change_your_custom: "Note: If you change your custom URL, your previous custom URL will no longer be valid."
 question_fellow_header: FELLOWS' QUESTIONS
-follow_fellows: Follow Fellows
-SideBar_notice: NOTIFICATIONS
+Note_If_you_change_your_custom: "Note: If you change your custom URL, your previous custom URL will no longer be valid."
+already_account_label: Already have an account ?
+By_searching: "By searching:"
+subscribe_popular_label: Popular
+you_have_unfavor: You have unfavor this question!
+setting_comment_emails_label: Email when someone has commented my message.
 Thanks_for_signing_up_Please_check: |-
   Congratulation! We have just sent you an email with a link. Click on the link in this e-mail to confirm your e-mail address and activate your account.<br/>
   <strong><font color="#FF0000">If you can't find this e-mail, check your spam and junk mail folders!</font></strong>
-setting_comment_emails_label: Email when someone has commented my message.
+SideBar_notice: NOTIFICATIONS
+follow_fellows: Follow Fellows
 With_search_agent_results: "With search agent results:"
 Country: "Country:"
-Reply_to_: Reply to {message}
-Step11_title: Are you fellows already on Fellownation?
-New_email_address: "New email address:"
 search_subscribe_label: Search subscriptions
-Email_template_notifier_download_file_subject: "Someone has downloaded your \xE2\x80\x98{file_name}\xE2\x80\x99 file on your profile"
-apps_website_label: "Application Website:"
+New_email_address: "New email address:"
+Step11_title: Are you fellows already on Fellownation?
+Reply_to_: Reply to {message}
 If_you_did_not_request_to: If you did not request to change your password, simply ignore this mail.
-subscribe_my_label: MY
-following_title: Following
-There_was_in_error_in_your: There was in error in your form, please try again.
-back_link: back
-setting_make_my_walls_private: Make my walls private
+apps_website_label: "Application Website:"
+Email_template_notifier_download_file_subject: "Someone has downloaded your \xE2\x80\x98{file_name}\xE2\x80\x99 file on your profile"
 Enter_a_keyword_location_or_company: Enter a keyword, location... (e.g. Brussels internship)
-Summary: Summary
-Create_a_Profile: Create a Profile
+setting_make_my_walls_private: Make my walls private
+back_link: back
+There_was_in_error_in_your: There was in error in your form, please try again.
+following_title: Following
+subscribe_my_label: MY
 setting_make_my_files_private: Make my files private
+Create_a_Profile: Create a Profile
+Summary: Summary
 For_instance: "For instance:"
-Signup_public_url_taken: Username has already been taken.
 Question_answer: answer field
-Relationship_status: "Relationship status:"
-menu_questions: Questions
+Signup_public_url_taken: Username has already been taken.
 join_button: Join for free now!
-EMAIL_You_can_invite_candidates_to_join: "You can invite candidates to join your network by clicking on \"Add to my network\xE2\x80\x9D as a contact. By doing so, you will receive notifications each time they will update their profiles and they will be informed for any change happening on your profile and offers. Finally, you can send offers to your network or to search results."
-user_mine_setting: "\xE2\x80\x99s settings"
-Feed_subs_url: "URL :"
+menu_questions: Questions
+Relationship_status: "Relationship status:"
 Contact_information: Contact information
-Change?: Change?
-v2_helper_tool_tips: Well hello there. That's what a helper is all about
-step1: Step 1
-Bad_user_name_or_password: Bad user name or password
-City: "City:"
+Feed_subs_url: "URL :"
+user_mine_setting: "\xE2\x80\x99s settings"
+EMAIL_You_can_invite_candidates_to_join: "You can invite candidates to join your network by clicking on \"Add to my network\xE2\x80\x9D as a contact. By doing so, you will receive notifications each time they will update their profiles and they will be informed for any change happening on your profile and offers. Finally, you can send offers to your network or to search results."
 profile_tab: Profile
-community_1_placeholder: Community 1
-Add_: Add {what}
+City: "City:"
+Bad_user_name_or_password: Bad user name or password
+step1: Step 1
+v2_helper_tool_tips: Well hello there. That's what a helper is all about
+Change?: Change?
 top_menu_find_link: Find contacts
+Add_: Add {what}
+community_1_placeholder: Community 1
 Unlimited: Unlimited
-go_back_button: < Go back
 label_company: Company
-Feed_subs_industry: "Feed industry :"
-Signup_check_lastname: "Last name is too short: min 2 characters."
+go_back_button: < Go back
 fellownation_dashboard_text: "FellowNation is a free and open professional network for communities. Do you want to join the members of your community, ask your questions or share advice? "
-dashboard_comment_link: Comment
-subscribe_to_rss_feed: Subscribe to RSS feeds to display hot news on your timeline
+Signup_check_lastname: "Last name is too short: min 2 characters."
+Feed_subs_industry: "Feed industry :"
 Target_company: Target company
-Step4_title: Upload files
-accept: (accept)
-account_create_network_btn: Create my community
+subscribe_to_rss_feed: Subscribe to RSS feeds to display hot news on your timeline
+dashboard_comment_link: Comment
+sidebar_favorites: Favorites
 connect_with_google_information: |-
   If yes, you can link your Google account to FellowNation by entering your email address and password.
   
   If not, fill the form at the bottom.
-sidebar_favorites: Favorites
-Email_template_notifier_post_a_wall_message_subject: "{first_name} {last_name} ({user_name}) wrote a message on your wall"
-invite_your_friend_via_emails: FIND & INVITE YOUR FELLOWS
+account_create_network_btn: Create my community
+accept: (accept)
+Step4_title: Upload files
 Homepage_professional_desc: |-
   <p><strong>Quickly connect</strong> and <strong>share</strong> information. <strong>Attract talent</strong>, gather <strong>market intelligence</strong> and insights.</p>
   <p><strong>Create and publish your professional profile</strong>, <strong>build relationships</strong> with people who care about your company.</p>
   <p><strong>It's easy, free and powerful</strong>.</p>
-no_updates: No Updates.
-Homepage_student: For Students
-Make_my_Profile_Public: Make my Profile Public
-label_last_name: Last name
+invite_your_friend_via_emails: FIND & INVITE YOUR FELLOWS
+Email_template_notifier_post_a_wall_message_subject: "{first_name} {last_name} ({user_name}) wrote a message on your wall"
 Edit_Photo: Edit Photo
+label_last_name: Last name
+Make_my_Profile_Public: Make my Profile Public
+Homepage_student: For Students
+no_updates: No Updates.
 v2_footer_contact: Contact Us
-Notification_invite_friends: Invitations sent
-apps_contact_email_label: "Contact Email:"
-Signup_check_city_blank: "City is too short: min 2 characters."
-sidebar_check_helper: Mentor
-General_error: General error
 Message: Message
+General_error: General error
+sidebar_check_helper: Mentor
+Signup_check_city_blank: "City is too short: min 2 characters."
+apps_contact_email_label: "Contact Email:"
+Notification_invite_friends: Invitations sent
 signin_label_login: "Email address :"
-account_note_label: "Note: email will not be publicly displayed"
 Success_notice_setting: Setting successfully saved  !
-Save_Photo: <font size="3"><strong>1. Click on your photo and expand the square.<br/>2. To make adjustments, you can drag around and resize the square bellow.<br/>3. When you are happy with your photo click the "Save Photo" button.</strong></font>
-Place: Place
-posted_by: posted by
+account_note_label: "Note: email will not be publicly displayed"
 votes: votes
-v2_not_valid_community: This is not a valid community
-No_: "No"
-menu_application: Applications
-EMAIL_Complete_my_profile_now: "Complete my profile now : "
-signup_for_fellow: Signup with the form below
+posted_by: posted by
+Place: Place
+Save_Photo: <font size="3"><strong>1. Click on your photo and expand the square.<br/>2. To make adjustments, you can drag around and resize the square bellow.<br/>3. When you are happy with your photo click the "Save Photo" button.</strong></font>
 Website: "Website:"
+signup_for_fellow: Signup with the form below
+EMAIL_Complete_my_profile_now: "Complete my profile now : "
+menu_application: Applications
+No_: "No"
+v2_not_valid_community: This is not a valid community
+Description: "Description:"
+click_here_new_subscriptions: ( <a href='{path}'>click here</a> to subscribe your feed )
+deactive_account_link: deactivate my account
+Residence: "Residence:"
 Email_template_notifier_post_a_wall_message: |-
   {first_name} wrote: "{message_content}" To see the comment thread, follow the link below: {message_link}
   The Fellownation Team
-Residence: "Residence:"
-deactive_account_link: deactivate my account
-click_here_new_subscriptions: ( <a href='{path}'>click here</a> to subscribe your feed )
-Description: "Description:"
-Profile_succesfully_updated: Profile succesfully updated.
-some_wrong: Something went wrong. Please try again later !
-signup_your_password: "Your Password :"
-CV_Now: Now
 Homepage_professional: For Professionals
-get_started_link: Get started
-We_may_but_have_no_obligation: "We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party\xE2\x80\x99s intellectual property or these Terms of Service."
-OK_now_check_the_contacts_you: OK, now check the contacts you want to invite.
-follower_apps_label: FOLLOWERS' APPLICATIONS
+CV_Now: Now
+signup_your_password: "Your Password :"
+some_wrong: Something went wrong. Please try again later !
+Profile_succesfully_updated: Profile succesfully updated.
 files_tab: Files
-community_cover_text: Community Cover
-ask_question_btn: Ask a question
+follower_apps_label: FOLLOWERS' APPLICATIONS
+OK_now_check_the_contacts_you: OK, now check the contacts you want to invite.
+We_may_but_have_no_obligation: "We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party\xE2\x80\x99s intellectual property or these Terms of Service."
+get_started_link: Get started
+Send_invitation: Send invitation
+setting_email: Email
 Homepage_academic_desc: |-
   <p><strong>Quickly connect</strong> and <strong>share</strong> information. <strong>Help people</strong>, gather <strong>market intelligence</strong> and insights.</p>
   <p><strong>Create and publish your professional profile</strong>, <strong>build relationships</strong> with people you care about.</p>
   <p><strong>It's easy, free and powerful</strong>.</p>
-setting_email: Email
-Send_invitation: Send invitation
-you_login_first: You should login first.
+ask_question_btn: Ask a question
+community_cover_text: Community Cover
 signup_already_account: Do you already have an existing account on Fellownation ?
-step4_finish_btn: Finish
+you_login_first: You should login first.
 invite_friend_sidebar_non_rp_description: Not finding who you're looking for? Search the services you use to find your friends, classmates, alumni, family members and many more!
-all: All
-signup_email: "Your email address :"
+step4_finish_btn: Finish
 public_profile_button_signup: Sign Up
+signup_email: "Your email address :"
+all: All
 Email_template_notifier_post_a_comment_subject: "{from_first_name} {from_last_name} ({from_user_name}) commented on {first_name} {last_name} ({user_name})\xE2\x80\x99s public message"
 All_fields_marked_with_span_class: "All fields marked with \xE2\x80\x9C<span class=\"req-sign\">*</span>\xE2\x80\x9D are required"
-setting_email_newsletter_label: Yes please send me great updates once a while !
-Sidebar_public_who_are_we_desc: The perfect tool as a professional complement to Facebook. Connect and share with students and employees. Free, easy and powerful. Get valuable advices from people ready to help you in your career.
 public_profile_not_follow: You are not following <b> {username} </b>
-menu_network: Community
-right_bar_total_followed: Followed by {following_link}
-Send_this_to_selected_people: "Send this to selected people:"
-setting_new_follower_emails_label: Email when someone starts following me.
-v2_popup_login_login_button: Login
-Password_lost?: Password lost?
+Sidebar_public_who_are_we_desc: The perfect tool as a professional complement to Facebook. Connect and share with students and employees. Free, easy and powerful. Get valuable advices from people ready to help you in your career.
+setting_email_newsletter_label: Yes please send me great updates once a while !
 is_not_RSS_feed: is not a RSS feed!
-Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
-user_name_please_use: User name only use letters, numbers and no spaces
-month: month
-inbox_link: INBOX
-Upload: Upload
+Password_lost?: Password lost?
+v2_popup_login_login_button: Login
+setting_new_follower_emails_label: Email when someone starts following me.
+Send_this_to_selected_people: "Send this to selected people:"
+right_bar_total_followed: Followed by {following_link}
+menu_network: Community
 Invite_new_friends: Invite new friends...
-employee: Professional
+Upload: Upload
+inbox_link: INBOX
+month: month
+user_name_please_use: User name only use letters, numbers and no spaces
+Search_results_for_query_: pluralize{{count}, result, results} for query "{query}"
 Yes_: "Yes"
+employee: Professional
 question_post_btn: Post
-feeds: Feeds
-Organization: Organization
-applications_label: APPLICATIONS
 Your_email?: Your email?
-EMAIL_Date_and_time: "Date and time:  "
-Full_name: "Full name:"
-State_Province_Region: "State:"
-candidates_: pluralize{{count}, candidate, candidates}
+applications_label: APPLICATIONS
+Organization: Organization
+feeds: Feeds
 setting_language: Language
-account_menu_bar: Account
-apps_support_url_label: "Support URL:"
-Send: Send
-Search_results_for: Search results for
+candidates_: pluralize{{count}, candidate, candidates}
+State_Province_Region: "State:"
+Full_name: "Full name:"
+EMAIL_Date_and_time: "Date and time:  "
 invite_friends_button_submit: Invite!
-invite_by_email_text: Or send your friends an invite to Fellownation by email.
-setting_downloaded_file_label: Email when someone has downloaded my files.
-SideBar_subs_tips: Tips
+Search_results_for: Search results for
+Send: Send
+apps_support_url_label: "Support URL:"
+account_menu_bar: Account
 connect_with: Sign in to Fellownation to connect with
-SideBar_account: ACCOUNT
-setting_tab_notification: Notifications
+SideBar_subs_tips: Tips
+setting_downloaded_file_label: Email when someone has downloaded my files.
+invite_by_email_text: Or send your friends an invite to Fellownation by email.
 apps_logo_label: "Logo:"
+setting_tab_notification: Notifications
+SideBar_account: ACCOUNT
 University_school: University/School
-Show_more_favorites_link: More Favorites
 You_must_agree_to_the_Terms: You must agree to the Terms of Service
+Show_more_favorites_link: More Favorites
