@@ -90,9 +90,9 @@ message_has_sent: Message sent !
 Signup_check_network_characters: "Network is too short: min 2 characters."
 sent_private_message_link: SENT PRIVATE MESSAGES
 Signup_check_firstname: "First name is too short: min 2 characters."
-v2_home_page_sub_title: Join your professional communities.
+v2_home_page_sub_title: Make a change. Join your professional communities.
 Please_fill_out_at_least_the: Please, fill out at least the <strong>red fields</strong> first in order to continue.
-why_fellownation_char: Why FellowNation?
+why_fellownation_char: Or signup with
 Show_more_link_question: Show more questions
 menu_all_employees: All Employees
 signup_gender: "Gender :"
@@ -534,7 +534,7 @@ sidebar_tips: Tips
 Locality_postal_code: "Locality, postal code:"
 static_careers_and_jobs_link: Careers &amp; jobs
 Mobile: "Mobile:"
-header_signup: Connect, socialize and get noticed by professionals
+header_signup: Thanks for following your values and beliefs and taking part in the movement.
 Street_and_number: "Street and number:"
 community_description: "Short community description:"
 account_network_name_label: "Community name:"
@@ -743,7 +743,7 @@ Step12_count_contact: You have pluralize{{count_contact}, contact, contacts} on 
 Terms: Terms & Privacy
 days_ago_: "{count} days ago"
 you_have_favor: You have favor this question!
-a_file_tab: A File
+a_file_tab: file
 log_out_link: Log out
 subscribe_header_form: SUBMIT A SUBSCRIPTION
 menu_fellows: Fellows
