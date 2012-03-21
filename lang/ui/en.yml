@@ -1080,3 +1080,19 @@ find_your_fellow: "Find your fellows"
 fellow_text: "Not finding who you're looking for? Connect with your other services to find your friends, classmates, alumni, family members and many more!"
 directory_tab: "Directory"
 find_fellow_text: "Find Fellows"
+community_logo: "Community Logo"
+request: Requests
+view_link: "View"
+
+profile: "Profile"
+logo: "Logo"
+public_cover: "Public cover"
+messages: "Messages"
+admin_text: "Administrators"
+
+public_profile_url: "Public profile URL"
+your_url: "Your URL"
+info_community: "Info about the community :"
+
+write_message: "Write a new message"
+to: "To:"
