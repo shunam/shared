@@ -379,6 +379,10 @@ connect_with_google_information: |-
   If yes, you can link your Google account to FellowNation by entering your email address and password.
   
   If not, fill the form at the bottom.
+connect_with_linkedin_information: |-
+  If yes, you can link your Linkedin account to FellowNation by entering your email address and password.
+
+  If not, fill the form at the bottom.
 Search_requested_not_found: The search you requested is not found
 dashboard_share: Share
 Private_message_signup_default: "Hello, my name is David. I am the founder of Fellownation and today I am very happy to become your \"fellow\". At Fellownation our mission is simple: providing the best place to exchange information in order to help you to take the right decisions for your career. All the users together, I am sure, we can make a difference in everyone's life. I am at your service and I would love to hear from you."

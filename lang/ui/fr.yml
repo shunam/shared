@@ -395,6 +395,10 @@ Step14_title: "Abonnez-vous au(x) pluralize{{count_invite}, connaissance, connai
 connect_with_google_information: "Si oui, vous pouvez lier votre compte Google \xC3\xA0 FellowNation.<br>\r\n\
   \r\n\
   Si non, remplissez le formulaire en bas."
+connect_with_linkedin_information: |-
+  If yes, you can link your Linkedin account to FellowNation by entering your email address and password.
+
+  If not, fill the form at the bottom.
 Search_requested_not_found: "Il n'y a pas de r\xC3\xA9sultats"
 dashboard_share: Partager
 Private_message_signup_default: "Bonjour, mon nom est David. Je suis le fondateur de Fellownation et aujourd'hui je suis heureux de devenir votre fellow. Notre mission \xC3\xA0 Fellownation est simple: offrir le meilleur site pour \xC3\xA9changer de l'information afin de vous aider \xC3\xA0 prendre les bonnes d\xC3\xA9cisions pour votre carri\xC3\xA8re. Ensemble, je suis s\xC3\xBBr, nous pouvons am\xC3\xA9liorer la vie de chacun. Je reste \xC3\xA0 votre service et je serais ravi de recevoir votre avis."
