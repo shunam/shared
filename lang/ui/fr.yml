@@ -1424,3 +1424,9 @@ Upgrade: Upgrade
 no_updates: "Aucune derni\xC3\xA8re nouvelle."
 sidebar_check_employee: "Employ\xC3\xA9"
 cancel_button: Cancel
+
+create_community: "Create your own community"
+max_weight: "Max weight 700k JPG, GIF, PNG"
+category: "Category"
+helper_badge: "Helper"
+make_adjustment: "Make adjustments to your photo"

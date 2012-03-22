@@ -53,7 +53,7 @@ Locality_postal_code: "Locality, postal code:"
 your_message: Your Messages
 signup_confirm_password: "Confirm  :"
 Choose_a_country: Choose a country
-unfollow: unfollow
+unfollow: Unfollow
 v2_helper_tool_tips: Well hello there. That's what a helper is all about
 updates: Updates
 Birthdate: "Birthdate:"
@@ -1095,3 +1095,9 @@ Upgrade: Upgrade
 cancel_button: Cancel
 sidebar_check_employee: Employee
 no_updates: No Updates.
+
+create_community: "Create your own community"
+max_weight: "Max weight 700k JPG, GIF, PNG"
+category: "Category"
+helper_badge: "Helper"
+make_adjustment: "Make adjustments to your photo"
