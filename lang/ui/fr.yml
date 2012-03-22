@@ -1429,3 +1429,5 @@ make_adjustment: Effecter un ajustement sur votre photo
 cancel_button: Cancel
 sidebar_check_employee: "Employ\xC3\xA9"
 no_updates: "Aucune derni\xC3\xA8re nouvelle."
+
+max_min_picture_size: "Taille max 700k. Formats autorisés JPG, GIF, PNG. Hauteur min 138px. Max hauteur 1088px. Image sera redimensionnée automatiquement pour s'adapter à 980px de largeur."

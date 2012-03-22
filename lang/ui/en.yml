@@ -1100,3 +1100,5 @@ make_adjustment: Make adjustments to your photo
 no_updates: No Updates.
 sidebar_check_employee: Employee
 cancel_button: Cancel
+
+max_min_picture_size: " Max weight 700k. Format allowed JPG, GIF, PNG. Min height 138px. Max height 1088px. Picture is autoresized to fit 980px width."
