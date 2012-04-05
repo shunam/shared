@@ -2,7 +2,7 @@
 and: et
 Message: Message
 setting_time_zone: Fuseau horaire
-whats_question_text: What's the question?
+whats_question_text: Quelle est votre question?
 following_title: Abonnements
 date_helper_x_hours: environ %d heures
 setting_private_text_emails_label: "Recevoir un email quand je recois un message priv\xC3\xA9."
@@ -121,7 +121,7 @@ EMAIL_Please_click_on_the_following_link: "Please click on the following link to
 From: De
 Show_more_following_link: Plus la suite
 this_is_not_an_email: "Cela ne ressemble pas \xC3\xA0 un email valide."
-add_option_poll_text: Add options
+add_option_poll_text: Ajouter options
 date_helper_x_days: "%d jours"
 network_select_report_spam: Signaler comme spam
 Accepted: "Accepted:"
@@ -1436,8 +1436,10 @@ cancel_button: Annuler
 sidebar_check_employee: "Employ\xC3\xA9"
 no_updates: "Aucune derni\xC3\xA8re nouvelle."
 
-fellows_text: "FELLOWS"
-communities_text: "COMMUNITIES"
-everywhere_text: "Everywhere"
+fellows_text: "Fellows"
+communities_text: "Communautés"
+everywhere_text: "Partout"
 all_tab: "All"
-shared_tab: "Shared"
+shared_tab: "Partager"
+you_have: "Vous avez"
+new_friend_updates: "nouveaux messages"

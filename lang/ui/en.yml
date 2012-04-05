@@ -1107,8 +1107,10 @@ tools_page_copy_paste_info: Copy and paste the code onto your site where you'd l
 tool_page_footer_link: Tools
 tool_add_btn: Add buttons to your website
 
-fellows_text: "FELLOWS"
-communities_text: "COMMUNITIES"
+fellows_text: "Fellows"
+communities_text: "Communities"
 everywhere_text: "Everywhere"
 all_tab: "All"
 shared_tab: "Shared"
+you_have: "You have"
+new_friend_updates: "new messages"
