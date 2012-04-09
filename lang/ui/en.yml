@@ -1114,3 +1114,8 @@ all_tab: "All"
 shared_tab: "Shared"
 you_have: "You have"
 new_friend_updates: "new messages"
+
+add_to_favorite_char: "Add to Favorite"
+send_my_invites_button: "Send my Invites"
+save_picture_setting_button: "Save Picture"
+save_changes_setting_button: "Save Changes"
