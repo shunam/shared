@@ -1451,3 +1451,14 @@ save_changes_setting_button: "Sauver"
 network_admin_invite_left_menu: "Find & invite fellows"
 network_admin_invite_title_page: "Trouver & inviter vos contacts à rejoindre votre communauté"
 network_admin_or_text_title: "Ou envoyez à vos contacts une invitation à rejoindre votre communauté par email"
+EMAIL_admin_network_invitation: |-
+  
+  {invite_message}
+  
+  Pour en savoir plus et rejoindre Fellownation, suivez le lien ci-dessous: 
+  {network_url}
+  
+  Merci, L'équipe Fellownation.
+  
+EMAIL_admin_network_invitation_subject: "{name} vous invite à rejoindre {community_name}"
+example_friend_mail: ronald@mcdonalds.com, ralph@lauren.com,...

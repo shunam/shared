@@ -1122,3 +1122,14 @@ save_changes_setting_button: "Save Changes"
 network_admin_invite_left_menu: "Find & invite fellows"
 network_admin_invite_title_page: "Find & invite your contacts to join your community"
 network_admin_or_text_title: "Or send your contacts an invite to your community by email"
+EMAIL_admin_network_invitation: |-
+  
+  {invite_message}
+  
+  To see more details and join {network_name} on FellowNation, follow the link below: 
+  {network_url}
+  
+  Thanks,
+  The Fellownation Team
+  
+EMAIL_admin_network_invitation_subject: You have been invited to join {community_name} by {name}
