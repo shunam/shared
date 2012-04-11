@@ -1462,3 +1462,7 @@ EMAIL_admin_network_invitation: |-
   
 EMAIL_admin_network_invitation_subject: "{name} vous invite à rejoindre {community_name}"
 example_friend_mail: ronald@mcdonalds.com, ralph@lauren.com,...
+admin_community_select_your_email: "Parcourez les services que vous utilisez pour découvrir qui de vos fellows sont déjà sur Fellownation. Invitez ceux que vous trouvez pour les ajouter à votre communauté."
+network_admin_invite_count_contact: Vous avez pluralize{{count_contact}, connaissance, connaissances} sur Fellownation que vous pouvez inviter.
+network_admin_subtitle: "Invitez les connaissances à rajouter comme Fellows dans votre communauté. Vous pouvez aussi {another_email} pour trouver d'autres Fellows."
+invite: "Inviter"

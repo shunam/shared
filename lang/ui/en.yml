@@ -1133,3 +1133,7 @@ EMAIL_admin_network_invitation: |-
   The Fellownation Team
   
 EMAIL_admin_network_invitation_subject: You have been invited to join {community_name} by {name}
+admin_community_select_your_email: "Search the services you use to discover which of your fellows are already using Fellownation. Invite any of the fellows you find to add them to your community."
+network_admin_invite_count_contact: You have pluralize{{count_contact}, contact, contacts} on Fellownation that you can invite.
+network_admin_subtitle: Select which contact to invite from the list below. You can also {another_email} to find more fellows.
+invite: "Invite"
