@@ -1125,11 +1125,10 @@ network_admin_or_text_title: "Or send your contacts an invite to your community 
 EMAIL_admin_network_invitation: |-
   
   {invite_message}
-  
-  To see more details and join {network_name} on FellowNation, follow the link below: 
-  {network_url}
-  
-  Thanks,
+  <br/><br/>
+  To see more details and join {network_name} on FellowNation, follow the link below:<br/> 
+  {network_url}<br/><br/>
+  Thanks,<br/>
   The Fellownation Team
   
 EMAIL_admin_network_invitation_subject: You have been invited to join {community_name} by {name}
