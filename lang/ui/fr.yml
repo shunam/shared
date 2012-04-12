@@ -162,7 +162,7 @@ New_email_address: "Nouvelle adresse email:"
 Step11_subtitle: "Rechercher dans votre compte email est le moyen le plus rapide de trouver qui de vos connaissances utilisent d\xC3\xA9j\xC3\xA0 Fellownation <br/>. Abonnez-vous \xC3\xA0 vos connaissances afin de lire leurs messages publics sur votre fil d'actualit\xC3\xA9."
 Overview: "Overview:"
 day: jour
-setting_wall_emails: Mur
+setting_wall_emails: Mentions
 subscribes_label: FLUX
 male: Homme
 signup_email: "Votre adresse email :"
@@ -988,7 +988,7 @@ Email_template_notifier_post_a_wall_message: "{first_name} a ecrit:\n\
   L'\xC3\xA9quipe Fellownation"
 Note_If_you_change_your_custom: "Note: Si vous changez votre URL personnelle, votre ancienne URL ne sera plus valide."
 save_picture_button: Save Pictures
-setting_wall_emails_label: Email lorsque je recois un message sur mon mur.
+setting_wall_emails_label: "M'envoyer un e-mail quand j'ai été @ mentionné"
 search_you_requested: "  Il n'y a pas de r\xC3\xA9sultats"
 Invitations_sent: "Invitations envoy\xC3\xA9es:"
 v2_community2_palceholder: "Communaut\xC3\xA9 2"
@@ -1465,3 +1465,7 @@ admin_community_select_your_email: "Parcourez les services que vous utilisez pou
 network_admin_invite_count_contact: Vous avez pluralize{{count_contact}, connaissance, connaissances} sur Fellownation que vous pouvez inviter.
 network_admin_subtitle: "Invitez les connaissances à rajouter comme Fellows dans votre communauté. Vous pouvez aussi {another_email} pour trouver d'autres Fellows."
 invite: "Inviter"
+
+mention_email: "vous a mentionné"
+email_mention_notification:  |-
+  {user_name} vous a mentionné sur FellowNation. Suivez le lien pour lire le message {url}.
