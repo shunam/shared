@@ -1136,3 +1136,19 @@ admin_community_select_your_email: "Search the services you use to discover whic
 network_admin_invite_count_contact: You have pluralize{{count_contact}, contact, contacts} on Fellownation that you can invite.
 network_admin_subtitle: Select which contact to invite from the list below. You can also {another_email} to find more fellows.
 invite: "Invite"
+List_public_community: "Lists"
+list_member: "Lists of members"
+create_list: "Create list"
+edit_list_name: "Edit List Name"
+edit_members: "Edit members"
+add_remove_from_list: "Add/remove from list"
+in_list: "In"
+listx: "lists:"
+your_list: "Your lists"
+include_exclude: "Include/ Exclude"
+in_include: "in :"
+save_list: "Save list"
+list_description: "Description"
+list_name: "List name"
+back_to_member_list: "← Back to member lists"
+
