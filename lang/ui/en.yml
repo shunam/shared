@@ -148,7 +148,7 @@ New_email_address: "New email address:"
 Step11_subtitle: Searching your email account is the fastest way find which of your fellows are already using<br/> Fellownation. Follow any of the fellows you find to add their public messages to your timeline.
 Overview: "Overview:"
 day: day
-setting_wall_emails: Wall Emails
+setting_wall_emails: Mention Emails
 subscribes_label: SUBSCRIPTIONS
 male: Male
 signup_email: "Your email address :"
@@ -703,7 +703,7 @@ Email_template_notifier_post_a_wall_message: |-
   {first_name} wrote: "{message_content}" To see the comment thread, follow the link below: {message_link}
   The Fellownation Team
 Note_If_you_change_your_custom: "Note: If you change your custom URL, your previous custom URL will no longer be valid."
-setting_wall_emails_label: Email when someone has posted a message on my wall.
+setting_wall_emails_label: Email me when I'm @ mentioned.
 search_you_requested: The search you requested is not found
 Invitations_sent: "Invitations sent:"
 v2_community2_palceholder: Community 2
@@ -1152,3 +1152,6 @@ list_description: "Description"
 list_name: "List name"
 back_to_member_list: "← Back to member lists"
 
+mention_email: "mention you"
+email_mention_notification:  |-
+  {user_name} mentioned you on FellowNation. Follow the link to read the message {url}.
