@@ -1480,6 +1480,7 @@ save_list: "Enregistrer liste"
 list_description: "Description"
 list_name: "Nom de la liste"
 back_to_member_list: "← Retour aux listes de membres"
+no_data_list: "Vous n'avez pas de liste"
 
 mention_email: "vous a mentionné"
 email_mention_notification:  |-

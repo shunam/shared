@@ -1151,6 +1151,7 @@ save_list: "Save list"
 list_description: "Description"
 list_name: "List name"
 back_to_member_list: "← Back to member lists"
+no_data_list: "You have no list"
 
 mention_email: "mention you"
 email_mention_notification:  |-
