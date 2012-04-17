@@ -1160,3 +1160,4 @@ email_mention_notification:  |-
 expel_link: "Expel"
 create_new_list: "Create a new list"
 edit_list_name: "Edit list name"
+embed: "Embed"

@@ -1489,3 +1489,4 @@ email_mention_notification:  |-
 expel_link: "Expulser"
 create_new_list: "Créer une nouvelle liste"
 edit_list_name: "Modifier le nom de la liste"
+embed: "intégrer"
