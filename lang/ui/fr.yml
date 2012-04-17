@@ -1486,3 +1486,6 @@ add_to_list: "Ajouter à liste"
 mention_email: "vous a mentionné"
 email_mention_notification:  |-
   {user_name} vous a mentionné sur FellowNation. Suivez le lien pour lire le message {url}.
+expel_link: "Expulser"
+create_new_list: "Créer une nouvelle liste"
+edit_list_name: "Modifier le nom de la liste"

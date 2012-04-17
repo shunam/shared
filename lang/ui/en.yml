@@ -1157,3 +1157,6 @@ add_to_list: "Add to list"
 mention_email: "mention you"
 email_mention_notification:  |-
   {user_name} mentioned you on FellowNation. Follow the link to read the message {url}.
+expel_link: "Expel"
+create_new_list: "Create a new list"
+edit_list_name: "Edit list name"
