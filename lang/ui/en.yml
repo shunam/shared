@@ -1167,6 +1167,15 @@ hide_activity: "Hide the activity to non-members"
 hide_member: "Hide the list of members to non-members"
 lists_of_member: "Lists of members"
 hide_list_of_members: "Hide our customized lists of members to non-members"
+closed_community: "Closed community"
+make_community_closed: "Make my community closed. Administrators must approve new members. "
+approve: "Approve"
+reject: "Reject"
+mail_approve:  |-
+ Your request to join {community_name} has been approved.
+mail_reject:  |-
+ Your request to join {community_name} has been rejected.
+waiting_approval: "Your approval is in process"
 
 embed_page_title: "Allow the following people to embed community's items:"
 embed_admin_only_text: "Only administrators"

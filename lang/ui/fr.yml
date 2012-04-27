@@ -1496,6 +1496,15 @@ hide_activity: "Cacher l’activité aux non-membres"
 hide_member: "Cacher la liste de membres aux non-membres"
 lists_of_member: "Listes de membres"
 hide_list_of_members: "Cacher nos listes de membres personnalisées aux non-membres"
+closed_community: "Communauté fermée"
+make_community_closed: "Rendre ma communauté fermée. Les administrateurs doivent approuver les nouveaux membres."
+approve: "Approuver"
+reject: "Refuser"
+mail_approve:  |-
+ Votre demande d'adhésion {community_name} a été approuvé
+mail_reject:  |-
+ Votre demande d'adhésion {community_name} a été rejetée
+waiting_approval: "Votre demande d'acceptation est en attente"
 
 embed_page_title: "Autoriser des gens ci-dessous à insérer les objets de la communauté:"
 embed_admin_only_text: "Uniquement les administrateurs"
