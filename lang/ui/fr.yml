@@ -1515,3 +1515,5 @@ embed_feed_auth_title: "Liste des flux communautaires qui peuvent être incorpor
 embed_user_auth_list_title: "Listes sélectionnées"
 embed_community_list_feeds_text: "RSS liste communautaire"
 embeed_auth_feed_text: "Embed RSS"
+
+invited_by: "Invité par"
