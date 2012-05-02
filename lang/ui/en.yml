@@ -1189,3 +1189,10 @@ embeed_auth_feed_text: "Embed Feed"
 
 invited_by: "Invited by"
 cooptation_rights: "Cooptation rights"
+
+cooptation_page_title: "Allow the following people to invite their friends to join our community:"
+cooptation_admin_only_text: "Only administrators"
+cooptation_all_members_text: "All our members"
+cooptation_auth_members_text: "Only the members from the lists below"
+cooptation_community_members_text: "Lists available"
+cooptation_user_auth_list_title: "Selected lists"

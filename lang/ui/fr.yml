@@ -1518,3 +1518,10 @@ embeed_auth_feed_text: "Embed RSS"
 
 invited_by: "Invité par"
 cooptation_rights: "Droits de cooptation"
+
+cooptation_page_title: "Allow the following people to invite their friends to join our community:"
+cooptation_admin_only_text: "Uniquement les administrateurs"
+cooptation_all_members_text: "Tous nos membres"
+cooptation_auth_members_text: "Uniquement les membres appartenants aux listes ci-dessous"
+cooptation_community_members_text: "Listes disponibles"
+cooptation_user_auth_list_title: "Listes sélectionnées"
