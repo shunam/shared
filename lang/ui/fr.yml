@@ -1525,3 +1525,6 @@ cooptation_all_members_text: "Tous nos membres"
 cooptation_auth_members_text: "Uniquement les membres appartenants aux listes ci-dessous"
 cooptation_community_members_text: "Listes disponibles"
 cooptation_user_auth_list_title: "Listes sélectionnées"
+
+services: "Services"
+cooptation_services: "Cooptation"
