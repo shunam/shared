@@ -1035,7 +1035,7 @@ register_button: Register
 new_fellow_label: New to Fellownation?
 email_notifier_ask_for_join_subject: Hello
 days_ago_: "{count} days ago"
-checkout_fellownation_text: Write here you message
+checkout_fellownation_text: Write here your message
 female: Female
 Signup_check_birthdate: Enter a valid birthdate.
 Email: "Email:"
