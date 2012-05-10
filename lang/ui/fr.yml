@@ -1537,3 +1537,4 @@ pinborad_pin_unpin: "Epingler/désépingler le sur vos panneaux d'affichage disp
 pinboard_ask_delet: "Voulez-vous vraiment supprimer ce panneau d'affichage?"
 pinboard_create: "Créer nouveau panneau d'affichage"
 pinboard_admin_page_title: "Autoriser des gens ci-dessous à gérer et épingler les objets sur les panneaux d'affichage de la communauté:"
+send_email_invitation: "envoyer une invitation par email"
