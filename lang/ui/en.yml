@@ -1199,3 +1199,13 @@ cooptation_user_auth_list_title: "Selected lists"
 
 services: "Services"
 cooptation_services: "Cooptation"
+
+
+pinboard: "Pinboards"
+pinboard_add: "Add pinboard"
+pinboard_edit: "Edit pinboards"
+pinboard_your: "Your pinboards"
+pinborad_pin_unpin: "Pin/unpin it onto your available pinboards"
+pinboard_ask_delet: "Do you really want to remove this pinboard?"
+pinboard_create: "Create new pinboard"
+pinboard_admin_page_title: "Allow the following people to manage and pin items onto the community's pinboards:"

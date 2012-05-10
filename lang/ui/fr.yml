@@ -1528,3 +1528,12 @@ cooptation_user_auth_list_title: "Listes sélectionnées"
 
 services: "Services"
 cooptation_services: "Cooptation"
+
+pinboard: "Panneaux"
+pinboard_add: "Ajouter panneau"
+pinboard_edit: "Modifier panneaux"
+pinboard_your: "Vos panneaux"
+pinborad_pin_unpin: "Epingler/désépingler le sur vos panneaux d'affichage disponibles"
+pinboard_ask_delet: "Voulez-vous vraiment supprimer ce panneau d'affichage?"
+pinboard_create: "Créer nouveau panneau d'affichage"
+pinboard_admin_page_title: "Autoriser des gens ci-dessous à gérer et épingler les objets sur les panneaux d'affichage de la communauté:"
