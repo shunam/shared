@@ -1202,8 +1202,8 @@ cooptation_services: "Cooptation"
 
 
 pinboard: "Pinboards"
-pinboard_add: "Add pinboard"
-pinboard_edit: "Edit pinboards"
+pinboard_add: "Add"
+pinboard_edit: "Edit"
 pinboard_your: "Your pinboards"
 pinborad_pin_unpin: "Pin/unpin it onto your available pinboards"
 pinboard_ask_delet: "Do you really want to remove this pinboard?"
