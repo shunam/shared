@@ -1541,3 +1541,7 @@ send_email_invitation: "envoyer une invitation par email"
 pinbaord_create: "Créer nouveau panneau d'affichage"
 pinboard_name: "Nom du panneau"
 pinboard_btn_save: "Enregistrer panneau"
+
+network_admin_rss: "Flux RSS"
+rss_feed_label: "RSS Feed :"
+create_rss_feed: "Add an RSS Feed"

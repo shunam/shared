@@ -1213,3 +1213,7 @@ send_email_invitation: "Send Email Invitation"
 pinbaord_create: "Create new pinboard"
 pinboard_name: "Board name"
 pinboard_btn_save: "Save board"
+
+network_admin_rss: "RSS Feed"
+rss_feed_label: "RSS Feed :"
+create_rss_feed: "Add an RSS Feed"
