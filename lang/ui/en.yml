@@ -1215,8 +1215,9 @@ pinboard_name: "Board name"
 pinboard_btn_save: "Save board"
 
 network_admin_rss: "RSS Feed"
-rss_feed_label: "RSS Feed :"
+rss_feed_label: "RSS Feed"
 create_rss_feed: "Add an RSS Feed"
+rss_feed_comm_dashboard: "RSS Feed"
 
 create_email_alert: "Create Alerts : be notified when someone talks about you."
 fellownation_email_alert: "FellowNation alerts are email updates of the latest relevant FellowNation results (public messages, comments, questions, news feed, etc.) based on your choice of query or topic."

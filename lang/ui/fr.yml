@@ -1543,8 +1543,9 @@ pinboard_name: "Nom du panneau"
 pinboard_btn_save: "Enregistrer panneau"
 
 network_admin_rss: "Flux RSS"
-rss_feed_label: "RSS Feed :"
+rss_feed_label: "RSS Feed"
 create_rss_feed: "Add an RSS Feed"
+rss_feed_comm_dashboard: "Flux RSS"
 
 create_email_alert: "Créer des alertes: Soyez notifié quand quelqu'un parle de vous."
 fellownation_email_alert: "Les alertes FellowNation vous informent par emails des derniers résultats pertinents partout sur le réseau (messages publics, commentaires, questions, etc) en fonction de vos choix de recherche."
