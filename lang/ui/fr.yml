@@ -1552,3 +1552,4 @@ fellownation_email_alert: "Les alertes FellowNation vous informent par emails de
 enter_full_name_email: "Entrez votre nom complet, les mots-clés (jusqu'à 3) que vous désirez surveiller et votre e-mail, puis cliquez sur Créer l'alerte."
 
 pinboard_public_view_title: "Panneaux disponibles"
+pinboard_admin_page_embed_title: "Code pour intégrer le panneau d'affichage {pinboard_name}"

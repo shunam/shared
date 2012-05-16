@@ -1224,3 +1224,4 @@ fellownation_email_alert: "FellowNation alerts are email updates of the latest r
 enter_full_name_email: "Enter your full name, the keywords (up to 3) you wish to monitor and your email, then click Submit Alert."
 
 pinboard_public_view_title: "Available pinboards"
+pinboard_admin_page_embed_title: "Code to embed pinboard {pinboard_name}"
