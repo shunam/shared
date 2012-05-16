@@ -1550,3 +1550,5 @@ rss_feed_comm_dashboard: "Flux RSS"
 create_email_alert: "Créer des alertes: Soyez notifié quand quelqu'un parle de vous."
 fellownation_email_alert: "Les alertes FellowNation vous informent par emails des derniers résultats pertinents partout sur le réseau (messages publics, commentaires, questions, etc) en fonction de vos choix de recherche."
 enter_full_name_email: "Entrez votre nom complet, les mots-clés (jusqu'à 3) que vous désirez surveiller et votre e-mail, puis cliquez sur Créer l'alerte."
+
+pinboard_public_view_title: "Panneaux disponibles"
