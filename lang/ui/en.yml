@@ -1222,3 +1222,5 @@ enter_full_name_email: "Enter your full name, the keywords (up to 3) you wish to
 
 pinboard_public_view_title: "Available pinboards"
 pinboard_admin_page_embed_title: "Code to embed pinboard {pinboard_name}"
+setting_comment_emails: Comment Emails
+step4_finish_btn: Finish
