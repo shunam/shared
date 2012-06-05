@@ -1552,3 +1552,4 @@ pinboard_public_view_title: "Panneaux disponibles"
 pinboard_admin_page_embed_title: "Code pour intégrer le panneau d'affichage {pinboard_name}"
 setting_comment_emails: Commentaires
 step4_finish_btn: Terminer
+tool_page_footer_link: Outils
