@@ -1553,3 +1553,5 @@ pinboard_admin_page_embed_title: "Code pour intégrer le panneau d'affichage {pi
 setting_comment_emails: Commentaires
 step4_finish_btn: Terminer
 tool_page_footer_link: Outils
+widgets: "Widgets"
+paste_below_your_html_below: "Copier votre html ci-dessous"

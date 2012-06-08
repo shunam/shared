@@ -1225,3 +1225,5 @@ pinboard_admin_page_embed_title: "Code to embed pinboard {pinboard_name}"
 setting_comment_emails: Comment Emails
 step4_finish_btn: Finish
 tool_page_footer_link: Tools
+widgets: "Widgets"
+paste_below_your_html_below: "Paste below your html below"
