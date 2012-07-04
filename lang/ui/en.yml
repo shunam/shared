@@ -1232,5 +1232,20 @@ follow_button_for_website: '"Follow Button" for Websites'
 fellow_desc_tool: "Click the button of your choosing below to select the HTMl code to embed then, Copy and paste the code onto your site where you'd like it to appear"
 pin: "Pin"
 pin_it_to_Fellownation: "Pin it to FellowNation"
-
+pin_to_install_text: 'To install the “Pin It” button in'
+pin_page_title: '"Pin It" Button'
+pin_display_yours_bookmark_text: 'Display your Bookmarks Bar by clicking '
+pin_drag_the_pin_text: 'Drag the “Pin It” button to your Bookmarks Toolbar'
+pin_when_you_are: 'When you are browsing the web, push the “Pin It” button to pin an image'
+pin_note_text: 'Once installed in your browser, the “Pin It” button lets you grab an image from any website and add it to one of your pinboards. When you pin from a website, we automatically grab the source link so we can credit the original creator.'
+pin_mozila_setup1: '<strong>View &gt; Toolbars &gt; Bookmarks</strong>'
+pin_mozila_setup2: '<p class="ButtonInstructions">←&nbsp;Add this link to your Bookmarks Bar</p>'
+pin_chrome_setup1: '<strong>Wrench Icon &gt; Bookmarks &gt; Show Bookmarks Bar</strong>'
+pin_chrome_setup2: '<p class="ButtonInstructions">←&nbsp;Add this link to your Bookmarks Bar</p>'
+pin_safari_setup1: '<strong>View &gt; Show Bookmarks Bar</strong>'
+pin_safari_setup2: '<p class="ButtonInstructions">←&nbsp;Add this link to your Bookmarks Bar</p>'
+pin_opera_setup1: '<strong>View &gt; Toolbars &gt; Bookmarks</strong>'
+pin_opera_setup2: '<p class="ButtonInstructions">←&nbsp;Add this link to your Bookmarks Bar</p>'
+pin_msie_setup1: '<strong>Tools &gt; Toolbars &gt; Favorites Bar</strong>'
+pin_msie_setup2: '<p class="ButtonInstructions">←&nbsp;Right-click and select “Add to Favorites > Favorites Bar</p>'
 
