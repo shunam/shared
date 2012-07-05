@@ -1566,9 +1566,9 @@ pin_display_yours_bookmark_text: 'Afficher votre barre de Favoris en cliquant su
 pin_drag_the_pin_text: 'Glisser le bouton "Epingle le" dans votre Barre de Favoris'
 pin_when_you_are: 'Quand vous naviguer sur le web, appuyer sur le bouton "Epingle le" pour épingler du contenu.'
 pin_note_text: "Une fois installé dans votre navigateur, le bouton \"Epingle le\" vous permet de récupérer du contenu depuis n'importe quel site Web et l'ajouter à un de vos panneaux d'affichage."
-pin_mozila_setup1: '<strong>Affichage &gt; Barre d'outils &gt; Barre personnelle.</strong>'
+pin_mozila_setup1: "<strong>Affichage &gt; Barre d\'outils &gt; Barre personnelle</strong>"
 pin_mozila_setup2: '<p class="ButtonInstructions">←&nbsp;Add this link to your Bookmarks Bar</p>'
-pin_chrome_setup1: '<strong>Wl'icône représentant une clé à molette &gt; Favoris &gt; Afficher Barre de Favoris</strong>'
+pin_chrome_setup1: "<strong>l\'icône représentant une clé à molette &gt; Favoris &gt; Afficher Barre de Favoris</strong>"
 pin_chrome_setup2: '<p class="ButtonInstructions">←&nbsp;Add this link to your Bookmarks Bar</p>'
 pin_safari_setup1: '<strong>Affichage &gt; Afficher Barre de Favoris</strong>'
 pin_safari_setup2: '<p class="ButtonInstructions">←&nbsp;Add this link to your Bookmarks Bar</p>'
