@@ -1560,12 +1560,12 @@ follow_button_for_website: '"Bouton Suivre" pour websites'
 fellow_desc_tool: "Cliquez sur le bouton de votre choix ci-dessous pour sélectionner le code HTML à intégrer Ensuite, copiez et collez le code sur votre site où vous souhaitez qu'il apparaisse."
 pin: "Epingler"
 pin_it_to_Fellownation: "L'épingler sur FellowNation"
-pin_to_install_text: 'To install the “Pin It” button in'
-pin_page_title: '"Pin It" Button'
+pin_to_install_text: 'Pour installer le bouton "Epingle le" dans '
+pin_page_title: '"Bouton "Epingle le"'
 pin_display_yours_bookmark_text: 'Display your Bookmarks Bar by clicking '
-pin_drag_the_pin_text: 'Drag the “Pin It” button to your Bookmarks Toolbar'
-pin_when_you_are: 'When you are browsing the web, push the “Pin It” button to pin an image'
-pin_note_text: 'Once installed in your browser, the “Pin It” button lets you grab an image from any website and add it to one of your pinboards. When you pin from a website, we automatically grab the source link so we can credit the original creator.'
+pin_drag_the_pin_text: 'Glisser le bouton "Epingle le" dans votre Barre de Favoris'
+pin_when_you_are: 'Quand vous naviguer sur le web, appuyer sur le bouton "Epingle le" pour épingler du contenu.'
+pin_note_text: "Une fois installé dans votre navigateur, le bouton \"Epingle le\" vous permet de récupérer du contenu depuis n'importe quel site Web et l'ajouter à un de vos panneaux d'affichage."
 pin_mozila_setup1: '<strong>View &gt; Toolbars &gt; Bookmarks</strong>'
 pin_mozila_setup2: '<p class="ButtonInstructions">←&nbsp;Add this link to your Bookmarks Bar</p>'
 pin_chrome_setup1: '<strong>Wrench Icon &gt; Bookmarks &gt; Show Bookmarks Bar</strong>'
@@ -1576,4 +1576,4 @@ pin_opera_setup1: '<strong>View &gt; Toolbars &gt; Bookmarks</strong>'
 pin_opera_setup2: '<p class="ButtonInstructions">←&nbsp;Add this link to your Bookmarks Bar</p>'
 pin_msie_setup1: '<strong>Tools &gt; Toolbars &gt; Favorites Bar</strong>'
 pin_msie_setup2: '<p class="ButtonInstructions">←&nbsp;Right-click and select “Add to Favorites > Favorites Bar</p>'
-
+pin_add_this_text: 'Glisser le bouton "Epingle le" dans votre Barre de Favoris'

@@ -1248,4 +1248,4 @@ pin_opera_setup1: '<strong>View &gt; Toolbars &gt; Bookmarks</strong>'
 pin_opera_setup2: '<p class="ButtonInstructions">←&nbsp;Add this link to your Bookmarks Bar</p>'
 pin_msie_setup1: '<strong>Tools &gt; Toolbars &gt; Favorites Bar</strong>'
 pin_msie_setup2: '<p class="ButtonInstructions">←&nbsp;Right-click and select “Add to Favorites > Favorites Bar</p>'
-
+pin_add_this_text: "Add this link to your Bookmarks Bar"
