@@ -1577,3 +1577,5 @@ pin_opera_setup2: '<p class="ButtonInstructions">←&nbsp;Add this link to your 
 pin_msie_setup1: '<strong>Outils &gt; Afficher Barre de Favoris</strong>'
 pin_msie_setup2: '<p class="ButtonInstructions">←&nbsp;Right-click and select “Add to Favorites > Favorites Bar</p>'
 pin_add_this_text: 'Glisser le bouton "Epingle le" dans votre Barre de Favoris'
+unlock_warning_title: "Unlock this feature!"
+unlock_warning_text:  "Upgrade this community to unlock all features. <a href='javascript:void(0)'>click here</a>" 
