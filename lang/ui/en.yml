@@ -1250,7 +1250,7 @@ pin_msie_setup1: '<strong>Tools &gt; Toolbars &gt; Favorites Bar</strong>'
 pin_msie_setup2: '<p class="ButtonInstructions">←&nbsp;Right-click and select “Add to Favorites > Favorites Bar</p>'
 pin_add_this_text: "Add this link to your Bookmarks Bar"
 unlock_warning_title: "Unlock this feature!"
-unlock_warning_text:  "Upgrade this community to unlock all features. <a href='javascript:void(0)'>click here</a>" 
+unlock_warning_text:  "Upgrade this community to unlock all features." 
 pricing_plan: "Pricing plan"
 
 new_update_pass: "Type your new password"
