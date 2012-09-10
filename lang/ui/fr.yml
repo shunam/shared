@@ -1611,3 +1611,5 @@ home_page_subtitle5: "All the profile you choose or build yourself work on your 
 home_page_consumer_text: "Just some of our customers"
 home_page_see_plan_text: "See Plans &amp; Pricing"
 home_page_free_trial_text: "30-day free trial, sign up in 60 seconds"
+
+number_of_members: "<strong>{num}</strong> membres"
