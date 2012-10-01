@@ -1652,3 +1652,9 @@ pricing_page_right_bottom_text: "Lorem ipsum dolor sit amet, consectetur adipisi
 pricing_page_left_bottom_text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
 
 cant_blank: "ne peut pas \xC3\xAAtre vide"
+
+wait_for_approve_title: "Félicitations, votre message est en attente de modération"
+wait_for_approve_content1: "Les administrateurs de cette communauté ont activé la modération. Les administrateurs et les super utilisateurs seront notifié afin d'approuver ou de rejeter mais pas modifier le message."
+wait_for_approve_content2: "Note. Les administrateurs active la modération afin d'éviter de mauvais commentaires ou contenus diffamatoires."
+wait_for_approve_close_btn: "Fermer" 
+

@@ -1323,3 +1323,8 @@ pricing_page_left_bottom_text: "Lorem ipsum dolor sit amet, consectetur adipisic
 
 cant_blank: "can't be blank"
 
+wait_for_approve_title: "Congratulations, your message is now waiting for moderation."
+wait_for_approve_content1: "Administrators of this community have activated the moderation. Administrators and super users will be notified to approve or reject but not modify the message"
+wait_for_approve_content2: "Note. Administrators activate the moderate in order to prevent bad comments or defamatory contents."
+wait_for_approve_close_btn: "Close" 
+
