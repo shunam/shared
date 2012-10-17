@@ -1658,3 +1658,94 @@ wait_for_approve_content1: "Les administrateurs de cette communauté ont activé
 wait_for_approve_content2: "Note. Les administrateurs active la modération afin d'éviter de mauvais commentaires ou contenus diffamatoires."
 wait_for_approve_close_btn: "Fermer" 
 
+
+new_home_page_why_fellownation: "Why must use FellowNation ?"
+new_home_page_why_description: "<p>FellowNation is a community-based toolbox for HR marketing</p><p>Enter in your email address and we’ll instantly give you a link to the whitepaper!</p>"
+
+
+unpaid_warning_text:  |-
+  <h2>The perfect package for most customer</h2>
+  <h3>Over 75% of our customers fit comfortably on his plan</h3>
+  <div class="alert-box yellow">
+    <p>You currently have the STARTER package (recommended)</p>
+  </div>
+  <ul>
+    <li>Manage <strong>40 projects</strong> at a time.</li>
+    <li><strong>15 GB</strong> of file storage.</li>
+    <li><strong>Free*</strong> (Normally $50/month)</li>
+  </ul>
+  <span>You get discount because you have a basecamp classic account. </span>
+  <div class="clear"></div>    
+  
+unppaid_warning_bootom_text: |-
+  <span class="first-contact">Contact Sales To Upgrade Your Community</span>
+  <div class="clear"></div>
+  <span class="second-contact">Click Here To Fill Form. We Will Contact You Promptly </span>
+  
+pricing_top_info: |-
+  <div class="pricing-desc-box">
+    <h5>Hosted Newsroom</h5>
+    <p>Customize your newsroom and embed on your website</p>
+  </div>
+  <div class="pricing-desc-box">
+    <h5>Analytics &amp; media monitoring</h5>
+    <p>Follow conversations, Identify influencers, Web analytics, Training and consulting</p>
+  </div>
+  <div class="pricing-desc-box">
+    <h5>Hosted Newsroom</h5>
+    <p>Customize your newsroom and embed on your website</p>
+  </div>  
+  <div class="more-plans">
+    <p>We also offer a <a href="/en/signup/basic">Basic plan</a> (unlimited publishing without a newsroom) and a <a href="/en/signup/free">Free plan</a> (limited distribution without a newsroom).<br><a href="/en/signup/details">Compare our plans</a> in detail.</p>
+  </div>
+  
+enterprice_title_text: "Enterprise"
+premium_title_text: "Premium"
+pro_title_text: "Pro"
+enterprice_money_text: "540<span>USD/month</span>"
+premium_money_text: "540<span>USD/month</span>"
+pro_money_text: "540<span>USD/month</span>"
+free_trial_text: "<b>Free</b> trial"
+pricing_page_footer_info: |-
+  <div class="eight columns heading-trial">
+    <h4>Your 30 Day Free Trial Expire on oct 13</h4>
+    <p>When your free trial expires you can upgrade, downgrade or close your account. If you don't do anything your account will be automatically downgraded to FellowNation Free – which is always free. </p>
+  </div>
+
+  <div class="eight columns pricing-desc-pop-second">
+    <h4>Accept Our Customer Agreement</h4>
+    <p><a href="#">Click here to read our Terms and Conditions.</a> You accept the agreement by checking the box below. </p>
+  </div>
+  
+  <div class="eight columns agreement-checkbox nice radius error">
+    <label>
+        <input id="accept_agreements" class="error" name="accept_agreements" type="checkbox" value="1">
+        <b>I accept FellowNation's Terms and Conditions</b>
+    </label>
+  </div>
+  
+contact_sales_top_info: |-
+  <h3>Contact Sales</h3>
+  <p>To discuss pricing, security, and to request additional materials, please use the form below or call <strong>888-936-7377</strong> and <strong>+1-415-796-7400.</strong> For helm request and other inquiries, please use <a href="#">help section</a>.</p>
+  <p>* = Required Field</p>  
+  
+contact_name: "Name*"
+contact_job_title: "Job title*"
+contact_country: "Country*"
+contact_email: "Email*"
+contact_company_name: "Company Name"
+contact_phone_number: "Phone Number*"
+contact_comment: "Comments"
+contact_btn_submit: "submit"
+
+show_newsroom_text: "Show Newsroom"
+
+pricing_author_info1: |-
+  <b>Jaja Setiadarma</b><br>
+  Founder of <a href="#">Dariskon</a>
+
+pricing_author_info2: |-
+  <b>Sigit Sanders</b><br>
+  Founder of <a href="#">Sisap Enterprise</a>
+  
+get_whitepaper_text: "Get Whitepaper"  
