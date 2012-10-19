@@ -1750,3 +1750,10 @@ pricing_author_info2: |-
   
 get_whitepaper_text: "Get Whitepaper"  
 need_help_text: "Need help?"
+whitepapager_email_subject_title_text: "Fellownation White Paper"
+whitepaper_email_body_text: |-
+  Someone use this email to get fellownation.com white paper,
+  if this is not You, ignore this email.
+  Thanks  
+white_page_thanks_text: |-
+  Thank you for your interest. We have sent you an email with the White Paper. Please check your mailbox  
