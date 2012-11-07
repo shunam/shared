@@ -11,19 +11,19 @@ search_tab_messages: MESSAGES
 question_mine: "{username}'S QUESTION"
 pricing_top_info: |-
   <div class="pricing-desc-box">
-    <h5>Hosted Newsroom</h5>
-    <p>Customize your newsroom and embed on your website</p>
+    <h5>For enterprises</h5>
+    <p>Include all Premium features plus: embedding, pinboards and 10 administrators.</p>
   </div>
   <div class="pricing-desc-box">
-    <h5>Analytics &amp; media monitoring</h5>
-    <p>Follow conversations, Identify influencers, Web analytics, Training and consulting</p>
+    <h5>For demanding starters</h5>
+    <p>Includes all Pro features plus: Privacy, moderation and 5 administrators.</p>
   </div>
   <div class="pricing-desc-box">
-    <h5>Hosted Newsroom</h5>
-    <p>Customize your newsroom and embed on your website</p>
+    <h5>For starters</h5>
+    <p>Lists of members, cooptation, 2 administrators, widget, ads free and RSS feed.</p>
   </div>  
   <div class="more-plans">
-    <p>We also offer a <a href="/en/signup/basic">Basic plan</a> (unlimited publishing without a newsroom) and a <a href="/en/signup/free">Free plan</a> (limited distribution without a newsroom).<br><a href="/en/signup/details">Compare our plans</a> in detail.</p>
+    <p>Every newly created community starts with a Free plan. A Free plan has limited features. <a href="/page/pricing">Compare our plans</a> in detail.</p>
   </div>
 photo_successfully_deleted: Photo successfully deleted!
 five_community: (up to 5 communities)
@@ -173,7 +173,7 @@ static_privacy_policy_link: Privacy policy
 Select_everyone: Select everyone
 privacy: Privacy
 dashboard_like_link: Like
-free_trial_text: <b>Free</b> trial
+free_trial_text: Contact us
 closed_community: Closed community
 apps_terms_label: "Terms:"
 Feed_subs_name: "Name :"
@@ -939,19 +939,18 @@ step1_5_top_info1: "write below some emails to invite your contacts :"
 search_tab_question: QUESTIONS
 New_password_again: "New password (again):"
 No_: "No"
-pricing_page_title4: The perfect package for most customer.
+pricing_page_title4: A Feature To Meet Your Needs
 Search_candidate: Search candidate
 news_confirm_label: "Please confirm your account \xE2\x80\x94 a confirmation message was sent to"
 No_spam_we_promise: No spam, we promise
 public_profile_url: Public profile URL
 of_them_: "{count} of them"
 pricing_page_subtitle8: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-pricing_page_footer_info: "<div class=\"eight columns heading-trial\">\n  <h4>Your 30 Day Free Trial Expire on oct 13</h4>\n  <p>When your free trial expires you can upgrade, downgrade or close your account. If you don't do anything your account will be automatically downgraded to FellowNation Free \xE2\x80\x93 which is always free. </p>\n\
-  </div>\n\n\
-  <div class=\"eight columns pricing-desc-pop-second\">\n  <h4>Accept Our Customer Agreement</h4>\n  <p><a href=\"#\">Click here to read our Terms and Conditions.</a> You accept the agreement by checking the box below. </p>\n\
-  </div>\n\n\
-  <div class=\"eight columns agreement-checkbox nice radius error\">\n  <label>\n      <input id=\"accept_agreements\" class=\"error\" name=\"accept_agreements\" type=\"checkbox\" value=\"1\">\n      <b>I accept FellowNation's Terms and Conditions</b>\n  </label>\n\
-  </div>"
+pricing_page_footer_info: |-
+  <div class="eight columns heading-trial">
+    <h4>Pricing Plans to Meet Your Needs : contact us</h4>
+    <p>Whether it's for multinational company, a SME, a non-profit organization or just a one-man company, FellowNation provides a variety of pricing plans to meet your needs.</p>
+  </div>
 Wrong_input: Wrong input
 send_private_message_label: Send a private message to
 Mobile: "Mobile:"
@@ -1257,13 +1256,15 @@ setting_make_my_walls_private: Make my walls private
 custom_fellow_url_text: Your custom URL
 save_picture_setting_button: Save Picture
 wait_for_approve_title: Congratulations, your message is now waiting for moderation.
-unpaid_warning_text: "<h2>The perfect package for most customer</h2>\n\
-  <h3>Over 75% of our customers fit comfortably on his plan</h3>\n\
-  <div class=\"alert-box yellow\">\n  <p>You currently have the STARTER package (recommended)</p>\n\
-  </div>\n\
-  <ul>\n  <li>Manage <strong>40 projects</strong> at a time.</li>\n  <li><strong>15 GB</strong> of file storage.</li>\n  <li><strong>Free*</strong> (Normally $50/month)</li>\n\
-  </ul>\n\
-  <span>You get discount because you have a basecamp classic account. </span>\n\
+unpaid_warning_text: "<h2>A Feature To Meet Your Needs</h2>\r\n\
+  <h3>Whether it's for multinational company, a SME, a non-profit organization or just a one-man company, FellowNation provides a variety of pricing plans to meet your needs.</h3>\r\n\
+  <div class=\"alert-box yellow\">\r\n  <p>This feature is locked. Upgrade your account to unlock it.</p>\r\n\
+  </div>\r\n\
+  <p>We offre 3 plans:</p>\r\n\
+  <ul>\r\n  <li><strong>Pro plan for starters</strong>: Lists of members, cooptation, 2 administrators, widget, ads free and RSS feed.</li>\r\n  <li><strong>Premium plan for demanding starters</strong>: Includes all Pro features plus: Privacy, moderation and 5 administrators.</li>\r\n  <li><strong>Enterprise plan for enterprises:</strong> \r\n\
+  Include all Premium features plus: embedding, pinboards and 10 administrators.</li>\r\n\
+  </ul>\r\n\
+  <p></p>\r\n\
   <div class=\"clear\"></div>    "
 fellow_updates_link: Notifications
 setting_I_am_an_student: I am an student
