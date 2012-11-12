@@ -618,7 +618,7 @@ invite: Inviter
 pin_mozila_setup1: <strong>Affichage &gt; Barre d'outils &gt; Barre de Favoris</strong>
 URL: "URL:"
 v2_add_another_community_palceholder: "ajouter autre communaut\xC3\xA9?"
-Title: "Fellownation : Connecte, partage et fais-toi remarquer par des professionnels."
+Title: FellowNation
 Add_: Add {what}
 Invitations_received: "Invitations received:"
 Save: Sauver
@@ -949,8 +949,8 @@ home_page_subtitle2: You can meet with other HR on FellowNation. Get interaction
 account_network_type_label: "Type de communaut\xC3\xA9:"
 location: LOCATIONfr
 signin_link: Se Connecter
-contact_sales_top_info: "<h3>Contact Sales</h3>\n\
-  <p>To discuss pricing, security, and to request additional materials, please use the form below or call <strong>888-936-7377</strong> and <strong>+1-415-796-7400.</strong> For helm request and other inquiries, please use <a href=\"#\">help section</a>.</p>\n\
+contact_sales_top_info: "<h3>Contact Sales</h3>\r\n\
+  <p>Fill the form below. One of our team member will contact you as soon as possible.</p>\r\n\
   <p>* = Required Field</p>  "
 select_file_step4: "S\xC3\xA9lectionner un fichier sur votre ordinateur ( 4MB max ) :"
 Your_network: "Votre communaut\xC3\xA9"

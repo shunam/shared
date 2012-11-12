@@ -571,7 +571,7 @@ invite: Invite
 pin_mozila_setup1: <strong>View &gt; Toolbars &gt; Bookmarks</strong>
 URL: "URL:"
 v2_add_another_community_palceholder: add another community?
-Title: Fellownation - Connect, Socialize and get noticed by professionals.
+Title: FellowNation
 Add_: Add {what}
 Invitations_received: "Invitations received:"
 Save: Save
@@ -881,8 +881,8 @@ home_page_subtitle2: You can meet with other HR on FellowNation. Get interaction
 type_question_text: Type your question here
 Official_website: "Official website:"
 signin_link: Sign in
-contact_sales_top_info: "<h3>Contact Sales</h3>\n\
-  <p>To discuss pricing, security, and to request additional materials, please use the form below or call <strong>888-936-7377</strong> and <strong>+1-415-796-7400.</strong> For helm request and other inquiries, please use <a href=\"#\">help section</a>.</p>\n\
+contact_sales_top_info: "<h3>Contact Sales</h3>\r\n\
+  <p>Fill the form below. One of our team member will contact you as soon as possible.</p>\r\n\
   <p>* = Required Field</p>  "
 location: LOCATION
 account_network_type_label: "Community type:"
@@ -910,8 +910,8 @@ SideBar_account: ACCOUNT
 sidebar_check_student: Student
 user_mine_setting: "\xE2\x80\x99s settings"
 dashboard_unsubscribe_link: Unsubscribe
-save_pictures_button: Save
 pricing_page_subtitle10: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+save_pictures_button: Save
 static_take_the_tour_link: Demonstration
 SideBar_password_tips: NOTE
 multi_answer_poll_text: This is a multi-answer poll
