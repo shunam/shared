@@ -12,7 +12,7 @@ question_mine: "{username}'S QUESTION"
 pricing_top_info: |-
   <div class="pricing-desc-box">
     <h5>For enterprises</h5>
-    <p>Include all Premium features plus: embedding, pinboards and 10 administrators.</p>
+    <p>Include all Premium features plus: embedding, stories and 10 administrators.</p>
   </div>
   <div class="pricing-desc-box">
     <h5>For demanding starters</h5>
@@ -129,7 +129,7 @@ Gender: "Gender:"
 pin: Pin
 Action_Relationship_Add_Company_Short: Add
 embed_user_auth_list_title: Selected lists
-white_page_thanks_text: "Thank you for your interest. We have sent you an email with the White Paper. Please check your mailbox  "
+white_page_thanks_text: "Thank you for your interest. We will email you with the White Paper as soon as it's available. Please check your mailbox. "
 Languages: Languages
 cooptation_admin_only_text: Only administrators
 sidebar_following_link: following
@@ -159,7 +159,7 @@ Private_message_signup_default: "Hello, my name is David. I am the founder of Fe
 all: All
 step1_5_title: Invite your contacts.
 what_wanna_ask_text: What's your question?
-pinboard: Pinboards
+pinboard: Stories
 Reply_to_this_message: Reply to this message
 VAT_number: "VAT number:"
 all_subscriptions: All subscriptions
@@ -223,7 +223,7 @@ Public_message_signup_default: "Welcome fellow! I hope you will enjoy Fellownati
 official_fellow: Congratulations, you are now officially a fellow!
 network_already_exist: Network already exist!
 EMAIL_Title: "Title:          "
-pinboard_btn_save: Save board
+pinboard_btn_save: Save story
 recently_added: Recently Added
 whats_question_text: What's the question?
 Step11_title: Are you fellows already on Fellownation?
@@ -293,7 +293,7 @@ share_poll_button: Share poll
 signup_email: "Your email address :"
 share_tab: Share
 pin_it_to_Fellownation: Pin it to FellowNation
-category: Category
+category: "Category : how do you consider yourself ?"
 static_privacy_link: Privacy
 invited_by: Invited by
 setting_comment_emails: Comment Emails
@@ -316,7 +316,7 @@ Please_enter_your_email_address_here: "Please enter your email address here and 
 Signup: Signup!
 news_limit_access: Until you confirm, you will have limited access to certain features on the website.
 pin_when_you_are: "When you are browsing the web, push the \xE2\x80\x9CPin It\xE2\x80\x9D button to pin an image"
-pinboard_admin_page_embed_title: Code to embed pinboard {pinboard_name}
+pinboard_admin_page_embed_title: Code to embed story {pinboard_name}
 Company: Company
 v2_rss_feed_error_message_name: can't be blank
 save_continue_btn: Save & Continue
@@ -380,7 +380,7 @@ signup_category: Who are you ?
 contact_comment: Comments
 Sidebar_public_who_are_we: WHAT IS FELLOWNATION?
 all_tab: All
-join_button: Join for free now!
+join_button: Join here
 Country: "Country:"
 static_company_homepage_link: Company homepage
 Show_more_link: Show more
@@ -410,7 +410,7 @@ Network: "Network:"
 feeds: Feeds
 pin_mozila_setup2: "<p class=\"ButtonInstructions\">\xE2\x86\x90&nbsp;Add this link to your Bookmarks Bar</p>"
 setting_privacy: Privacy
-header_signup: Your professional life starts here.
+header_signup: Your company has a story. Your are part of it.
 signup_link_account: Link Accounts
 setting_email: Email
 checkout_fellownation_text: Write here your message
@@ -510,9 +510,9 @@ label_left: left
 selectLanguage: Language
 follower_title: Followers
 secure_information_text: We use secure authentication, so we don't access your password at anytime.
-whitepaper_email_body_text: "Someone use this email to get fellownation.com white paper,\n\
-  if this is not You, ignore this email.\n\
-  Thanks "
+whitepaper_email_body_text: |-
+  Thank you for your interest in our White Paper. We will email you with the White Paper as soon as it's available.
+  Thank you.
 network_select_action: Action
 sidebar_messages_link: messages
 tab_network_link: Network
@@ -542,7 +542,7 @@ select_your_email: Search the services you use to discover which of your fellows
 message_must_not_blank: Message musn\'t blank !
 sidebar_private_messages: Private messages
 SideBar_subscription_desc: Submit your RSS feed to our directory to make it available to every fellows on Fellownation. This is the simplest way to spread your news.
-new_home_page_why_description: <p>Marketers cannot ignore how employee actions and communications alter brands. </p><p>Enter your contact details to receive instantly the whitepaper!</p>
+new_home_page_why_description: <p>Marketers cannot ignore how employee actions and communications alter brands. </p><p>Enter your contact details to receive soon the whitepaper!</p>
 edit_list_name: Edit list name
 inbox_link: INBOX
 v2_error_message_email_alert_subscssrib_email: Email can't be blank
@@ -559,7 +559,7 @@ Email_template_notifier_post_a_wall_message: |-
   The Fellownation Team
 Step3_title: Upload your picture profile
 delete: (delete)
-home_page_title1: "Web Marketing For Human Resources    "
+home_page_title1: Tell Your Organization's Stories
 My_account: My account
 upload_files: Upload Files
 Compose_an_offer: Job
@@ -596,7 +596,7 @@ setting_my_files: My File
 public_profile_follow: You are following <b> {username} </b>
 network_admin_rss: RSS Feed
 v2_prof_tool_tips: Well hello there. That's what Pro is all about
-pinboard_ask_delet: Do you really want to remove this pinboard?
+pinboard_ask_delet: Do you really want to remove this story?
 security_links: Security
 cooptation_services: Cooptation
 Search_result_for_header: SEARCH RESULTS FOR
@@ -663,7 +663,7 @@ Remember_me: Remember me
 Signup_check_lastname_blank: "Last name is too short: min 2 characters."
 EMAIL_Please_click_on_the_following_link: "Please click on the following link to confirm your email address and get to know the Web site:"
 step4_finish_btn: Finish
-pinboard_admin_page_title: "Allow the following people to manage and pin items onto the community's pinboards:"
+pinboard_admin_page_title: "Allow the following people to manage and pin items onto the community's stories:"
 label_first_name: First name
 pricing_page_subtitle3: Lists of members, cooptation, 2 administrators, widget, ads free and RSS feed.
 employee: Professional
@@ -691,7 +691,7 @@ From: From
 Yes_: "Yes"
 enterprice_title_text: Enterprise
 updates: Updates
-pinboard_public_view_title: Available pinboards
+pinboard_public_view_title: Available stories
 helper: Mentor
 step1: Step 1
 Choose_a_language: Choose a language
@@ -772,7 +772,7 @@ connect_with_linkedin_information: If yes, link your Linkedin account to FellowN
 DASHBOARD_MESSAGE_CREATED_BY_COMPANY_company: You have sent a {message} to {candidate_link}
 location_network: LOCATION
 save_changes_setting_button: Save Changes
-pinborad_pin_unpin: Pin/unpin it onto your available pinboards
+pinborad_pin_unpin: Pin/unpin it onto your available stories
 Signup_public_url_restricted: Username has already been taken.
 what_on_your_mind_text: What's on your mind?
 wall: WALL
@@ -816,7 +816,7 @@ invite_message_title: Leave them a message (optional)
 my_apps_label: MY APPLICATIONS
 that_is_you_label: That's you
 EMAIL_Click_here_to_view_profile_here: "Click here to view her/his profile (you might have to log in first) :"
-mention_email: mention you
+mention_email: mentioned you
 Account_owner_details: Account owner details
 SideBar_tips: Tips
 contact_btn_submit: submit
@@ -910,8 +910,8 @@ SideBar_account: ACCOUNT
 sidebar_check_student: Student
 user_mine_setting: "\xE2\x80\x99s settings"
 dashboard_unsubscribe_link: Unsubscribe
-pricing_page_subtitle10: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 save_pictures_button: Save
+pricing_page_subtitle10: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 static_take_the_tour_link: Demonstration
 SideBar_password_tips: NOTE
 multi_answer_poll_text: This is a multi-answer poll
@@ -929,7 +929,7 @@ account_network_manually_label: Your community is automatically created and avai
 embed_feed_auth_title: List of community feeds that can be embeded
 Feed_subs_country: "Feed country :"
 pin_msie_setup2: "<p class=\"ButtonInstructions\">\xE2\x86\x90&nbsp;Right-click and select \xE2\x80\x9CAdd to Favorites > Favorites Bar</p>"
-whitepapager_email_subject_title_text: Fellownation White Paper
+whitepapager_email_subject_title_text: FellowNation White Paper
 invite_fellow_text: See which of your contacts are already on FellowNation
 your_list: Your lists
 Profile_succesfully_updated: Profile succesfully updated.
@@ -955,7 +955,7 @@ Wrong_input: Wrong input
 send_private_message_label: Send a private message to
 Mobile: "Mobile:"
 shared_tab: Shared
-fellownation_notes: FellowNation is a communication platform for professional communities.
+fellownation_notes: Help your company to share its story.
 required_field: This is a required field
 tab_inbox_link: Inbox
 My_rewards: My rewards
@@ -993,8 +993,8 @@ Count_per_search: "{count} per search"
 Accept: Accept
 Place: Place
 number_of_members: <strong>{num}</strong> members
-pricing_page_subtitle1: "Include all Premium features plus: embedding, pinboards and 10 administrators."
-fellownation_short_text: FellowNation is a free and open professional network for communities.
+pricing_page_subtitle1: "Include all Premium features plus: embedding, stories and 10 administrators."
+fellownation_short_text: You too, help your company to share its story.
 menu_questions: Questions
 my_profile_picture: My Profile Picture
 check_image: Please check your image
@@ -1013,7 +1013,7 @@ breadcrumb_homepage_link: Homepage
 Contact_us: Contact Us
 directory_page_title: Fellownation Directory
 subscribe_label: SUBSCRIPTION
-pinbaord_create: Create new pinboard
+pinbaord_create: Create new story
 Email_template_notifier_my_follower_subject: "{first_name} {last_name} ({user_name}) is now following you on Fellownation"
 Email_template_activation_account: |-
   Hello, {first_name} {last_name} ({user_name}).
@@ -1029,7 +1029,7 @@ Name: "Name:"
 Read_all_link: Read all on
 submit_alert: Submit Alert
 signup_or_connect: OR
-fellownation_dashboard_text: "FellowNation is a free and open professional network for communities. Do you want to join the members of your community, ask your questions or share advice? "
+fellownation_dashboard_text: Your company has a story and you are part of it. Join now and contribute.
 questions: Questions
 dashboard_unlike_link: Unlike
 home_page_title5: For you and for the whole company. Collaborative.
@@ -1061,14 +1061,14 @@ Step4_title: Upload files
 SideBar_profile: PROFILE
 home_page_subtitle1: |-
   Improve your company's employer branding<br/>
-  and engage your employees to share their values and tell their storie
+  by engaging your employees to share their values and tell their stories
 Please_fill_out_at_least_the: Please, fill out at least the <strong>red fields</strong> first in order to continue.
 following_title: Following
 Signup_check_network: Choose a network from the list or click "Add yours" to create a new network.
 view_link: View
 you_are_not_following: You are not following
 communities_tab: Communities
-pin_note_text: "Once installed in your browser, the \xE2\x80\x9CPin It\xE2\x80\x9D button lets you grab an image from any website and add it to one of your pinboards. When you pin from a website, we automatically grab the source link so we can credit the original creator."
+pin_note_text: "Once installed in your browser, the \xE2\x80\x9CPin It\xE2\x80\x9D button lets you grab an image from any website and add it to one of your stories. When you pin from a website, we automatically grab the source link so we can credit the original creator."
 Show_more_link_question: Show more questions
 request: Requests
 If_you_did_not_request_to: If you did not request to change your password, simply ignore this mail.
@@ -1087,7 +1087,7 @@ SideBar_notice_desc: These settings control how much we notify you about various
 Signup_check_lastname: "Last name is too short: min 2 characters."
 footer_about_link: About
 deactive_account_link: deactivate my account
-pinboard_create: Create new pinboard
+pinboard_create: Create new story
 characters_left: characters left
 add_a_comment_text: "Add a comment:"
 an_update_tab: update
@@ -1229,7 +1229,7 @@ menu_network: Community
 account_menu_bar: Account
 menu_my_subscriptions: My Subscriptions
 subscribe_popular_label: Popular
-category_text: Category
+category_text: "Category : how do you consider yourself ?"
 follower_apps_label: FOLLOWERS' APPLICATIONS
 v2_home_page_sub_title: The open communication platform for professional communities.
 label_email: Email
@@ -1251,9 +1251,9 @@ mini_biography: MINI BIOGRAPHY
 premium_title_text: Premium
 account_create_network_btn: Create my community
 network_admin_or_text_title: Or send your contacts an invite to your community by email
-pinboard_name: Board name
+pinboard_name: Story name
 setting_make_my_walls_private: Make my walls private
-custom_fellow_url_text: Your custom URL
+custom_fellow_url_text: "Your custom URL : choose a username"
 save_picture_setting_button: Save Picture
 wait_for_approve_title: Congratulations, your message is now waiting for moderation.
 unpaid_warning_text: "<h2>A Feature To Meet Your Needs</h2>\r\n\
@@ -1262,11 +1262,11 @@ unpaid_warning_text: "<h2>A Feature To Meet Your Needs</h2>\r\n\
   </div>\r\n\
   <p>We offre 3 plans:</p>\r\n\
   <ul>\r\n  <li><strong>Pro plan for starters</strong>: Lists of members, cooptation, 2 administrators, widget, ads free and RSS feed.</li>\r\n  <li><strong>Premium plan for demanding starters</strong>: Includes all Pro features plus: Privacy, moderation and 5 administrators.</li>\r\n  <li><strong>Enterprise plan for enterprises:</strong> \r\n\
-  Include all Premium features plus: embedding, pinboards and 10 administrators.</li>\r\n\
+  Include all Premium features plus: embedding, stories and 10 administrators.</li>\r\n\
   </ul>\r\n\
   <p></p>\r\n\
   <div class=\"clear\"></div>    "
 fellow_updates_link: Notifications
 setting_I_am_an_student: I am an student
 hide_list_of_members: Hide our customized lists of members to non-members
-pinboard_your: Your pinboards
+pinboard_your: Your stories

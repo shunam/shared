@@ -1,22 +1,22 @@
 --- 
 Address: "Adres :"
-img_alt_go!: Ga naar!
+breadcrumb_homepage_link: Homepage
 Make_my_Profile_Public: Stel mijn profiel publiek
 Your_network: Uw netwerk
-breadcrumb_homepage_link: Homepage
+img_alt_go!: Ga naar!
 Link: "Link:"
 Email: "E-mail:"
 Please_choose_a_new_password: "Gelieve een nieuw paswoord te kiezen:"
 Add_a_picture: Voeg een beeld toe
 average: gemiddeld
-Lost_password: Paswoord vergeten
 Title: Titel
-Captcha_challenge_issued_by_server: Probleem veroorzaakt door de server
+Lost_password: Paswoord vergeten
 My_account: Mijn account
-Edit_your_profile_raquo: Wijzig uw profiel &raquo;
 General_error: Algemene fout
-Yes_: Ja
+Edit_your_profile_raquo: Wijzig uw profiel &raquo;
 Company_details: Details van het bedrijf
+Yes_: Ja
+Captcha_challenge_issued_by_server: Probleem veroorzaakt door de server
 static_candidate_homepage_link: Homepage van de kandidaat
 label_company: Bedrijf
 Search_candidate: Opzoeken
@@ -24,43 +24,44 @@ There_are_no_results_matching_your_criteria: Er zijn geen resultaten gevonden vo
 Add_your_logo: Voeg uw logo toe...
 static_company_homepage_link: Website bedrijf
 Informations: Informatie
+Your_account: Uw account
+label_password: Paswoord
 Find: Vind
 Languages: Talen
 Subject_: "Subject:"
 Name: "Naam:"
-Your_account: Uw account
-label_password: Paswoord
 Invitation_sentence_3: ""
 More_info: Meer informatie...
 Sent_to: "Verzonden : "
-Action_Relationship_Add_Company_Short: Toeveogen
 Summary: Samenvatting
 Official_website: "Offici\xC3\xABle website:"
 Education: Opleiding
+Action_Relationship_Add_Company_Short: Toeveogen
 Reply_to_: Antwoorden op {message}
 EMAIL_Dear_name: Mr/Mvr {name},
-log_out_link: Uitloggen
-Plan_name: "Naam van het plan:"
+get_whitepaper_text: Obtenir le livre blanc
 EMAIL_Complete_my_profile_now: "Vervoledig uw profiel nu : "
 Misc: Diverse
+log_out_link: Uitloggen
 Fast_and_easy: Snel en gemakkelijk
-EMAIL_Log_in_now_and_expand_your_network: Log nu in ({url}) et bouw uw netwerk op!
+Plan_name: "Naam van het plan:"
 Change?: Veranderen?
 confirmation: (bevestiging)
 Send: Verzenden
+EMAIL_Log_in_now_and_expand_your_network: Log nu in ({url}) et bouw uw netwerk op!
 img_alt_you_are_a_company!: U bent een werkgever!
 Choose_a_country: Kies een land
 Place: Plaats
 static_check_the_faq_link: Raadpleeg de FAQ
 EMAIL_invitation_accepted_subject: "{name} heeft uw uitnodiging aanvaard op het Fellownation-netwerk"
-Overview: "Overzicht:"
-For_instance: "Bijvoorbeeld:"
 EMAIL_Kind_regards: Vriendelijke groeten,
-Publish_and_promote_your_profile_on: "Publiceer en promoot uw profiel op het internet:"
+Overview: "Overzicht:"
 EMAIL_Place: "Plaats:"
+Publish_and_promote_your_profile_on: "Publiceer en promoot uw profiel op het internet:"
 Up_to_: Tot {count}
 Send_invitation: Stuur de uitnodiging
 Message: Bericht
+For_instance: "Bijvoorbeeld:"
 Change_picture: Het beeld veranderen
 EMAIL_invitation_created_subject_with_name: U bent uitgenodigd door {name}
 Don_t_care: Niet belangrijk
@@ -68,126 +69,127 @@ refuse: (weigeren)
 Locality_postal_code: "Plaats, postcode:"
 subtab_one: adas
 Request_for_a_new_password: Een nieuw paswoord aanvragen
-Search_company: "Zoeken:"
-Subscription_rate: "Tarief van het abonnement:"
 Reply_to_this_message: Op dit bericht antwoorden
 Send_a_new_message: Verstuur een nieuw bericht
+Subscription_rate: "Tarief van het abonnement:"
+Search_company: "Zoeken:"
 Company_name: "Naam van het bedrijf:"
 Invite_new_friends: Nodig nieuwe vrienden uit...
 Update_my_password: Bewerk mijn paswoord
-Enter_a_school_name: Voer een schoolnaam in
 static_contact_details_link: Contact
 From_to_: Van {from_time} tot {to_time}.
+Enter_a_school_name: Voer een schoolnaam in
 Pending_for: "In afwachting : "
 Yesterday: Gisteren
-Remember_me: Onthoud mij
-Password: "Paswoord:"
+new_home_page_why_description: "<p>Les marketers ne peuvent pas ignorer comment les actions et la communication affectent les marques.</p><p>Entrez vos coordonn\xC3\xA9es obtenir directement le livre blanc!</p>"
 From: Van
 Search_results: Resultaten van de zoekopdracht
+Remember_me: Onthoud mij
+Password: "Paswoord:"
 Add_a_location: Voeg een locatie toe
 Browse_all_our_Database: Blader doorheen ons gegevensbestand
 Your_profile: Uw profiel
 Total_results_found_showing_count: "{total} gevonden resultaten. Overzicht van de eerste {count} resultaten."
 Withdraw_invitation: Verwijder de uitnodiging
-EMAIL_Date_and_time: "Datum en uur :"
-static_about_us_link: Over ons
 Action_Relationship_Remove_Company_Short: Verwijderen
 Privacy: "Privacy:"
 Relationship_status: "Relationeel statuut:"
 tab_profile_link: Profiel
-General_Conditions: General Conditions
 EMAIL_You_can_invite_candidates_to_join: "U kan kandidaten in uw netwerk uitnodigen door te klikken op \xE2\x80\x9CToevoegen in mijn netwerk\xE2\x80\x9D. Hierdoor zal u op de hoogte gehouden worden van elke wijziging van hun profielen en zullen zij ge\xC3\xAFnformeerd worden bij wijzigingen van uw profiel of aanbiedingen. Tenslotte kan u aanbiedingen versturen naar uw netwerk of naar de resultaten van uw zoekopdracht."
-characters_left: beschikbare karakters
+General_Conditions: General Conditions
+static_about_us_link: Over ons
+EMAIL_Date_and_time: "Datum en uur :"
 Back_to_the_dashboard: Terug naar overzicht
 Gender: "Geslacht:"
 EMAIL_Update_your_Profile: "Profiel bewerken:"
-go_back: teruggaan
 What_s_this: Wat is dit?
+go_back: teruggaan
 label_email: E-mail
 Save: Opslaan
+characters_left: beschikbare karakters
 expert: expert
 Latest_activity: Recente activiteiten
 Street_and_number: "Naam en nummer:"
-HTTP_error: HTTP fout
 Create_a_Profile: Maak een profiel aan
+HTTP_error: HTTP fout
 limited: begrensd
 Unlimited: Onbegrensd
 EMAIL_Click_here_to_view_profile_here: "Klik hier om zijn profiel te zien (u zal zich misschien eerst moeten connecteren) :"
 Association: Vereniging
 Send_this_to_selected_people: Verzend dit naar de :"geselecteerde personen:"
-EMAIL_View_this_notification_on_your_dashboard: "Bekijk deze aantekening onder de link Overzicht "
 logged_in_as: Ingelogd als {name}.
+EMAIL_View_this_notification_on_your_dashboard: "Bekijk deze aantekening onder de link Overzicht "
 Accepted: "Aanvaard :"
 You_can_choose_only_one_language: U kan slechts 1 taal kiezen.
 User_details: Details van de gebruiker
 State_Province_Region_country: "Provincie, land:"
 Choose_a_language: Kies een taal
 Send_requests_to_join_my_network: Stuur een uitnodiging om mijn netwerk te vervoegen
-Sent_an_invitation_to_invitations_sent: Uitnodiging verstuurd naar {count} van uw contacten. Dank U!
-New_email_address: "Nieuw e-mailadres:"
 Full_name: "Volledige naam:"
+New_email_address: "Nieuw e-mailadres:"
 Personal_profile: Persoonlijk profiel
 Your_profile_status_was_successfully_changed: Het statuut van uw profiel werd met succes veranderd.
 cancel: annuleer
 You_must_agree_to_the_Terms: U moet akkoord gaan met de algemene gebruiksvoorwaarden
 static_privacy_link: Pivacy
-EMAIL_To_log_in_at_a_later: Om u later in te loggen gelieve uw e-mailadres "{email}" en uw paswoord in te voeren -- datgene dat u gebruikte tijdens de inschrijvingsprocedure.
+Sent_an_invitation_to_invitations_sent: Uitnodiging verstuurd naar {count} van uw contacten. Dank U!
 This_validation_code_is_invalid_Try: Deze bevestigingscode is verkeerd. Probeer een nieuwe code aan te vragen.
-Any_questions_before_you_sign_up: Bijkomende vragen voordat u inschrijft?
+EMAIL_To_log_in_at_a_later: Om u later in te loggen gelieve uw e-mailadres "{email}" en uw paswoord in te voeren -- datgene dat u gebruikte tijdens de inschrijvingsprocedure.
 EMAIL_Congratulations: Proficiat!
+Any_questions_before_you_sign_up: Bijkomende vragen voordat u inschrijft?
 static_blog_link: Blog
-You_have_received_a_new_message_from_at: U hebt een nieuw bericht ontvangen van {from} om {at}.
 Latest_search_agent_results: Laatste resultaten van de zoekopdracht
 Total_results_found: "{count} gevonden resultaten."
+You_have_received_a_new_message_from_at: U hebt een nieuw bericht ontvangen van {from} om {at}.
 EMAIL_Change_your_email_notifications: "Verander uw aantekeningen per e-mail:"
 My_rewards: Mijn beloningen
-Company_colon: "Bedrijf:"
 We_are_in_open_beta_company: ""
 h2_Please_verify_your_information_h2: <h2>Gelieve uw gegevens na te kijken:</h2>
+Company_colon: "Bedrijf:"
 Country: Land
-Account_owner_details: Details van de eigenaar van de rekening
-N_A: N/A
 Moment_colon: "Tijdstip:"
 Choose_your_URL: "Kies uw URL:"
+N_A: N/A
 Expiration: "Vervaldatum:"
+Account_owner_details: Details van de eigenaar van de rekening
 static_news_link: Actualiteiten
 Last_name: "Naam:"
 EMAIL_View_the_full_profile_of_other: "Bekijk het volledige profiel van {name} hier (u dient zich misschien eerst in te loggen):"
 Cancel: Annuleer
 Residence: "Residentie:"
-Enter_a_keyword_location_or_company: Voer en sleutelwoord in, een stad... (bv. Brussels internship)
 EMAIL_Complete_your_profile: "* Vervolledig uw profiel"
 Admin_path: "Administratieve weg:"
 Description: "Beschrijving:"
 Today: Vandaag
+Enter_a_keyword_location_or_company: Voer en sleutelwoord in, een stad... (bv. Brussels internship)
 We_could_not_find_any_user: We hebben geen gebruiker teruggevonden met dit e-mailadres. Gelieve opnieuw te proberen.
 Please_fill_out_at_least_the: Gelieve eerst ten minste <strong> de rode zones </strong> in te vullen om verder te gaan.
 There_was_in_error_in_your: Er was een fout in uw formulier, gelieve opnieuw te proberen.
-Not_a_supported_address_book: Adresboek niet ondersteund
-Please_enter_your_email_address_here: "Gelieve uw emailadres hier in te voeren en we zullen u een mail sturen met een link om uw account te activeren:"
 Target_company: Doelgerichte onderneming
+Not_a_supported_address_book: Adresboek niet ondersteund
 Actions: Acties
+Please_enter_your_email_address_here: "Gelieve uw emailadres hier in te voeren en we zullen u een mail sturen met een link om uw account te activeren:"
 Simple_and_intuitive_tools: "Simpele en intu\xC3\xAFtieve tools"
-Edit: Wijzig
 days_ago_: Sinds {count} dag(en)
 Thank_you_We_have_just_sent: |-
   Dank U. We hebben u zojuist een mail verstuurd met een link. Gelieve op deze link te klikken om een nieuw paswoord te kiezen voor uw account.<br/>
   <strong><font color="#FF0000">Raadpleeg de volgende folders, "spam" en "trash" indien u deze mail niet terugvindt. De mail zou kunnen verworpen worden door een filter!</font></strong><a href="http://www.istockcv.com/faq?locale=fr#mail_activation"><br/>
   De e-mail niet ontvangen?</a>.
 New_password: "Nieuw paswoord:"
+Edit: Wijzig
 Invitations_received: "Gekregen uitnodigingen:"
-Through_your_network: "Doorheen uw netwerk:"
 Sent: Verstuurd
+Through_your_network: "Doorheen uw netwerk:"
 of_them_: "{count} van hen"
 Profile_succesfully_updated: Profiel succesvol bijgewerkt.
 RSS_feed: RSS feed
 Thanks_for_signing_up_Please_check: Proficiat! We hebben u een mail verstuurd. Klik op de link om uw adres te bevestigen en uw account te activeren.<br/><strong><font color="#FF0000">Indien u de mail niet terugvindt moet u de mail misschien gaan opzoeken in de "spam"-sectie van uw mailbox. Het zou kunnen dat deze mail geblokkeerd werd door een filter!</font></strong><a href="http://www.istockcv.com/faq?locale=fr#mail_activation"><br/>De e-mail niet gekregen?</a>.
 Please_validate_your_new_email_address: Gelieve uw nieuw e-mailadres te bevestigen
-Birthdate: "Geboortedatum:"
-View_all: Alles bezien
 With_search_agent_results: "Via zoekopdrachten:"
 State_Province_Region: "Provincie:"
+Birthdate: "Geboortedatum:"
 Delete: Verwijder
+View_all: Alles bezien
 New_password_again: "Nieuw paswoord (opnieuw):"
 subtab_three: "123"
 Loading: Loading...
@@ -196,20 +198,20 @@ Invite_your_friends_from_your_other: |
   <br/>
   (log in op uw netwerk et selecteer vervolgens uw vrienden in de lijst)
 
-language: Taal
 Action_Relationship_Remove_Candidate_Short: Toevoegen
 or_cancel_: of {cancel_link}
+language: Taal
 Search_results_for_agent_: "R\xC3\xA9sultaten van de zoekopdracht \"{agent}\""
 No_spam_we_promise: No spam, beloofd
 Accept: Aanvaarden
 accept: (aanvaarden)
 We_are_in_open_beta_candidate: ""
 Update_your_password: Bewerk uw paswoord
-pagination_next: Volgende &raquo;
 OK_now_check_the_contacts_you: OK, gelieve nu de contacten na te kijken die u wilt uitnodigen.
-Contact: "Contact:"
+pagination_next: Volgende &raquo;
 Withdraw_presence: Aanwezigheid intrekken
 Add_: Voeg {what} toe
+Contact: "Contact:"
 Action_Relationship_Withdraw_Invitation_To_Company_Short: Verwijderen
 Your_public_URL_is: "Uw publieke URL is:"
 Email_address: "e-mailadres:"
@@ -219,21 +221,28 @@ Compose_an_offer: Job
 Location: "Locatie:"
 Company: Bedrijf
 static_privacy_policy_link: Privacy
-Unavailable: Niet beschikbaar
-Someone_requested_a_new_password_for: "Iemand heeft een nieuw paswoord aangevraagd voor uw iStockCV-account. Gelieve op deze link te klikken indien u effectief van paswoord wilt veranderen:"
+Upgrade: Upgrade
 Invitations_sent: "Verstuurde uitnodigingen:"
+Unavailable: Niet beschikbaar
 City: "Stad:"
 Your_companies: "Uw bedrijven:"
 candidate_search_with_profile_count_: "{search_name} (pluralize{{profile_count}, profiel, profielen})"
 First_login_create_your_profile: "Eerste verbinding: maak uw profiel aan"
-Upgrade: Upgrade
+Someone_requested_a_new_password_for: "Iemand heeft een nieuw paswoord aangevraagd voor uw iStockCV-account. Gelieve op deze link te klikken indien u effectief van paswoord wilt veranderen:"
 Your_email?: Uw e-mail?
-or: of
-Posted_time_ago_: Vezonden sinds {time}
 Network: "Netwerk:"
-Submitting: Aanvraag lopend...
-tab_dashboard_link: Overzicht
+Posted_time_ago_: Vezonden sinds {time}
+or: of
 Company_logo: Logo
+tab_dashboard_link: Overzicht
+Submitting: Aanvraag lopend...
+tab_settings_link: Parameters
+Company_description: Beschrijving van de onderneming
+pagination_previous: "&laquo; Vorige"
+candidates_: pluralize{{count}, kandidaat, kandidaten}
+need_some_help?: Hulp nodig?
+Add: Toevoegen
+label_first_name: Voornaam
 pricing_page_footer_info: "<div class=\"eight columns heading-trial\">\r\n  <h4>Your 30 Day Free Trial Expire on oct 13</h4>\r\n  <p>When your free trial expires you can upgrade, downgrade or close your account. If you don't do anything your account will be automatically downgraded to FellowNation Free \xE2\x80\x93 which is always free. </p>\r\n\
   </div>\r\n\
   \r\n\
@@ -242,84 +251,78 @@ pricing_page_footer_info: "<div class=\"eight columns heading-trial\">\r\n  <h4>
   \r\n\
   <div class=\"eight columns agreement-checkbox nice radius error\">\r\n  <label>\r\n      <input id=\"accept_agreements\" class=\"error\" name=\"accept_agreements\" type=\"checkbox\" value=\"1\">\r\n      <b>I accept FellowNation's Terms and Conditions</b>\r\n  </label>\r\n\
   </div>"
-label_first_name: Voornaam
-Add: Toevoegen
-need_some_help?: Hulp nodig?
-candidates_: pluralize{{count}, kandidaat, kandidaten}
-pagination_previous: "&laquo; Vorige"
-Company_description: Beschrijving van de onderneming
-tab_settings_link: Parameters
-Postal_code: "Postcode:"
-Logged_in_successfully: Met succes verbonden
 URL: "URL:"
-No_thanks_Bring_me_to_my: Nee dank U. Ik wens naar mijn profiel te gaan.
-EMAIL_Your_recommended_friend_has_accepted_your_invitation: Uw aanbevolen vriend {name} heet uw uitnodiging aanvaard.
-All_fields_marked_with_span_class: Al de met "<span class=\"req-sign\">*</span> gemarkeerde velden zijn verplicht
-Search_agent_name: "Naam van de zoekopdracht:"
-Dashboard: Overzicht
+Logged_in_successfully: Met succes verbonden
+Postal_code: "Postcode:"
 label_last_name: Naam
-tab_network_link: Netwerk
-Perfect!: Perfect!
-Sign_up_now!: Sluit u aan in 10 seconden!
-Or_enter_your_friends_email_addresses: "Of, voer de mails handmatig in gescheiden door een komma:"
-We_don_t_store_your_login: "PS: we slaan uw login niet op, uw paswoord wordt gesecuriseerd en we sturen u nooit mails zonder uw toestemming."
+Dashboard: Overzicht
+Search_agent_name: "Naam van de zoekopdracht:"
+All_fields_marked_with_span_class: Al de met "<span class=\"req-sign\">*</span> gemarkeerde velden zijn verplicht
+EMAIL_Your_recommended_friend_has_accepted_your_invitation: Uw aanbevolen vriend {name} heet uw uitnodiging aanvaard.
+No_thanks_Bring_me_to_my: Nee dank U. Ik wens naar mijn profiel te gaan.
 Contact_person: "Contactpersoon:"
+We_don_t_store_your_login: "PS: we slaan uw login niet op, uw paswoord wordt gesecuriseerd en we sturen u nooit mails zonder uw toestemming."
+Or_enter_your_friends_email_addresses: "Of, voer de mails handmatig in gescheiden door een komma:"
+Sign_up_now!: Sluit u aan in 10 seconden!
+Perfect!: Perfect!
+tab_network_link: Netwerk
 static_take_the_tour_link: Ontdekking
-You_can_reply_to_this_message: "U kan op dit bericht antwoorden door volgende link te klikken:"
-DASHBOARD_MESSAGE_CREATED_BY_COMPANY_company: U hebt een {message} verstuurd naar {candidate_link}
-Bad_user_name_or_password: Verkeerde registreringsnaam of paswoord
-Interested: Interesse?
 Mini_feeds: "Mini-nieuws:"
-Note_If_you_change_your_custom: "PS: Indien u uw persoonlijke URL verandert, zal u oude UTL niet geldig meer zijn."
-EMAIL_Please_click_on_the_following_link: "Gelieve op de volgende link te klikken om uw e-mailadres te bevestigen en om onze website te ontdekken:"
-Your_account_has_been_reactivated_with: Uw account werd opnieuw geactiveerd met een nieuwe mail {email}
-_pending_: "(pending: {email})"
-EMAIL_Title: Titel
+Interested: Interesse?
+Bad_user_name_or_password: Verkeerde registreringsnaam of paswoord
+DASHBOARD_MESSAGE_CREATED_BY_COMPANY_company: U hebt een {message} verstuurd naar {candidate_link}
+You_can_reply_to_this_message: "U kan op dit bericht antwoorden door volgende link te klikken:"
 Please_create_your_profile_first: Gelieve eerst uw profiel aan te maken!
-Action_Relationship_Add_Candidate_Short: Toevoegen
-Anywhere: Eender waar
-Refuse: Weigeren
-static_contact_us_link: Contacteer ons
+EMAIL_Title: Titel
+_pending_: "(pending: {email})"
+Your_account_has_been_reactivated_with: Uw account werd opnieuw geactiveerd met een nieuwe mail {email}
+EMAIL_Please_click_on_the_following_link: "Gelieve op de volgende link te klikken om uw e-mailadres te bevestigen en om onze website te ontdekken:"
+Note_If_you_change_your_custom: "PS: Indien u uw persoonlijke URL verandert, zal u oude UTL niet geldig meer zijn."
 Moment: Tijdstip
-Incorrect_email_password_combination: Onbestaande combinatie email/paswoord
-Log_in: Inloggen
-Create_search_agents: "Cre\xC3\xABer een zoekopdracht"
-Website: "Website:"
-label_password_confirmation: Bevestiging van paswoord
+static_contact_us_link: Contacteer ons
+Refuse: Weigeren
+Anywhere: Eender waar
+Action_Relationship_Add_Candidate_Short: Toevoegen
 You_have_no_messages_for_the: U hebt momenteel geen berichten.
-No_: Nee
-static_frequently_asked_questions_link: Vaak gestelde vragen
-Invited_by: Uitgenodigd door
-Signup: Schrijf U in!
-Sorry_this_activation_code_is_not: Soory, dit is een verkeerde activatiecode.
-Contact_information: Contactinformatie
+label_password_confirmation: Bevestiging van paswoord
+Website: "Website:"
+Create_search_agents: "Cre\xC3\xABer een zoekopdracht"
+Log_in: Inloggen
+Incorrect_email_password_combination: Onbestaande combinatie email/paswoord
 My_public_profile: Mijn publiek profiel
-static_press_information_link: Pers
-Wrong_input: Verkeerde invoer
-If_you_did_not_request_to: Indien u een wijziging van uw paswoord niet hebt aangevraagd kan u deze mail gewoon negeren.
-Search_results_for_query_: pluralize{{count}, resultaat, resultaten} voor de aanvraag "{query}"
-Password_lost?: Paswoord vergeten?
-EMAIL_The_more_information_you_put_into_company: Hoe meer informatie uw profiel bevat, hoe gemakkelijker kandidaten u kunnen terugvinden en hoe beter ze u zullen kennen.
+Contact_information: Contactinformatie
+Sorry_this_activation_code_is_not: Soory, dit is een verkeerde activatiecode.
+Signup: Schrijf U in!
+Invited_by: Uitgenodigd door
+static_frequently_asked_questions_link: Vaak gestelde vragen
+No_: Nee
+new_home_page_why_fellownation: "Pourquoi le marketing \xC3\xA9choue \xC3\xA0 l'image de marque employeur!"
 static_careers_and_jobs_link: "Carri\xC3\xA8res &amp; jobs"
-CV_Now: Actuele
-Advanced_search: Geavanceerde zoekopdracht
-Discard: Verwerpen
-Action_Relationship_Add_Company: Nodig <strong>{company}</strong> uit in mijn netwerk
-Action_Relationship_Withdraw_Invitation_To_Candidate_Short: Verwijder
+EMAIL_The_more_information_you_put_into_company: Hoe meer informatie uw profiel bevat, hoe gemakkelijker kandidaten u kunnen terugvinden en hoe beter ze u zullen kennen.
+Password_lost?: Paswoord vergeten?
+Search_results_for_query_: pluralize{{count}, resultaat, resultaten} voor de aanvraag "{query}"
+If_you_did_not_request_to: Indien u een wijziging van uw paswoord niet hebt aangevraagd kan u deze mail gewoon negeren.
+Wrong_input: Verkeerde invoer
+static_press_information_link: Pers
 Delete_Picture: Verwijder beeld
-tab_inbox_link: Berichten
-Nationality: "Nationaliteit:"
+Action_Relationship_Withdraw_Invitation_To_Candidate_Short: Verwijder
+Action_Relationship_Add_Company: Nodig <strong>{company}</strong> uit in mijn netwerk
+Discard: Verwerpen
+Advanced_search: Geavanceerde zoekopdracht
+CV_Now: Actuele
 Mobile: "GSM:"
-Count_per_search: "{count} per zoekopdracht"
-Pending: "Lopend :"
-VAT_number: "BTW-nummer:"
-To: Tot
+Nationality: "Nationaliteit:"
+tab_inbox_link: Berichten
 Accepted_by: "Aanvaard : "
-Archives: Archief
-You_can_do_better: Je kan zeker beter!
-message: bericht
-Select_everyone: Alles selecteren
-We_may_but_have_no_obligation: "We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party\xE2\x80\x99s intellectual property or these Terms of Service."
-EMAIL_Company_name: Naam van het bedrijf
-Enter_a_company_name_location_industry: Voer een sleutelwoord in, bv bedrijf, plaats, sector,...
+To: Tot
+VAT_number: "BTW-nummer:"
+Pending: "Lopend :"
+Count_per_search: "{count} per zoekopdracht"
 By_searching: Via zoekmachine
+Enter_a_company_name_location_industry: Voer een sleutelwoord in, bv bedrijf, plaats, sector,...
+EMAIL_Company_name: Naam van het bedrijf
+We_may_but_have_no_obligation: "We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party\xE2\x80\x99s intellectual property or these Terms of Service."
+Select_everyone: Alles selecteren
+message: bericht
+You_can_do_better: Je kan zeker beter!
+Archives: Archief
