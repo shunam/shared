@@ -53,6 +53,7 @@ public_profile_button_signup: Sign Up
 photo_successfully_deleted: Photo successfully deleted!
 Archives: Archives
 plural_like_this: like this
+plural_unlike_this: Dislike this
 To: To
 what_wanna_ask_text: What's your question?
 Signup_check_network_blank: Choose a community from the list or click "Add yours" to create a new community .
@@ -981,6 +982,7 @@ pricing_plan: Pricing plan
 public_profile_follow: You are following <b> {username} </b>
 subscribe_feed_industry: "Feed industry:"
 he_she_like_this: likes this
+he_she_unlike_this: dislike this
 Choose_a_language: Choose a language
 Overview: "Overview:"
 Password: "Password:"
@@ -1212,6 +1214,7 @@ setting_I_am_an_student: I am an student
 others_network_followers: "{username} <span id='following_size'>{count}</span> FOLLOWERS"
 sidebar_check_pro: Pro
 you_like_this: like this
+you_unlike_this: dislike this
 user_name_please_use: User name only use letters, numbers and no spaces
 select_file_4_mb: "Select a file on your computer ( 4MB max ) :"
 secure_information_text: We use secure authentication, so we don't access your password at anytime.
@@ -1272,3 +1275,4 @@ your_message: Your Messages
 home_page_subtitle3: "99possums adds HR tool to any type of HR community. Pick an app to fit your specific needs and start to interaction with other HR. Apps come with social activity streams: comments, likes, edits and status updates. You use them to collaborate with your HR community, other HR, other people, and within functions like sales, recruiting, marketing or any other area of your business."
 invite_friends_info: "<b><i>Don't worry</i></b>: we won't share your contacts with anybody or email anyone without your consent."
 Relationship_status: "Relationship status:"
+unlik_this_content: "Dislike"
